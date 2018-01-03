@@ -1,0 +1,60 @@
+
+-- combat
+
+*** Armor Expert - Reduce your armor check penalty by 1. 
+
+****  Defender of the Society			Fighter		Society			You gain a +1 trait bonus to Armor Class when wearing medium or heavy armor.
+
+Resilient								You gain a +1 trait bonus on Fortitude saves.
+
+Threatening Defender								When you use Combat Expertise, reduce the number you subtract from your melee attack rolls by 1.
+(combat expertise would be -1 hit +2 AC)
+
+* Deft Dodger - +1 to Reflex. 
+
+Reactionary - +2 bonus to Initiative 
+
+
+-- faith
+
+* Birthmark - +2 bonus on saves vs. charm and compulsion 
+
+Called								Once per day upon rolling a natural 1 on an attack roll, you may reroll the die and take the second result instead.
+
+Disdainful Defender								You gain a +2 trait bonus on all Will saves you attempt against divine spells. 
+
+History of Heresy - +1 bonus to saves vs divine 
+
+Focused Disciple								You gain a +2 trait bonus on saving throws against charm and compulsion effects.
+
+******** Indomitable Faith								You gain a +1 trait bonus on Will saving throws.
+
+Principled								You take a –2 penalty on Bluff checks and gain a +2 trait bonus on saving throws against charm, compulsion, and emotion effects.
+
+
+-- social
+
+Contagious Mettle								If you follow this code, you gain a +1 trait bonus on Will saving throws against fear. In addition, any allies adjacent to you receive a +1 morale bonus on Will saving throws against fear.
+
+Grief-Filled								You gain a +2 trait bonus on all saving throws against emotion spells and effects.
+
+Life of Toil								You gain a +1 trait bonus on Fortitude saves.
+
+-- regional
+
+Secret Revolutionary (Cheliax) - +1 bonus on Will saves against mind-affecting effects, and on Fortitude saves against drugs or poisons.
+
+********** Freed Slave1								You gain a +1 trait bonus on Will saving throws.
+
+
+-- religion
+
+** Lover of the Law (Abadar) - +1 bonus on saves vs. charm and compulsion spells, and may make a new save with an additional +1 bonus (for a total of +2) if directed to act against the law. 
+
+Strong Willed (Cayden Cailean) - +2 bonus on saving throws against charm and compulsion effects. 
+
+Purity of Faith (Iomedae) - +1 bonus on all Will saves and a +1 bonus on all saving throws made against spells and effects originating from an outsider with the evil subtype.
+
+
+
+
