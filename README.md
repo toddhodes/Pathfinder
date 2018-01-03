@@ -1,2 +1,1 @@
-# Pathfinder
-Pathfinder notes
+# Pathfinder notes
