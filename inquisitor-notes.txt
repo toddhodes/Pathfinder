@@ -1,0 +1,251 @@
+---
+http://paizo.com/threads/rzs2p7uk?Intimidate-Focused-Inquisitor-Viable
+http://paizo.com/threads/rzs2lb6q?Help-with-optimizing-an-melee-inquisitor
+
+
+** basics
+
+judgements: 4 combats/day  (1, +1@4/7/10...)
+ fast heal 5 (1 + lvl/3)
+ +5 damage   (1 + lvl/3)
+ resist 10   (2 + 2*lvl/3)
+ +3 hit      (1 + lvl/5; x2 critical confirm @10) 
+ +3 AC       (1 + lvl/5; x2 against critical confirms @10)
+ DR 3/evil   (1 + lvl/5)
+ +3 save     (1 + lvl/5; x2 curses, diseases, and poison @10)
+ weapon counts as magic + good + adamantine (DR)
+
+bane: rounds/level
+
+
+** equipment
+
+- weapon (+1 2k, +2 8k, +3 18k, +4 32k)
+  cruel - strike a shaken -> sicken; kill -> +5HP 10hours
+  ominious - +enh inimidate; critical -> shaken
+  keen - 17-20 crit
+  ghost touch - not 50% dmg incorporeal
+  holy (+2): +2d6 dmg against evil alignment creatures
+
+- armor (+1 1k, +2 4k, +3 9k, +4 16k)
+Breastplate (agile)  400 gp   +6 AC, +3 max Dex, -4 penalty / -1 climb/jump
+  * masterwork: -1 check penalty
+  * mithral: +2 DEX, -3 check, +4k medium
+  * Armor Ointment: 30 gp: -1 check penalty (max -1)
+  Competance skill bonus = bonus^2 x 100.
+  comfort: -1 check penalty, 5k
+  Steelbone Frame: 6k, -2 check penalty, +10' mv 3/day
+  ghost touch: not ignored by incorporeal
+  
+- other
+  Amulet of Natural Armor:  +1 AC 2k, +2 8k (enhan natural armor)
+  Ring of Protection: 2k +1 AC, 8k +2 (deflect)
+  Cape of the Swashbuckler 6.5k, +1 AC (dodge), +2 CHA.
+  Cloak or resistance: +1 1k, +2 4k, +3 9k, +4 16k (resist)
+  Boots, Daredevil Softpaws: +5 moving through treatened; +2 hit if success 1.4k
+  Boots, elvenkind: +5 acro 2.5k
+  Ioun: Dusty Rose Prism Ioun stone:  5k, +1 AC (insight)
+  Ioun: Deep Red Sphere ioun stone: +2 DEX (enhancement), 8k
+  Ioun: Flawed Onyx Rhomboid Ioun Stone: +2 CON, STACKS, 16k
+  Ioun: Cracked Pale Green Prism: +1 saves (competence), 4k
+  Ioun: Pink Rhomboid: +2 CON (enh), 8k
+  # Jingasa of the Fortunate Soldier: +1 luck AC, 5K GP (+2 w/ trait) & 1/day critical negate 
+
++ 12th lvl | 30k buy  +12HP, +2/+1 +2AC | 35k buy: +12HP, +0/+2d6, +1AC
+  belt +2/+2 -> +2/+2/+2, 6k 
+  armor +2 -> +3, 5k
+  weapon +2 -> +3, 10k  (+2 holy, 24k)
+  stone +1AC, 5k
+  stone +1 attack, 4k
+
+
+** feats
+
+* power attack 
+ * furious focus: no power attack penalty
+ -> cornugon smash: Power Attack hit -> free Intimidate to demoralize 
+   -> hurtful: Intimidate success -> swift melee attack
+   -> dreadful carnage (+11 BAB): kill -> 30' intimidate (demoralize)
+dodge : +1 AC
+toughness : +3 HP -> +lvl HP
+Combat Expertise (Int 13): –1 hit / +1 AC (1+ N per 4 BAB)
+Intimidating Prowess : Add Strength to Intimidate in addition to Charisma 
+Extended Bane: +WIS rounds
+Improved Monster Lore : identify creatures +1/2 level 
+Boon companion : full progression druid pet, get at 5th lvl
+Weapon Focus: +1 hit  
+ -> dazzling display: intimidate 30' (full round)
+   -> Shatter Defenses: hit shaken -> flat-footed
+     -> deadly stroke: hit stunned/flat-footed -> 2x dmg
+   -> gory finish: kill -> 30' intimidate
+Antagonize: creature must attack you
+Judgment Surge : Once per day, treat class level for judgment +3 levels
+Improved Critical (BAB +8): double crit range
+Heavy armor proficiency (- Stalwart 11th lvl needs mithral!)
+Leaping Strike (Acro5): Acrobatics check + charge; 16/24DC, hit -> critical threat.
+Nimble Moves: Ignore 5 feet of difficult terrain when you move   
+Martial Focus: +1 dmg for weapons from weapon group
+Lunge: increase reach 5', -2AC
+Instant Judgment: immediate action to pronounce or change judgment.
+Improved Initiative — +4 initiative 
+Critical Focus: (BAB+9)
+ -> ???
+Combat Reflexes: additional AOO
+Blind-fight: reroll concealment misses, invisibile attacker has no advantage
+Additional Traits: +2 traits
+
+Merciful Bane: non-lethal dmg @ no penalty
+ ->  ???
+
+
+TW: Outflank : +4 when flanking
+TW: Precise Strike : +1d6 when flanking
+TW: Gang up (Int 13, Combat Expertise): considered flanking if two allies threatening 
+TW: Shielded Caster (Teamwork): +4 on concentration checks.
+TW: Paired Opportunists: +4 on attacks of opportunity 
+    TW: Amplified Rage : raging adjacent ally or flanking, Strength and Constitution +4
+    -> TW: Warleader's Rage
+
+1: Cavalier: Power Attack; Weapon Focus
+2: Cavalier: Dazzling Display
+3: Furious Focus 
+4: 5: Intimidating Prowess
+6: 7: Cornugon Smash
+8: 9: Shatter Defenses
+10: 11: Antagonize
+12: 13: Persuasive
+14: 15: Dreadful Carnage
+
+
+- 2 level dip into Cavalier 
+  - Gendarme :: 1st lvl: +Power attack
+  - Order of the Cockatrice Cavalier  
+       :: 2nd lvl: +Dazzling Display 
+       :: +2 morale attack vs shaken
+  - Heavy armor pro
+- (?) lvl in fighter for heavy armor + BAB + 1st lvl power attack??
+
+
+** spells
+
+0:
+resistance +1save
+detect magic
+read magic
+1:
+cure light
+true strike +20hit
+Shield of Faith +2 AC
+Divine favor +2/+2 (+3/+3 w/trait)
+Protection from evil: immediate re-save, +2 AC and +2 saves
+Recharge Innate Magic: regain alter self
+
+2:
+Blistering Invective: intimidate + catch fire
+Litany of Defense: 2x armor enhan bonus @ SWIFT action, 1round
+Delay pain: lvl hours
+Hold Person: 100' + 10*lvl; lvl rounds (will save)
+Align Weapon: lvl minutes
+Brow Gasher: lvl/2 bleed & -1 cumulative hit per round; @ -3 20% concel; @ -5 blind (will save)
+Instrument of Agony: hit creature, they fail will save -> d4+1 rounds nauseated (single move/turn)
+
+3:
+Agonizing Rebuke: 2d6 dmg each attack attempt they make
+Keen Edge: 10 min/lvl, double crit range
+Righteous Vigor: +1 hit for each hit & +d8 tmp HP (max 20)
+Heroism: +2 hit, saves, and skill - morale @ 10 min/lvl
+Searing Light: range touch @ 5d8; undead 10d6, (10d8 light vulnerable)
+Align Weapon, Communal - lvl minutes
+Dispel Magic
+Prayer: round/lvl, +1/+1/+1/+1 luck (+2/trait), -1 enemies
+Cure serious: 3d8 + lvl(<15)
+Battle Trance - +d6+lvl HP, +4 saves mind-effecting, fight on to -CON (effective d6+7+CON-1 =~+25 HP) / -4 Int
+Ward the Faithful: 10 min/lvl, +3 AC & saves
+Terrible Remorse: monster hits self
+
+4:
+Divine Power: +lvl/3 hit/dmg/STR (luck -> +4), +lvl tmp HP, extra attack on full attack
+Stoneskin: DR 10/adamantine, 10min/lvl
+Forceful Strike: SWIFT +10d4 damage, bull rush @ CMB+lvl (Fort save)
+Holy Smite: 20' burst dmg 5d8 @ 10' + 10*lvl; 10d6 evil outsider; blind 1rnd 
+Invisibility, Greater: lvl rounds
+Judgment Light: 30' judgement effect for each active (+2 AC sacred / DR3 to allies / 4d8dmg+shaken)
+Hold Monster
+Cure Critical: 4d8 + lvl
+Litany of sight: SWIFT see invis 1r
+Tough crowd: 120min, everyone +4 save next enchantment
+Spell Immunity: immune 3 spells <4th
+Shared Wrath: +3/+3 and improved crit (1 min)
+Persistent Vigor: re-save poison/disease + FH2 + no bleed/sick/naus
+Neutralize poison
+
+5:
+Disrupting Weapon: undead of HD < caster lvl: Will save or destroyed (lvl rounds)
+Banishment: lvl*2 HD extraplanar creatures banished (+2 DC & +1 check presenting object)
+Unwilling Shield: +1 AC +1 save (luck), share HP damage with target
+Decapitate: IMMEDIATE shashing crit -> +4d6 dmg & save or +1 crit level
+
+
+** domains
+
+Animal.  Feather
+- Fly class skill.  maneuverability +1 step 
+- Animal Companion (Ex): 4th level, gain animal companion. 
+- Eyes of the Hawk (Ex): Perception checks + 1/2 your cleric level 
+- if surprise +2 Initiative 
+Liberation
+- freedom of movement, lvl rounds/day
+- 8th lvl: 30' aura no confuse/grapple/paralyze/..
+ Freedom (sub Liberation)
+- touch person, re-save versus effect 3+WIS/day
+Strength. Resolve. 
+- +1/2 your level to melee once; 3+WIS/day (NOT SELF
+- 8th lvl, temp HP lvl+WIS @ 20' for 1min
+Destruction. Rage
+- + lvl/2 dmg
+- rage
+
+
+** traits
+
+Fates Favored (faith) : give luck bonus, add +1
+Paragon of Speed (region) : +2 Initiative 
+Reactionary (combat) : +2 initiative 
+x Threatening Defender: Combat Expertise, +1 melee attack -- BUT combat expert requires int13
+Tactician: +1 initiative, & AoO +2 attack 1/day
+
+
+** race
+
+option in the APG : sacrifice your favored class bonus to get a free spell known
+
+Half-orc: 
+- proficient with greataxe, falchion, orc
+- favored class + 1/2 per level to knowledge skills & intimidate
+- +2 to intimidate 
+- trait, Sacred Tattoo: +1 luck bonus on all saving throws. 
+
+
+
+** gods
+
+Gorum (Destruction, Glory, and War Domains, Greatsword)
+Zursvaater (War and Trickery Domains, Greatsword)
+Shelyn (Protection and Luck Domains, Glaive) good melee/reach option 
+Sarenrae: scimitar, great melee option, high crit range
+: falcion : crit range
+Uskyeria : Animal, Good, Repose, Strength Agathion, Feather, Ferocity, Fur : scimitar
+Gwaeron Windstrom : animal : greatsword : any good : 
+  Tracker who Never Goes Astray 
+  Symbol   White star and brown pawprint[2]
+  Domains  Animals, Good, Knowledge, Plants, Travel
+  Worshipers  Druids, rangers, troll hunters
+  Favored weapon Flameheart (greatsword)
+
+ http://home.comcast.net/~ftm3/JHtB/FavoredWeapons.html
+ http://archivesofnethys.com/DomainDisplay.aspx?ItemName=Liberation
+
+Arshea: NG, flail (? Flail, Heavy,  1d10  19-20/x2)
+  http://archivesofnethys.com/DeityDisplay.aspx?ItemName=Arshea
+Milani: CG, morningstar (1d8, 20/x2)
+

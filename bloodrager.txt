@@ -1,0 +1,265 @@
+
+------------
+ Archetypes
+------------
+
+Primalist: 
+ choose 2 rage powers instead of bloodline power (4th/8/12/16/20)
+
+Spelleater: no dodge or DR
+ 2: fast heal 1; 
+ 7: FH2; 
+ 10: FH3, ...
+
+Ancestral Harbinger: no dodges or bloodline feats 
+ 2/6/12/18: spiritual weapon / summon nature's ally II/VI / spirit ally (1 + lvl-2/4 /day)
+ 5/8/11/14: summon monster I/II/III/IV bonus spells; rage bonuses
+
+Greenrager: no blood sanctuary, no bloodline feats 6/9
+ 3: woodland stride
+ 6,7,10,13: summon nature's ally I/II/III/IV
+ 9: allies +4 STR/CON
+ 11: allies +6 STR/CON
+
+Metamagic Rager: 
+ 5: Meta-Rage: apply metamagic feat (cost 2*spell-lvl rage rounds)
+ 6,9,12,..: can select metamagic feat instead
+
+Crossblooded: -2 will, no +2 will on rage
+ Destined/Elemental, Destined/Aberrant
+
+
+------------
+ Fast Healer via Fighter level dip:
+------------
+
+Fighter –> Fighter Archetypes -> Unbreakable
+ * Tough as Nails: gains Endurance and Diehard; replaces 1st-level bonus feat
+
+feat and ability plan:
+1: Power attack, Raging Vitality (raging Con+2, unconcious still rage)
+2: --> FH1  (8 rounds)
+3: lvl2 bloodrager, lvl1 Unbreakable Fighter: Endurance, Diehard, Fast Heal 
+   raging CON +6 (15+6=21/+5 --> FH3)  (8 rounds)
+4: +1 CON     --> 16+6=22/+6 --> FH4   (11 rounds)
+
+
+------------
+ Bloodline
+------------
+
+Destined
+1: Destined Strike - 3x/day free - +lvl/2 attack 
+4: Fated Bloodrager - +lvl/4 AC & saving throws
+8: Certain Strike - reroll attack (1/rage)
+12: defy death: DC20 -> 1HP not dead
+16: confirm crits; only 20 confirms me
+
+Aberrant 
+1: Staggering Strike: critical hit -> Fortitude or staggered 1 round. 
+4: Abnormal Reach - reach +5'
+
+Elemental (Air) 
+1: Elemental Strikes: 3x/day swift +1d6 dmg
+4: Elemental Resistance: energy resistance 10 
+8: Elemental Movement (Su): fly 60' or +30' move
+
+Arcane:
+1: Disruptive Bloodrage - DC to cast defensively + 2 for threatened 
+4: Arcane Bloodrage - blur, protection from arrows, resist energy, or spider climb
+8: Greater Arcane Bloodrage - displacement or haste 
+12: Caster's Scourge - +DEX AoO spellcasters
+
+http://rpgbot.net/pathfinder/characters/classes/bloodrager/bloodlines.php
+http://www.giantitp.com/forums/showthread.php?377753-CTP-s-Guide-to-the-Bloodrager
+
+------------
+ Race
+------------
+
+human "Heart of the Fields":
+- +2 any ability
+- bonus feat
+- +lvl/2 one Craft/Profession
+- 1/day ignore fatigued or exhausted
+* NO +1 skill/lvl - racial trait replaces "skilled"
+
+Tiefling 
+Demon-Spawn (Pitborn)      +2 Str, +2 Cha, –2 Int   Disable Device, Perception shatter
+Kyton-Spawn (Shackleborn)  +2 Con, +2 Cha, –2 Wis   Escape Artist, Intimidate  web
+
+
+------------
+ Feats
+------------
+
+1: Power attack, Raging Vitality
+3: Furious Focus
+5: Endurance
+6: Diehard, Fast Heal (retrain Furious Focus)
+7:
+
+1: power attack
+1: Raging Vitality: raging Con+2, unconcious still rage
+3: Furious Focus - no Power Attack negative
+3/5: arcane strike  - +1 + lvl/5 dmg @swift
+ -> Riving Strike - damage -> -2 spell saves
+5/7: blooded arcane strike - no swift to apply arcane
+7: Lunge: +5' reach @ -2AC
+12: Raging Brutality: +CON damage (*1.5 2H)
+12: Come and Get Me 
+Extra rage: +6 rounds
+Eldritch Heritage - get sorcerer bloodline power
+  -> 11: Improved Eldritch Heritage: 9th lvl bloodline power (+2 STR -> +4 @13th)
+Iron Will - +2 will
+Weapon Focus - +1 hit
+Combat Reflexes
+Rage Casting: trade Nd6 damage for +N spell DC  
+Disruptive: +4 spell DC 
+Improved Drag -> Greater Drag
+6: Endurance
+  -> 9: Diehard
+    -> Fast Healer: magical healing +CON/2
+
+1: Power attack, Raging Vitality
+3: Furious Focus
+5: Arcane Strike
+6: Endurance, Diehard, Fast Heal (retrain Furious Focus, Arcane Strike)
+7:
+
+1: Endurance, Die hard
+3: Fast heal
+5: Raging Vitality
+6: Power attack (retrain swap)
+7: Arcane Strike
+9: Combat Reflexes, Furious Focus (retrain)
+
+------------
+ Rage Power
+------------
+
+Lesser Celestial Totem: spells cure +CL 
+ -> 8: Celestial Totem: invisibility purge
+   -> 12: Greater Celestial Totem: Spell Resist 11 + lvl
+Lesser beast totem: two claw attacks @ 1d6+STR
+ -> 6: Beast Totem: +1 + lvl/4s AC
+   -> 10: greater beast totem: pounce -- full attack w/ charge. claws +1d8+STR/x3
+Superstition: +2 + lvl/4 saves vs spells
+ -> witch hunter: +1 + lvl/4 dmg vs casters/spell-likes
+   -> 6: Spell Sunder: turn off spells
+6: Ground Breaker: create difficult terrain, knock prone
+  -> 8: +5'
+8: Increased Damage Reduction: +1/— DR
+8: Unexpected Strike: AoO foe in threatened square (1/rage)
+8: Clear Mind: Reroll Will Save (1/rage)
+10: Eater of Magic: second chance at a saving throw (1/rage), +CL tmp HP
+4: Renewed Vigor: heal (lvl/4)d8 + CON (1/day)
+  -> 6: Regenerative Vigor: fast heal lvl/6
+12: Come and get me: they attack against at +4/+4 -> free AoO prior
+
+Reckless Abandon: –1-lvl/4 AC, +1+lvl/4 attack
+guarded stance - +1+lvl/6 AC dodge (move-action:CON/rounds)
+surprise accuracy +1 + lvl/4 attack swift (1/rage) 
+powerful blow +1 + lvl/4 dmg swift (1/rage)
+ -> 8: Crippling Blow - lvl/4 STR/DEX damage
+Roused Anger: enter a rage even if fatigued; remain immune to fatigued. rage ends -> exhausted 
+
+------------
+ Traits
+------------
+
+- (SD campaign) Optimistic Gambler: morale bonuses persist 1d4 rounds longer 
+- Fate's Favored: +1 to luck bonuses (for 4: Fated Bloodrager +1 AC and saves )
+
+- Indomininatable: +1 Will
+- Reactionary: +2 initiative
+- (SD campaign) Into Enemy Territory: +1 Will @ choose eccentric friend (pick another PC) 
+
+------------
+ Variant Multi-class Paladin
+------------
+
+1: paladin's code, aura of good.
+3: Detect Evil
+7: Lay on Hands: lvl/2 per day, ((lvl-4)/2)d6
+11: Smite Evil: smite evil once per day as lvl–4.
+15: Mercy: one 3rd-level mercy 
+19: Divine Bond
+
+
+------------
+ Equipment
+------------
+Adaptive composite longbow +1 - uses strength rating equal to wielder's - 3k
+
+wand of shield
+wand of Infernal Healing
+wand of enlarge person
++1 furious (+3 when raging)
+
+ring of evasion
+Ring of Ancestral Blood Magic - 3 free spells @ rage rounds - 4k
+Runestone of Power - cast 1st level spell / day - 2k
+
+Ring of Vengeful Blood Magic 
+Ring of Lingering Blood Magic 
+Ring of Powerful Blood Magic: +1 DC 3/day
+
+spell storing 
+
+------------
+ Spells
+------------
+
+1: Shield - +4 AC @ N min/lvl
+1: Infernal Healing - Feat Heal 1 @ 10 rounds
+1: Feather Fall
+1: Burning Hands - lvl*d4 @ 15' cone
+1: enlarge person 
+1: long arm - 5' reach
+1: shocking grasp - lvl*d6
+
+2: Mirror Image 
+2: Scorching Ray 
+
+3: Fly
+3: Haste
+3: Heroism
+
+----------------------------
+ Sample
+----------------------------
+
+Primalist Spelleater Bloodrager 
+-------------------------------
+1 HD: Feat - Endurance, Feat - Die Hard; fast movement, bloodrage, bloodline power
+2 HD: Blood of Life
+3 HD: Feat - Fast Healer, Blood sanctuary
+4 HD: Eschew materials, Blood casting, bloodline power
+5 HD: Feat - Raging Vitality, Spell Eating (Su) 
+6 HD: Bloodline Feat - Power Attack (retrain)
+7 HD: Feat - Arcane Strike, Fast Healing/2
+8 HD: bloodline power
+9 HD: Feat - Combat Reflexes, Bloodline Feat - Furious Focus (retrain)
+10 HD: Fast Healing/3
+11 HD: Feat - Bloodied Arcane Strike, Greater bloodrage (bloodied Arcane to free up swift for Raging Brutality)
+12 HD: Bloodline Feat- Disruptive, Primal Choices: Superstitious & Come and Get me
+13 HD: Feat - Raging Brutality, Fast Healing/ Increase
+14 HD: Indomitable will
+15 HD: Feat - (whatever seems good to you) ,Bloodline Feat- Spellbreaker
+16 HD: Fast Healing/4, Trade out True Arcane Bloodrage (Sp) for Eater of Magic and Witch Hunter
+17 HD: Tireless Bloodrage (Su), Feat + ???
+
+Tiefling Pitspawn Abyssal Rageshaper
+-------------------------------
+Maw and Natural Armor alt racials.
+
+1: Extra Rage 
+3: Power Attack
+4: enlarge when you rage, so Natural Attacks deal 1d8 
+4: Beastial Aspect: claws
+5: Improved Natural Attack - bite.
+
+5: 2 claws: +10 / 2d8+11 damage, 
+      bite: +10 / 2d6+11 damage
+   (@ STR 24)
