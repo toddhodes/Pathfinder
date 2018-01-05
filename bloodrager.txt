@@ -1,4 +1,11 @@
 
+Bloodrager:
+ http://rpgbot.net/pathfinder/characters/classes/bloodrager/bloodlines.php
+ http://www.giantitp.com/forums/showthread.php?377753-CTP-s-Guide-to-the-Bloodrager
+Barbarian:
+ http://www.giantitp.com/forums/showthread.php?233032-PF-Anger-Management-A-Pathfinder-Guide-to-the-Barbarian
+ http://www.giantitp.com/forums/archive/index.php/t-313088.html
+
 ------------
  Archetypes
 ------------
@@ -70,8 +77,6 @@ Arcane:
 8: Greater Arcane Bloodrage - displacement or haste 
 12: Caster's Scourge - +DEX AoO spellcasters
 
-http://rpgbot.net/pathfinder/characters/classes/bloodrager/bloodlines.php
-http://www.giantitp.com/forums/showthread.php?377753-CTP-s-Guide-to-the-Bloodrager
 
 ------------
  Race
@@ -94,39 +99,33 @@ Kyton-Spawn (Shackleborn)  +2 Con, +2 Cha, –2 Wis   Escape Artist, Intimidate 
  Feats
 ------------
 
-1: Power attack, Raging Vitality
-3: Furious Focus
-5: Endurance
-6: Diehard, Fast Heal (retrain Furious Focus)
-7:
-
-1: power attack
-1: Raging Vitality: raging Con+2, unconcious still rage
-3: Furious Focus - no Power Attack negative
-3/5: arcane strike  - +1 + lvl/5 dmg @swift
- -> Riving Strike - damage -> -2 spell saves
-5/7: blooded arcane strike - no swift to apply arcane
-7: Lunge: +5' reach @ -2AC
-12: Raging Brutality: +CON damage (*1.5 2H)
-12: Come and Get Me 
+Raging Vitality: raging CON+2 (+6 total), unconcious will still rage
+Furious Focus - no Power Attack negative
 Extra rage: +6 rounds
-Eldritch Heritage - get sorcerer bloodline power
-  -> 11: Improved Eldritch Heritage: 9th lvl bloodline power (+2 STR -> +4 @13th)
-Iron Will - +2 will
-Weapon Focus - +1 hit
-Combat Reflexes
+Skill focus: +3 skill (+6 @ 10 ranks)
+  -> Eldritch Heritage - get sorcerer bloodline power (matching skill focus)
+    -> 11: Improved Eldritch Heritage: 9th lvl bloodline power (+2 STR -> +4 @13th)
+Extra rage power: choose a rage power
+Blind-Fight: reroll miss because of concealment; invisible attacker gets no advantages hitting you 
 Rage Casting: trade Nd6 damage for +N spell DC  
+Raging Concentration: concentration +CON bonus // Combat casting
+Arcane Strike:  +1 + lvl/5 dmg @swift
+ -> Blooded arcane strike: no swift action for damage bonus
+ -> Riving Strike - damage -> -2 spell saves
 Disruptive: +4 spell DC 
 Improved Drag -> Greater Drag
 6: Endurance
   -> 9: Diehard
     -> Fast Healer: magical healing +CON/2
+Iron Will - +2 will
+Weapon Focus - +1 hit
+Combat Reflexes - extra AoO
+Improved Init: +4 init
 
 1: Power attack, Raging Vitality
 3: Furious Focus
 5: Arcane Strike
 6: Endurance, Diehard, Fast Heal (retrain Furious Focus, Arcane Strike)
-7:
 
 1: Endurance, Die hard
 3: Fast heal
@@ -134,6 +133,13 @@ Improved Drag -> Greater Drag
 6: Power attack (retrain swap)
 7: Arcane Strike
 9: Combat Reflexes, Furious Focus (retrain)
+
+3/5: arcane strike  - +1 + lvl/5 dmg @swift
+5/7: blooded arcane strike - no swift to apply arcane
+7: Lunge: +5' reach @ -2AC
+12: Raging Brutality: +CON damage (*1.5 2H)
+12: Come and Get Me 
+
 
 ------------
  Rage Power
@@ -146,8 +152,9 @@ Lesser beast totem: two claw attacks @ 1d6+STR
  -> 6: Beast Totem: +1 + lvl/4s AC
    -> 10: greater beast totem: pounce -- full attack w/ charge. claws +1d8+STR/x3
 Superstition: +2 + lvl/4 saves vs spells
- -> witch hunter: +1 + lvl/4 dmg vs casters/spell-likes
+ -> * Witch hunter: +1 + lvl/4 dmg vs casters/spell-likes
    -> 6: Spell Sunder: turn off spells
+ -> 10: eater of magic: reroll failed save, +spell-lvl HP
 6: Ground Breaker: create difficult terrain, knock prone
   -> 8: +5'
 8: Increased Damage Reduction: +1/— DR
@@ -157,6 +164,9 @@ Superstition: +2 + lvl/4 saves vs spells
 4: Renewed Vigor: heal (lvl/4)d8 + CON (1/day)
   -> 6: Regenerative Vigor: fast heal lvl/6
 12: Come and get me: they attack against at +4/+4 -> free AoO prior
+
+8: Internal Fortitude (Ex) - immune to sickened and nauseated 
+  +  Flawed Scarlet and Green Cabochon: Rage-cycling for one rage power and 8000gp
 
 Reckless Abandon: –1-lvl/4 AC, +1+lvl/4 attack
 guarded stance - +1+lvl/6 AC dodge (move-action:CON/rounds)
@@ -191,22 +201,34 @@ Roused Anger: enter a rage even if fatigued; remain immune to fatigued. rage end
 ------------
  Equipment
 ------------
+
+Longbow, composite (+3) - 400 gp  / (+5) - 600 gp / +6?
 Adaptive composite longbow +1 - uses strength rating equal to wielder's - 3k
++1 Furious Greatsword - 8k (acts +3 when raging)
 
-wand of shield
-wand of Infernal Healing
-wand of enlarge person
-+1 furious (+3 when raging)
+Allnight - 75GP - eliminates fatigue for 8 hours; then exhausted. –2 penalty on all skill checks 
+Wayfinder + Pale green prism: 2/day remove fatigued 
 
-ring of evasion
-Ring of Ancestral Blood Magic - 3 free spells @ rage rounds - 4k
+Belt of STR/CON +2 - 10k
+Cloak of Resistance +3 - 9k
+Amulet of Natural Armor +1 - 2k
+Ring of Protection +1 - 2k
+
+wands / scrolls
+- shield
+- Infernal Healing
+- enlarge person
+
+ring of evasion - 25k
 Runestone of Power - cast 1st level spell / day - 2k
-
 Ring of Vengeful Blood Magic 
 Ring of Lingering Blood Magic 
 Ring of Powerful Blood Magic: +1 DC 3/day
 
-spell storing 
+spell storing weapon
+Ring of Ancestral Blood Magic - spend bloodrage rounds for bloodline spells - 4k
+Flawed Scarlet and Green Cabochon: 8k gp -- if also feat: Internal Fortitude
+
 
 ------------
  Spells
