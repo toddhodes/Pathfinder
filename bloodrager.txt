@@ -80,9 +80,10 @@ http://www.giantitp.com/forums/showthread.php?377753-CTP-s-Guide-to-the-Bloodrag
 human "Heart of the Fields":
 - +2 any ability
 - bonus feat
-- +lvl/2 one Craft/Profession
 - 1/day ignore fatigued or exhausted
-* NO +1 skill/lvl - racial trait replaces "skilled"
+- +lvl/2 one Craft/Profession
+  * NO additional +1 skill/lvl - racial trait replaces "skilled"
+- favored class bonus: +1 rage round/day (or +1 HP or +1 skill)
 
 Tiefling 
 Demon-Spawn (Pitborn)      +2 Str, +2 Cha, –2 Int   Disable Device, Perception shatter
