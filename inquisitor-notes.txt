@@ -50,6 +50,7 @@ Breastplate (agile)  400 gp   +6 AC, +3 max Dex, -4 penalty / -1 climb/jump
   Ioun: Cracked Pale Green Prism: +1 saves (competence), 4k
   Ioun: Pink Rhomboid: +2 CON (enh), 8k
   # Jingasa of the Fortunate Soldier: +1 luck AC, 5K GP (+2 w/ trait) & 1/day critical negate 
+  Periapt of wisdom: +2/4/6 WIS, 4k,16k,36k
 
 + 12th lvl | 30k buy  +12HP, +2/+1 +2AC | 35k buy: +12HP, +0/+2d6, +1AC
   belt +2/+2 -> +2/+2/+2, 6k 
