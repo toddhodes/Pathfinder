@@ -40,7 +40,6 @@ Breastplate (agile)  400 gp   +6 AC, +3 max Dex, -4 penalty / -1 climb/jump
 - other
   Amulet of Natural Armor:  +1 AC 2k, +2 8k (enhan natural armor)
   Ring of Protection: 2k +1 AC, 8k +2 (deflect)
-  Cape of the Swashbuckler 6.5k, +1 AC (dodge), +2 CHA.
   Cloak or resistance: +1 1k, +2 4k, +3 9k, +4 16k (resist)
   Boots, Daredevil Softpaws: +5 moving through treatened; +2 hit if success 1.4k
   Boots, elvenkind: +5 acro 2.5k
@@ -56,13 +55,23 @@ Breastplate (agile)  400 gp   +6 AC, +3 max Dex, -4 penalty / -1 climb/jump
   Gloves of Dexterity - +2, +4, or +6
 
 
-+ 12th lvl | 30k buy  +12HP, +2/+1 +2AC | 35k buy: +12HP, +0/+2d6, +1AC
++ 12th lvl | 35k buy: +12HP, +0/+2d6, +1AC 
   belt +2/+2 -> +2/+2/+2, 6k 
-  armor +2 -> +3, 5k
-  weapon +2 -> +3, 10k  (+2 holy, 24k)
+  weapon +2 -> +2 holy, 24k (weapon +2 -> +3, 10k)
   stone +1AC, 5k
+  
+  (vs 30k buy  +12HP, +2/+1 +2AC)
+  belt +2/+2 -> +2/+2/+2, 6k 
+  stone +1AC, 5k
+  weapon +2 -> +3, 10k
   stone +1 attack, 4k
+  armor +2 -> +3, 5k
 
++ 13th lvl | 38k buy   +13HP, +2/+1 
+  belt +4/+4 STR/CON, 40k-10k=30k
+  gloves dex +2, 4k
+  Cracked Pale Green Prism: +1 hit (competence), 4k
+  
 
 ** feats
 
