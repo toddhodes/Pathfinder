@@ -198,6 +198,7 @@ Disrupting Weapon: undead of HD < caster lvl: Will save or destroyed (lvl rounds
 Banishment: lvl*2 HD extraplanar creatures banished (+2 DC & +1 check presenting object)
 Unwilling Shield: +1 AC +1 save (luck), share HP damage with target
 Decapitate: IMMEDIATE shashing crit -> +4d6 dmg & save or +1 crit level
+Righteous Might: +4 STR + CON, +2 AC natural armor, 3d6 dmg, -2 DEX
 
 
 ** domains
