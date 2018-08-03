@@ -20,6 +20,16 @@ bane: rounds/level
 
 ** equipment
 
+- lvl 15 100k:
+   Cloak resist +5 25k
+   Crown conquest 24.6l
+   Halo of Inner Calm 16k -- +2 saves?
+   Boots speed 12k, winged 18k
+   Amulet natural armor +4 32k or +5 50k
+   Ring Prot +5 50k
+   Ring evasion 25k
+   (Pay 3k for dex stone, no gloves!)
+
 - weapon (+1 2k, +2 8k, +3 18k, +4 32k)
   cruel - strike a shaken -> sicken; kill -> +5HP 10hours
   ominious - +enh inimidate; critical -> shaken
