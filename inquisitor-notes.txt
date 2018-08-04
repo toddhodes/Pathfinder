@@ -20,15 +20,16 @@ bane: rounds/level
 
 ** equipment
 
-- lvl 15 100k:
+- lvl 15 112k: (+4 saves, +4 ac: 94k, -11k or 5.5; +4 saves, +4 ac, haste: 106k, -11k or 5.5)
    Cloak resist +5 25k
-   Crown conquest 24.6l
+   Amulet natural armor +4 32k or +5 50k
    Halo of Inner Calm 16k -- +2 saves?
    Boots speed 12k, winged 18k
-   Amulet natural armor +4 32k or +5 50k
    Ring Prot +5 50k
+   Crown conquest 24.6k
    Ring evasion 25k
-   (Pay 3k for dex stone, no gloves!)
+   sword +2 -> +3 18k
+   (Pay 3k for dex stone, no gloves!) Ioun: Deep Red Sphere ioun stone: +2 DEX (enhancement), 8k
 
 - weapon (+1 2k, +2 8k, +3 18k, +4 32k)
   cruel - strike a shaken -> sicken; kill -> +5HP 10hours
@@ -59,10 +60,11 @@ Breastplate (agile)  400 gp   +6 AC, +3 max Dex, -4 penalty / -1 climb/jump
   Ioun: Cracked Pale Green Prism: +1 saves (competence), 4k
   Ioun: Pink Rhomboid: +2 CON (enh), 8k
 
-  Periapt of wisdom: +2/4/6 WIS, 4k,16k,36k
-  Belt of Giant Strength - +4/+6
-  Amulet of Health - Constitution of +2, +4, or +6.
-  Gloves of Dexterity - +2, +4, or +6
+  NOT PFS!
+   Periapt of wisdom: +2/4/6 WIS, 4k,16k,36k
+   Belt of Giant Strength - +4/+6
+   Amulet of Health - Constitution of +2, +4, or +6.
+   Gloves of Dexterity - +2, +4, or +6
 
 
 + 12th lvl | 35k buy: +12HP, +0/+2d6, +1AC 
