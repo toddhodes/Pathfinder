@@ -34,7 +34,6 @@ bought:
    Crown conquest 24.6k
    Ioun: Deep Red Sphere ioun stone: +2 DEX (enhancement), 8k (Pay 3k for dex stone, no gloves!) 
    sword +2 -> +3 18k
-   bane baldric - +5 bane round 10k
    
 
 - weapon (+1 2k, +2 8k, +3 18k, +4 32k)
@@ -58,6 +57,9 @@ Breastplate (agile)  400 gp   +6 AC, +3 max Dex, -4 penalty / -1 climb/jump
   Amulet of Natural Armor:  +1 AC 2k, +2 8k (enhan natural armor)
   Ring of Protection: 2k +1 AC, 8k +2 (deflect)
   Cloak or resistance: +1 1k, +2 4k, +3 9k, +4 16k (resist)
+  bane baldric - +5 bane round 10k
+ *Pendant of the Blood Scarab - 1k - 1/day auto-confirm crit, take 1d6 dmg
+
   Boots, Daredevil Softpaws: +5 moving through treatened; +2 hit if success 1.4k
   Boots, elvenkind: +5 acro 2.5k
   Ioun: Dusty Rose Prism Ioun stone:  5k, +1 AC (insight)
