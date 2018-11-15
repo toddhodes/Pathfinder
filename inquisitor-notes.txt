@@ -5,14 +5,14 @@ http://paizo.com/threads/rzs2lb6q?Help-with-optimizing-an-melee-inquisitor
 
 ** basics
 
-judgements: 4 combats/day  (1, +1@4/7/10...)
- fast heal 5 (1 + lvl/3)
- +5 damage   (1 + lvl/3)
- resist 10   (2 + 2*lvl/3)
- +3 hit      (1 + lvl/5; x2 critical confirm @10) 
- +3 AC       (1 + lvl/5; x2 against critical confirms @10)
- DR 3/evil   (1 + lvl/5)
- +3 save     (1 + lvl/5; x2 curses, diseases, and poison @10)
+judgements: 6 combats/day  (1, +1@4/7/10...)
+ fast heal 6 (1 + lvl/3)
+ +6 damage   (1 + lvl/3)
+ resist 12   (2 + 2*lvl/3)
+ +4 hit      (1 + lvl/5; x2 critical confirm @10) 
+ +4 AC       (1 + lvl/5; x2 against critical confirms @10)
+ DR 4/evil   (1 + lvl/5)
+ +4 save     (1 + lvl/5; x2 curses, diseases, and poison @10)
  weapon counts as magic + good + adamantine (DR)
 
 bane: rounds/level
@@ -29,6 +29,8 @@ bought:
 
    Amulet natural armor +4 32k or +5 50k
    Ring Prot +5 50k
+   *Pendant of the Blood Scarab - 1k - 1/day auto-confirm crit, take 1d6 dmg
+   bane baldric - +5 bane round 10k
    Ring evasion 25k
    Boots winged 18k
    Crown conquest 24.6k
