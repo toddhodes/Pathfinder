@@ -21,15 +21,21 @@ bane: rounds/level
 ** equipment
 
 - lvl 15 112k: (+4 saves, +4 ac: 94k, -11k or 5.5; +4 saves, +4 ac, haste: 106k, -11k or 5.5)
+bought:
    Cloak resist +5 25k
+   Halo of Inner Calm 16k -- +2 saves
+   Boots speed 12k
+   WIS belt +4 -> +6 36k-16k= 20k
+
    Amulet natural armor +4 32k or +5 50k
-   Halo of Inner Calm 16k -- +2 saves?
-   Boots speed 12k, winged 18k
    Ring Prot +5 50k
-   Crown conquest 24.6k
    Ring evasion 25k
+   Boots winged 18k
+   Crown conquest 24.6k
+   Ioun: Deep Red Sphere ioun stone: +2 DEX (enhancement), 8k (Pay 3k for dex stone, no gloves!) 
    sword +2 -> +3 18k
-   (Pay 3k for dex stone, no gloves!) Ioun: Deep Red Sphere ioun stone: +2 DEX (enhancement), 8k
+   bane baldric - +5 bane round 10k
+   
 
 - weapon (+1 2k, +2 8k, +3 18k, +4 32k)
   cruel - strike a shaken -> sicken; kill -> +5HP 10hours
@@ -94,9 +100,13 @@ Breastplate (agile)  400 gp   +6 AC, +3 max Dex, -4 penalty / -1 climb/jump
    -> dreadful carnage (+11 BAB): kill -> 30' intimidate (demoralize)
 dodge : +1 AC
 toughness : +3 HP -> +lvl HP
+Extended Bane: +WIS rounds
+Lunge: increase reach 5', -2AC
+* Instant Judgment: immediate action to pronounce or change judgment.
+* Baneful Judgement: swift spend bane to apply single judgement
+
 Combat Expertise (Int 13): –1 hit / +1 AC (1+ N per 4 BAB)
 Intimidating Prowess : Add Strength to Intimidate in addition to Charisma 
-Extended Bane: +WIS rounds
 Improved Monster Lore : identify creatures +1/2 level 
 Boon companion : full progression druid pet, get at 5th lvl
 Weapon Focus: +1 hit  
@@ -111,8 +121,6 @@ Heavy armor proficiency (- Stalwart 11th lvl needs mithral!)
 Leaping Strike (Acro5): Acrobatics check + charge; 16/24DC, hit -> critical threat.
 Nimble Moves: Ignore 5 feet of difficult terrain when you move   
 Martial Focus: +1 dmg for weapons from weapon group
-Lunge: increase reach 5', -2AC
-Instant Judgment: immediate action to pronounce or change judgment.
 Improved Initiative — +4 initiative 
 Critical Focus: (BAB+9)
  -> ???
@@ -124,7 +132,10 @@ Merciful Bane: non-lethal dmg @ no penalty
  ->  ???
 
 
-TW: Outflank : +4 when flanking
+TW: *Improved Outflank : flank from adjacent square
+TW: *Duck and Cover: accept ally's savings roll
+TW: *Coordinated charge: ally charges, you get an immediate charge
+TW: Outflank : +4 when flanking; critical hit -> AoO from ally
 TW: Precise Strike : +1d6 when flanking
 TW: Gang up (Int 13, Combat Expertise): considered flanking if two allies threatening 
 TW: Shielded Caster (Teamwork): +4 on concentration checks.
@@ -176,6 +187,8 @@ Brow Gasher: lvl/2 bleed & -1 cumulative hit per round; @ -3 20% concel; @ -5 bl
 Instrument of Agony: hit creature, they fail will save -> d4+1 rounds nauseated (single move/turn)
 
 3:
+*Shield of Darkness: total concealment, lvl rnds
+*Deadly Juggernaut: +1/+1 luck, +1 STR, Dr 2/- each killing, up to +5/10
 Agonizing Rebuke: 2d6 dmg each attack attempt they make
 Keen Edge: 10 min/lvl, double crit range
 Righteous Vigor: +1 hit for each hit & +d8 tmp HP (max 20)
@@ -190,6 +203,7 @@ Ward the Faithful: 10 min/lvl, +3 AC & saves
 Terrible Remorse: monster hits self
 
 4:
+*Army across time - 16 duplicates, 5 at once; they aid and provide teamwork feats
 Divine Power: +lvl/3 hit/dmg/STR (luck -> +4), +lvl tmp HP, extra attack on full attack
 Stoneskin: DR 10/adamantine, 10min/lvl
 Forceful Strike: SWIFT +10d4 damage, bull rush @ CMB+lvl (Fort save)
@@ -211,6 +225,13 @@ Banishment: lvl*2 HD extraplanar creatures banished (+2 DC & +1 check presenting
 Unwilling Shield: +1 AC +1 save (luck), share HP damage with target
 Decapitate: IMMEDIATE shashing crit -> +4d6 dmg & save or +1 crit level
 Righteous Might: +4 STR + CON, +2 AC natural armor, 3d6 dmg, -2 DEX
+
+6:
+*Inspiring Recovery: ranged life save
+Unshakable Zeal: all day spell - failed attack/save/skill/ability, get +4 next time same round
+*Invoke Diety: 160mins, +6 STR
+*Heal
+
 
 
 ** domains
