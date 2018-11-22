@@ -20,23 +20,26 @@ bane: rounds/level
 
 ** equipment
 
-- lvl 15 112k: (+4 saves, +4 ac: 94k, -11k or 5.5; +4 saves, +4 ac, haste: 106k, -11k or 5.5)
-bought:
-   Cloak resist +5 25k
+- lvl 15 bought: 69k
+   Amulet natural armor +5 50k
    Halo of Inner Calm 16k -- +2 saves
-   Boots speed 12k
-   WIS belt +4 -> +6 36k-16k= 20k
+   3k for dex stone, no gloves in PFS
 
-   Amulet natural armor +4 32k or +5 50k
+- lvl 16 bought: 30.75k
+   Boots speed 12k (-2.75k sell striding=9.25k)
+   WIS belt +4 -> +6 36k-16k= 20k
+   2 CLR 1.5k
+
+- items
+   Cloak resist +5 25k
    Ring Prot +5 50k
    *Pendant of the Blood Scarab - 1k - 1/day auto-confirm crit, take 1d6 dmg
    bane baldric - +5 bane round 10k
    Ring evasion 25k
    Boots winged 18k
    Crown conquest 24.6k
-   Ioun: Deep Red Sphere ioun stone: +2 DEX (enhancement), 8k (Pay 3k for dex stone, no gloves!) 
+   Ioun: Deep Red Sphere ioun stone: +2 DEX (enhancement), 8k
    sword +2 -> +3 18k
-   
 
 - weapon (+1 2k, +2 8k, +3 18k, +4 32k)
   cruel - strike a shaken -> sicken; kill -> +5HP 10hours
