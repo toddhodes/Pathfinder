@@ -1,0 +1,26 @@
+Technmancer
+
+SPELLS
+https://www.aonsrd.com/Spells.aspx?Class=Technomancer
+
+Level 0
+* Energy Ray: Ray deals 1d3 acid, cold, electricity, or fire damage.
+* Mending: Restore 1d4 Hit Points to an object or construct.
+* Psychokinetic Hand: Telekinetically move an object of 1 bulk or less. 25ft
+* Detect Magic: Detect spells and magic items within 60 feet.
+Transfer Charge: Move charges from one power source to another source of the same type.
+
+Level 1
+* Grease: Make a 10-ft. square or one object slippery. 25ft
+Magic Missile: Two missiles deal 1d4+1 force damage (3 full round)
+Overheat: Deal 2d8 fire damage to creatures in cone.
+Supercharge Weapon: Touched weapon deals extra damage. 4d6 / 2d6 area
+Jolting Surge: Touch deals 4d6 electricity damage.
+
+Life Bubble: Encase targeted creatures with a shell of tolerable atmosphere.
+Flight: Allow yourself or others to fly.
+Unseen Servant
+
+
+https://www.reddit.com/r/starfinder_rpg/comments/8x47in/best_technomancer_spells_per_level/
+
