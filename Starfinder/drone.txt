@@ -1,0 +1,43 @@
+-- DRONES --
+
+Artillery Drone:
+2 weapon mounts, heavy weapon proficiency 
+1 feat: weapon focus (heavy)  1 mod: enhanced armor
+STR 12 DEX 14
+BAB +1
++4 ranged (artillery 1d10 F)
+EAC 13, KAC 14
+Fort +0 Will +0, Reflex +2
+
+
+Combat Drone:
+2 weapon mounts, longarm proficiency, reductive plating
+1 feat: heavy weapon proficiency.  1 mod: enhanced armor
+STR 14 DEX 12
+BAB +1
++2 ranged (artillery 1d10 F)
+EAC 12, KAC 15
+DR 1/-
+HP 10
+Fort +2, Will +0, Reflex +0 
+
+3rd lvl feat: versatile specialization
+3rd lvl mod: resistance (lvl), reinforced chassis (3+lvl HP)
+
+
+Hover Drone:
+weapon mount, flight
+1 feat: longarm proficiency. 1 mod: 2nd weapon mount
+STR 6 DEX 16
+BAB +1
++4 ranged (rifle 1d8 F)
+EAC 11, KAC 11
+HP 10
+Fort +0 Will +0, Reflex +2
+
+3rd lvl feat: versatile specialization
+3rd lvl mod: enhanced armor or heavy weapon proficiency
+
+
+-- Alt class features
+technomancer -- Drone Technomancy - (no spell cache, no spell capacitor, -1 spell slot / day/lvl)
