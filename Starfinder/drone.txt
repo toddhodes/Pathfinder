@@ -9,6 +9,8 @@ BAB +1
 EAC 13, KAC 14
 Fort +0 Will +0, Reflex +2
 
+3rd lvl feat: versatile specialization
+3rd lvl mod: resistance (lvl), reinforced chassis (3+lvl HP)
 
 Combat Drone:
 2 weapon mounts, longarm proficiency, reductive plating
