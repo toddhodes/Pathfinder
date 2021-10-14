@@ -1,0 +1,23 @@
+
+-- soldier:
+better BAB
+fighting style sharpshoot: focus fire (5th): -3 for full attack
+gear boost: 
+  bullet barage: +1 dmg / 4 lvls
+  steady sniper (11th): 2 attacks at -6 (when move to aim)
+
+-- operative:
+debilitating sniper: can trick attack with sniper weapons (aims) - no trick dmg
+quick trick (3rd): trick as standard
+stunt and strike: athletics/mighty leap: 30' fly
+GEM: high-ground sniper (6th): 20' up, sniper trick attack +lvl/2 dmg
+TechRev: ???
+
+-- equipment
+scope or sight: avoid -2/-4 due to range or cover (move action to aim, part of aim)
+bipod: -1/-2 for full attack or range (move to extend, move to stablize)
+
+coil gun: not unweildy
+
+-- feats
+deadly aim (10th+): -2 hit, +BAB/2 dmg

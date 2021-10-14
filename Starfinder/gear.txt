@@ -1,0 +1,26 @@
+
+
+Restraining Spinneret 330/hand
+melee attack EAC DEX/STR.  entangled 1d4 rounds. Acrobatics/Strength (DC = 10 + level/2 + DEX.
+
+Biosynthetic Nanites 4450
+2d8 Hit Points    2 fast heal
+
+Synchronous Heart 6300/Heart
+blindsight (life) 30'.  reaction: shard RP to stabilize or stay in the fight.
+
+Clearsight Goggles 2750
+gases/vegetation don’t grant targets concealment 
+
+Bipod, Light: lvl1 350
+move/extend, move/stabilize: -1 full attack
+
+Bipod, Heavy: lvl2 700
+move/extend, move/stabilize: -2 full attack
+
+Sight, Manual: lvl2 1000
+move/aim: reduces penalties due to range and cover by 2.
+
+Scope, Sniper: lvl3 1350
+move/aim: reduces penalties due to range and cover by 2. +1.5x-4x range increment
+

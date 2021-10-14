@@ -1,0 +1,138 @@
+
+race: assimilated skitterpunk skittermander 
++2 DEX +2 CON -2 WIS
+size: S
++2 sense motive (replaces +2 grapple)
+extra move 1/day
+low-light vision
+
+theme: Sensate 
+   +1 CON
+   -5 DC Culture art
+   -5 DC Life Sci consumables
+   +1 Perception
+
+class: Biohacker (INT) 2nd level
+studious: +1 WILL, +skills
++1 hit injection
+attunement (free to-hit): 6 (3 + INT)
+
+identify creature (60' move action): 29
+   (20 + Phys/Life Sci)
+
+basic biohacks (per short rest): 4 (1 + INT)
+  lasts: 3 rounds (INT)
++ +1 AC
++ +2 skills
++ +10' move
+- -2 AC
+- DR -5
+- resistance -5
+
+minor biohacks (free): 
++ stop bleed / make stable : DC 15
+- -1 attack (lasts 7 rounds)
+
+field of study: genetics
+additional basic biohacks:
++ blindsense 60' - 60min
+- energy vulnerability (150% damage or -10 resistance)
+
+theorem: medication mastery (DC 14) 
+   per short rest: 3 (INT)
+- analgesic: flat-footed 1 round
+- sedative: +1d4 nonletal, re-save vs emotion/fear
++ antitoxin: +4 poison save
++ antiemetic: +1 save / re-save vs sick/nauseated
++ coagulant: immune bleed 1min, -1 acrobatics, athletics, reflex
+
+
+feat: weapon focus (longarms/injection?) +1 hit
+
+---
+SP: 14 (6x2 +2 CON)
+HP: 14 (2 race + 6x2 class)
+RP: 4 (1 + INT)
+BAB: +1
+to hit: 1inj+1feat+1BAB+3dex = +6
+Fort/Ref/Will: +3/+0/+0 -> +4/+3/+0
+EAC / KAC: 15 / 16
+
+STR 10
+DEX 16 (4)
+CON 13
+INT 16 (6)
+WIS 8
+CHA 10
+
+
+skills: 4 + INT = 7
++1 Life Sci, Med, Phys Sci, Percep
+Perception: use INT
+Sense Motive: use INT
+
+--- 2000 credits
+
+melee weapon: 
+   Syringe Spear, Tactical (1d6 P) injection                            250
+   Syringe Stick, Standard (1d3 P) conceal, injection, operative    or  125 *
+   Dragon gland, wyrmling (3d6 / short rest)                            755 *
+ranged weapon: 
+   Needler rifle (1d6 P, 60', 12 darts) analog injection                110 *
+armor: 
+   heavy: Golemforged Plating, II (+5/+7, 2dex, -3ACP)                 1610
+   light: carbonite skin graphite (+3/+4, -1ACP)                    or 1220
+          freebooter I (+2/+3)                                      or  750 *
+
+healing potion: 5 @ 1d8                                                 250 *
+
+* = 1990
+
+
+-----
+FOR THE FUTURE:
+Needler rifle, tactical (1d6 P, 70', 14 darts) analog injection  200
+Formian Venomcaster, Tactical	(1d8 P, 40' 6 darts) analog, injection, unwieldy 1325
+ + conserving fusion (miss doesn't use ammo) 440 @ lvl3
+feat + shield: Riot shoeld basic +1/+1   300
+personal upgrade +2, 1400
+
+
+--- 4th level:
+
+Biohacker 3 / Soldier 1
+* Guard: Armor Training - reduce armor check penalty by 1 and increase maximum Dexterity bonus by 1
+- Sharpshoot: Sniper’s Aim - ranged attack a target with cover, reduce AC bonus from cover by 2
+
+equipment
+- heavy armor: Hardplate, Basic: +10/+11, maxdex 3, ACP -2, move -5 ft, 0 slots: 3000
+- longarm (&buff gun): Caustolance, Liquidator: 1d6 A - 400
+* heavy armor: Aeon Guard, Battle Dress (Trooper), +5/+7, 2dex, -3ACP, -10 ft, 2 slots: 1650 
+* longarm: Formian Venomcaster, Tactical	(1d8 P, 40' 6 darts) analog, injection, unwieldy 1325
+   + conserving fusion (miss doesn't use ammo) 440 @ lvl3
+* buff gun: Caustoject, Liquidator: 20/2  - 225
+* Quorlu heat gem - 24 hours cold resistance 5. cold damage penetrates effect ends.  125 
+* infrared sensors 200
+
+to convert to venom: 225 buff gun + 1325 venom + 440 fusion - 400 lance = 1550+40 = 1590
+  get armor: Aeon Guard, Battle Dress (Trooper), +5/+7, 2dex, -3ACP, -10 ft. = 1650 
+  add IR sensors: 200
+ ** buy total: 3440
+  drop -3000 armor, drop a adaptive serum -350, drop healing serum -50 = -3400
+  use -43 from before
+ ** sell total -3443 
+
+- Ablative Insulation Mk 1 - 350 - energy resistance 5 to all energy types. lasts 1 hour or until total of 20 damage
+- Adaptive Serum, Mk 1 - 350 - take energy damage, gain resistance 5 against that type for hour or until regain Stamina Points
+- Ring of Resistance, Mk 1 - 735 — +1 lowest save
+
+
+Brooch of Shielding 1,000; absorbs 55 force damage
+Planar Runeplates, Mk 1 - 2,000; One reroll.
+
+
+---
+https://www.reddit.com/r/starfinder_rpg/comments/a56dp0/biohacker/
+https://www.reddit.com/r/starfinder_rpg/comments/ehr406/biohacker_any_good/
+
+

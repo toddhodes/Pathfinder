@@ -1,0 +1,100 @@
+
+-- Equipment
+
+- DISPELLING HAND 14300
+dispel magic 1/RP-refresh
+
+- Djezet, Armor, +2,000 credits
++1 caster level for range, duration, and caster level check
+
+- Digital Harrow Deck 3500
+1 RP as swift action when cast, +1 Spell DC.
+
+-- Starmetal Serums, Djezet Draught 450
+saving throw DCs +1 - 1 hour 
+
+- Mnemonic Editor, Mk 1
+Level 5; Price 500; Bulk 10
+craft w/ mysticism 5 + engr 5
+
+- Anvil of Torag
+lvl 9, 12k
+craft @ +2 ranks
+
+- Sovereign Helm
+Level 9; Price 14,975
+control construct
+
+- Gunner Harness, Heavy
+Level 7; Price 5,600; Bulk 2
+Strength 14; reduce your total penalty by 2.
+reduces the minimum Strength to fire 
+reduce penalty for full attack and range 
+
+- Speed Suspension
+Item Level 4; Price 1,900; +10'
+Item Level 8; Price 8,800; +20'
+
+-- Augmentations
+
+- Biosynthetic Nanties
+1 RP swift heal, FH 1/day
+Model   Level Price   Treat Wounds    Fast Healing
+Mk 1    6    4,450    2d8 Hit Points    2
+Mk 2    9    13,700   3d8 Hit Points    3
+
+
+--- Drone Technomancy - (no spell cache, no spell capacitor, -1 spell slot / day/lvl)
+
+* Combat Drone:
+2 weapon mounts, longarm proficiency, reductive plating
+1 feat: heavy weapon proficiency.  1 mod: enhanced armor
+STR 14 DEX 12
+BAB +1
++2 ranged (artillery 1d10 F)
+EAC 12, KAC 15
+DR 1/-
+HP 10
+Fort +2, Will +0, Reflex +0 
+
+3rd lvl feat: versatile specialization
+3rd lvl mod: resistance (lvl), reinforced chassis (3+lvl HP)
+
+* Hover Drone:
+weapon mount, flight
+1 feat: longarm proficiency. 1 mod: 2nd weapon mount
+STR 6 DEX 16
+BAB +1
++4 ranged (rifle 1d8 F)
+EAC 11, KAC 11
+HP 10
+Fort +0 Will +0, Reflex +2
+
+3rd lvl feat: versatile specialization
+3rd lvl mod: enhanced armor or heavy weapon proficiency
+
+* Artillery Drone
+2 weapon mounts, heavy weapon proficiency 
+1 feat: weapon focus (heavy)  1 mod: enhanced armor
+STR 12 DEX 14
+BAB +1
++4 ranged (artillery 1d10 F)
+EAC 13, KAC 14
+Fort +0 Will +0, Reflex +2
+
+
+--- Spellshot vs Extended Runtime
+
+get the Devastator's cache and use Overheat with every attack.
+or use 11th level Eternal Spell hack.
+
+As you level up: DDOSa caustic conversion. 
+
+lv2 Harmful Spells hack: lvl/2 extra damage
+
+Extended Runtime hack: 24 hour cybernetic upgrade @ lvl
+in basically every part of your body 
+
+Resilient armor for tons of extra protection.
+
+https://www.reddit.com/r/starfinder_rpg/comments/elfmh4/newbie_here_best_spellcaster/

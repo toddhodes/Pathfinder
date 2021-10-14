@@ -1,0 +1,14 @@
+
+
+http://aonsrd.com/ArmorUpgrades.aspx?ItemName=MK%201&Family=Electrostatic%20Field
+3k resist 5 elec + cause 1d6 dmg on getting hit
+
+http://aonsrd.com/ArmorUpgrades.aspx?ItemName=Endurance%20Module&Family=None
+4.5k ignore fatigue
+
+http://aonsrd.com/ArmorUpgrades.aspx?ItemName=Brown&Family=Force%20Field
+4,550 force field 5/2
+
+http://aonsrd.com/ArmorUpgrades.aspx?ItemName=Mk%201&Family=Mobility%20Enhancer
+1.5k - reduce armor penalty +5' move
+
