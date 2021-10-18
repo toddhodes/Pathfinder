@@ -60,6 +60,21 @@ Fort +0 Will +0, Reflex +2
 3rd lvl mod: resistance (lvl), reinforced chassis (3+lvl HP)
 
 
+--- Ultimate summoner
+
+1. Drone Technomancy — get a Mechanic Drone
+2. Buy a creature compassion, take all the creature companion feasts
+3. Take Summon creature at highest spell slot, use all spell slots to at all levels to summon
+4. Buy and use a lot of summoning Grenades (no need Shadow Grenade nor Fabricate Explosive)
+5. Take Mend at level 0 for some healing for the drone.
+6. Use your combat actions to buff/heal pets. 
+7. Unseen Servant
+8. Bonus: take Polymorph and change into a creature, a lot, too
+
+—> Run around with a drone, a creature companion, an unseen servant, and multiple summons during combat, 
+   and constantly look after them like little pets with silly names and funny/annoying habits.
+
+
 --- Spellshot vs Extended Runtime
 
 get the Devastator's cache and use Overheat with every attack.
