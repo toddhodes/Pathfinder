@@ -24,3 +24,19 @@ move/aim: reduces penalties due to range and cover by 2.
 Scope, Sniper: lvl3 1350
 move/aim: reduces penalties due to range and cover by 2. +1.5x-4x range increment
 
+Jetpack / Force Soles, 3100/2260
+
+Voice Encoder, Primal: Lvl4, 2,250; Throat
+cast Command 1+RP/day
+
+Speed Suspension, Minimal: lvl4, 1,900; Legs
++10' speed
+
+
+-- for casters:
+
+Ley Veins, Apprentice Lvl6; 3,900; Endocrine
+maintain concentration. 1d20 + lvl/2 + item level. DC 15 + 3x spell level
+
+Rune-Etched Chitin, Mk 1/2 Lvl5/8; 3175/9700; Skin
+spell slot(s) = mk
