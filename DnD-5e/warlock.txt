@@ -1,0 +1,84 @@
+
+Warlock
+-------
+
+# Pact
+
+Pact of the Tome: 
+  +3 cantrips: Shillelagh (for quarterstaff & Polearm Master)
+  EI: Book of Ancient Secrets - 2 1st level rituals
+
+Pact of the Chain:
+  Imp Familiar
+  EI: Investment of the Chain Master - bonus action familiar attack, reaction grant familar resistance
+  EI: Gift of the Ever-Living Ones - max die on healing
+
+Pact of the Blade:
+  EI: Improved Pact Weapon - weapon is spellcasting focus & +1 att/dmg
+  EI 5th: Thirsting Blade: attack twice instead of once
+  EI 5th: Eldritch Smite: expend slot, +(lvl+1)d8 force dmg + knock prone
+  EI 12th: Lifedrinker: +CHA necrotic dmg
+
+# equipment
+
+Rod of the Pact Keeper, +1 , +2, +3 (uncommon, attunement warlock, held)
++N spell attack and DC
+action: regain one spell slot. 1/long rest.
+
+Dark Shard Amulet (common, attunement warlock) - cast cantrip that you don't know. DC 10 Arcana. 1/long rest.
+Pearl of Power (Uncommon attunement) - action: regain one expended spell slot. 1/day
+Spell Gem, 1st	level (Uncommon), 2nd level (rare) - store level spell 1/day
+Ring Of Spell Storing (Rare) - store 5 levels of spells
+Ruby of the War Mage (common, attunement) - weapon as spellcasting focus
+Robe of the Archmagi - mosty for wizards due to defense
+Staff of the Magi (legendary) - +2 att/dmg
+
+# eldritch invocations
+
+Agonizing Blast - +CHA dmg ElBlast
+Improved Pact Weapon - Pact of the Blade summon is spellcasting focus & +1 att/dmg
+Fiendish Vigor - cast False Life at will (1st): 1d4+4 HP -> 8HP
+Repelling Blast - push 10' ElBlast
+Devil's Sight - 120' see in darkness
+Eldritch Mind - ADV CON concentration (use feat instead)
+
+# spells
+
+c Eldritch Blast - 1d10
+c Booming Blade - hit; enemy move, 1d8 dmg
+c Green Flame Blade - hit; cleave for +CHA damage
+c Toll the Dead - 60', WIS or 1d8/1d12 dmg
+1st Armor of Agathys - +5*lvl HP, 5*lvl cold dmg on melee hit
+1st Hex - bonus 90' 1hr/conc: hit +1d6 necrotic, DIS 1 ability check. on death, bonus change target.
+1st Wrathful Smite - bonus, 1min/conc: hit +1d6 psychic dmg, WIS or frightened. action to save to end.
+1st Shield - reaction, +5AC, immune magic missle
+1st Charm Person - 30' 1hr: WIS save, person/lvl
+1st Witch Bolt - 30', 1min/conc: hit, lvld12 lightning damage, after action deal 1d12 automatically. 
+2nd Misty Step - bonus: teleport 30'
+2nd Blur - 1min/conc: disadvantage on attacks
+2nd Mirror Image - 3 images 1min
+2nd Darkness - 10min/conc
+2nd Branding Smite - bonus, 1min/conc: hit +2d6 radiant, becomes visible, sheds 5' light, can’t become invisible
+3rd Counterspell - reaction, lvl or lower spell, or DC 10+lvl
+
+# Feats
+
+War caster: ADV Conc, AoO cast, no somatic components
+Resiliant: +1 Ability score; ADV saves on that score
+Lucky: 3 extra d20
+Metamagic adept: 3 Metamagic options from the sorcerer, 2 sorcery points
+Spell Sniper: doible range, ignore cover, learn an attack cantrip
+Great Weapon Master: -5 hit, +10 dmg
+Eldritch Adept: +1 EI
+
+
+# Pact cantrips
+
+guidance
+minor illusion
+gust
+shocking grasp - avoid reactions
+light
+Shillelagh - staff CHA att/dmg, 1d8 dmg
+Vicious Mockery
+
