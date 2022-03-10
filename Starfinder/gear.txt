@@ -32,6 +32,9 @@ cast Command 1+RP/day
 Speed Suspension, Minimal: lvl4, 1,900; Legs
 +10' speed
 
+Breakaway Aegis: 200
+free hand, reaction to melee negates 5 damage, crumbles/10 minutes repair
+
 
 -- for casters:
 
