@@ -28,11 +28,12 @@ Rod of the Pact Keeper, +1 , +2, +3 (uncommon, attunement warlock, held)
 Pearl of Power (uncommon attunement) - action: regain one expended spell slot. 1/day
 Spell Gem, 1st	level (uncommon), 2nd level (rare) - store level spell 1/day
 Ring Of Spell Storing (rare) - store 5 levels of spells
-Robe of the Archmagi - mosty for wizards due to defense
+Illusionist's Bracers (v.rare attunement): cast cantrip, bonus action cast same cantrip
 Staff of the Magi (legendary) - +2 att/dmg
+Robe of the Archmagi - mosty for wizards due to defense
 
 bought:
-Dark Shard Amulet (common, attunement warlock) - cast cantrip that you don't know. DC 10 Arcana. 1/long rest.
+Dark Shard Amulet (common, attunement warlock) - focus & cast any warlock cantrip. DC 10 Arcana. 1/long rest.
 uneeded:
 Ruby of the War Mage (common, attunement) - weapon as spellcasting focus
 
@@ -46,8 +47,9 @@ Lance of Lethargy - ElBlast reduce speed 10'
 Thirsting Blade (5th PotB) - extra attack w/ PofB weapon
 Eldritch Smite (5th PotB) - spell slot +(N+1)d8 dmg
 Improved Pact Weapon (PotB) - spellcasting focus & +1 att/dmg
+Maddening Hex (5th) - bonus action CHA dmg to hex'd opponent
+Sign of Ill Omen (5th) - Bestow Curse 1/day
 Eldritch Mind - ADV CON concentration (use feat instead)
-
 
 # Spells
 
@@ -62,6 +64,7 @@ c Toll the Dead - 60', WIS or 1d8/1d12 dmg
 1st Shield - reaction, +5AC, immune magic missle
 2nd Misty Step - bonus: teleport 30'
 2nd Blur - 1min/conc: disadvantage on attacks
+2nd Hold Person - 60' WIS or paralyzed, 1min/concentration
 2nd Mirror Image - 3 images 1min
 2nd Darkness - 60' 10min/conc: dark!
 2nd Branding Smite - bonus, 1min/conc: hit +2d6 radiant, becomes visible, sheds 5' light, can’t become invisible
