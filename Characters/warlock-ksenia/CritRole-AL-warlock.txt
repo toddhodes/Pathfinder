@@ -1,0 +1,106 @@
+
+Ksenia
+------
+
+Str: 10       2pts
+Dex: 14       7pts
+Con: 13 +1    5pts
+Int: 10       2pts
+Wis: 10       2pts
+Cha: 15 +1    9pts
+
+HP: 8 + CON = 10
+AC: 15 + DEX + shield = 19
+Proficiency: +2
+
+# Class: Warlock
+# Race: variant human (2 +1 ASI; one skill; one feat)
+Languages: common, marquesian
+
+# Background
+Guild artisan: Alchemists and apothecaries
+- Skill Proficiencies: Insight, Persuasion
+- Tool Proficiencies: alchemist's
+- Language: undercommon
+
+# Proficiencies
+class: Saving Throws: Wisdom, Charisma
+background: Insight, Persuasion
+class: Arcana, Investigation
+race: Perception
+Fateful moment 4: Stealth, Survival
+
+# Patron: Hexblade
+Hex Warrior: proficiency with medium armor, shields, and martial weapons
+Hexblade's Curse: 30' 1min, bonus action, +CHA dmg, 19-20 crit, dies +4HP
+Eldritch Invocations: none
+
+# Equipment
+arcane focus: wand
+Backpack
+Crowbar
+Hammer
+10 pitons
+10 torches
+Tinderbox
+10 days Rations
+Waterskin
+50 feet Hempen rope
+mithral half-plate
+2 daggers
+longsword 
+shield 
+guild introduction 
+traveler's clothes
+artisan's tools: alchemist’s supplies
+belt pouch
+
+money: 20 gp
+
+# Spells
+Slots: 2
+Slot Level: 1
+
+c Eldritch Blast - 1d10
+c Booming Blade - hit; enemy move, 1d8 dmg
+
+1st Hex - bonus 90' 1hr/conc: hit +1d6 necrotic, DIS 1 ability check. on death, bonus to change target
+1st Armor of Agathys - +5*lvl HP, 5*lvl cold dmg on melee hit
+
+# Feats
+Warcaster: ADV Conc, AoO cast, no somatic components
+
+# Heroic Cronicle 
+
+Homeland: Xorhas in the Eastern Wynandir (Kryn Dynasty)
+Home Settlement: Rotthold
+Background: Guild Artisan (1 rival, 2 allies), 
+Family: Courtesan mother, Artisan father, bard sister (Hobby, left long ago +1ally, Noble, fateful moment 1)
+Kryn Ally - drinking buddy, weretiger, fateful moment 2
+Dwendalian Empire Ally - drinking buddy, Mage, fateful moment 3
+Clovis Concord Rival - loved this person, broke their heart, Cult fanatic, fateful moment 4
+
+Fateful moment 1: Magic Initiate feat: cleric:
+- c) Light - 20', 40' dim
+- c) Guidance - +d4 ability check (1min, CONC)
+- 1st) Healing Word - 60' +1d4HP
+Fateful moment 2: famous warrior: Martial Adept -
+  Brace (mv into reach, attack reaction, +1d6dmg) 
+  Evasive Footwork (move, +1d6 AC until stop)
+  Indefinite Madness: “I don’t like the way people judge me all the time.”
+Fateful moment 3: gift: Mithral armor - Half plate (15+DEX), no DIS Stealth
+Fateful moment 4: parents murdered: Stealth + Survival
+
+# Notes
+sold "2 simple weapons" (light crossbows) for 25gp, buy longsword (15gp) and shield (10gp)
+sold Leather armor 5gp
+
+other Fateful Moment options:
+3) Goggles of night - 60' darkvision
+3) Mariner's Armor - Half plate (15+DEX), 30' swim speed, don't drown
+5) Martial Adept - 2 of:
+  Brace (mv into reach, attack reaction, +1d6dmg) 
+  Precision Attack (+1d6 attack)
+  Evasive Footwork (move, +1d6 AC until stop)
+  Feinting Attack (ADV attack, +1d6dmg) 
+
