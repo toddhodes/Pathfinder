@@ -63,14 +63,18 @@ c Toll the Dead - 60', WIS or 1d8/1d12 dmg
 1st Hellish Rebuke - 60' reaction: 2d10 fire dmg, DEX for 1/2
 1st Shield - reaction, +5AC, immune magic missle
 2nd Misty Step - bonus: teleport 30'
+2nd Shatter - 60', 10' radius sphere, 3d8 thunder damage (CON save)
 2nd Blur - 1min/conc: disadvantage on attacks
 2nd Hold Person - 60' WIS or paralyzed, 1min/concentration
 2nd Mirror Image - 3 images 1min
 2nd Darkness - 60' 10min/conc: dark!
 2nd Branding Smite - bonus, 1min/conc: hit +2d6 radiant, becomes visible, sheds 5' light, can’t become invisible
+3rd Fear - 1min/conc; 30' cone, WIS save or drop held items and become frightened
+3rd Hypnotic Pattern - 1min/conc; 30' cube, WIS save or incapacitated (until action to shake)
 3rd Counterspell - reaction, lvl or lower spell, or DC 10+lvl
 3rd Hunger Of Hadar
 4th Sickening Radiance
+6th Synaptic Static
 
 No:
 1st Wrathful Smite - bonus, 1min/conc: hit +1d6 psychic dmg, WIS or frightened. action to save to end.
