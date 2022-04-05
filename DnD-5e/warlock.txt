@@ -22,20 +22,31 @@ Pact of the Blade:
 
 # Equipment
 
-Rod of the Pact Keeper, +1 , +2, +3 (uncommon, attunement warlock, held)
-+N spell attack and DC; regain spell slot. 1/long rest.
+uncommon:
+Rod of the Pact Keeper +1 (attune warlock, held) - +N spell attack/DC; regain spell slot
+Pearl of Power (attune) - action: regain one expended spell slot. 1/day
+Spell Gem, 1st	level (attune) - store level spell 1/day
+Sentinel Shield - ADV on initiative & Perception
+Goggles Of Night - darkvision 60'
+Shield +1
+Staff of the Python (attune) - becomes Giant Constrictor Snake (60HP, AC12, +6/2d8+4)
 
-Pearl of Power (uncommon attunement) - action: regain one expended spell slot. 1/day
-Spell Gem, 1st	level (uncommon), 2nd level (rare) - store level spell 1/day
-Ring Of Spell Storing (rare) - store 5 levels of spells
-Illusionist's Bracers (v.rare attunement): cast cantrip, bonus action cast same cantrip
-Staff of the Magi (legendary) - +2 att/dmg
-Robe of the Archmagi - mosty for wizards due to defense
+rare:
+Rod of the Pact Keeper +2 (attune warlock, held) - +N spell attack/DC; regain spell slot
+Flametongue longsword - +2d6 fire
+Cloak of Displacement - (attune) DIS on attacks against you (supress on dmg)
+Ring Of Spell Storing - store 5 levels of spells
+Spell Gem, 2nd level (attune) - store level spell 1/day
+
+v. rare:
+Rod of the Pact Keeper +3 (attune warlock, held) - +N spell attack/DC; regain spell slot
+Illusionist's Bracers (attune): cast cantrip, bonus action cast same cantrip
 
 bought:
-Dark Shard Amulet (common, attunement warlock) - focus & cast any warlock cantrip. DC 10 Arcana. 1/long rest.
+Dark Shard Amulet (attune warlock) - focus & cast any warlock cantrip. DC 10 Arcana. 1/long rest.
+
 uneeded:
-Ruby of the War Mage (common, attunement) - weapon as spellcasting focus
+Ruby of the War Mage (attune) - weapon as spellcasting focus
 
 # Eldritch Invocations
 
