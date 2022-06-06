@@ -23,9 +23,8 @@ Pact of the Blade:
 # Equipment
 
 uncommon:
-Rod of the Pact Keeper +1 (attune warlock, held) - +N spell attack/DC; regain spell slot
 Pearl of Power (attune) - action: regain one expended spell slot. 1/day
-Spell Gem, 1st	level (attune) - store level spell 1/day
+Spell Gem, 1st	level - store level spell 1/day
 Sentinel Shield - ADV on initiative & Perception
 Goggles Of Night - darkvision 60'
 Shield +1
@@ -36,13 +35,15 @@ Rod of the Pact Keeper +2 (attune warlock, held) - +N spell attack/DC; regain sp
 Flametongue longsword - +2d6 fire
 Cloak of Displacement - (attune) DIS on attacks against you (supress on dmg)
 Ring Of Spell Storing - store 5 levels of spells
-Spell Gem, 2nd level (attune) - store level spell 1/day
+Spell Gem, 2nd level - store level spell 1/day
 
 v. rare:
 Rod of the Pact Keeper +3 (attune warlock, held) - +N spell attack/DC; regain spell slot
 Illusionist's Bracers (attune): cast cantrip, bonus action cast same cantrip
 
-bought:
+bought/obtained:
+Pearl of Power "x2" (attune) - action: regain one expended spell slot. 2/day
+Rod of the Pact Keeper +1 (attune warlock, held) - +N spell attack/DC; regain spell slot
 Dark Shard Amulet (attune warlock) - focus & cast any warlock cantrip. DC 10 Arcana. 1/long rest.
 
 uneeded:
@@ -80,10 +81,12 @@ c Toll the Dead - 60', WIS or 1d8/1d12 dmg
 2nd Mirror Image - 3 images 1min
 2nd Darkness - 60' 10min/conc: dark!
 2nd Branding Smite - bonus, 1min/conc: hit +2d6 radiant, becomes visible, sheds 5' light, can’t become invisible
-3rd Fear - 1min/conc; 30' cone, WIS save or drop held items and become frightened
+3rd Summon Fey - 1hour/conc; 90' 1hour
 3rd Hypnotic Pattern - 1min/conc; 30' cube, WIS save or incapacitated (until action to shake)
 3rd Counterspell - reaction, lvl or lower spell, or DC 10+lvl
-3rd Hunger Of Hadar
+3rd Thunder Step - action, 90' teleport; 10' radius, 3d10 CON save
+3rd Fear - 1min/conc; 30' cone, WIS save or drop held items and become frightened
+3rd Fly, Hunger Of Hadar
 4th Sickening Radiance
 6th Synaptic Static
 
