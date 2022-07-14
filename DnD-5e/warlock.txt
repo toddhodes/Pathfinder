@@ -16,7 +16,6 @@ Pact of the Chain:
 Pact of the Blade:
   EI: Improved Pact Weapon - weapon is spellcasting focus & +1 att/dmg
   EI 5th: Thirsting Blade: attack twice instead of once
-  EI 5th: Eldritch Smite: expend slot, +(lvl+1)d8 force dmg + knock prone
   EI 12th: Lifedrinker: +CHA necrotic dmg
 
 
@@ -53,15 +52,12 @@ Ruby of the War Mage (attune) - weapon as spellcasting focus
 
 Agonizing Blast - +CHA dmg ElBlast
 Fiendish Vigor - cast False Life at will (1st): 1d4+4 HP -> 8HP
+Thirsting Blade (5th PotB) - extra attack w/ PofB weapon
 Devil's Sight - 120' see in darkness
+Maddening Hex (5th) - bonus action CHA dmg to hex'd opponent
 Repelling Blast - push 10' ElBlast
 Lance of Lethargy - ElBlast reduce speed 10'
-Thirsting Blade (5th PotB) - extra attack w/ PofB weapon
-Eldritch Smite (5th PotB) - spell slot +(N+1)d8 dmg
-Improved Pact Weapon (PotB) - spellcasting focus & +1 att/dmg
-Maddening Hex (5th) - bonus action CHA dmg to hex'd opponent
 Sign of Ill Omen (5th) - Bestow Curse 1/day
-Eldritch Mind - ADV CON concentration (use feat instead)
 
 # Spells
 
@@ -84,14 +80,13 @@ c Toll the Dead - 60', WIS or 1d8/1d12 dmg
 3rd Summon Fey - 1hour/conc; 90' 1hour
 3rd Hypnotic Pattern - 1min/conc; 30' cube, WIS save or incapacitated (until action to shake)
 3rd Counterspell - reaction, lvl or lower spell, or DC 10+lvl
+3rd Blink - end of turn, vanish 11+, return start of next turn
 3rd Thunder Step - action, 90' teleport; 10' radius, 3d10 CON save
 3rd Fear - 1min/conc; 30' cone, WIS save or drop held items and become frightened
-3rd Fly, Hunger Of Hadar
+3rd Fly
+3rd Hunger Of Hadar
 4th Sickening Radiance
 6th Synaptic Static
-
-No:
-1st Wrathful Smite - bonus, 1min/conc: hit +1d6 psychic dmg, WIS or frightened. action to save to end.
 
 # Feats
 
