@@ -21,32 +21,36 @@ Pact of the Blade:
 
 # Equipment
 
-uncommon:
-Pearl of Power (attune) - action: regain one expended spell slot. 1/day
+Uncommon:
 Spell Gem, 1st	level - store level spell 1/day
 Sentinel Shield - ADV on initiative & Perception
 Goggles Of Night - darkvision 60'
 Shield +1
 Staff of the Python (attune) - becomes Giant Constrictor Snake (60HP, AC12, +6/2d8+4)
+Cloak Of Protection - AC +1, Saving Throws +1
+Headband of Intellect (attune) - Intelligence 19
 
-rare:
+Rare:
 Rod of the Pact Keeper +2 (attune warlock, held) - +N spell attack/DC; regain spell slot
 Flametongue longsword - +2d6 fire
 Cloak of Displacement - (attune) DIS on attacks against you (supress on dmg)
 Ring Of Spell Storing - store 5 levels of spells
 Spell Gem, 2nd level - store level spell 1/day
+Sun Blade (attune): longsword +2, radiant damage, undead takes +1d8 radiant
 
-v. rare:
+V. Rare:
 Rod of the Pact Keeper +3 (attune warlock, held) - +N spell attack/DC; regain spell slot
 Illusionist's Bracers (attune): cast cantrip, bonus action cast same cantrip
 
-bought/obtained:
-Pearl of Power "x2" (attune) - action: regain one expended spell slot. 2/day
-Rod of the Pact Keeper +1 (attune warlock, held) - +N spell attack/DC; regain spell slot
-Dark Shard Amulet (attune warlock) - focus & cast any warlock cantrip. DC 10 Arcana. 1/long rest.
 
-uneeded:
+Bought/Obtained:
+Rod of the Pact Keeper +1 (attune warlock, held) - +N spell attack/DC; regain spell slot; focus
+Pearl of Power "x2" (attune) - action: regain one expended spell slot. 2/day
+
+Uneeded:
+Dark Shard Amulet (attune warlock) - focus & cast any warlock cantrip. DC 10 Arcana. 1/long rest.
 Ruby of the War Mage (attune) - weapon as spellcasting focus
+Pearl of Power (attune) - action: regain one expended spell slot. 1/day
 
 # Eldritch Invocations
 
@@ -94,7 +98,7 @@ War caster: ADV Conc, AoO cast, no somatic components
 Resiliant: +1 Ability score; ADV saves on that score
 Lucky: 3 extra d20
 Metamagic adept: 3 Metamagic options from the sorcerer, 2 sorcery points
-Spell Sniper: doible range, ignore cover, learn an attack cantrip
+Spell Sniper: double range, ignore cover, learn an attack cantrip
 Great Weapon Master: -5 hit, +10 dmg
 Eldritch Adept: +1 EI
 
