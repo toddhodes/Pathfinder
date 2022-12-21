@@ -88,7 +88,6 @@ healing potion: 5 @ 1d8                                                 250 *
 
 * = 1990
 
-
 -----
 FOR THE FUTURE:
 Needler rifle, tactical (1d6 P, 70', 14 darts) analog injection  200
@@ -96,6 +95,12 @@ Formian Venomcaster, Tactical	(1d8 P, 40' 6 darts) analog, injection, unwieldy 1
  + conserving fusion (miss doesn't use ammo) 440 @ lvl3
 feat + shield: Riot shoeld basic +1/+1   300
 personal upgrade +2, 1400
+
+
+--- 3rd level: undocumented
+
+Spark of ingenuity 1/day, weapon specialization
+feat: weapon specialization: longarms
 
 
 --- 4th level:
@@ -130,6 +135,31 @@ to convert to venom: 225 buff gun + 1325 venom + 440 fusion - 400 lance = 1550+4
 Brooch of Shielding 1,000; absorbs 55 force damage
 Planar Runeplates, Mk 1 - 2,000; One reroll.
 
+--- 5th level:
+
+Biohacker 4 / Soldier 1
++1 BAB, +1 Fort, +12 skills
+
+STR 10
+DEX 16 (18)
+CON 13 -> 15
+INT 16 -> 18
+WIS 8 -> 10
+CHA 10 -> 12
+
+Theorem
+- Painful Injection: +2 dmg injection (+INT/2)
+- Treat Condition: standard action- remove shaken, sickened, or staggered. INT times/short rest
+- Morphing Hack: 1/day biohack- 1st lvl polymorph (Fort save).  CL lvl(4), INT(4) rounds
+- Field Dressing: heal
+
+Feat
+- Improved Demoralize: intimidate move action, 30' shaken
+- Mobility+4 AC against AoO from movement
+- Shield Proficiency: buy shiled, +1 ac
+- Fighting Balance: move action, crawl 10'. prone, −2 to melee attack, no penalty to AC against melee
+- Enhanced Resistance: piercing? fire?
+- Quick Quip: move action; DC 15+1.5×CR. against you target’s attacks off-target & flat-footed; lasts to end of your next turn
 
 ---
 https://www.reddit.com/r/starfinder_rpg/comments/a56dp0/biohacker/
