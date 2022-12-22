@@ -101,6 +101,7 @@ personal upgrade +2, 1400
 
 Spark of ingenuity 1/day, weapon specialization
 feat: weapon specialization: longarms
+personal upgrade +2
 
 
 --- 4th level:
@@ -149,17 +150,22 @@ CHA 10 -> 12
 
 Theorem
 - Painful Injection: +2 dmg injection (+INT/2)
-- Treat Condition: standard action- remove shaken, sickened, or staggered. INT times/short rest
+* Treat Condition: standard action- remove shaken, sickened, or staggered. INT times/short rest
 - Morphing Hack: 1/day biohack- 1st lvl polymorph (Fort save).  CL lvl(4), INT(4) rounds
 - Field Dressing: heal
 
 Feat
-- Improved Demoralize: intimidate move action, 30' shaken
-- Mobility+4 AC against AoO from movement
-- Shield Proficiency: buy shiled, +1 ac
-- Fighting Balance: move action, crawl 10'. prone, −2 to melee attack, no penalty to AC against melee
-- Enhanced Resistance: piercing? fire?
-- Quick Quip: move action; DC 15+1.5×CR. against you target’s attacks off-target & flat-footed; lasts to end of your next turn
+* Enhanced Resistance: 5 fire (piercing?)
+- Fighting Balance: move action, crawl 10. prone: −2 to melee attack, no penalty to AC against melee
+- Toughness: +lvl STAM
+- Shield Proficiency: buy shield, +1 ac
+- Mobility +4 AC against AoO from movement
+- Improved Demoralize: intimidate move action, 30', shaken
+- Quick Quip: move action; DC 15+1.5×CR diplomacy. target’s attacks off-target & flat-footed to you; until end of your next turn
+
+if money:
+Lashunta Ringwear II: 2970, +8/+10, 2DEX, -2ACP, -5 ft, 1 slot
+Hardplate Basic: 3000  +10/+11, 3DEX, -2ACP, -5 ft., 0 slots
 
 ---
 https://www.reddit.com/r/starfinder_rpg/comments/a56dp0/biohacker/
