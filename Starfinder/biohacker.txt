@@ -163,9 +163,19 @@ Feat
 - Improved Demoralize: intimidate move action, 30', shaken
 - Quick Quip: move action; DC 15+1.5×CR diplomacy. target’s attacks off-target & flat-footed to you; until end of your next turn
 
-if money:
-Lashunta Ringwear II: 2970, +8/+10, 2DEX, -2ACP, -5 ft, 1 slot
-Hardplate Basic: 3000  +10/+11, 3DEX, -2ACP, -5 ft., 0 slots
+
+$$$::
+- Lashunta Ringwear II: lvl5 2970, +8/+10, 2DEX, -2ACP, -5 ft, 1 slot
+- Hardplate Basic: 3000  +10/+11, 3DEX, -2ACP, -5 ft., 0 slots
+
+any 5th < 4k:
+* EJ Hardsuit, Advanced:    lvl5    3,500    +8/+10    2DEX    –2ACP    –5 ft.    3slots
+* Needler Rifle, Advanced    lvl5    3,000    1d8 P    70 ft.    14 darts    Analog, injection
+
+
+already had the Conserving fusion (to avoid wasting biohacks on a miss) and
+2 armor fusions (IR and jump jets), so, that's about it!
+
 
 ---
 https://www.reddit.com/r/starfinder_rpg/comments/a56dp0/biohacker/
