@@ -1,5 +1,7 @@
 
-# Portal of the Worlds
+# Portal of Worlds
+
+## Background
 
 access to:
 - Xhorhas, northern lands, ruled by the Kryn Dynasty, in Wildemount
@@ -21,7 +23,7 @@ access to:
 - Grewhawk, the continent
 - Strixhaven university
 - Candlekeep library
-- the Radiant Citadel - spire in the ethereal plane
+- the Radiant Citadel - spire in the ethereal plane, House of Convalescence
 - the Feywilds - Wild beyond the Witchlight
 - the Underdark - ruled by Drow (dark elves), Duergar (gray dwarves), Svirfneblin (Deep Gnomes)
 - the Yawning Portal - passage to White Plume Mountain
@@ -39,11 +41,15 @@ when one is sighted, there is a chance there is a portal gate open in the vicini
 moreover, the might be travellers nearby who have used it.
 
 
-# Tavern history
+## Our story starts in the evening at a commonhouse
 
-garther around children, I'll tell you your favorite story 
-the story of Vespin Chloras
-but then it is time for bed.
+Warm candlelight, clean food smells, the clink of glassware
+A Godmother corrals some kids in th corner
+Heavier, war-weary men, veterans and farmhands, sit across the scattered tables
+
+"gather around children, I'll tell you our favorite story, and then it's off to sleep."
+
+this is the story of Vespin Chloras, the Calamity, and the Divergance
 
 once upon a time, long before the Calamity, in the Age of Arcanum, the world
 was perfect.  The benevolent Devine Prime Dieties ruled the lands, having
@@ -80,72 +86,125 @@ God in the process, and leaving all the exiting Prime Gods in place.  He thought
 But in doing so, he had to first free the Betrayer Gods from their prisons ... failing to become a God
 and insteaed became the left hand of Asmodeus.
 
-Along the way were legends of 3 great weapons: Blackrazor, Whelm, and Wave, and rumor has it they lay together
-underneath White Plume Mountain to this day, protected by a great wizard's magical home.  Tho he must be dead by now.
-
-His failure led to the Calamity.  The city of Avalir fell from the clouds and 
-
-The release of the Betrayer Gods from their extraplanar prisons caused the
-Calamity, a war that killed two-thirds of Exandria's population and left
-permanent scars on its continents.  The teeth used to be mountains!
+His failure led to the release of the Betrayer Gods from their extraplanar prisons, 
+which caused the Calamity, a war that killed two-thirds of Exandria's population and left
+permanent scars on its continents.  The city of Avalir fell from the clouds.  The teeth were shattered. 
 (The Shattered Teeth is a major archipelago of 43 islands, located on Exandria
 southeast of Tal'Dorei and far south of Wildemount, past the persistent
 fogbank known as the Fool's Curtain )
 
-When the Prime Deities and their allies finally defeated the Betrayer Gods,
-they hoped to seal them away for good.  Thus came The Divergence -- the most
+Eventually, the Prime Deities and their allies finally defeated the Betrayer Gods,
+and hoped to seal them away for good.  Thus came The Divergence -- the most
 common name for the creation of the Divine Gate, a barrier that prevented the
 gods from returning to the Material Plane and thereby diminished their
 influence on Exandria. It marks the end of the Age of Arcanum.
 
-And here we are now.  So, be good childrem, or Vespin Chloras will visit you
-in your sleep. clawing his way back from hell!
+Along the way were created great artifacts, and their legends.  Aong thes are
+The Vestiges of Divergence: ancient and powerful artifacts from the Calamity. During the Age of
+Arcanum, siphons were placed at nexuses of ley lines across Exandria to gather raw energy for
+the crafting of powerful artifacts, including Vestiges.  Since the Calamity, these items have
+been scattered around the world -— some lost, others symbols of power of bloodlines or
+government, some stolen
 
+One, a set of weapons: Blackrazor, Whelm, and Wave. 
+1) life eater, 2) Dwarven crafting warhammer, 3) Sea-bonded trident
+rumor has it they lay together underneath White Plume Mountain to this day, protected inside a
+great wizard's magical home.  Tho he must be dead by now.  
 
-# Our story starts on the road
+And here we are now.  Be vigilant childrem, or the minions of Vespin Chloras will visit you,
+clawing his way back from hell!
 
-Lost Mine of Phalender
+### Vestiges of Divergence
 
+The Vestiges are legendary artifacts that grow in power with the bearer.  Vestiges start
+reverted to their dormant state. A vestige in its dormant state still imbues power, but with
+personal growth, the Vestige can reach its Awakened state. Eventually, through extreme
+achievement, the Vestige can reach its full potential in its Exalted state.
 
-## Shapeshifters at the Entry Gate 
+Vestiges are more than fancy equipment.  They can take on unique connections to Prime Dieties or Betrayers.
+
+## The rest of our story is up to you
+
+as you head out on the road...
+
+you have your choice:
+- head toward Jigow past Phandelver (Lost Mine of Phandelver), the path to Calamity-era Vestiges of Divergence
+- head toward the Menagerie Coast (Call of the Nerherdeep arc pre-show), the sunny village of Palma Flora 
+  shark-hunting tournament and Palma Flora cocktails
+- head to the Radiant Citadel, the path to unique civilizations and the House of Convalescence
+- head to the Candlekeep library, the path to hidden arcane knowledege
+- head to the Yawning Portal, the path to Blackrazor, Whelm, and Wave
+- do something else
+
+# Hooks
+
+## Warning at the Entry Gate 
 
 at gate, incoming visitors must sign
- --> make them show their sign
+ --> make them create their signature/sigil/sign
 
 explain there has been a rash of shapeshifter robberies
+use your sigil to prove who you are
 
-## Tavern
+## First Tavern
 
 roll to see what quests they hear about
 
 ### Milf
 
-claims he is 1/2 kobold, is actually 7/8 at best
-has pole w/ glass jar and bees in it
+a kobold covered in undersized, home-spun gear approaches you, tentatively.  he smells of pets/dander.
+- staff with a live scorpion secured to the tip, stinger end pointed out
+- flail w/ a glass jar of hornets 
+- wooden cage with live giant centipede, which seems oddly aware of you and listening in
 
-points to one of the char's races, says they have much in common
+"hi!  i'm milf -- you know, like milk, but more fuckable!"
+claims he is 3/4 human, is actually not human at all
+an "inventor"
+
+points to one of the charis of alternative race, says they have much in common
 asks if they have kobold ancestry
-are you my uncle?
+asks -- are you my uncle?  agrees they definitely are.
+"do you know my brother, Spurt, also a inventor?  Spurt is doing important things!"
 
-half crouches down to feign sitting, as there is no chair for him to join
+half crouches down to feign sitting, as there is no chair for him to join,
+smiles a meek smile, sips something from a tin cup
+
 
 ### City Watch arrives
 
-2 guards,
-random player is charged with robbery leading to murder
+3 guards arrive:
+slaps down a drawing looking suspiciously like random player
+is charged with robbery leading to murder
 ask if they want to come now or do we need to get more guards
-ask if they are prepared to bring witnesses to whereabouts and character
+ask if they are prepared to bring witnesses to whereabouts and character or if they need to retrieve them
 
-at jail, explain there is no presumption of innocence or guilt
-prepondernace of evidence
-
+at jail:
+- explain there is no presumption of innocence or guilt -- prepondernace of evidence
 --> ask each char to provide a statement
 
-find guilty.  your options:
+find guilty, your options:
 - hard labor for 8 weeks
-- 2000 GP fine, taken as loan plus interest
-- 1000 GP fine, waived if you accept a mission from one of the sheets on the desk
+- 1000 GP fine, loan plus interest, 25% bond, 8 payments
+- waive fine if you accept temporary conscription or assignment (a mission from one of the sheets on the desk)
   (sheets come from "the king or the king's hand or the king's council, or queen, or his kid, or some shit)
+
+--> "we'll find you"
+
+## Citadel regions
+
+Salted Legacy - Bankok
+Written in Blood - Southern gothic
+The Fiend Of Hollow Mine - Mexico
+Wages Of Vice - New Orleans
+Sins Of Our Elders - Korea
+Gold For Fools And Princes - Mali Africa
+Trail Of Destruction - Aztec
+In The Mists Of Manivarsha - Bengal (India, Bangladesh)
+Between Tangled Roots - Phillipines
+Shadow Of The Sun - Iran / Persia
+The Nightsea's Succor - African diaspora
+Buried Dynasty - China
+Orchids Of The Invisible Mountain - Venezuela
 
 
 
