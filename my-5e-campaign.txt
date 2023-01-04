@@ -10,6 +10,7 @@ access to:
   Rosohna: capital, built on the ruins of Ghor Dranas.
   Asarius: the "City of Beasts"
   Jigow: northern village on the shores of the Emerald Gulch.
+  Xhorhas, on the continent of Wildemount, was once a land dominated by the Betrayer Gods. 
 - Dwendalian Empire on the continent of Wildemount,
   Rexxentrum: capital, massive city (2xEmon)
   To the east are the Ashkeeper Peaks forming the boundary with Xhorhas. 
@@ -18,17 +19,18 @@ access to:
 - Tal'Doreia continent and republic
   Emon: capital city 
   
-- Ravinika, a sprawling cityscape
-- Eberron, in Khorvaire (Sharn)
 - Grewhawk, the continent
-- Strixhaven university
-- Candlekeep library
+- the Candlekeep library
 - the Radiant Citadel - spire in the ethereal plane, House of Convalescence
-- the Feywilds - Wild beyond the Witchlight
-- the Underdark - ruled by Drow (dark elves), Duergar (gray dwarves), Svirfneblin (Deep Gnomes)
 - the Yawning Portal - passage to White Plume Mountain
+- the Underdark - ruled by Drow (dark elves), Duergar (gray dwarves), Svirfneblin (Deep Gnomes)
+- the Feywilds - Wild beyond the Witchlight
+
+- Strixhaven university
 - Chult - jungle empire in Forgotten Realms
 - Sword Coast - Neverwinter, Waterdeep, etc, in the Forgotten Realms
+- Ravinika, a sprawling cityscape
+- Eberron, in Khorvaire (Sharn)
 
 can be used in a ritual w/ spell components: 1000 GP to world shift / 500 GP for in-world teleport
 
@@ -108,7 +110,7 @@ government, some stolen
 
 One, a set of weapons: Blackrazor, Whelm, and Wave. 
 1) life eater, 2) Dwarven crafting warhammer, 3) Sea-bonded trident
-rumor has it they lay together underneath White Plume Mountain to this day, protected inside a
+rumor has it they lay together underneath White Plume Mountain Volcano to this day, protected inside a
 great wizard's magical home.  Tho he must be dead by now.  
 
 And here we are now.  Be vigilant childrem, or the minions of Vespin Chloras will visit you,
@@ -123,6 +125,8 @@ achievement, the Vestige can reach its full potential in its Exalted state.
 
 Vestiges are more than fancy equipment.  They can take on unique connections to Prime Dieties or Betrayers.
 
+Xhorhas, on the continent of Wildemount, was once a land dominated by the Betrayer Gods. 
+
 ## The rest of our story is up to you
 
 as you head out on the road...
@@ -133,7 +137,7 @@ you have your choice:
   shark-hunting tournament and Palma Flora cocktails
 - head to the Radiant Citadel, the path to unique civilizations and the House of Convalescence
 - head to the Candlekeep library, the path to hidden arcane knowledege
-- head to the Yawning Portal, the path to Blackrazor, Whelm, and Wave
+- head to the Yawning Portal, the path to White Plume Mountain, and Blackrazor, Whelm, and Wave
 - do something else
 
 # Hooks
@@ -144,11 +148,18 @@ at gate, incoming visitors must sign
  --> make them create their signature/sigil/sign
 
 explain there has been a rash of shapeshifter robberies
-use your sigil to prove who you are
+probably Doppelgangers (or Succubus, Oni, or Red Slaad)
+"use your sigil to prove who you are"
 
 ## First Tavern
 
-roll to see what quests they hear about
+ask for rolls, provide quest hooks
+- festival season
+  - palma flora (lvl1)
+  - Jigow's Festival of Merit (lvl3)
+  - SiabSungKoh: dyn singh night market games celebration, joined by many in the Radiant Citadel (lvl1) / bangkok
+  - Godsbreath's Festival of Awakening & Awakening Song (lvl3)
+  - Zinda March of Vice: honoring jeli wine (lvl5) / new orleans
 
 ### Milf
 
@@ -184,15 +195,38 @@ at jail:
 
 find guilty, your options:
 - hard labor for 8 weeks
-- 1000 GP fine, loan plus interest, 25% bond, 8 payments
+- 400 GP fine, loan plus interest, 25% bond, 8 payments
 - waive fine if you accept temporary conscription or assignment (a mission from one of the sheets on the desk)
   (sheets come from "the king or the king's hand or the king's council, or queen, or his kid, or some shit)
 
 --> "we'll find you"
 
-## Citadel regions
+### Clues
 
-Salted Legacy - Bankok
+- lots of missing persons on the city announcements board
+- "shapeshifters" are actually trying to ferrit out one of their circle who is pursuing something
+  and not being honest about it (searching for a vestige)
+- shapeshifters are acually druids of a druid circle
+- meeting announcements: 
+  - Cobalt Soul, search and preservation of knowledge, Ioun, The Knowing Mistress
+  - the Traveller, trickster
+  - the Wildmother, goddess of wilderness, sea, nature
+  - Sarenrae, healing, redemption
+
+
+### Bait Hook
+
+patronage: Charcters hired/lead to ...
+offer: discover info ...
+confrontation:
+
+
+
+# Appendix
+
+## Radiant Citadel regions
+
+Salted Legacy - Bangkok
 Written in Blood - Southern gothic
 The Fiend Of Hollow Mine - Mexico
 Wages Of Vice - New Orleans
@@ -205,7 +239,5 @@ Shadow Of The Sun - Iran / Persia
 The Nightsea's Succor - African diaspora
 Buried Dynasty - China
 Orchids Of The Invisible Mountain - Venezuela
-
-
 
 
