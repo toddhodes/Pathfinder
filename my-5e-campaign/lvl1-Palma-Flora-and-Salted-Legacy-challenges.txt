@@ -150,23 +150,37 @@ The challenge ends either when the characters bring the four caterpillars to
 area H1 or after 10 rounds pass, whichever occurs first.
 
 
-# Getting a Shark Hunt Challenge invitation
-
- up to the characters
-
- run a shark hunt
-
-
-# Concluding
+# Concluding the Series -- Rewards
 
 Winners select crates in reverse order, either opening new one, or, taking item from
 previous selection
 
-Onlookers start yelling -- Huge wave approaching from the horizon. 
-All chars roll:
-DC 15 Wisdom (Perception) - Wave looks unnatural
-DC 20 Wisdom (Perception) - see glimpse of a head that looks like a Sauhaguin
+day ends, characters can try to get a shark hunt invitation
+and get any equipment
 
-... and we pick it up next week.  Level your characters to 2.
+
+# Shark Hunt Challenge invitation
+
+assuming characters find a way to get competition bracelets, 
+competetors line up along the beach with their various outfits and equipment
+
+dscribe sky and sun and smells colors
+describe a sample participant
+ask character to describe how they look and tools and prep
+
+chum buckets arrive
+
+but there is a commotion in the crowd
+
+Onlookers start murmuring 
+
+All chars roll Wisdom (Perception) 
+- DC 10: huge wave approaches on the horizon, and the water is getting sucked out to sea
+- DC 15 Wisdom (Perception) - Wave looks unnatural
+- DC 17 Wisdom (Perception) - see glimpse of a head in the urf
+- DC 20 Wisdom (Perception) - the head looks like a Sauhaguin
+
+
+... and we pick it up next week.  
 
 

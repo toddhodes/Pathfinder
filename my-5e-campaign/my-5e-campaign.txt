@@ -1,6 +1,32 @@
 
 # Portal of Worlds
 
+## Map entities
+
+Menagerie coast
+ Clovis Concorde - marquis of eight independent city-state, governing body of the Menagerie coast
+  - Port Damali, Port Zoon, Gwardan, Tussoa, Othe, Feolinn, Nicodranas, and Brokenbank.
+ Revelry - pirates off the Menagerie coast
+  - Darktow
+
+Wynandir
+ Dwendalian Empire - rules over Western Wynandir; western central, Zemni Fields, Marrow Valley
+ Cerberus Assembly- 8 mages under the king in the DE, stole two Luxon beacons from the Kryn Dynasty (war)
+ The Myriad - continent's largest criminal organization. centered in Yrrosa.
+   sworn to keep their syndicate secret by pretending that their chapter is still just
+   another local gang. This has given the Myriad a sinister and enigmatic reputation,
+ Colbalt Soul - distributed library, centered in Rexxentrum -- network of worshipers of Ioun
+
+Xhorhas
+  Krynn Dynasty - rules Xhorhas; goal is to seek out and recover the Luxon beacons scattered across Exandria
+  Children of Malice - Lolth worshipers, spies, and assassins (Spide Queen or the Demonweb pits)
+  Roshana --> built atop Ghor Dranas, stronghold of the Betrayer Gods. Drow emerged from Underdark.
+
+Biting North 
+ Greying Wildlands - Tribes of Shadycreek Run
+ Eiselcross - land of Chaos magic
+
+
 ## Background
 
 access to:
