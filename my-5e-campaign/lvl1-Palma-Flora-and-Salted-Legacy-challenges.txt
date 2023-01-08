@@ -6,8 +6,8 @@ Adapting to Palma Flora
 DC 10 History:
    The village of Palma Flora is known for its vibrant green foliage, its competitive
    shark-hunting tournaments, and a sweet cocktail that shares the village's name.
-DC 15:
-DC 20:
+DC 15: there have been troubles some years
+DC 20: local politics is complicated; some breakaway youth and water-aligned locals/races worship Uk'otoa
 
 
  Tour the city
@@ -20,11 +20,11 @@ DC 20:
   At center of town are 4 large wrapped crates.  2 Winners select crates in reverse
   order, either opening new one, or, taking item from previous selection
 
-  DC 15 History, Investigation, Persuasion: 
+  DC 15 Investigation, Persuasion:
       A small clan of some sahuagin that has grown weary of the shark hunters of Palma
       Flora. Year after year, the sea devils have harrased or even attacked the shark
       hunters in an effort to spoil the tournaments.
-  DC 20: They lurking in the Sharkfeather Abyss
+  DC 20: They lurk in the Sharkfeather Abyss
 
 
 # Challenges
