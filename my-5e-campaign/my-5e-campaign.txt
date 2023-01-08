@@ -15,7 +15,8 @@ Wynandir
  The Myriad - continent's largest criminal organization. centered in Yrrosa.
    sworn to keep their syndicate secret by pretending that their chapter is still just
    another local gang. This has given the Myriad a sinister and enigmatic reputation,
- Colbalt Soul - distributed library, centered in Rexxentrum -- network of worshipers of Ioun
+ Colbalt Soul (monks of) - distributed library, centered in Rexxentrum -- network of worshipers of Ioun
+   she was mortally wounded by the Chained Oblivion, who want to finish the job
 
 Xhorhas
   Krynn Dynasty - rules Xhorhas; goal is to seek out and recover the Luxon beacons scattered across Exandria

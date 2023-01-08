@@ -164,6 +164,13 @@ and get any equipment
 assuming characters find a way to get competition bracelets, 
 competetors line up along the beach with their various outfits and equipment
 
+  "A cool breeze drifts across Flora Isle, mingling the sweet scent of flowers with the
+  salty tang of the Lucidian Ocean. Well-tanned locals play on the beach, while
+  sunburned visitors sit in wicker chairs and sip cold drinks. A half-dozen nearly naked
+  shark hunters preparing to compete in the annual tournament stand in the shallows on
+  the south shore, armed with harpoons and their wits."
+
+
 dscribe sky and sun and smells colors
 describe a sample participant
 ask character to describe how they look and tools and prep
