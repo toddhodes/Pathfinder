@@ -17,7 +17,7 @@ studious: +1 WILL, +skills
 +1 hit injection
 attunement (free to-hit): 6 (3 + INT)
 
-identify creature (60' move action): 29
+identify creature (60' move action): 34
    (20 + Phys/Life Sci)
 
 basic biohacks (per short rest): 4 (1 + INT)
@@ -149,8 +149,8 @@ WIS 8 -> 10
 CHA 10 -> 12
 
 Theorem
-- Painful Injection: +2 dmg injection (+INT/2)
-* Treat Condition: standard action- remove shaken, sickened, or staggered. INT times/short rest
+* Painful Injection: +2 dmg injection (+INT/2)
+- Treat Condition: standard action- remove shaken, sickened, or staggered. INT times/short rest
 - Morphing Hack: 1/day biohack- 1st lvl polymorph (Fort save).  CL lvl(4), INT(4) rounds
 - Field Dressing: heal
 
