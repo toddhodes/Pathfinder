@@ -28,6 +28,9 @@ Biting North
  Eiselcross - land of Chaos magic
 
 
+War:  Dwendalian Empire & Krynn Dynasty are at war. crossing can be perilous or illegal.  
+      but obviously the border is porous.
+
 ## Background
 
 access to:
@@ -192,9 +195,16 @@ Xhorhas, on the continent of Wildemount, was once a land dominated by the Betray
 
 as you head out on the road...
 
+It is festival season all over the continent, and other Portal destinations, such as the
+radiant citidel.  You were headed to Jigow for the city's annual Festival of Merit. A
+random encounter instead lead you to change direction, and head toward the Menagerie Coast, 
+the sunny village of Palma Flora for its annual  shark-hunting tournament, and the idea
+of world-famous Palma Flora cocktails
+
+
 you have your choice:
-- head toward Jigow past Phandelver (Lost Mine of Phandelver), the path to Calamity-era Vestiges of Divergence
-- head toward the Menagerie Coast (Call of the Nerherdeep arc pre-show), the sunny village of Palma Flora 
+- head back toward Jigow past Phandelver (Lost Mine of Phandelver), the path to Calamity-era Vestiges of Divergence
+- continue toward the Menagerie Coast (Call of the Nerherdeep arc pre-show), the sunny village of Palma Flora 
   shark-hunting tournament and Palma Flora cocktails
 - head to the Radiant Citadel, the path to unique civilizations and the House of Convalescence
 - head to the Candlekeep library, the path to hidden arcane knowledege
