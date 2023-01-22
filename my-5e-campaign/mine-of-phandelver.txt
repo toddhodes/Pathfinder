@@ -1,27 +1,97 @@
 
 # Cragmaw Hideout
 
+rescue Sildar and learn that Gundren and his brothers discovered a famous lost mine. 
+Gundren and his map have been taken to "Cragmaw Castle."
 
-# Phandelver
+# Phandalin
 
-Quests:
- - Sister Garaele wants the characters to seek out the banshee Agatha in the ruined town
- of Conybery and ask her about Bowgentle's spellbook.
- - Daran Edermath wants the characters to find out who is lurking near the ruins at Old
- Owl Well.
- - Quelline Alderleaf has suggested that the characters go to the ruined town of
- Thundertree and consult with the druid Reidoth, who might know the whereabouts of
- Cragmaw Castle, Wave Echo Cave, or both.
- - Townmaster Harbin Wester wants the characters to seek out an orc encampment near
- Wyvern Tor and chase the orcs away from the area.
- - Sildar Hallwinter wants the characters to find Cragmaw Castle, search for Gundren
- Rockseeker, rescue the dwarf, and retrieve his map.
+## Stonehill Inn 
 
-## Overland Travel
+Rumors:
+- Narth, an old farmer: "Sister Garaele, who oversees the Shrine of Luck, recently left
+town for a few days, then returned wounded and exhausted." "Shrine of Luck" section
+
+- Elsa, a gossipy barmaid: "Daran Edermath, the orchard keeper, is a former adventurer."
+"Edermath Orchard" section
+
+- Lanar, a miner: "Orc raiders have been seen on the east end of Triboar Trail. The
+townmaster is looking for someone to run them off." "Townmaster's Hall" section
+
+- Trilena, the innkeeper's wife: "Thel Dendrar, a local woodcarver, stood up to the
+Redbrands a tenday ago when they came by his shop and leered at his wife. The ruffians
+murdered him. Several townsfolk saw it happen. The Redbrands grabbed his body, and now
+his wife, daughter, and son have gone missing too." (Redbrands took Thel's wife and
+children to their secret hideout.)
+
+- Pip, Toblen's young son: "Qelline Alderleaf's son Carp said he found a secret tunnel in
+the woods, but Redbrands almost caught him." "Alderleaf Farm" section
+
+- Freda, a weaver: "The Redbrands hassle every business in town, except for the Phandalin
+Miner's Exchange. They don't want trouble with Halia Thornton, who runs it." "Phandalin
+Miner's Exchange" section
+
+  --> Overland Travel
 
  "A light rain dampens the rolling plains as you travel north. Around midday, you break
  for lunch under a lonely tree. There, the rogue finds a small rock that looks like a
  grinning face, but otherwise you see nothing out of the ordinary."
+
+
+## Barthens Provisions
+- Deliver goods; also knows mine
+- two more Rockseeker brothers, Nundro and Tharden, are camped somewhere outside town.
+hasn't seen them in a tenday, expects the brothers to return "any day now" to resupply.
+
+
+## Lionshield Coster
+- return stolen goods
+
+## "Shrine of Luck" 
+- banshee Agatha 
+  bring jeweled silver comb, tell location of spellbook belonging to a legendary mage named Bowgentle. 
+  3 potions of healing "Conyberry and Agatha's Lair"
+
+## "Phandalin Miner's Exchange" 
+- Halia Offer: Redbrand ruffians loiter around the Sleeping Giant tap house and
+  have a base under Tresendar Manor.  100gp to eliminate Redbrand leader, Glasstaff, and bring correspondence.  
+  DC 15 Wisdom (Insight) ulterior motives
+
+## "Edermath Orchard" 
+- knows the Redbrands hang around the Sleeping Giant tap house, but he can also tell the
+characters that the main Redbrand safe house lies under Tresendar Manor, the ruin at the
+east edge of town.
+
+- prospectors in the hills northeast of Phandalin digging around in the
+ruins known as Old Owl Well.  chased from the area by undead. 
+knows that the ruins are an old watchtower of an ancient magical empire
+
+## "Townmaster's Hall" / returning Sildar Hallwinter 
+Quest: Orc Trouble: head east on Triboar Trail, band of orcs near Wyvern Tor. 100 gp 
+Quest: Find Cragmaw Castle: find the lost mine of Wave Echo Cave
+       500gp locate and defeat chieftain.  search around Triboar Trail / "Wilderness Encounters" 
+Quest: Finding Iarno / 200gp eliminate redbrands (Glassstaff)
+  Iarno Albrek, Lords' Alliance, disappeared exploring Tresendar Manor two months ago, shortly after arriving 
+  investigate the manor to find Iarno "a short, dark-bearded human wizard in his thirties."
+
+
+## Visit Redbrands at Sleeping Giant
+fight
+
+## "Alderleaf Farm" / Qelline Alderleaf and son Carp 
+- woods near Tresendar Manor secret tunnel in a thicket. 
+- ask Reidoth the Druid for info on locations -- in ruins of a town called Thundertree
+  "there's not an inch of the land he doesn't know." 
+
+
+## Quests Summary
+
+ - Sister Garaele seek banshee Agatha in the ruined town of Conybery and ask about Bowgentle's spellbook.
+ - Daran Edermath wants to find out who is lurking near the ruins at Old Owl Well.
+ - Quelline Alderleaf go to the ruined town of Thundertree and consult with the druid Reidoth, 
+   whereabouts of Cragmaw Castle, Wave Echo Cave, or both.
+ - Townmaster Harbin Wester seek out orc encampment near Wyvern Tor and chase away 
+ - Sildar Hallwinter wants the characters to find Cragmaw Castle, rescue Gundren Rockseeker and map.
 
 
 # The Spider's Web
