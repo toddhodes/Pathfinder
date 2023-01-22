@@ -2,6 +2,9 @@
 
 # Aboard the Windchaser
 
+take aboard the Wavechaser to set upon Port Damali in search of a magical water-breathing apparatus
+
+ - introduce the Revelry
  - deliver to refugees -- friends in any port in the Clovis Concord,
  - go to port
 
