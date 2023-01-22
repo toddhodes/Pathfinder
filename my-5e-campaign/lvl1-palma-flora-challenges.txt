@@ -1,6 +1,4 @@
 
-Adapting to Palma Flora
-
 # Arrival and visit
 
  Tour the city
@@ -12,14 +10,17 @@ Adapting to Palma Flora
   At center of town are a small pile of crates.  Winners select crates if they have 
   earned enough tickets. (Magic items table B)
 
-  DC 10 History:
-     The village of Palma Flora is known for its vibrant green foliage, its competitive
-     shark-hunting tournaments, and a sweet cocktail that shares the village's name.
-  DC 15 History, Investigation, Persuasion: 
-      A small clan of some sahuagin that has grown weary of the shark hunters of Palma
+ History, Investigation, Persuasion: 
+  DC 10 The village of Palma Flora is known for its vibrant green foliage, its competitive
+      shark-hunting tournaments, and a sweet cocktail that shares the village's name.
+  DC 12 there have been troubles some years
+  DC 15 A small clan of some sahuagin that has grown weary of the shark hunters of Palma
       Flora. Year after year, the sea devils have harrased or even attacked the shark
       hunters in an effort to spoil the tournaments.
-  DC 20: They lurk in the Sharkfeather Abyss
+  DC 20 local politics is complicated; some breakaway youth and water-aligned locals/races worship Uk'otoa
+  DC 24 They lurk in the Sharkfeather Abyss
+
+  Drop info on Jigaw & Phandelver: Festival of Merit; Goods to be dropped if you're going
 
 
 # Challenges
@@ -145,23 +146,39 @@ The challenge ends either when the characters bring the four caterpillars to
 area H1 or after 10 rounds pass, whichever occurs first.
 
 
-# Getting a Shark Hunt Challenge invitation
+# Concluding the Series -- Rewards and Shark Hunt Challenge invitation
 
- up to the characters
+Winners select crates (table b)
 
- run a shark hunt
+day ends, characters can try to get a shark hunt invitation and get any equipment
+ --> up to the characters
 
 
-# Concluding
+# Shark Hunt Challenge invitation
 
-Winners select crates
+assuming characters find a way to get competition bracelets, 
+competetors line up along the beach with their various outfits and equipment
 
-Onlookers start yelling -- Huge wave approaching from the horizon. 
-All chars roll:
-DC 15 Wisdom (Perception) - Wave looks unnatural
-DC 20 Wisdom (Perception) - see glimpse of a head that looks like a Sauhaguin
+  "A cool breeze drifts across Flora Isle, mingling the sweet scent of flowers with the
+  salty tang of the Lucidian Ocean. Well-tanned locals play on the beach, while
+  sunburned visitors sit in wicker chairs and sip cold drinks. A half-dozen nearly naked
+  shark hunters preparing to compete in the annual tournament stand in the shallows on
+  the south shore, armed with harpoons and their wits."
 
-if characters got to south shore, see hunters attacked
- -> proceed to fight
+dscribe sky and sun and smells colors
+describe a sample participant
+ask character to describe how they look and tools and prep
+chum buckets arrive
 
+commotion in the crowd
+
+Onlookers start murmuring 
+
+All chars roll Wisdom (Perception) 
+- DC 10: huge wave approaches on the horizon, and the water is getting sucked out to sea
+- DC 15 Wisdom (Perception) - Wave looks unnatural
+- DC 17 Wisdom (Perception) - see glimpse of a head in the urf
+- DC 20 Wisdom (Perception) - the head looks like a Sauhaguin
+
+see initial hunters attacked -> proceed to fight
 

@@ -1,0 +1,82 @@
+
+# Drop off goods in Phandalin
+
+- Barthen's Provisions. wagonload of supplies 
+- Lionshield Coster. deliver stolen goods from the Cragmaw hideout
+- Stonehill Inn.  Get lvl3 quests
+
+- Sildar Hallwinter 
+
+
+# Competitions
+
+...
+
+# Emerald Grotto
+
+Place where Alyxian prayed to Sehanine the Moonweaver
+
+At E1 (Grotto Entrance) add murals of Sehanine (a white-haired girl no more than twelve
+years old) with those who served her before the Calamity such as Perigee the Deva.
+
+Murals are aged and Perigee should be the least worn away of the Moonweaver's devas.
+
+Add broken statues of devas throughout the grotto; an investigation of one will reveal
+Perigee's name while all others are too worn away.
+
+Religion or history to reveal that Perigee was one of the fighters at the Battle of the
+Barbed Fields.
+
+Small amount of ruidium is also manifesting on Perigee's statue --> harvest 50-100gp
+worth
+
+
+# Researching the jewel
+
+You discover 
+- that there’s a painting on the wall of Betrayers’ Rise which depicts the Jewel.
+
+- a journal of one of the explorers who delved too deep and awakened the abyssal gate in
+Bazzoxan. The end of the journal trails off into mad gibberings, but it includes a vivid
+description of a figure that resembles the one you saw in your vision.
+
+- leading expert on this is [insert one of the three scholars]. Ank’harel would be a
+very long journey, but you’re in luck: Recent reports suggest that they’re on a field
+assignment in Bazzoxan.
+
+## Ruidium
+
+add initial background -- exists in tuiny amounts, moons exist, red moon is weird
+
+## Revelation List: Campaign Agendas
+
+What is the Jewel of Three Prayers? Specifically, the PCs should be able to figure out
+that it was empowered by the gods to aid Alyxian three times; that shrines were erected
+in those places; and that they need to find the shrines in order to fully reactivate the
+Jewel.
+
+What is ruidium and what should be done with it? This obviously includes the properties
+of ruidium itself, but it should also become clear that ruidium is appearing at sites
+associated with the Apotheon.
+
+Who is Alyxian the Apotheon? Answering this means piecing together the details of his
+story and framing the ultimate question of the campaign, which is whether he should be
+helped, freed, or destroyed. (You may also discover that understanding what’s at stake
+if the Apotheon is freed is an important and distinct revelation.)
+
+## Revelation List: Lore of Alyxian
+
+- Properties of the Jewel of Three Prayers.
+  clues:
+- The Jewel of Three Prayers was empowered by the gods three times.
+  clues:
+- Shrines were erected near each location where the Jewel was empowered.
+  clues:
+- The Jewel can be fully reactivated by visiting the shrines.
+  clues:
+- Properties of ruidium.
+  clues:
+- Ruidium is appearing in sites associated with the Apotheon.
+  clues:
+- The Lore of the Alyxian (which we’ll look at in more detail below.)
+  clues:
