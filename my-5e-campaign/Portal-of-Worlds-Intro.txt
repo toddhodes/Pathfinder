@@ -69,35 +69,10 @@ Blackrazor, Whelm, and Wave
 dwarves), Svirfneblin (Deep Gnomes)
 
 
-WILDEMOUNT POLITICAL ENTITIES
-
-Menagerie coast
-- Clovis Concorde - marquis of eight independent city-states, governing body of the Menagerie coast.
-  Cities include Port Damali, Port Zoon, Gwardan, Tussoa, Othe, Feolinn, Nicodranas, and Brokenbank.
-- the Revelry - the association of pirates from Darktow Isle off the Menagerie coast.
-
-Wynandir 
-- Dwendalian Empire - rules over Western Wynandir; western central, Zemni Fields, Marrow Valley
-- Cerberus Assembly - 8 mages under the king in the Dwendalian Empire, stole two Luxon beacons from the Kryn Dynasty
-- The Myriad - The continent's largest criminal organization, centered in Yrrosa.
-   Sworn to keep their syndicate secret by pretending that chapters are just local gangs.  Have
-   a sinister and enigmatic reputation.
-- The Colbalt Soul / The Monks of - a "distributed library", centered in Rexxentrum -- a network of worshipers of Ioun
-
-Xhorhas
-- Krynn Dynasty - the rulers of Xhorhas seek out and recover the Luxon beacons scattered across Exandria
-- Children of Malice - Lolth worshipers, spies, and assassins (Spider Queen of the Demonweb pits)
-
-Biting North 
-- Tribes of Shadycreek Run - the loose governing coalition of the Greying Wildlands 
-- Eiselcross - the site of the crash of the Pre-Calamity floating city-state of Aeor.  A land of artifacts and Chaos magic.
-
-
-
 WILDEMOUNT RACES
 
 The Kryn Dynasty is led by drow, and the majority of inhabitants of Dynasty settlements are
-monsterfolk such as.  bugbears, goblins, hobgoblins, and orcs/half-orcs, as well as a few
+monsterfolk such as  bugbears, goblins, hobgoblins, and orcs/half-orcs, as well as a few
 tieflings, humans, and dragonborn. There are many other races that have migrated to the
 Dynasty, however, and all are welcomed into the light of the Luxon.
 
@@ -126,20 +101,6 @@ excavations of ancient cities. The magical woodlands of Xhorhas may contain gate
 Feywild, through which fairies, harengon, satyr, or owlin travel.
 
 
-KRYNN RELIGION
-
-The Luxon
-
-Most inhabitants of the Kryn Dynasty worship the Luxon.  The Dynasty have uncovered several
-Luxon beacons: large dodecahedron crystals that grant the power of potentiality, known as
-dunamis, a school of magic that manifests as control over gravity and time.
-
-Many followers of the Luxon bind their soul to the Luxon beacons, in an act known as
-consecution. If they die within 100 miles of a beacon, their soul is ensnared by it, then
-reborn in a random newborn, and they regain their memories as they age in their new body. Those
-that repeat this cycle of rebirth eventually reach the status of Umavi, a perfect soul.
-
-
 PRIME DEITIES
 
 Worship of the Prime Deities is permitted within the Dynasty.  These deities are: Avandra, the
@@ -159,4 +120,41 @@ Worship of the Betrayer Gods is forbidden, however there are cults who still do.
 are: Asmodeus, Lord of the Nine Hells; Bane, the Strife Emperor; Gruumsh, the Ruiner; Lolth,
 the Spider Queen; Tharizdun, the Chained Oblivion; ‘Tiamat, the Scaled Tyrant; Torog, the
 Crawling King; Vecna, the Whispered One; and Zehir, the Cloaked Serpent.
+
+
+WILDEMOUNT POLITICAL ENTITIES
+
+Menagerie coast
+- Clovis Concorde - marquis of eight independent city-states, governing body of the Menagerie coast.
+  Cities include Port Damali, Port Zoon, Gwardan, Tussoa, Othe, Feolinn, Nicodranas, and Brokenbank.
+- the Revelry - the association of pirates from Darktow Isle off the Menagerie coast.
+
+Wynandir 
+- Dwendalian Empire - rules over Western Wynandir; western central, Zemni Fields, Marrow Valley
+- Cerberus Assembly - 8 mages under the king in the Dwendalian Empire, stole two Luxon beacons from the Kryn Dynasty
+- The Myriad - The continent's largest criminal organization, centered in Yrrosa.
+   Sworn to keep their syndicate secret by pretending that chapters are just local gangs.  Have
+   a sinister and enigmatic reputation.
+- The Colbalt Soul / The Monks of - a "distributed library", centered in Rexxentrum -- a network of worshipers of Ioun
+
+Xhorhas
+- Krynn Dynasty - the rulers of Xhorhas seek out and recover the Luxon beacons scattered across Exandria
+- Children of Malice - Lolth worshipers, spies, and assassins (Spider Queen of the Demonweb pits)
+
+Biting North 
+- Tribes of Shadycreek Run - the loose governing coalition of the Greying Wildlands 
+- Eiselcross - the site of the crash of the Pre-Calamity floating city-state of Aeor.  A land of artifacts and Chaos magic.
+
+
+KRYNN RELIGION - THE LUXON
+
+Most inhabitants of the Kryn Dynasty worship the Luxon.  The Dynasty have uncovered several
+Luxon beacons: large dodecahedron crystals that grant the power of potentiality, known as
+dunamis, a school of magic that manifests as control over gravity and time.
+
+Many followers of the Luxon bind their soul to the Luxon beacons, in an act known as
+consecution. If they die within 100 miles of a beacon, their soul is ensnared by it, then
+reborn in a random newborn, and they regain their memories as they age in their new body. Those
+that repeat this cycle of rebirth eventually reach the status of Umavi, a perfect soul.
+
 
