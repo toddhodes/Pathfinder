@@ -69,6 +69,30 @@ Blackrazor, Whelm, and Wave
 dwarves), Svirfneblin (Deep Gnomes)
 
 
+WILDEMOUNT POLITICAL ENTITIES
+
+Menagerie coast
+- Clovis Concorde - marquis of eight independent city-states, governing body of the Menagerie coast.
+  Cities include Port Damali, Port Zoon, Gwardan, Tussoa, Othe, Feolinn, Nicodranas, and Brokenbank.
+- the Revelry - the association of pirates from Darktow Isle off the Menagerie coast.
+
+Wynandir 
+- Dwendalian Empire - rules over Western Wynandir; western central, Zemni Fields, Marrow Valley
+- Cerberus Assembly - 8 mages under the king in the Dwendalian Empire, stole two Luxon beacons from the Kryn Dynasty
+- The Myriad - The continent's largest criminal organization, centered in Yrrosa.
+   Sworn to keep their syndicate secret by pretending that chapters are just local gangs.  Have
+   a sinister and enigmatic reputation.
+- The Colbalt Soul / The Monks of - a "distributed library", centered in Rexxentrum -- a network of worshipers of Ioun
+
+Xhorhas
+- Krynn Dynasty - the rulers of Xhorhas seek out and recover the Luxon beacons scattered across Exandria
+- Children of Malice - Lolth worshipers, spies, and assassins (Spider Queen of the Demonweb pits)
+
+Biting North 
+- Tribes of Shadycreek Run - the loose governing coalition of the Greying Wildlands 
+- Eiselcross - the site of the crash of the Pre-Calamity floating city-state of Aeor.  A land of artifacts and Chaos magic.
+
+
 
 WILDEMOUNT RACES
 
