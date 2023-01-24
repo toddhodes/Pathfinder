@@ -1,7 +1,24 @@
 
 # Factions
 
+- Allegiance of Allsight (Prolix) want to use the ruidium to create weapons, armor, and other
+  artifacts that they can sell to the highest bidder.
+
+- Consortium of Vermilion Dreams (Aloysia) want to secure a monopoly on ruidium so that they
+  can study its deeper mysteries and have sole access to its power.
+
+- Library of the Cobalt Soul (Question) believe that ruidium is dangerous and it must be either
+  destroyed or sealed away so that it cannot harm the world.
+
+
 # Introduce other lvl 5-8 content
 
 Hidden Shrine
 Library
+
+
+# Hint Netherdeep is inside a Luxon
+
+Chapter 5: The rift to the Netherdeep in Cael Morrow emerges from a cracked Luxon beacon.
+
+https://www.reddit.com/r/CalloftheNetherdeep/comments/vc8y8r/a_plot_twist_for_the_campaign/
