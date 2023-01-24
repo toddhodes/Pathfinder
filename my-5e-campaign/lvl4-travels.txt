@@ -1,5 +1,22 @@
 
+# Get them to go
+
+“I was in Bazzoxan once, where the legacy of the Calamity lingers more strongly anywhere
+ else in Xhorhas, and I saw this very Jewel depicted on the walls of the Betrayers’ Rise.
+ Perhaps you will find answers there.
+
+# Rivals
+
+Rivals oppose whatever players want to do.
+
+What would the rivals do scale:
+- Working in partnership with the PCs.
+- Convinced the PCs need help even if the PCs won’t let them, thus following the PCs around.
+- Independently trying to figure out how to help Alyxian.
+- Concluding that this isn’t any of their business and exiting the campaign to go do other things.
+- Seizing the Jewel (and possibly trying to kill the PCs) and taking charge
+
 
 # re-introduce Phandelver 
 
-Travel to Wave Echo Cave
+Make Wave Echo Cave available

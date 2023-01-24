@@ -81,7 +81,7 @@ the Lotusden Greenwood, and dragonborn have built the settlements of Xarzith Kit
 following the destruction of the great floating city of Draconia a quarter century before.
 
 On the Dynasty's western border, the vast Dwendalian Empire spans central Wildemount. The most
-common races within the Empire are humans, dwarves, halflings, and elves/half-clves. Close to
+common races within the Empire are humans, dwarves, halflings, and elves/half-elves. Close to
 the border between the two nations, there are settlements of gnomes in Hupperdook, orcs in
 Bladegarden, and dragonborn in Talonstadt.
 
@@ -101,8 +101,8 @@ PRIME DEITIES
 Worship of the Prime Deities is permitted within the Dynasty.  These deities are: Avandra, the
 Change Bringer; Bahamut, the Platinum Dragon; Corellon, the Arch Heart; Erathis, the Law
 Bearer; Ioun, the Knowing Mentor; Kord, the Storm Lord; Melora, the Wild Mother; Moradin, the
-All-Hammer; Pelor, the Dawn Father; Raei, the Everlight; the Raven.  Queen, Matron of Death;
-and Sehanine, the Moon Weaver.  
+All-Hammer; Pelor, the Dawn Father; Raei, the Everlight; the Raven Queen, Matron of Death;
+and Sehanine, the Moon Weaver.
 
 Sehanine is also know as Sharess or The Dancing Lady, goddess of festhalls, hedonism, and
 sensual fulfillment. Passionate and willful, independent and hedonistic, feline, she encourages
@@ -111,10 +111,11 @@ her followers to spread pleasure to all.
 
 BETRAYER GODS
 
-Worship of the Betrayer Gods is forbidden, however there are cults who still do. These deities
-are: Asmodeus, Lord of the Nine Hells; Bane, the Strife Emperor; Gruumsh, the Ruiner; Lolth,
-the Spider Queen; Tharizdun, the Chained Oblivion; ‘Tiamat, the Scaled Tyrant; Torog, the
-Crawling King; Vecna, the Whispered One; and Zehir, the Cloaked Serpent.
+Worship of the Betrayer Gods is forbidden, however there are cults who still do. These
+deities are: Asmodeus, Lord of the Nine Hells; Bane, the Strife Emperor; Gruumsh, the
+Ruiner; Lolth, the Spider Queen and Queen of the Demonweb Pits; Tharizdun, the Chained
+Oblivion; Tiamat, the Scaled Tyrant; Torog, the Crawling King; Vecna, the Whispered One;
+and Zehir, the Cloaked Serpent.
 
 
 WILDEMOUNT POLITICAL ENTITIES
@@ -124,21 +125,21 @@ Menagerie coast
   Cities include Port Damali, Port Zoon, Gwardan, Tussoa, Othe, Feolinn, Nicodranas, and Brokenbank.
 - the Revelry - the association of pirates from Darktow Isle off the Menagerie coast.
 
-Wynandir 
-- Dwendalian Empire - rules over Western Wynandir; western central, Zemni Fields, Marrow Valley
-- Cerberus Assembly - 8 mages under the king in the Dwendalian Empire, stole two Luxon beacons from the Kryn Dynasty
-- The Myriad - The continent's largest criminal organization, centered in Yrrosa.
-   Sworn to keep their syndicate secret by pretending that chapters are just local gangs.  Have
-   a sinister and enigmatic reputation.
-- The Colbalt Soul / The Monks of - a "distributed library", centered in Rexxentrum -- a network of worshipers of Ioun
+Wynandir
+- Dwendalian Empire - rulers over Western Wynandir, Zemni Fields, and the Marrow Valley.
+- Cerberus Assembly - 8 mages under the king in the Dwendalian Empire, stole two Luxon beacons from the Kryn Dynasty.
+- The Myriad - The continent's largest criminal organization, centered in Yrrosa.  Sworn
+  to keep their syndicate secret, they hace with a sinister and enigmatic reputation.
+- The Monks of The Colbalt Soul - a network of worshipers of Ioun who maintain a
+  "distributed library", tho nominally centered in Rexxentrum.
 
 Xhorhas
-- Krynn Dynasty - the rulers of Xhorhas seek out and recover the Luxon beacons scattered across Exandria
-- Children of Malice - Lolth worshipers, spies, and assassins (Spider Queen of the Demonweb pits)
+- Krynn Dynasty - rulers of Xhorhas, aim to seek out and recover Luxon beacons scattered across Exandria.
+- Children of Malice - Lolth worshipers; spies and assassins.
 
-Biting North 
-- Tribes of Shadycreek Run - the loose governing coalition of the Greying Wildlands 
-- Eiselcross - the site of the crash of the Pre-Calamity floating city-state of Aeor.  A land of artifacts and Chaos magic.
+Biting North
+- Tribes of Shadycreek Run - the loose governing coalition of the Greying Wildlands.
+- Eiselcross - site of the crash of the pre-Calamity floating city-state of Aeor, land of Chaos magic.
 
 
 KRYNN RELIGION - THE LUXON

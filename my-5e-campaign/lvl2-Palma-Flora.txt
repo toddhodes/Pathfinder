@@ -41,4 +41,8 @@ port might be able to provide the characters with a charm of water breathing
 
 # Prime a Visit to Jigow/Phandalin
 
+  get them there and do all info in separate file
+
+  on path there, ambush + hideout
+
 
