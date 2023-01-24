@@ -52,9 +52,7 @@ A few of the more notable of these:
 - Vasselheim, the Dawn City, Cradle of Faith, Cradle of Creation; the capital of human
 civilization on the continent of Issylra. A highly religious city, deeply suspect of arcane magic.
 
-- the Dwendalian Empire to the west.  Its capital, Rexxentrum, is massive -- twice the next
-largest, Emon in Tal'dorei -- and brings access to all the worlds' wonders.  To the east of it
-are the Ashkeeper Peaks forming the boundary with Xhorhas.
+- the Dwendalian Empire to the west.  Its capital, Rexxentrum, brings access to all the worlds' wonders.  
 
 - the Radiant Citadel demiplane, the anchor of thirteen unique civilizations, and home to the
 House of Convalescence, a healer's paradise
@@ -65,14 +63,13 @@ collection of books and scrolls of lore, considered the greatest collection of w
 - the Yawning Portal, the pathway to Greyhawk, and White Plume Mountain, and the lost Vestiges
 Blackrazor, Whelm, and Wave
 
-- the Underdark, a massive underground empire ruled by Drow (dark elves), Duergar (gray
-dwarves), Svirfneblin (Deep Gnomes)
+- the Underdark, an underground empire ruled by Drow (dark elves), Duergar (gray dwarves), Svirfneblin (Deep Gnomes)
 
 
 WILDEMOUNT RACES
 
 The Kryn Dynasty is led by drow, and the majority of inhabitants of Dynasty settlements are
-monsterfolk such as  bugbears, goblins, hobgoblins, and orcs/half-orcs, as well as a few
+monsterfolk such as bugbears, goblins, hobgoblins, and orcs/half-orcs, as well as a few
 tieflings, humans, and dragonborn. There are many other races that have migrated to the
 Dynasty, however, and all are welcomed into the light of the Luxon.
 
@@ -85,20 +82,18 @@ following the destruction of the great floating city of Draconia a quarter centu
 
 On the Dynasty's western border, the vast Dwendalian Empire spans central Wildemount. The most
 common races within the Empire are humans, dwarves, halflings, and elves/half-clves. Close to
-the border between the two nations, there are settlements of gnomes in Hupperdook, ores in
+the border between the two nations, there are settlements of gnomes in Hupperdook, orcs in
 Bladegarden, and dragonborn in Talonstadt.
 
 East of Xhorhas, isolated by the Penumbra mountain range, lies a sparsely populated strip of
 land known as Blightshore. This cursed land is warped by elemental energy, and is a safe haven
 for outlaws, thieves, and smugglers of various races. Some inhabitants of Blightshore that died
-rose again as Hollow Ones. This supernatural gift is described in Explorer's Guide to
-Wildemount.
+rose again as a race called the Hollow Ones. 
 
-From more distant lands, tabaxi and tortles are native to the southwesterly Menagerie Coast of
-Wildemount, and firbolgs to the northern Greying Wildlands. Automatons (warforged), created by
-archmages in an era known as the Age of Arcanum, are more recent additions, discovered from
-excavations of ancient cities. The magical woodlands of Xhorhas may contain gateways to the
-Feywild, through which fairies, harengon, satyr, or owlin travel.
+Tabaxi and tortles are native to the southwesterly Menagerie Coast, and firbolgs to the
+northern Greying Wildlands. Automatons (warforged), created by archmages in the Age of Arcanum,
+are more recent additions, discovered from excavations of ancient cities. Various magical woodlands
+have Portals that gateway to the Feywild, through which fairies, harengon, satyr, or owlin travel.
 
 
 PRIME DEITIES
