@@ -20,8 +20,8 @@ attunement (free to-hit): 6 (3 + INT)
 identify creature (60' move action): 34
    (20 + Phys/Life Sci)
 
-basic biohacks (per short rest): 4 (1 + INT)
-  lasts: 3 rounds (INT)
+basic biohacks (per short rest): 5 (1 + INT)
+  lasts: 4 rounds (INT)
 + +1 AC
 + +2 skills
 + +10' move
@@ -39,7 +39,7 @@ additional basic biohacks:
 - energy vulnerability (150% damage or -10 resistance)
 
 theorem: medication mastery (DC 14) 
-   per short rest: 3 (INT)
+   per short rest: 4 (INT)
 - analgesic: flat-footed 1 round
 - sedative: +1d4 nonletal, re-save vs emotion/fear
 + antitoxin: +4 poison save
