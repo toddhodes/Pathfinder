@@ -1,9 +1,46 @@
 
-# Get them to go
+# re-introduce Phandelver 
 
-“I was in Bazzoxan once, where the legacy of the Calamity lingers more strongly anywhere
- else in Xhorhas, and I saw this very Jewel depicted on the walls of the Betrayers’ Rise.
- Perhaps you will find answers there.
+Make Wave Echo Cave available
+
+
+# Weather and Time
+
+9-15 days depending on pace
+
+2d6: 
+ 2-3 dust storm
+ 4  rain (acid rain in the barbed fields)
+ 5-9 cloudy
+ 10  foggy
+ 11-12 sunny
+
+
+# Encounters
+
+1	A Lucky Break
+2	Aurora Watch Patrol
+3	Crashed Wagon
+4	Demonic Carrion
+5	Feast for the Eyes
+6	Ill Omen
+7	Moorbounder Mayhem
+8	Roadside Raiders
+
+
+7. Moorbounder Mayhem - fun; Justice on Rice Pudding. scare off DC 21 Intimidation.
+4. Demonic Carrion - solemn and dangerous; udaak, DC 12 collars; dagger+1
+3. Crashed Wagon - will o'whispss, charm of heroism, potion of giant strength (hill)
+1. A Lucky Break - Dead gloomstalker, ring
+2. Aurora Watch Patrol - at rest: dangers of the Barbed Fields, gloomstalkers snatch people, the Ruins of Sorrow.
+   good spirit, LG drow scout cook. accept food?  long rest? food grants +1d10 temporary HP
+5. Feast for the Eyes - 1100': gloomstalker antagonizing 3 mammoths; shreik -> skeletons
+8. Roadside Raiders - Six-Knives, bumbling dark humor.  Boneshaver, Gleam, Grudge, Jabby, Pierce, and Tickles.
+X. Reunion with the Rivals - Dragonchess match, exchange quests, info
+6. Ill Omen - Ruidus flare - re-explain moons.  DC 10 history bad luck, dread holding Jewel and looking at Ruidus. 
+   ask for theories.
+X. Patrol in Battle - tear in world; vision of Perigree's death
+
 
 # Rivals
 
@@ -17,6 +54,3 @@ What would the rivals do scale:
 - Seizing the Jewel (and possibly trying to kill the PCs) and taking charge
 
 
-# re-introduce Phandelver 
-
-Make Wave Echo Cave available

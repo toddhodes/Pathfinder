@@ -12,16 +12,14 @@
 summary doc:
 https://docs.google.com/document/d/11l3GZPZ-D95iGCiBXVEZcA6CXgmLtp25aWtpw-ZQPpo/edit
 
-...
 
 # Emerald Grotto
 
 ## setup
 
-- print tracking table
- https://docs.google.com/document/d/1ZR5NSbaMXwev1LbXhJC3wsa2YJ7Sr6hua-_iEfzPpOY/edit
-- explain rules
-- describe murals
+- tracking table
+- ask them for a team name; choose a rivals name "the others"
+- mural
 
 Place where Alyxian prayed to Sehanine the Moonweaver
 
@@ -36,27 +34,31 @@ Perigee's name while all others are too worn away.
 Religion or history to reveal that Perigee was one of the fighters at the Battle of the
 Barbed Fields.
 
-Small amount of ruidium is also manifesting on Perigee's statue --> harvest 50-100gp
-worth
+- moonshark++: https://i.redd.it/f63nanntpt591.jpg
 
-## moonshark: https://i.redd.it/f63nanntpt591.jpg
 
 # Researching the jewel
 
-You discover 
+You discover:
 - that there’s a painting on the wall of Betrayers’ Rise which depicts the Jewel.
+  "I was in Bazzoxan once, where the legacy of the Calamity lingers more strongly
+   anywhere else in Xhorhas, and I saw this very Jewel depicted on the walls of the
+   Betrayers’ Rise.  Perhaps you will find answers there."
 
 - a journal of one of the explorers who delved too deep and awakened the abyssal gate in
-Bazzoxan. The end of the journal trails off into mad gibberings, but it includes a vivid
-description of a figure that resembles the one you saw in your vision.
+  Bazzoxan. The end of the journal trails off into mad gibberings, but it includes a
+  vivid description of a figure that resembles the one you saw in your vision.
 
-- leading expert on this is [insert one of the three scholars]. Ank’harel would be a
-very long journey, but you’re in luck: Recent reports suggest that they’re on a field
-assignment in Bazzoxan.
+- leading experts on this from Ank’harel.  Recent reports suggest that they’re on a
+  field assignment in Bazzoxan.
 
-## Ruidium
+## Moons
 
-add initial background -- exists in tuiny amounts, moons exist, red moon is weird
+when/how??
+- ruidium exists in tiny amounts
+- moons phases
+- red moon is weird
+
 
 ## Revelation List: Campaign Agendas
 
@@ -76,17 +78,10 @@ if the Apotheon is freed is an important and distinct revelation.)
 
 ## Revelation List: Lore of Alyxian
 
-- Properties of the Jewel of Three Prayers.
-  clues:
+- History of the Jewel of Three Prayers.
 - The Jewel of Three Prayers was empowered by the gods three times.
-  clues:
 - Shrines were erected near each location where the Jewel was empowered.
-  clues:
 - The Jewel can be fully reactivated by visiting the shrines.
-  clues:
-- Properties of ruidium.
-  clues:
 - Ruidium is appearing in sites associated with the Apotheon.
-  clues:
-- The Lore of the Alyxian (which we’ll look at in more detail below.)
-  clues:
+- Properties of ruidium.
+- The Lore of the Alyxian 

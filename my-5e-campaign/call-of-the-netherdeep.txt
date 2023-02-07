@@ -38,7 +38,7 @@ Chapter 2 - The Leave-Taking
 2-09 Badlands Encounter 7	20x16	Random Encounter 7 Moorbounder Mayhem	Justice, 3 Moorbounder
 2-10 Badlands Encounter 8	20x16	Random Encounter 8 Roadside Raiders	Bandit Captain, Warhorse Black, 10 Bandit, 10 Riding Horse
 2-11 Badlands Reunion Day	20x16	Encounter Rivals' Reunion	Ayo Jabe, Durmot Wurder, Ivan Wastewalker, Maggie Keeneyes, Galsariad Ardyth
-2-12  Badlands Reunion Night	20x16	Encounter Rivals' Reunion	Ayo Jabe, Durmot Wurder, Ivan Wastewalker, Maggie Keeneyes, Galsariad Ardyth
+2-12 Badlands Reunion Night	20x16	Encounter Rivals' Reunion	Ayo Jabe, Durmot Wurder, Ivan Wastewalker, Maggie Keeneyes, Galsariad Ardyth
 2-13 Emerald Loop Caravan Stop Map	30x20		
 		L1: Entrance to the Clearing	
 		L2: Big Yuyo	Horizonback Tortoise, Papa Drazagorr, Pops Kelbadurn, Auntie Jaller, Little Gothby, Little Chespa
