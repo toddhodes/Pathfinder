@@ -64,6 +64,17 @@ access to:
 
 can be used in a ritual w/ spell components: 1000 GP to world shift / 500 GP for in-world teleport
 
+## Access
+
+Dream of the Blue Veil -- 7th-level conjuration, Bard, Sorcerer, Warlock, Wizard, Duration: 6 hours
+  experience visions of another world on the Material Plane, such as Oerth, Toril, Krynn, or
+  Eberron. ..  mentally and physically transported to the world that was in the visions.  must have
+  a magic item that originated on the world you wish to reach, and you must be aware of the world’s
+  existence
+
+Well of Many Worlds, Wondrous Item, legendary -- creates a two-way portal to another world or plane of existence. 
+
+
 ## Golden stags
 
 travelling overland, party will think it sees a golden stag

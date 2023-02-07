@@ -9,13 +9,23 @@
 
 # Competitions
 
+summary doc:
+https://docs.google.com/document/d/11l3GZPZ-D95iGCiBXVEZcA6CXgmLtp25aWtpw-ZQPpo/edit
+
 ...
 
 # Emerald Grotto
 
+## setup
+
+- print tracking table
+ https://docs.google.com/document/d/1ZR5NSbaMXwev1LbXhJC3wsa2YJ7Sr6hua-_iEfzPpOY/edit
+- explain rules
+- describe murals
+
 Place where Alyxian prayed to Sehanine the Moonweaver
 
-At E1 (Grotto Entrance) add murals of Sehanine (a white-haired girl no more than twelve
+E1 (Grotto Entrance): murals of Sehanine (a white-haired girl no more than twelve
 years old) with those who served her before the Calamity such as Perigee the Deva.
 
 Murals are aged and Perigee should be the least worn away of the Moonweaver's devas.
@@ -29,6 +39,7 @@ Barbed Fields.
 Small amount of ruidium is also manifesting on Perigee's statue --> harvest 50-100gp
 worth
 
+## moonshark: https://i.redd.it/f63nanntpt591.jpg
 
 # Researching the jewel
 

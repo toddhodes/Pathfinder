@@ -14,6 +14,8 @@ Three Scholars of Ank’Harel in Bazzoxan (Question, Prolix, and Aloysia)
 
 # Factions
 
+clarify conflicting motivations:
+
 - Allegiance of Allsight (Prolix) want to use the ruidium to create weapons, armor, and other
   artifacts that they can sell to the highest bidder.
 
@@ -22,6 +24,8 @@ Three Scholars of Ank’Harel in Bazzoxan (Question, Prolix, and Aloysia)
 
 - Library of the Cobalt Soul (Question) believe that ruidium is dangerous and it must be either
   destroyed or sealed away so that it cannot harm the world.
+
+have rivals choose differently
 
 
 # Introduce other lvl 5-8 content

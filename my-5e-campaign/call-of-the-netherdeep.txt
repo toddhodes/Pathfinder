@@ -1,0 +1,167 @@
+Call of the Netherdeep
+----------------------
+
+Chapter 1 - A Fateful Competition			
+1-01 Festival Pie Eating and Inn	20x16	J1 Best Pies in the Jumble	Agathe Silverspoon, Drow Male, Halfling Female, Ivan Wastewalker
+1-02 Festival Maze	20x16	J2 One-Shot Solution	Sharpwatch, Maggie Keeneyes, Dermot Wurder
+1-03 Festival Swimming Race	20x16	J3 The Ifolon Plunge	Omo, Ayo Jabe, Galsariad Ardyth, Orc Male, Human Female
+1-04 Festival Arm-Wrestling	20x16	J4 Call to Arms	Maryl Bronzefang, 2 Aurora Watch Veteran, Vars, Maggie Keeneyes
+1-05 Festival Paddy Harvest	20x16	J5 Wetwalks Paddywhack	Beetle, Zag, Orc Female, Drow Male, Drow Female
+ 									J6 Herding the Horizonbacks	Ayo Jabe, Adan, 5 Horizonback Tortoise 1x1
+1-06 Festival Riddles	20x16		J7 Riddles and Rhymes	Elder Colbu Kaz, Galsariad Ardyth
+1-07 Festival Town Temple	20x16	J8 Temple of Luxon	Belana Zolaed, Dermot Wurder
+1-08 Festival Town Barracks	32x20	J9 Helter-Skelter	Durth Mirimm, Eldar Ushru
+1-09 Festival River Islands	20x16	J10 Black Islands	
+1-11 Emerald Grotto Map	37x24	Emerald Grotto	Eldar Ushru, Ayo Jabe, Durmot Wurder, Ivan Wastewalker, Maggie Keeneyes, Galsariad Ardyth
+		E1: Grotto Entrance	
+		E2: Kelp Tangle	
+		E3: Cavern Fork	
+		E4: Ghostgrass Patch	
+		E5: Landslide	
+		E6: Quipper Den	Swarm of Quippers
+		E7: Octopus’s Garden	Giant Octopus
+		E8: Riptide Tunnel	
+		E9: Dead End?	
+		E10: Moonshark Lair	Giant Shark
+		E11: Moon Weaver’s Gateway	
+		E12: Prayer Site of Sehanine	
+			
+Chapter 2 - The Leave-Taking			
+2-01 Badlands Encounter 1	20x16	Random Encounter 1 A Lucky Break	
+2-02 Badlands Encounter 2 At Rest	20x16	Random Encounter 2 Aurora Watch Patrol	6 Aurora Watch Veteran, Aurora Watch Scout
+2-03 Badlands Encounter 2 In Battle	20x16	Random Encounter 2 Aurora Watch Patrol	6 Aurora Watch Veteran, Hezrou
+2-04 Badlands Encounter 2 Lost	20x16	Random Encounter 2 Aurora Watch Patrol	2 Shadow Demon, 2 Quasit
+2-05 Badlands Encounter 3	20x16	Random Encounter 3 Crashed Wagon	3 Will-o-wisp
+2-06 Badlands Encounter 4	20x16	Random Encounter 4 Demonic Carrion	Vrock, 3 Quasit
+2-07 Badlands Encounter 5	40x16	Random Encounter 5 Feast for the Eyes	Gloomstalker, 18 Skeleton
+2-08 Badlands Encounter 6	20x16	Random Encounter 6 Ill Omen	
+2-09 Badlands Encounter 7	20x16	Random Encounter 7 Moorbounder Mayhem	Justice, 3 Moorbounder
+2-10 Badlands Encounter 8	20x16	Random Encounter 8 Roadside Raiders	Bandit Captain, Warhorse Black, 10 Bandit, 10 Riding Horse
+2-11 Badlands Reunion Day	20x16	Encounter Rivals' Reunion	Ayo Jabe, Durmot Wurder, Ivan Wastewalker, Maggie Keeneyes, Galsariad Ardyth
+2-12  Badlands Reunion Night	20x16	Encounter Rivals' Reunion	Ayo Jabe, Durmot Wurder, Ivan Wastewalker, Maggie Keeneyes, Galsariad Ardyth
+2-13 Emerald Loop Caravan Stop Map	30x20		
+		L1: Entrance to the Clearing	
+		L2: Big Yuyo	Horizonback Tortoise, Papa Drazagorr, Pops Kelbadurn, Auntie Jaller, Little Gothby, Little Chespa
+		L3: Ox Corral	7 Ox
+		L4: Adventurers’ Camp	Ayo Jabe, Durmot Wurder, Ivan Wastewalker, Maggie Keeneyes, Galsariad Ardyth, 6 Aurora Watch Veteran
+		L5: Bonfire	Gaeya Iliera, Tyvak, Moghra, Justice, Moorbounder, Lanata, Robur, 2 Bugbear, 6 Aurora Watch Veteran
+2-14 Ruins of Sorrow	30x32	Fan content https://www.reddit.com/r/CalloftheNetherdeep/comments/unr6tt/road_to_bazzoxan_climactic_conclusion_the_ruins/	6 Aurora Watch Veteran, Hezrou, 2 Draegloth, 2 Babau, 4-6 The Wretched, The Lonely, Ayo Jabe, Durmot Wurder, Ivan Wastewalker, Maggie Keeneyes, Galsariad Ardyth
+			
+Chapter 3 - Bazzoxan			
+		Bazzoxan Scenes	Orc Berserker, Drow Female, Drow Male, 2 Aurora Watch Veteran, 2 Drow Male, 2 Drow Female, 10 Auora Watch Guard, Bugbear, Drow Male, Dwarf Female, Human Male, Human Female, 2 Aurora Watch Veteran, Ogre, Tiefling Male
+3-01 Cursed Town Street	20x16	No Time for Pleasantries	5 Aurora Watch Guard, 5 Gibbering Mouther, Verin Thelyss, 2 Orc Guard, Ayo Jabe, Durmot Wurder, Ivan Wastewalker, Maggie Keeneyes, Galsariad Ardyth
+3-02 Cursed Town Sacrifice Pit	20x16	Sacrifice Engines	
+3-03 Cursed Town Gate	20x16			B1: Gate of Bazzoxan	2 Aurora Watch Guard
+3-04 Cursed Town Crematorium	20x16	B2: Crematorium	Reynard Allerton, Sebastian Allerton, Prolix Yusaf
+3-05 Cursed Town Infirmary	20x16		B3: Infirmary	Bautha Dyrr, Naevyn Tasithar, Ayo Jabe, Durmot Wurder, Ivan Wastewalker, Maggie Keeneyes, Galsariad Ardyth
+3-06 Cursed Town Barracks	20x16		B4: Gatehold Barracks	Verin Thelyss, 20 Aurora Watch Guard
+3-07 Cursed Town Temple	20x16			B5: Dilapidated Temple	Foghome
+3-08 Cursed Town Memorial Wall	20x16	B6: Wall of the Unforgotten	Kalym Telaarin
+3-09 Cursed Town Inn	20x32			B7: The Ready Room	Delez Demona, Prima Demona, Ayo Jabe, Durmot Wurder, Ivan Wastewalker, Maggie Keeneyes, Galsariad Ardyth, Question, Aloysia Telfan
+3-10 Betrayers Rise Map	66x88	Gloomstalker Escape	3-12 Aurora Watch Veteran, 3 Aurora Watch Knight, 2 Gloomstalker
+		Expanding the Betrayers Rise	5 Shadow Demon, 4 Ochre Jelly, Yochlol, Aurora Watch Soldier, 2 Barlgura, 3 Nightmare, 3 Roper, 3 Chasme, Glabrezu, Balor
+		Retreat and Reinforcements	1-6 Quasit, Chasme, Barlgura, 1-4 Shadow Demon, 3-18 Mane, Gloomstalker
+		R1: Entrance	
+		R2: Hall of Holes	3 Gibbering Mouther
+		R3: Vestibule	
+		R4: Path of Emptiness	
+		R5: Flagellant’s Path	
+		R6: Cloister of Penitence	3 Flameskull
+		R7: Stairs Down	
+		R8: Spiders’ Chancel	2 Drider, 2 Giant Spider
+		R9: Basilica of Revelry	4 Dancing Flame
+		R10: Supplicant’s Pit	
+		R11: Stairs Up	
+		R12: Threshold of the Excoriated	
+		R13: Lightless Labyrinth 	
+		R14: Blood Font of the Ruiner	2 Orc War Chief
+		R15: Misty Chasm	Vrock
+		R16: Prayer Site of Avandra	
+		Confrontation for the Jewel	Aloysia Telfan, Ayo Jabe, Durmot Wurder, Ivan Wastewalker, Maggie Keeneyes, Galsariad Ardyth
+			
+Chapter 4 - The Jewel of Hope			20 Hands of Ord Knight
+4-01 Oasis City Chase	48x10	Following Aloysia	Aloysia Telfan
+4-02 Oasis City Seedy Tavern	20x16	Meeting the Consortium	Aloysia Telfan, Vrill the Moth, Satzrak Runestrider
+4-03 Oasis City Lodgings Wretched	20x16		
+4-04 Oasis City Lodgings Squalid	20x16		
+4-05 Oasis City Lodgings Poor	20x16		
+4-06 Oasis City Lodgings Modest	20x16		
+4-07 Oasis City Lodgings Comfortable	20x16		
+4-08 Oasis City Lodgings Wealthy	20x16		
+4-09 Oasis City Bazaar Rampage	20x32	Allegiance Mission 1, Cobalt Soul Mission 3	Jamil Aalithiya, Rerosha, 2 Ruidium Elephant, Khelkur the Gull, Satzrak Runestrider, Earth Elemental
+4-09 Suncut Bazaar Map	30x20	Allegiance Mission 1, Cobalt Soul Mission 3	
+4-10 Oasis City Garden Dome	20x32	Allegiance Mission 2	Prolix Yusaf, Carliale Kroogan, 2 Invisible Stalker
+4-11 Oasis City University	20x16	Allegiance Mission 3	Prolix Yusaf, Bookkeeper Khime, Anbara Flintbreaker, Idris Lornen, Lymmle Wist, Headmaster Gryz Alakritos
+4-11 Sigil District Map	30x20	Allegiance Mission 3	
+4-12 Oasis City Tree Shrine	20x16	Consortium Mission 1	Satzrak Runestrider, Shira
+4-13 Oasis City Casino	20x32	Consortium Mission 2	Aloysia Telfan, Security Captain Nedosi Anay, 12 Guard, 10 Servant, 16 Commoner, Ena, Duskwood, Koris
+4-14 Oasis City Relics	20x16	Consortium Mission 3	Satzrak Runestrider, Aradrine the Owl, Jor Raashid, 2 Assassin, 5 Hands of Ord Knight, Relickeeper Kareema, 6 Animated Glass Statue, Headmaster James Cryon, 2 Scholarly Excavator, Ruidium Elephant, 6 Occult Initiate, Earth Elemental
+4-15 Oasis City Temple	20x32	Cobalt Soul Mission 1, Cobalt Soul Mission 2	Question, Iwo Zalarre, Laurin Ophidas, Jamil Aalithiya
+4-16 Oasis City Apartments	20x16	Meeting the Allegiance, Cobalt Soul Mission 1, Consortium Mission 4	Prolix Yusaf, Question, Iwo Zalarre, Laurin Ophidas, 5 Hands of Ord Knight, Aradrine the Owl, Earth Elemental
+4-16 River District Canal Map	30x20	Cobalt Soul Mission 2	Old Man Kruuk, Ashann
+4-17 Oasis City Excavation	20x16	Maw of Cael Morrow	5 Scarbearer Veteran, Orc Male
+4-18 Oasis City Coliseum	20x16	Bowl of Judgment	
+			
+Chapter 5 - The Drowned City			
+5-01 Drowned City Encounter 1	20x16	Cael Morrow Encounter 1	Swarm of Sorrowfish
+5-02 Drowned City Encounter 2	20x16	Cael Morrow Encounter 2	3 Scuttling Serpentmaw
+5-03 Drowned City Encounter 3	20x16	Cael Morrow Encounter 3	Giant Octopus
+5-04 Drowned City Encounter 4	20x16	Cael Morrow Encounter 4	Death Embrace
+5-05 Drowned City Encounter 5	20x16	Cael Morrow Encounter 5	2 Slithering Bloodfin
+5-06 Drowned City Encounter 6	20x16	Cael Morrow Encounter 6	2 Aboleth Spawn, Alyxian Aboleth
+5-07 Cael Morrow Map	62x84	Cael Morrow	Ayo Jabe, Durmot Wurder, Ivan Wastewalker, Maggie Keeneyes, Galsariad Ardyth
+		M1: Stone Column	Gortag Inkdrinker
+		M2: Warded Entrance Hall	Kal, Nadiya
+		M3: Allegiance Base Camp	Insight Acuere, Scribble, Xot, 10 Scholarly Agent, 5 Scholarly Excavator
+		M4: Royal Guest House	
+		M5: Access Corridor	Corrupted Giant Shark
+		M6: Sunken Tavern	Olara
+		M7: Hall of the Royal Library	Galeokaerda, Shield Guardian, Swarm of Sorrowfish
+		M8: Submerged Library	2 Ghost Male Elf, Ghost Female Orc
+		M9: Temple of the Arch Heart	
+		M10: Crumbling Building	4 Scuttling Serpentmaw
+		M11: Kelp Forest	2 Aboleth Spawn, Alyxian Aboleth
+		M12: Cliffside Path	
+		M13: Villa	Death Embrace, Swarm of Sorrowfish
+		M14: Watchtower	13 Sword Wraith Warrior, Sword Wraith Commander, Hadarai
+		M15: Collapsed Guard Tower	
+		M16: Collapsed Ruins	3 Slithering Bloodfin
+		M17: Rift to the Netherdeep	Alyxian Aboleth
+			
+Chapter 6 - The Netherdeep			
+6-01 Tainted Memory Childhood Home	20x16	N2: Child’s Lament	6 Shadowy Assailant
+6-02 Tainted Memory Forest Hunt	20x16	N3: Unforgotten Fallacy	Saqiri Yestrana, 4 Hunter
+6-03 Tainted Memory Tracking Owlbear	20x16	N3: Unforgotten Fallacy	2 Owlbear, 2 Swarm of Sorrowfish
+6-04 Tainted Memory Village	20x16	N4: Haunted Ashes	4 Sword Wraith Warrior, Sword Wraith Commander, 10 Commoner
+6-05 Tainted Memory Ruined House	20x16	N5: Alyxian’s Refuge	3 Ghost
+6-06 Tainted Memory Battle	20x16	N7: Battle at the Betrayers’ Rise	
+6-07 The Netherdeep Map	73x107	The Netherdeep	
+		N1: Antechamber	2 Light Devourer, Slithering Bloodfin
+		N2: Child’s Lament	
+		N3: Unforgotten Fallacy	
+		N4: Haunted Ashes	
+		N5: Alyxian’s Refuge	
+		N6: Loss of Innocence	
+		N7: Battle at the Betrayers’ Rise	
+		N8: Ruiner’s Spear	
+		N9: Hall of the Portal	
+		N10: Belching Gallows	Cloaker, Slithering Bloodfin, Swarm of Sorrowfish
+		N11: Frothing Hollow	Light Devourer
+		N12: Scalding Pit	2 Death Embrace
+		N13: Warriors of Wrath	3 Scuttling Serpentmaw
+		N14: Carmine Sepulcher	3 Slithering Bloodfin Skeleton
+		N15: Spear of the Apotheon	Alyxian the Hunter, Theo
+		N16: Curse of Ruidus	2 Corrupted Giant Shark
+		N17: Heart of Truth	
+		N18: Fragment of Melancholy	
+		N19: Cavern of Many Hands	Air Bubble, Will-o-wisp, Sandy Shape
+		N20: Cavern of Many Eyes	
+		N21: Cavern of Many Peaceful Ends	
+		N22: Cavern of Many Graves	5 Revenant
+		N23: Grotto of Many Futures	Death Embrace, Swarm of Sorrowfish
+		N24: Cavern of Many Waterfalls	Perigee
+		N25: Fragment of Loathing	
+		N26: Sanctuary of Despair	
+			
+Chapter 7 - The Hearth of Despair			
+7-01 Heart of Despair Map	64x49	The Heart of Dispair	Alyxian the Tormented, Alyxian the Callous, Alyxian the Dispossessed, Alyxian the Absolved, Watery Tendril
