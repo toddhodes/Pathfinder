@@ -6,8 +6,10 @@
 - Stonehill Inn.  Get lvl3 quests
 - return Sildar Hallwinter 
 
+have someone mention the Radiant Citadel Awakening Festival in Godsbreath
 
 # Competitions
+
 
 summary doc:
 https://docs.google.com/document/d/11l3GZPZ-D95iGCiBXVEZcA6CXgmLtp25aWtpw-ZQPpo/edit
@@ -21,20 +23,17 @@ https://docs.google.com/document/d/11l3GZPZ-D95iGCiBXVEZcA6CXgmLtp25aWtpw-ZQPpo/
 - ask them for a team name; choose a rivals name "the others"
 - mural
 
-Place where Alyxian prayed to Sehanine the Moonweaver
 
-E1 (Grotto Entrance): murals of Sehanine (a white-haired girl no more than twelve
-years old) with those who served her before the Calamity such as Perigee the Deva.
+E1 (Grotto Entrance): aged murals of Sehanine (a white-haired girl no more than twelve
+years old) with those who served her before the Calamity. describe 3 - no names.
 
-Murals are aged and Perigee should be the least worn away of the Moonweaver's devas.
+E3 - 3 broken statues of <>.  seems there are broken statues of devas throughout the grotto
 
-Add broken statues of devas throughout the grotto; an investigation of one will reveal
-Perigee's name while all others are too worn away.
-
-Religion or history to reveal that Perigee was one of the fighters at the Battle of the
-Barbed Fields.
+DC 15 investigation - reveal Perigee's name 
+DC 15 Religion/history - reveal that Perigee was one of the fighters at the Battle of the Barbed Fields.
 
 - moonshark++: https://i.redd.it/f63nanntpt591.jpg
+- do not mention, future knowldege: Place where Alyxian prayed to Sehanine the Moonweaver
 
 
 # Researching the jewel
@@ -85,3 +84,11 @@ if the Apotheon is freed is an important and distinct revelation.)
 - Ruidium is appearing in sites associated with the Apotheon.
 - Properties of ruidium.
 - The Lore of the Alyxian 
+
+
+
+## Conclusions
+
+re-mention two other hooks
+- Godsbreath Awakening festival
+- 

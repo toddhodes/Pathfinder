@@ -1,7 +1,45 @@
 
-# re-introduce Phandelver 
+# Summarize Hooks
 
-Make Wave Echo Cave available
+- re-introduce Phandelver: reminder of The Spider's Web hooks available
+  Conybery banshee, Old Owl Well, Thundertree druid -> Cragmaw Castle/Wave Echo, Wyvern Tor 
+  Sildar: find Cragmaw Castle, search for Gundren Rockseeker, rescue the dwarf, and retrieve his map.
+
+- Radiant Citiadel Awakening in Festival Godsbreath
+  ship more Palma Floras, etc
+
+- or this hook:
+
+Daybreak comes with a knock on the door of your room. The voice of Orc Elder Ushru comes through the door. 
+Ushru invites the characters for breakfast at the Unbroken Tusk inn. At first he is
+conversational with the characters, but then his tone becomes deadly serious:
+
+  "A vision came to me last night. A golden amulet rose to the surface of a pool of blood, and
+  countless hands lunged upward out of the blood to grasp it. In turn, all the hands fell back
+  into the pool until only one remained. The one whose hand claimed the amulet was a handsome
+  man with curly hair and a somber expression. He turned to me and said, 'They must find me.
+  The ones from the grotto.' Tell me, did anything happen to you in that place that would help
+  me understand this vision?"
+
+<expect response>
+
+  "If what you tell me is true, what you have found is a Vestige of Divergence, an
+  enchanted relic from the time of the Calamity known as the Jewel of Three Prayers. People do
+  not stumble upon Vestiges without a reason.
+
+  "Bazzoxan is a grim town under the control of the Aurora Watch, not a pleasant place to
+   visit.  But I was in Bazzoxan once, where the legacy of the Calamity lingers more strongly
+   anywhere else in Xhorhas, and I saw this very Jewel depicted on the walls of the Betrayers’
+   Rise.  Perhaps you will find answers wth leading experts who congregrate there."
+
+
+TODO seed other hook:
+- leading experts on this from Ank’harel.  Recent reports suggest that they’re on a
+  field assignment in Bazzoxan.
+- a journal of one of the explorers who delved too deep and awakened the abyssal gate in
+  Bazzoxan. The end of the journal trails off into mad gibberings, but it includes a
+  vivid description of a figure that resembles the one you saw in your vision.
+
 
 
 # Weather and Time
