@@ -10,6 +10,41 @@ have someone mention the Radiant Citadel Awakening Festival in Godsbreath
 
 # Competitions
 
+Schedule Events:
+- 10:00 Best Pies in the Jumble @ Jumble
+  The Unbroken Tusk inn boasts the best meat pies east of the Ashkeeper Peaks. Its owner has offered a prize to the person who can eat the most pies.
+
+- 12:00 The Ifolon Plunge @ River
+  Some distance offshore in the Ifolon River, a rusted spear is lodged into a weathered piece of a pier - test you swimming speed and skill.
+
+- 14:00 Herding the Horizonbacks @ Square
+  This year’s brood of young horizonback tortoises must be relocated to the Jumble.
+
+- 16:00 Wetwalks Paddywhack @ Wetwalks
+  Members of the Gakthash and Uvuroh goblin clans time their rice paddy harvests to coincide with the Festival of Merit every year. This event turns the mundane act of harvesting into a spirited competition.
+
+- 18:00 Closing Ceremony @ Square
+  Grand celebrations, fireworks and one final competition for the leading teams of merit.
+
+Events available throughout the day
+- Call to Arms @ Square
+  Maryl Bronzefang of the Aurora Watch has challenged anyone and everyone to best her in an arm-wrestling contest. Last year she went undefeated.
+
+- Riddles and Rhymes @ Jumble
+  Test your mettle against one of Jigow’s elders. He has come up with several new riddles specially for the festival this year.
+
+- One-Shot Solution - Maze @ River
+  A maze has been constructed. Competitors win a prize if they navigate the maze in one try without coming upon a dead end.
+
+slots:
+Pie Eating: 3
+Riddles: 2
+Horizonback Herding: 3
+Maze: 2
+Ifolon Plunge: 1
+Arm Wrestling: 3
+Rice Harvesting: 2
+
 
 summary doc:
 https://docs.google.com/document/d/11l3GZPZ-D95iGCiBXVEZcA6CXgmLtp25aWtpw-ZQPpo/edit
