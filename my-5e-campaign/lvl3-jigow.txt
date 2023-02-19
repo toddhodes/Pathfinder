@@ -53,12 +53,18 @@ Wetwalk: J5, J6    rice, herding
 
 - Riddles and Rhymes @ Jumble (J7)
   Test your mettle against one of Jigow’s elders. He has come up with several new riddles specially for the festival this year.
+  +1 "I must be broken before I can be used."  [egg]
 
 Landmarks:
 - J8: Temple of the Luxon
 - J9: "Helter-Skelter" Aurora Watch / Dynasty outpost
 - J10: Black Islands
 - J6: Closing Ceremony @ the square
+
+Hawkers:
+- A artificer's stand w/ mechanical+magical toys depicting events from the Calamity.
+- A hawker is selling mysterious red gemstones - (ruidium) that have been washing up on shore.
+- A fortune-teller who “reads the red rays of Ruidus” to tell your future. 
 
 
 slots:
