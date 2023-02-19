@@ -11,30 +11,36 @@ have someone mention the Radiant Citadel Awakening Festival in Godsbreath
 # Competitions
 
 Schedule Events:
-- 10:00 Best Pies in the Jumble @ Jumble
+- 11:00 Best Pies in the Jumble @ Jumble (J1)
   The Unbroken Tusk inn boasts the best meat pies east of the Ashkeeper Peaks. Its owner has offered a prize to the person who can eat the most pies.
 
-- 12:00 The Ifolon Plunge @ River
+- 12:30 The Ifolon Plunge @ River (J3)
   Some distance offshore in the Ifolon River, a rusted spear is lodged into a weathered piece of a pier - test you swimming speed and skill.
 
-- 14:00 Herding the Horizonbacks @ Square
+- 14:00 Herding the Horizonbacks @ Square (J6)
   This year’s brood of young horizonback tortoises must be relocated to the Jumble.
 
-- 16:00 Wetwalks Paddywhack @ Wetwalks
+- 15:30 Wetwalks Paddywhack @ Wetwalks (J5)
   Members of the Gakthash and Uvuroh goblin clans time their rice paddy harvests to coincide with the Festival of Merit every year. This event turns the mundane act of harvesting into a spirited competition.
 
-- 18:00 Closing Ceremony @ Square
+- 17:00 Closing Ceremony @ Square (J6)
   Grand celebrations, fireworks and one final competition for the leading teams of merit.
 
 Events available throughout the day
-- Call to Arms @ Square
+- One-Shot Solution - Maze @ River (J2)
+  A maze has been constructed. Competitors win a prize if they navigate the maze in one try without coming upon a dead end.
+
+- Call to Arms @ Square (J4)
   Maryl Bronzefang of the Aurora Watch has challenged anyone and everyone to best her in an arm-wrestling contest. Last year she went undefeated.
 
-- Riddles and Rhymes @ Jumble
+- Riddles and Rhymes @ Jumble (J7)
   Test your mettle against one of Jigow’s elders. He has come up with several new riddles specially for the festival this year.
 
-- One-Shot Solution - Maze @ River
-  A maze has been constructed. Competitors win a prize if they navigate the maze in one try without coming upon a dead end.
+Landmarks:
+- J8: Temple of the Luxon
+- J9: "Helter-Skelter" Aurora Watch / Dynasty outpost
+- J10: Black Islands
+
 
 slots:
 Pie Eating: 3
