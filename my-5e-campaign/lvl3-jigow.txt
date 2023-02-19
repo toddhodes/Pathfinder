@@ -8,6 +8,29 @@
 
 have someone mention the Radiant Citadel Awakening Festival in Godsbreath
 
+# Arrive Jigow
+
+Jigow is located in northern Xhorhas on the banks of the Emerald Gulch and the Ifolon River. An
+amalgamation of coastal villages that were originally settled by several nomadic clans of orcs
+and goblins, Jigow is now home to humans and other folk as well, and the city gained a
+significant drow population after Jigow became a part of the Kryn Dynasty.  You visited one of
+these human outgrowths in Phandalen.
+
+The villages and townships that make up Jigow are loosely divided into three major areas: the
+Meatwaters, the main dock area on the shores of the Ifolon River; the Wetwalks, a collection of
+houses on stilts closest to the wetlands and marshes; and the Jumble, the most densely
+populated region of the city, where houses are built among giant mangrove trees or on the backs
+of horizonback tortoises and used as traveling homes.
+
+Jigow has a council of elders and a military presence in the form of the Aurora Watch—soldiers
+of the Kryn Dynasty.  The dynasty also has a political liaison in Jigow: a drow named Durth
+Mirimm (see area J9) reporting to the court of the Bright Queen
+
+choose a district:
+Meatwaters: J2, J3 maze, plunge
+Jumble: J1, J4, J7 pie, armwrestle, riddles
+Wetwalk: J5, J6    rice, herding
+
 # Competitions
 
 - Best Pies in the Jumble @ Jumble (J1)
