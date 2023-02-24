@@ -1,4 +1,5 @@
 
+
 # Drop off goods in Phandalin
 
 - Barthen's Provisions. wagonload of supplies 
@@ -9,6 +10,8 @@
 have someone mention the Radiant Citadel Awakening Festival in Godsbreath
 
 # Arrive Jigow
+
+[re-read thealexandrian.net remixing-call-of-the-netherdeep-part-2-jigow]
 
 Jigow is located in northern Xhorhas on the banks of the Emerald Gulch and the Ifolon River. An
 amalgamation of coastal villages that were originally settled by several nomadic clans of orcs
@@ -66,19 +69,7 @@ Hawkers:
 - A hawker is selling mysterious red gemstones - (ruidium) that have been washing up on shore.
 - A fortune-teller who “reads the red rays of Ruidus” to tell your future. 
 
-
-slots:
-Pie Eating: 3
-Riddles: 2
-Horizonback Herding: 3
-Maze: 2
-Ifolon Plunge: 1
-Arm Wrestling: 3
-Rice Harvesting: 2
-
-
-summary doc:
-https://docs.google.com/document/d/11l3GZPZ-D95iGCiBXVEZcA6CXgmLtp25aWtpw-ZQPpo/edit
+summary doc: https://docs.google.com/document/d/11l3GZPZ-D95iGCiBXVEZcA6CXgmLtp25aWtpw-ZQPpo/edit
 
 
 # Emerald Grotto
