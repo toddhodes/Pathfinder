@@ -27,7 +27,7 @@
  - Beach
  - Bridge & Cliffs
  - Cottages (rentals + locals)
- - Docks - 3 ships.  a caravel Wavechaser,skiffs Tradewind and Blushing Elf
+ - Docks - 3 ships.  a caravel Wavechaser, skiffs Tradewind and Blushing Elf
  - Taverns
  - Public Square
   At center of town are a small pile of crates.  Winners select crates if they have 
@@ -40,10 +40,11 @@
   DC 10 The village of Palma Flora is known for its vibrant green foliage, its competitive
       shark-hunting tournaments, and a sweet cocktail that shares the village's name.
   DC 12 there have been troubles some years
-  DC 15 A small clan of some sahuagin that has grown weary of the shark hunters of Palma
-      Flora. Year after year, the sea devils have harrased or even attacked the shark
-      hunters in an effort to spoil the tournaments.
-  DC 20 local politics is complicated; some breakaway youth and water-aligned locals/races worship Uk'otoa
+  DC 15 A small clan of sahuagin has grown weary of the shark hunters of Palma Flora. 
+        Year after year, the sea devils have harrased or even attacked the shark 
+        hunters in an effort to spoil the tournaments.
+  DC 20 local politics is complicated; some breakaway youth and water-aligned 
+        locals/races may worship Uk'otoa
   DC 24 They lurk in the Sharkfeather Abyss
 
  Investigation, Persuasion: 
@@ -219,11 +220,13 @@ day ends, characters can try to get a shark hunt invitation and get any equipmen
 assuming characters find a way to get competition bracelets, 
 competetors line up along the beach with their various outfits and equipment
 
- "A cool breeze drifts across Flora Isle, mingling the sweet scent of flowers with the
-  salty tang of the Lucidian Ocean. Well-tanned locals play on the beach, while
-  sunburned visitors sit in wicker chairs and sip cold drinks. A half-dozen nearly naked
-  shark hunters preparing to compete in the annual tournament stand in the shallows on
-  the south shore, armed with harpoons and their wits."
+ "As before, a cool breeze drifts across Flora Isle, mingling the sweet scent of flowers 
+  with the salty tang of the Lucidian Ocean. Well-tanned locals play on the beach, while
+  sunburned visitors sit in wicker chairs and sip cold drinks.
+
+  A dozen shark hunters preparing to compete in the annual tournament stand in the
+  shallows on the south shore, armed with all manner of esoteric aquatic equipment.  
+  For some its a fashion show. For some, it's deadly serious."
 
 dscribe sky and sun and smells colors
 describe a sample participant
