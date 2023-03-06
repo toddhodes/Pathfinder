@@ -1,0 +1,6 @@
+
+S: Totem (bear, wolf)
+A: Beast (wolf), Ancestral Guardian (tank), Zealot (free raise dead)
+B: Berserker (bonus act attack, exhaust), Storm Herald (3 types), Wild Magic (wild magic table)
+C:
+D: Battle Rager (spikes)

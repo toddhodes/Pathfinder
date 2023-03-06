@@ -1,0 +1,134 @@
+
+
+# Factions
+
+## Allegiance of Allsight
+
+Generally, the Allegiance of Allsight are focused on their reseach of Cael Morrow, and later,
+securing the Netherdeep to ensure the source of ruidium is stable and under their control.
+Their participation in faction conflicts is typically passive, as they defend ruidium and their
+excavation from other factions and root out any spies among their midst rather than attacking
+or interfering with other factions.
+
+Major NPCs
+James Cryon (LN Elf) - Headmaster of the Crystal Chateau
+Gryz Alakirtos (NG Goblin) - Headmaster of the Teres Schoolhouse
+Jor Raashid (LN Halfing) - Gatekeeper for the Crystal Chateau
+Lymmle Wist (NE Human Mage) - Professor, spy for the Sentinels of Memory
+Prolix Yusaf (LN Tiefling) - Agent
+Kareema (NG Orc) - Relickeeper of the Ibis Relic Hall
+Insight Acuere (LG Tiefling) - Professor, leader of the Cael Morrow Expedition
+Galeokaerda (NE Elf) - Adjunct Professor, spy for the Consortium of the Vermilion Dream in Cael Morrow
+
+Faction Objectives
+- Recover a stolen figurine of wonderous power infused with ruidium. The figurine is currently at the Bone Garden, 
+  but the owner of the shop (Rerosha) has agreed to return it to the Allegiance of Allsight
+
+- Investigate a possible secondary entrance to Cael Morrow through the Life Dome (this is a false lead 
+  planted by the Sentinels of Memory)
+
+- Obtain stone tablets from a crumbling, flooded building in Cael Morrow (area M10)
+
+- Enter the rift in Cael Morrow and confirm that ruidium can be found there
+
+- Explore and secure the Netherdeep, and convince the "sorrowful intelligence" found within (Alyxian) 
+  to allow the Allegiance of Allsight to extract ruidium
+
+## Cobalt Soul
+
+The Cobalt Soul are allied with the Allegiance of Allsight, though they are more concerned with
+the dangers ruidium poses than the Allegiance of Allsight. In general, the Cobalt Soul takes a
+more active approach to faction conflict than the Allegiance of Allsight, consistent with their
+mission to root out corruption and preserve truth and knowledge. Cobalt Soul operatives are
+constantly scouting for information on potentially dangerous factions and act on that
+information when they recieve it.
+
+Major NPCs
+Jamil A'alithiya (CG Human) - High Curator of the Ank'Harel branch of the Cobalt Soul
+Iwo Zalarre (CG Half-Orc) - Operative
+Question (CN Tielfing) - Operative
+
+Faction Objectives
+- Investigate a suspected Cultist of Zehir to determine his motives in Ank'Harel
+
+- Obtain proof that Old Man Kruuk is selling dangerous black market magic items, then sieze any magic items 
+  he currently possesses
+
+- Inflitrate First Eclipse - the headquarters of the Consortium of the Vermilion Dream
+
+- Recover the "Key to the Netherdeep" that the Consortium seems to be after - revealed to be a Ruidium Greataxe 
+  found in the flooded Villa of Cael Morrow (area M13)
+
+- Subdue or defeat the Alyxian Aboleth
+
+- Cut off the supply of rudium after it is shown to be too dangerous
+
+
+## Consortium of the Vermilion Dream
+
+While the organization in general is devoted to the research of Ruidus, the Consortium's recent
+efforts are focused on obtaining as much ruidium as possible and experimenting with the
+substance to determine its potential. Additionally, they have other undertakings designed to
+secure resources and funds for their ruidium plans.
+
+Major NPCs
+Five Masters:
+Aradrine the Owl (LN Goliath)
+Dendarron the Sun Bear (CN Halfling)
+Larthul the Wolf (CE Human)
+Khelkur the Gull (NE Dwarf)
+Vrill the Moth (LE Elf)
+
+Aloysia Telfan (LE Elf) - Agent
+Satzrak Runestrider (NE Blue Dragonborn) - Owner of First Eclipse
+Galeokaerda (NE Elf) - Adjunct Professor, spy for the Consortium of the Vermilion Dream in Cael Morrow
+Ashann (CN Gnome) - Agent
+
+Faction Objectives
+- Purchase a ruidium shortsword from Old Man Kruuk
+
+- Steal the ruidium infused Figurine of Wonderous Power from the Allegiance of Allsight. After acquiring it 
+  from the Bone Garden, the figurine is kept in the Relic Hall (area S4)
+
+- Experiment with the ruidium infused Figurine of Wonderous Power to create two crystaline elephants, 
+  using First Eclipse as a base of operations for the test (after clearing out the secret basement)
+
+- Obtain the "Key to the Netherdeep" - as identified by Consortium divers to be 
+  a ruidium greataxe in a sunken Cael Morrow Villa (area M13)
+
+- Kill the Alyxian Aboleth so the path to the rift in Cael Morrow is clear
+
+- Enter the Netherdeep and find the source of ruidium. If it's a creature, convince or force 
+  it to ally with the Consortium
+
+
+## Sentinels of Memory
+
+Primarily a political faction, the Sentinels of Memory seek to prevent the exploration of Cael
+Morrow, believing the secrets of the past should not be uncovered. However, as it seems
+politics alone will not stop the Allegiance of Allsight, some members have resorted to
+espionage, sabotage, and violence to achieve their goals.
+
+Major NPCs
+Watcher Trast (N Elf) - Founder
+Watcher Byron (LE Gnome) - Operations Manager
+Watcher Lymmle Wist (NE Human Mage) - Professor, spy for the Sentinels of Memory
+
+Faction Objectives
+- Attack the Life Dome and frame an Allegiance member, such as Prolix Yusaf, for the the attack
+
+- Steal ruidium items that the other factions recover from Cael Morrow, including the ruidium infused Figurine of Wonderous Power
+
+
+## Other
+
+The Hands of Ord, the Scarbearers, and the Veil do not play a specific role 
+
+There is a homeless teenage girl with innate magical abilities named Shira that is using the
+Boughs of the Wild Mother as a nighttime hideout and scaring off anyone who comes near by
+pretending to be a ghost using her magical abilities
+
+Luck's Run Casino has received a report that three thieves will be trying to pull off a heist
+and need mercenaries to increase security
+
+

@@ -1,0 +1,6 @@
+
+
+S: Battle Master (sup dice), Echo Knight (dup), Samurai (adv, +GWM or Sharpshooter)
+A: Rune Knight (runes)
+B: Cavalier (defense), Edritch Knight (spells), Champion, Psi Warrior
+C: Arcane Archer, Purple Dragon Knight
