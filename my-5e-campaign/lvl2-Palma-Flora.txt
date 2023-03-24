@@ -2,17 +2,72 @@
 
 # Aboard the Windchaser
 
-take aboard the Wavechaser to set upon Port Damali in search of a magical water-breathing apparatus
+ - board the Wavechaser 
+ - intro crew
+ - roll knowledge
+ - allow interactions
+ - choose path
+   - deliver refugees -- friends in any port in the Clovis Concord
+    and/or
+   - go to port in search of water-breathing apparatus
+    and/or 
+   - go back to prepare visit to Jigow/Phandalin
+ - sleep
+  
 
- - introduce the Revelry
- - deliver to refugees -- friends in any port in the Clovis Concord,
- - go to port
+## crew:
 
-What Three Earrings Knows
+Roll Wisdom (Insight), Bobby w/ ADV 
+  DC 16: detect Revelry "a highly organized coalition of buccaneers headquartered on the dread isle of Darktow"
+  DC 18: differentiate crew 
 
-The tabaxi captain knows exactly what happened in Palma Flora, thanks to the Revelry
-spies that have been observing the village and the Sharkfeather Abyss for the past few
-months. She reveals any of the following information:
+  pale female tabaxi with snow leopard-like spots and a row of 3 prominant earings
+  - Three Earrings (Female Tabaxi),  NE bandit captain 
+
+  A burly, dark-skined man playing a cards with refugees.  keen mind for games.  
+  - Boerth (Male Human). CN bandit Port Damali. 
+
+  A half-orc female gazes out at the waves, smiles at a dolphin leaping through the ship's wake.  
+  - Dajarkal (Female Half-Orc). LN druid soft-spoken likes animals. CC spy.
+
+  at the ship's helm. a male elf with pale-green skin and watery eyes is speaking to a female dwarf with a thick, knotted beard 
+  - Dillyu (Male Sea Elf).  CG bandit Port Zoon, lost family to sahuagin raid 
+  - Heidi Axebeard (Female Dwarf). LE acolyte, pilot and first mate, knack for predicting the weather.  
+    fought sahuagin.  Grimgolir in the Dwendalian Empire 
+
+  A handsome, tan, muscle-bound man is flirting with one of the refugees.
+  - Kijori (Male Human). CN bandit, ship's navigator. Port Damali, fool
+
+
+## What do you want to do?
+
+  - talk to crew
+  - talk to captain
+  - talk to refugees
+
+### Refugees
+
+  "Island refugees have created makeshift shelters from the sun all across the deck of
+   Wavechaser. Those you saved during the raid are here, as well as a handful of others who
+   managed to reach the ship before it left the dock.
+
+  One of the villagers aided shows their gratitude with gift of family-heirloom golden bracelet (worth 25 gp).
+
+  want to be dropped at various destinations
+
+### Captain
+
+
+  Roll Persuation. 
+  DC high: if claim reverly, admit spies
+  DC any: 
+
+  Roll Wisdom (Insight), Bobby w/ ADV 
+  DC 16: visits at night
+
+  The tabaxi captain knows exactly what happened in Palma Flora, thanks to the Revelry spies
+  that have been observing the village and the Sharkfeather Abyss for the past few months. She
+  reveals any of the following information:
 
   - The earthquake dragged Flora Isle into the Sharkfeather Abyss, a nearby trench that
   is home to a clan of shark-herding humanoids known as sahuagin.
@@ -28,21 +83,16 @@ months. She reveals any of the following information:
   What is important is finding a way to delve beneath those waves and take the scepter.
 
   - Any number of nearby ports/islands are good sites for Wavechaser to dock, unload
-  its refugees, and find gear. eg Port Damali
+  its refugees, and find gear.
 
 
-# Ports
+## Ports
 
 - Bisaft Isle. This tiny island has a small port. A shaman living in the hills beyond the
-port might be able to provide the characters with a charm of water breathing 
+  port might be able to provide the characters with a charm of water breathing 
 - Brokenbank. apothecary potions to breathe underwater.
 - Port Damali. experimental diving helmets 
 
 
-# Prime a Visit to Jigow/Phandalin
-
-  get them there and do all info in separate file
-
-  on path there, ambush + hideout
 
 
