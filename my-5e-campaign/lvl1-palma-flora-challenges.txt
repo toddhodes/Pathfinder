@@ -66,10 +66,15 @@
   meet Ayo Jabe
    - beautiful water genasi female w/ blue skin, green eyes, black hair, lower fangs. bracelets.
      (ranger: studded leather, harpoon and bow) 
-   - mentions her friends Dermot and Maggie (also w/ bracelets)
+   - mentions her friends Irvan // not Dermot and Maggie (also w/ bracelets)
      - Dermot: short yellow goblin w/ a luxon necklace around his neck. calm energy.
                her very old friend from the north (cleric: breastplace, warhammer)
      - Maggie: newer companion, 12' female beige ogre w/ high-pitched voice. (leather, maul, hammers)
+
+   - compliments bracelets, lack of current ones
+     - that one is half a pair from 3 years ago, collector's item
+     - is a fashion show, might be able to help you, let's talk later
+
 
   if ask about history:
    - water genasi born to orc parents during a terrible storm in the Emerald Gulch.
@@ -119,34 +124,6 @@ rules:
   table until the three rounds are over is declared a winner.
 "any questions?
 
-
-the Challenge 3 rounds:
-
-Constitution saving throw. The DC depends on the pepper they chose. 
-- successful saving throw, eat it. 
-- failed saving throw, eat the pepper but have disadvantage on the next saving throw 
-- failed by 10 or more, reach for milk and leave the table. lose.
-
-Random Spicy Pepper
-d10	Pepper
-1		Dud! The pepper is not a pepper, but a cherry tomato. You do not need to make a saving throw.
-
-2-5		Common Pepper (DC 10). This pepper has no special effects.
-
-6-7     Sweet Heat Pepper (DC 12). The pepper is hot but delicious. You do not have
-disadvantage on this saving throw if you would normally have it as a result of eating
-another pepper.
-
-8       Burning Waves Pepper (DC 16). The heat from this pepper comes in waves. You must
-make two consecutive Constitution saving throws this round against this pepper.
-
-9       Flamethrower (DC 18). If you fail your saving throw against this pepper, you
-belch or gasp spice into the air. The next challenge participant to eat a pepper has
-disadvantage on their saving throw.
-
-10      Skull-Face Pepper (DC 20). The spice is intense. For an instant, every
-participant's face looks like a skull to you. This is unsettling but has no other
-effect.
 
 
 ## Battle Prawn Challenge
