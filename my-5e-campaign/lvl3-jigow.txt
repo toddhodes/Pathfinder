@@ -39,6 +39,8 @@ Wetwalk:    J5, J6      rice, herding
 
 # Competitions
 
+ *** rules mods ***
+
 - Best Pies in the Jumble @ Jumble (J1)
   The Unbroken Tusk inn boasts the best meat pies east of the Ashkeeper Peaks. Its owner has offered a prize to the person who can eat the most pies.
 
@@ -48,11 +50,23 @@ Wetwalk:    J5, J6      rice, herding
 - The Ifolon Plunge @ River (J3)
   Some distance offshore in the Ifolon River, a rusted spear is lodged into a weathered piece of a pier - test you swimming speed and skill.
 
+  *** DASH: DC13 Athletics: on fail, wasted + DC 13 CON save or 1 lvl exhaustion ***
+
 - Call to Arms @ Square (J4)
   Maryl Bronzefang of the Aurora Watch has challenged anyone and everyone to best her in an arm-wrestling contest. Last year she went undefeated.
 
+  *** each round, Athletics check
+   1-5: +1/-1 point
+   5-9: +2/-2 pt
+   10+: +3/-3 pt
+   4-5 points wins
+   +1d6 for each STR mod, use at any time
+   use last one, all checks -1d4
+
 - Wetwalks Paddywhack @ Wetwalks (J5)
   Members of the Gakthash and Uvuroh goblin clans time their rice paddy harvests to coincide with the Festival of Merit every year. This event turns the mundane act of harvesting into a spirited competition.
+
+   *** 1d6 damage to collector on cutter fail
 
 - Herding the Horizonbacks @ Square (J6)
   This year’s brood of young horizonback tortoises must be relocated to the Jumble.
@@ -60,6 +74,8 @@ Wetwalk:    J5, J6      rice, herding
 - Riddles and Rhymes @ Jumble (J7)
   Test your mettle against one of Jigow’s elders. He has come up with several new riddles specially for the festival this year.
   +1 "I must be broken before I can be used."  [egg]
+
+  *** DC success -> either bronze or copper
 
 Landmarks:
 - J8: Temple of the Luxon
