@@ -2,7 +2,7 @@
 # Summarize Hooks
 
 - re-introduce Phandelver: reminder of The Spider's Web hooks available
-  Conybery banshee, Old Owl Well, Thundertree druid -> Cragmaw Castle/Wave Echo, Wyvern Tor 
+  Conybery banshee, Old Owl Well, Thundertree druid -> Cragmaw Castle/Wave Echo, Wyvern Tor
   Sildar: find Cragmaw Castle, search for Gundren Rockseeker, rescue the dwarf, and retrieve his map.
 
 - Radiant Citiadel Awakening in Festival Godsbreath
@@ -78,6 +78,12 @@ X. Reunion with the Rivals - Dragonchess match, exchange quests, info
 6. Ill Omen - Ruidus flare - re-explain moons.  DC 10 history bad luck, dread holding Jewel and looking at Ruidus. 
    ask for theories.
 X. Patrol in Battle - tear in world; vision of Perigree's death
+
+
+## Attack on the Emerald Loop Caravan Stop
+
+Run dream-bane cave
+https://docs.google.com/document/d/1sygEx1qJIF7GH45kW-ZdH_fN0-60qQUek9_3qNwwEwE/edit
 
 
 # Rivals
