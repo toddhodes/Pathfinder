@@ -306,6 +306,22 @@ confrontation:
 
 # Appendix
 
+## Forgotten Realms organization mappings to Exandrian equivalents
+
+Harpers                 = Cobalt Soul
+                          Golden Grin (bards)
+Lord's Alliance         = the Clovis Concord
+the Zhentarim           = the Myriad, the Clasp
+Order of the Gauntlet   = Cerberus Assembly
+ (cleric, monk, paladin)  Claret Orders (bloodhunters)
+                          Golden Chain mercenary company (Port Damali)
+
+Red Wizards             = ? warmongers of the Cerberus Assembly
+
+Emerald Enclave         = Ashari (air, earth, fire, water)
+ (druids)
+
+
 ## Radiant Citadel regions
 
 Salted Legacy - Bangkok
