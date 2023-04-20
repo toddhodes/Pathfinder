@@ -1,32 +1,47 @@
 
 # Back on the ship
 
-as an hour passes since the combat, its as if a fog has lifted. you realize the past two days is a blur.
-you barely remember Port Damali.  something happened on that island.  something much deeper than a natural
-disaster.  and the fog broke once you killed Selachai.  A connection was broken.
+as hour pass since the dramatic underwater scene, a fog that had surrounded you lifts, burns off. past two days is a blur.
+you barely remember Port Damali.  the fog broke once you killed Selachai.  A connection was broken?  or...
 
-Your minds are flooded with facts you never realized:
+- RYAN: a song has started to become an ear worm, finding its way into the songs you absent-mindly create while passing
+        the time on the ship. a line about the crew reaching out for rope or cards.  
+        it keeps creeping back into your mind, and you find yourself absent-mindedly reaching for your pendant.   
+        its from somewhere you've definitely never been, but you're pretty used to that by now.  it's got that biological connection
+        this one.  it's verses seem to be leading you toward something that would empower your songs.  
+- STEVEN: has been hearing the tune and finds himself humming along, finishing the line at the end of the chorus.  unfamiliar as it is.  
+         steven you're connection to the
+         mystical, whatever spiritual connection you have, the one teaching you your new level 3 spell, takes on a novel feel to it, a new source.  you feel that
+        there's new part of the pantheon chiming in.  you're not sure which -- among the prime dieties for sure, maybe... 
+        the changebringer Avandra, the moonweaver Sehanine, the Arch Heart Corellon.  all 3 are well know to be associated with long flowing hair.
+- RYAN: his verses about hair, and get a vision of a road and long hair.  
+  BOTH: "vespin chloras is reaching out, from the depths, trying to free himself from under the left hand of asmodeous, the betrayer gods."
+       DC 12 Investigation/History: the only lore that connects Vespin, Asmodeous, and the hair dieities is the Kiss of the Changebringer.
+       Legend holds that Asmodeus stole this amulet from the neck of Avandra and locked it away within the vaults of
+       Bazzoxan. In an expedition into the dark fortress's depths, the Kiss of the Changebringer was found and claimed
+       by a group of Aurora Watch soldiers.  also connected are the Star Razor, and Blackrazor.
+
+
+- JOSH: you're fairly certain you saw a childhood friend in the city.  a friend of Kirjava.  he called you the wrong name.  you responded poorly.
+        he asked what you wer edoing and you told him of the tragedy of the Palma Flora Festival, and the possibility of going to the Festival of Merit
+        in Jigow.  He telss you that there are others of your friends who survived the monster pit massacre.  if you're going up north, look for them
+        in Phandelin, among the Phandelvers.  
+        DC 12 Investigation/History: Phandalin is a mining town of humans and dwarves, an ex-pat mining colony of empire races.  been there a while now,
+        just north of jigow, in rare patches of woods alongside a mountain range and the coast.
+
 - JAMES: your visit to the ship was too good to be true.  you recognized and were recognized on the way out. 
-         he let you set the fire, and leave.  you're fairly certain the navigator is an associate of Benji Moore.  yet not a spy.
-- RYAN: a series of songs floods back from your mind, pulses from your pendant.   its from somewhere you've definitely never been.
-        your fear of water rushes back.  you're shocked you could go to those depths against overwhelming odds. a pulse beats.
-        you can't let it go.  it's leading somwhere.
-- STAV: you sudddenly feel the weight of being a fragment of a person.  the weight of the death of your whole family.  yes, family.
-        all you had.  they're a collected bunch of fragments, bracelets, beads.  but there are not random pieces. you have a special knack 
-        for putting pieces togther.
-- JOSH: you're fairly certain you saw a childhood friend in the city.  a friend of Kirjava.  he called out to you 
-        but you weren't able to respond.  he called you the wrong name.
-- STEPHEN: you're the only one who seems to be able to connect everything. you were on a misson from god. a mission against corruption.
-          a mission against all those corrupting the world.  corrupting the collective.  the empire.
-          this feeling is something just very RIGHT to you.  you still feel it.  you grasp you spiritual connections symbol and feel centered.
+         he let you set the fire, and leave.  you're fairly certain he was an associate of Benji Moore.  
 
-and the behavior of the sauhugin...  the sat kneeling.  the whole time.  as if in a trance.  when it broekn, they ran like lost children.
+        triton recognizes the name, asks about father.  recognizes pendant. says sailors are suffering and only Wave can save them.
+        you recognize that there is a potential vestige called "Wave" connected to the Tritons. it could potentially counter the rod.
 
-- STAV: you're suddenly absolutely overwhelmed by the need to get a cleric to cast augury on your braclet and fragments.  shaking.
-        an expensive cleric, and the right cleric.  but you don't know what god or gods is right.  but you feel it narrowing.
-        there's only so many gods it can be.
+- STAV: you've been rooting around in your kit, which you use to make items, mystical or practical, even sometimes using the parts on yourself.
+        playing with your bracelets, the green material got you thinking.  rooting around in your core, you see it -- distinct trace amounts of
+		green/turqoiuse elements incorporated into your constructions, one of which matches the green.  it could
+		be mistaken for emerald, but not emerald.  alongside it is a strage red gem element, also gemstone or
+		crystal..  they're nothing anyone has seem before.  DC 12 Investigation: further investigatation proves
+		red seems like it might be related to some kind of spell component, to empower spells.
 
-many of the rest of you. notice the druid shaking.  staring off, speechless.  the rest of the crew has disappeared.
 3earings and the navigator sit at the wheel, silently.
 
 the sun breaks.  and the red moon rises behind it, a bit below the larger white moon.
@@ -35,12 +50,15 @@ the wind makes a light lapping sound on the ocean
 
 the waft of palma flower scent passes over you
 
-3 earings absent-mindedly removed her earings, one by one.  and then slowly pierces them, one by one, in the other ear.
-her navigator stares quizically.. "boss?"  "whisk.. err i mean three, you ok?"  "yea, it just feels... a time for change?"
+3 earings absent-mindedly removed her earings, one by one.  and then slowly pierces them, one by one, in the other ear. replacing the 
+other side with studs.  "three, you ok?"  "yea, it just feels... time for a change."
 
-silence again.
+she mentions she's happy to take you to the synasty by ship, if you like.  before that, you have to make some decision about the staff.
 
-what do you do?
+btw - would you like to give the rod a name?
+
+and, what do you do?
+
 
 ## Decisions on staff
 
@@ -55,7 +73,7 @@ Hand out treasure: https://www.d20srd.org/srd/treasure.htm
 - Barthen's Provisions. wagonload of supplies 
 - Lionshield Coster. deliver stolen goods from the Cragmaw hideout
 - Stonehill Inn.  Get lvl3 quests
-- return Sildar Hallwinter 
+- return Sildar Hallwinter
 - Tower of Storms (from DoIP, Dragon of Icespire Peak)
   "on the coast is an old stone lighthouse. Ships are drawn to this gleaming tower like moths
    to a flame, and are doomed to crash upon its rocks. Their wrecks must be filled with treasure!"

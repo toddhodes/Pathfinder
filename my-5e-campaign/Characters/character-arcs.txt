@@ -1,4 +1,24 @@
 
+Blackrazor:
++1 to attack/damage
+Upon killing a creature with the weapon, gain 10 temp hp.
+If striking an undead, take 1d10 damage and heal target for that amount. If you drop to 0 from this, your soul gets eaten by the blade.
+Immune to charm/frightened
+Still need to feed the sword a soul every three days or so or it gets grumpy.
+
+Wave
++1 weapon
+On crit: deal extra 1d10 necrotic damage
+Trident of fish command abilities
+Telepathy with animals
+
+Whelm
++1 weapon
+Fear of the outside remains; disadvantage on attacks/saves/checks while outside.
+Range 20/60. When thrown, it flies back to your hand. It does +d8 dmg when thrown, +2d8 vs. giants.
+1/d detect good/evil
+
+
 
 - JAMES: your visit to the ship was recognized. someone helped you set the fire, and escape.  an associate of Benji Moore.  
 

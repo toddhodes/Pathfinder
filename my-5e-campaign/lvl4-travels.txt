@@ -1,6 +1,11 @@
 
 # Summarize Hooks
 
+- Kiss of the Changebringer:
+   Legend holds that Asmodeus stole this amulet from the neck of Avandra and locked it away within
+   the vaults of Bazzoxan. In an expedition into the dark fortress's depths, the Kiss of the
+   Changebringer was found and claimed by a group of Aurora Watch soldiers.[2]
+
 - re-introduce Phandelver: reminder of The Spider's Web hooks available
   Conybery banshee, Old Owl Well, Thundertree druid -> Cragmaw Castle/Wave Echo, Wyvern Tor
   Sildar: find Cragmaw Castle, search for Gundren Rockseeker, rescue the dwarf, and retrieve his map.
