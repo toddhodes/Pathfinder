@@ -53,18 +53,94 @@ the waft of palma flower scent passes over you
 3 earings absent-mindedly removed her earings, one by one.  and then slowly pierces them, one by one, in the other ear. replacing the 
 other side with studs.  "three, you ok?"  "yea, it just feels... time for a change."
 
-she mentions she's happy to take you to the synasty by ship, if you like.  before that, you have to make some decision about the staff.
-
-btw - would you like to give the rod a name?
-
 and, what do you do?
 
 
-## Decisions on staff
+## Decisions on rod
 
-Three-earings provides http://dnd5e.wikidot.com/wondrous-items:sending-stones
+btw - would you like to give the rod of retribution a name?
+
+you have to make some decision about the rod.
+
+Three-earings provides sending stones 
+http://dnd5e.wikidot.com/wondrous-items:sending-stones
+"whereever the rod goes, one of these does too"
+
+she mentions she's happy to take you to the dynasty by ship, if you like.  
+but before that, recommends you talk to her father or the plank king no matter what the decision
 
 Hand out treasure: https://www.d20srd.org/srd/treasure.htm
+
+
+## Darktow Isle
+
+https://criticalrole.fandom.com/wiki/Darktow_Isle
+
+### Entering the Roost
+
+- show map of darktow isle
+- as you approach, Dragon Turtle's head pops up, watches you briefly, before then heading off to some reefs
+
+  "Unlike most of the tropical islands of the area, the main island of Darktow Isle resembles little more than huge
+   jagged cliff faces raised multiple hundreds of feet from the waters of its coast.  Around the base of these cliffs is
+   a string of tangled docks used by the many ships of The Revelry. Torch lights mark the interconnecting routes through
+   the docks to the streets and buildings of the city that are built into the very cliff face itself."
+
+  "It is ruled by Plank King Wyatt Maranoss from the Throne Roost."
+
+
+- one rule to Darktow: do not double-cross.  single sanction: appear before the Plank King for immediate judgement
+3ear:
+- "You don't here ere unless you're looking for trouble, or unless you are the trouble."
+
+show entry images
+- "if anyone wants to look the part, there's clothes shops in Sundry Square"
+- "otherwise, let's get caught up with the riff-raff.  on to the Roost."
+
+### Entering the Roost
+
+describe scene:
+  "The Plank King is a giant of a man. dull gray skin covered in scars and his eyes are cold even when smiling. While
+   most goliath men do not have hair, Wyatt has long black curls that fall past the shoulders.  his
+   charisma makes him welcoming, but scary."
+
+- flanked on his right by a all-black tabaxi, with a white eyepatch, and flowing grey pants, and grey bandoleers
+- to his left a 50-something triton - burly, rough man. five o'clock shadow and curly gray hair that falls to his shoulders. 
+  teeth blackened or missing.
+- and beside each of those a
+  - female sea elf w/ curly, shoulder-length blonde hair and a scar over one eye, waring a tattered black coat.
+  - tortle in mottled blue-green shell and trident.
+  - two human scribes - Linus & Solon 
+
+otherwise mostly humans, and a mix of the other local races.
+
+then they're greeted:
+
+- the Plank King laughs out loud at your entry, startling two men beeseeching him and calls out,
+  "Three Earings! You're back from the mainland! And you brought friends! and hopefully cocktails" 
+  he motions far to this left at somone, then looks to his right.
+  The Tabaxi looks back and says, "how about i take this to the other room"
+
+the kings motions stares at all of you a second, then motions to the closer scribe, who whispers for a moment.  he then says, go ahead.
+
+3 earings introduces you to the tabaxi 
+
+  "This is Tybalt, my dad."  
+    Tybalt Rye - (replaced James Tybalt) right hand man to the Plank King.  father of 3 earings.
+
+and he says:
+- we've heard about the devistation
+  - did you bring any of the liquor?
+  - what's the status of the staff?
+
+she says 
+- "it was wilder than anyone could imagine.  the entire island sank into the sea like it was nothing.
+  these brave adventurers, and friends, saved many lives, including multiple of my crew.  without them, who knows."
+- is the spy still onboard?  she nods.  no trouble so far.  she motions to bob and says, "this one lit a concord ship on fire for us."
+- how nice. looks like a pirate to me.  clearly meant it as a compliment.
+
+she motions to you to answer about the rod.
+
 
 ## Exit ship
 
