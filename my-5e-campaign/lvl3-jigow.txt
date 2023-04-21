@@ -16,16 +16,17 @@ you barely remember Port Damali.  the fog broke once you killed Selachai.  A con
         the changebringer Avandra, the moonweaver Sehanine, the Arch Heart Corellon.  all 3 are well know to be associated with long flowing hair.
 - RYAN: his verses about hair, and get a vision of a road and long hair.  
   BOTH: "vespin chloras is reaching out, from the depths, trying to free himself from under the left hand of asmodeous, the betrayer gods."
+
        DC 12 Investigation/History: the only lore that connects Vespin, Asmodeous, and the hair dieities is the Kiss of the Changebringer.
        Legend holds that Asmodeus stole this amulet from the neck of Avandra and locked it away within the vaults of
        Bazzoxan. In an expedition into the dark fortress's depths, the Kiss of the Changebringer was found and claimed
        by a group of Aurora Watch soldiers.  also connected are the Star Razor, and Blackrazor.
 
-
 - JOSH: you're fairly certain you saw a childhood friend in the city.  a friend of Kirjava.  he called you the wrong name.  you responded poorly.
-        he asked what you wer edoing and you told him of the tragedy of the Palma Flora Festival, and the possibility of going to the Festival of Merit
-        in Jigow.  He telss you that there are others of your friends who survived the monster pit massacre.  if you're going up north, look for them
-        in Phandelin, among the Phandelvers.  
+        he asked what you were doing and you told him of the tragedy of the Palma Flora Festival, and the possibility of going to the Festival of Merit
+        in Jigow.  He telss you that there are others of your friends, orphans who survived the monster pit massacre.  
+        if you're going up north, look for them in Phandelin, among the Phandelvers.  one of them has an uncle up there.
+
         DC 12 Investigation/History: Phandalin is a mining town of humans and dwarves, an ex-pat mining colony of empire races.  been there a while now,
         just north of jigow, in rare patches of woods alongside a mountain range and the coast.
 
@@ -38,11 +39,13 @@ you barely remember Port Damali.  the fog broke once you killed Selachai.  A con
 - STAV: you've been rooting around in your kit, which you use to make items, mystical or practical, even sometimes using the parts on yourself.
         playing with your bracelets, the green material got you thinking.  rooting around in your core, you see it -- distinct trace amounts of
 		green/turqoiuse elements incorporated into your constructions, one of which matches the green.  it could
-		be mistaken for emerald, but not emerald.  alongside it is a strage red gem element, also gemstone or
-		crystal..  they're nothing anyone has seem before.  DC 12 Investigation: further investigatation proves
-		red seems like it might be related to some kind of spell component, to empower spells.
+		be mistaken for emerald, but not emerald.  wound around it it is a strage red gem element, also gemstone or
+		crystal..  they're nothing anyone has seem before.  
 
-3earings and the navigator sit at the wheel, silently.
+        DC 12 Investigation: further investigatation proves red seems like it might be related to some kind of spell component, to empower spells.
+        and the green seems to act as the channeling/control of it in your makeup.
+
+three-earings and the navigator sit at the wheel.
 
 the sun breaks.  and the red moon rises behind it, a bit below the larger white moon.
 
@@ -137,6 +140,7 @@ she says
 - "it was wilder than anyone could imagine.  the entire island sank into the sea like it was nothing.
   these brave adventurers, and friends, saved many lives, including multiple of my crew.  without them, who knows."
 - is the spy still onboard?  she nods.  no trouble so far.  she motions to bob and says, "this one lit a concord ship on fire for us."
+   i think the spy dajarkal signalled for them.
 - how nice. looks like a pirate to me.  clearly meant it as a compliment.
 
 she motions to you to answer about the rod.
