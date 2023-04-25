@@ -1,16 +1,14 @@
 
 # Back on the ship
 
-as hours pass, a fog lifts, burns off. past two days is a blur.  you barely remember Port Damali.  the fog broke once you killed Selachai.  
+as hours pass, a fog burns off.  past two days is a blur.  you barely remember Port Damali.  the fog broke once you killed Selachai.  
+the wind makes a light lapping sound on the ocean
+the scent of the ocean passes over you
 
-- JAMES: your visit to the ship was a little too simple.  you recognized and were recognized on the way out. 
-         he let you set the fire, and leave.  you're fairly certain he was an associate of Benji Moore.  
-         the crew and 3ear seem ... suspicious.
+three-earings and the navigator sit at the wheel.
 
-        --> you can Roll / follow up at any port, or anyone you want to ask about it
-
-   DC 12 Investigation: 
-        Jace has not been heard from.  nor Benji.
+3 earings absent-mindedly removes her earings, one by one, then slowly pierces them in the other ear. 
+replaces the other side with studs.
 
 - STAV: you've been rooting around in your kit, which you use to make items, mystical or practical, even sometimes using the parts on yourself.
         playing with your bracelets, the green material got you thinking.  rooting around in your core, you see it -- distinct trace amounts of
@@ -47,7 +45,7 @@ as hours pass, a fog lifts, burns off. past two days is a blur.  you barely reme
         the dodecahedron around your neck, your REAL family...  has been trying to contact you.
         untold generations of work, a mission, a need to do something VERY important.  
 
-        there's a plan, but it's been LOST,  the connection broken.
+        there's a plan, but it's been LOST, the connection broken.
 
         your mother was VERY important.  her kidnapping broke a very careful line of work, out of order.
 
@@ -70,16 +68,14 @@ as hours pass, a fog lifts, burns off. past two days is a blur.  you barely reme
        by a group of Aurora Watch soldiers.  also connected are the Star Razor, and Blackrazor.
 
 
-three-earings and the navigator sit at the wheel.
+- JAMES: your visit to the ship was a little too simple.  you recognized and were recognized on the way out. 
+         he let you set the fire, and leave.  you're fairly certain he was an associate of Benji Moore.  
+         the crew and 3ear seem ... suspicious.
 
-the sun breaks.  and the red moon rises behind it, a bit below the larger white moon.
+        --> you can Roll / follow up at any port, or anyone you want to ask about it
 
-the wind makes a light lapping sound on the ocean
-
-the waft of palma flower scent passes over you
-
-3 earings absent-mindedly removed her earings, one by one.  and then slowly pierces them, one by one, in the other ear. replacing the 
-other side with studs.  "three, you ok?"  "yea, it just feels... time for a change."
+   DC 12 Investigation: 
+        Jace has not been heard from.  nor Benji.
 
 
 ## Decisions on rod
