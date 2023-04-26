@@ -104,7 +104,12 @@ https://criticalrole.fandom.com/wiki/Darktow_Isle
 
 ### Entering the Bay
 
-- show map of darktow isle
+- show map and image of darktow isle
+
+3ear:
+- "You don't go there unless you're looking for trouble, or unless you are the trouble."
+- one rule to Darktow: do not double-cross
+
 - as you approach, Dragon Turtle's head pops up, watches you briefly, before then heading off to some reefs
 
   "Unlike most of the tropical islands of the area, the main island of Darktow Isle resembles little more than huge
@@ -112,21 +117,15 @@ https://criticalrole.fandom.com/wiki/Darktow_Isle
    a string of tangled docks used by the many ships of The Revelry. Torch lights mark the interconnecting routes through
    the docks to the streets and buildings of the city that are built into the very cliff face itself."
 
-  "It is ruled by Plank King Wyatt Maranoss from the Throne Roost."
-
-
-- one rule to Darktow: do not double-cross.  single sanction: appear before the Plank King for immediate judgement
-3ear:
-- "You don't here ere unless you're looking for trouble, or unless you are the trouble."
-
-show entry images
-- "if anyone wants to look the part, there's clothes shops in Sundry Square"
-- "otherwise, let's get caught up with the riff-raff.  on to the Roost."
+  "you know it is ruled by Plank King Wyatt Maranoss from his seat at the Throne Roost."
 
 
 ### On the docks
 
-- JOSH: a childhood friend approached in the city.  a friend of yours and Kirjava.  he calls you Pan.  
+- "if anyone wants to look the part, there's clothes shops in Sundry Square"
+- "otherwise, let's get caught up with the riff-raff.  on to the Roost."
+
+- JOSH: a childhood friend approachs from the docs.  a aquaintance of yours and Kirjava.  "Pan?"
         asks what you were doing 
            --> tragedy of the Palma Flora Festival, and the possibility of going to the Festival of Merit in Jigow.  
         tells you that there are others of your friends, orphans who survived the monster pit massacre, up north.
@@ -145,7 +144,7 @@ describe scene:
 
 - flanked on his right by a all-black tabaxi, with a sharp grey vest, and flowing grey pants, and grey bandoleers
 - to his left a tortle in mottled blue-green shell holding a trident 
-and beside each of those a
+ and beside each of those a
   - a pair of twin tritons, in long flowing black hair, and matching scimitars
   - a female sea elf w/ curly, shoulder-length blonde hair and a scar above one eye, waring a tattered black coat
   - a human scribe, and a human scribe/bard - Linus & Solon
@@ -190,8 +189,12 @@ T: "how nice. looks like a pirate to me."  clearly meant it as a compliment.
 she motions to you to answer about the rod.
 
 the Plank King / Tybalt provides sending stones http://dnd5e.wikidot.com/wondrous-items:sending-stones
-"whereever the rod goes, one of these does too"
-"whereever you go, one of these does too"
+
+offers items in trade: 
+- Bag of Holding
+- Immovable Rod
+- +1 shield
+- any 2x: +1 weapon, Gauntlets of Ogre Power, Eyes of the Eagle, Mithral armor
 
 
 # Exit ship
