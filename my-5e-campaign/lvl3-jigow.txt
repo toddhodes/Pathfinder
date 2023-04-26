@@ -1,14 +1,38 @@
 
 # Back on the ship
 
-as hours pass, a fog burns off.  past two days is a blur.  you barely remember Port Damali.  the fog broke once you killed Selachai.  
+as hours pass, a fog burns off.  the fog broke once you killed Selachai.  
 the wind makes a light lapping sound on the ocean
 the scent of the ocean passes over you
+some welcome calm.
 
 three-earings and the navigator sit at the wheel.
 
 3 earings absent-mindedly removes her earings, one by one, then slowly pierces them in the other ear. 
 replaces the other side with studs.
+
+
+## Decisions on rod
+
+so, rod of retribution
+
+she mentions she's happy to take you to the dynasty by ship, if you like.  
+
+but before that, recommends you talk to her father and the plank king 
+
+:: Hand out treasure: https://www.d20srd.org/srd/treasure.htm
+
+*** choices of what to do:
+- darktow
+- palma (3ear: no, too dangerous)
+- port damali
+- mainland
+- festival by land
+- festival by ship
+- lighthouse
+
+
+## Time on Board
 
 - STAV: you've been rooting around in your kit, which you use to make items, mystical or practical, even sometimes using the parts on yourself.
         playing with your bracelets, the green material got you thinking.  rooting around in your core, you see it -- distinct trace amounts of
@@ -78,25 +102,6 @@ replaces the other side with studs.
         Jace has not been heard from.  nor Benji.
 
 
-## Decisions on rod
-
-btw - would you like to give the rod of retribution a name?
-
-she mentions she's happy to take you to the dynasty by ship, if you like.  
-
-but before that, recommends you talk to her father and the plank king 
-
-:: Hand out treasure: https://www.d20srd.org/srd/treasure.htm
-
-*** choices of what to do:
-- darktow
-- palma (3ear: no, too dangerous)
-- port damali
-- mainland
-- festival by land
-- festival by ship
-- lighthouse
-
 
 # Darktow Isle
 
@@ -145,7 +150,7 @@ describe scene:
 - flanked on his right by a all-black tabaxi, with a sharp grey vest, and flowing grey pants, and grey bandoleers
 - to his left a tortle in mottled blue-green shell holding a trident 
  and beside each of those a
-  - a pair of twin tritons, in long flowing black hair, and matching scimitars
+  - a triton in long flowing black hair, and matching scimitars
   - a female sea elf w/ curly, shoulder-length blonde hair and a scar above one eye, waring a tattered black coat
   - a human scribe, and a human scribe/bard - Linus & Solon
 
