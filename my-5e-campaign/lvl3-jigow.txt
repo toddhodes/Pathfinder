@@ -206,17 +206,20 @@ offers items in trade:
 
 hooks:
 
+## Cross Border
+
+- mark your sign
+- meet Aurora Watch
+
+
 ## Drop off goods in Phandalin
 
 - Barthen's Provisions. wagonload of supplies 
 - Lionshield Coster. deliver stolen goods from the Cragmaw hideout
 - Stonehill Inn.  Get lvl3 quests
 - return Sildar Hallwinter
-- Tower of Storms (from DoIP, Dragon of Icespire Peak)
-  "on the coast is an old stone lighthouse. Ships are drawn to this gleaming tower like moths
-   to a flame, and are doomed to crash upon its rocks. Their wrecks must be filled with treasure!"
 
-someone: next stop the Radiant Citadel Awakening Festival in Godsbreath
+- the Radiant Citadel Awakening Festival in Godsbreath
 
 
 # Arrive Jigow
