@@ -1,7 +1,7 @@
 Lost Mines of Phandelver			
 ------------------------
 
-# Cragmaw Hideout
+# Leaving Cragmaw Hideout
 
 Sildar:
 
@@ -27,36 +27,87 @@ Sildar:
 
 # Phandalin
 
-## Stonehill Inn
-
-Rumors:
-- Narth, an old farmer: "Sister Garaele, who oversees the Shrine of Luck, recently left
-town for a few days, then returned wounded and exhausted." "Shrine of Luck" section
-
-- Elsa, a gossipy barmaid: "Daran Edermath, the orchard keeper, is a former adventurer."
-"Edermath Orchard" section
-
-- Lanar, a miner: "Orc raiders have been seen on the east end of Triboar Trail. The
-townmaster is looking for someone to run them off." "Townmaster's Hall" section
-
-- Trilena, the innkeeper's wife: "Thel Dendrar, a local woodcarver, stood up to the
-Redbrands a tenday ago when they came by his shop and leered at his wife. The ruffians
-murdered him. Several townsfolk saw it happen. The Redbrands grabbed his body, and now
-his wife, daughter, and son have gone missing too." (Redbrands took Thel's wife and
-children to their secret hideout.)
-
-- Pip, Toblen's young son: "Qelline Alderleaf's son Carp said he found a secret tunnel in
-the woods, but Redbrands almost caught him." "Alderleaf Farm" section
-
-- Freda, a weaver: "The Redbrands hassle every business in town, except for the Phandalin
-Miner's Exchange. They don't want trouble with Halia Thornton, who runs it." "Phandalin
-Miner's Exchange" section
+Existing quests:
+- lost mine
+- missing spellcaster exile Ilarno
+- return goods to Lionshield Coster
+- bring cocktails to Barthan's provisions
 
   --> Overland Travel
 
  "A light rain dampens the rolling plains as you travel north. Around midday, you break
- for lunch under a lonely tree. There, the rogue finds a small rock that looks like a
- grinning face, but otherwise you see nothing out of the ordinary."
+  for lunch under a lonely tree. There, the rogue finds a small rock that looks like a
+  grinning face, but otherwise you see nothing out of the ordinary."
+
+
+## Stonehill Inn
+
+### Milf
+
+a kobold covered in undersized, home-spun gear approaches you, tentatively.  he smells of pets/dander.
+- staff with a live scorpion secured to the tip, stinger end pointed out
+- flail w/ a glass jar of hornets 
+- wooden cage with live giant centipede, which seems oddly aware of you and listening in
+
+"hi!  i'm milf -- you know, like milk, but more fuckable!
+
+ have you heard of my father, Spurt? a great inventor like me! in tal'dorei.  
+ Spurt did important things!"
+
+ if not him, how about my brother Spork?
+
+ no?  
+
+ well.... i'm not like them.  it's weird, I'm a human!"
+
+points to Rumble -- I'm a human like you!
+
+disagrees when told, not human -- confused -- "yes, yes you are"
+
+"your a human on your... insides? sorry, milf isn't very smart, i can't really explain it well"
+
+asks someone else -- are you my uncle?  agrees they definitely are.
+
+half crouches down to feign sitting, as there is no chair for him to join,
+smiles a meek smile, sips something from a tin cup
+
+
+### Next
+
+Existing quests:
+
+- lost mine
+- missing spellcaster exile Ilarno
+- return goods to Lionshield Coster
+- bring cocktails to Barthan's provisions
+
+New Rumors:
+
+with the return of Sildar Hallwinter, and news of the Rockseekers (Gundren, not Tharden/Nundro),
+a crowd begins to form around your table.  and soom others have come in from outside.
+
+- Narth, an old farmer: "Sister Garaele, who oversees the Shrine of Luck, recently left
+  town for a few days, then returned wounded and exhausted." "Shrine of Luck" section
+
+- Elsa, a gossipy barmaid: "Daran Edermath, the orchard keeper, is a former adventurer."
+  "Edermath Orchard" section
+
+- Lanar, a miner: "Orc raiders have been seen on the east end of Triboar Trail. The
+  townmaster is looking for someone to run them off." "Townmaster's Hall" section
+
+- Trilena, the innkeeper's wife: "Thel Dendrar, a local woodcarver, stood up to the
+  Redbrands a tenday ago when they came by his shop and leered at his wife. The ruffians
+  murdered him. Several townsfolk saw it happen. The Redbrands grabbed his body, and now
+  his wife, daughter, and son have gone missing too." (Redbrands took Thel's wife and
+  children to their secret hideout.)
+
+- Pip, Toblen's young son: "Qelline Alderleaf's son Carp said he found a secret tunnel in
+  the woods, but Redbrands almost caught him." "Alderleaf Farm" section
+
+- Freda, a weaver: "The Redbrands hassle every business in town, except for the Phandalin
+  Miner's Exchange. They don't want trouble with Halia Thornton, who runs it." "Phandalin
+  Miner's Exchange" section
+
 
 
 ## Barthens Provisions
@@ -67,6 +118,7 @@ hasn't seen them in a tenday, expects the brothers to return "any day now" to re
 
 ## Lionshield Coster
 - return stolen goods
+  sharp-tongued human woman of thirty-five named Linene Graywind.
 
 ## "Shrine of Luck" 
 - banshee Agatha 
@@ -74,9 +126,11 @@ hasn't seen them in a tenday, expects the brothers to return "any day now" to re
   3 potions of healing "Conyberry and Agatha's Lair"
 
 ## "Phandalin Miner's Exchange" 
+  Halia Thornton.
 - Halia Offer: Redbrand ruffians loiter around the Sleeping Giant tap house and
   have a base under Tresendar Manor.  100gp to eliminate Redbrand leader, Glasstaff, and bring correspondence.  
   DC 15 Wisdom (Insight) ulterior motives
+
 
 ## "Edermath Orchard" 
 - knows the Redbrands hang around the Sleeping Giant tap house, but he can also tell the
@@ -97,7 +151,7 @@ Quest: Finding Iarno / 200gp eliminate redbrands (Glassstaff)
 
 
 ## Visit Redbrands at Sleeping Giant
-fight
+no fight, empty
 
 ## "Alderleaf Farm" / Qelline Alderleaf and son Carp 
 - woods near Tresendar Manor secret tunnel in a thicket. 
