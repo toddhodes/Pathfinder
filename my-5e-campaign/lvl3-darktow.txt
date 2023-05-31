@@ -1,0 +1,207 @@
+
+# Back on the ship
+
+as hours pass, a fog burns off.  the fog broke once you killed Selachai.  
+the wind makes a light lapping sound on the ocean
+the scent of the ocean passes over you
+some welcome calm.
+
+three-earings and the navigator sit at the wheel.
+
+3 earings absent-mindedly removes her earings, one by one, then slowly pierces them in the other ear. 
+replaces the other side with studs.
+
+
+## Decisions on rod
+
+so, rod of retribution
+
+she mentions she's happy to take you to the dynasty by ship, if you like.  
+
+but before that, recommends you talk to her father and the plank king 
+
+:: Hand out treasure: https://www.d20srd.org/srd/treasure.htm
+
+*** choices of what to do:
+- darktow
+- palma (3ear: no, too dangerous)
+- port damali
+- mainland
+- festival by land
+- festival by ship
+- lighthouse
+
+
+## Time on Board
+
+- STAV: you've been rooting around in your kit, which you use to make items, mystical or practical, even sometimes using the parts on yourself.
+        playing with your bracelets, the green material got you thinking.  rooting around in your core, you see it -- distinct trace amounts of
+		green/turqoiuse elements incorporated into your constructions, one of which matches the green.  it could
+		be mistaken for emerald, but not emerald.  wound around it it is a strage red gem element, also gemstone or
+		crystal..  they're nothing anyone has seem before.  
+
+        --> you can roll Investigation/History at the next place to ask questions
+
+    DC 12 Investigation: 
+        further investigatation proves red seems like it might be related to some kind of spell component, to empower spells.
+        and the green seems to act as the channeling/control of it in your makeup.
+
+- RYAN: a song has started to become an ear worm, finding its way into the songs you absent-mindly create while passing
+        the time on the ship. a line about the crew reaching out for rope or cards.  
+        it keeps creeping back into your mind, and you find yourself absent-mindedly reaching for your pendant.   
+        its from somewhere you've definitely never been, but you're pretty used to that by now.  
+        it's verses seem to be connecting you to something.  
+
+- STEVEN: you've been hearing the tune and find yourself humming along, finishing the lines, finishing the chorus.  
+        as if you're familiar with it, too.  as you hum, you are struck by a spark of connection to the mystical
+
+- BOTH: verses with metaphors to the calamity, the gods. the war.  the losses.  the divine gate.
+        verses about hair, hair spilling out, hair bound into rope.  the leading of armies.
+
+- STEVEN:
+       : what is your new spell?  
+       as you do a test casting of it, it's magically enhanced, empowered.  from a new source.  
+       a less familiar part of the prime diety pantheon chiming in.  you're not sure which -- 
+       3 are know to be associated with long flowing hair.
+	   the changebringer (Avandra), the moonweaver (Sehanine), the Arch Heart (Corellon)
+
+- RYAN: you're hit with the sudden realization that your family,
+        the dodecahedron around your neck, your REAL family...  has been trying to contact you.
+        untold generations of work, a mission, a need to do something VERY important.  
+
+        there's a plan, but it's been LOST, the connection broken.
+
+        your mother was VERY important.  her kidnapping broke a very careful line of work, out of order.
+
+        your letter isn't just a keepsake.  it's a clue to the path your family lost with the kidnapping.  
+        you need to reconnect to the dead inside you a find it.  the words to the song are a piece, a word, a name, imagery.
+        it's even connecting into the people around you.
+
+        the Gods cannot pass through the Divine Gate. they can reach through it, and connect others.
+
+- BOTH: 
+       a crewmember passes by and comments.  the song is from a children's tale?  
+       "beware Vespin Chloras, he reaches out to free himself from the left hand of Asmodeus..."
+
+        --> you can roll Investigation/History at the next place to ask questions
+
+    DC 12 Investigation/History: 
+       the only lore that connects Vespin, Asmodeous, and the hair dieities is the Kiss of the Changebringer.
+       Legend holds that Asmodeus stole this amulet from the neck of Avandra and locked it away within the vaults of
+       Bazzoxan. In an expedition into the dark fortress's depths, the Kiss of the Changebringer was found and claimed
+       by a group of Aurora Watch soldiers.  also connected are the Star Razor, and Blackrazor.
+
+
+- JAMES: your visit to the ship was a little too simple.  you recognized and were recognized on the way out. 
+         he let you set the fire, and leave.  you're fairly certain he was an associate of Benji Moore.  
+         the crew and 3ear seem ... suspicious.
+
+        --> you can Roll / follow up at any port, or anyone you want to ask about it
+
+   DC 12 Investigation: 
+        Jace has not been heard from.  nor Benji.
+
+
+
+# Darktow Isle
+
+https://criticalrole.fandom.com/wiki/Darktow_Isle
+
+### Entering the Bay
+
+- show map and image of darktow isle
+
+3ear:
+- "You don't go there unless you're looking for trouble, or unless you are the trouble."
+- one rule to Darktow: do not double-cross
+
+- as you approach, Dragon Turtle's head pops up, watches you briefly, before then heading off to some reefs
+
+  "Unlike most of the tropical islands of the area, the main island of Darktow Isle resembles little more than huge
+   jagged cliff faces raised multiple hundreds of feet from the waters of its coast.  Around the base of these cliffs is
+   a string of tangled docks used by the many ships of The Revelry. Torch lights mark the interconnecting routes through
+   the docks to the streets and buildings of the city that are built into the very cliff face itself."
+
+  "you know it is ruled by Plank King Wyatt Maranoss from his seat at the Throne Roost."
+
+
+### On the docks
+
+- "if anyone wants to look the part, there's clothes shops in Sundry Square"
+- "otherwise, let's get caught up with the riff-raff.  on to the Roost."
+
+- JOSH: a childhood friend approachs from the docs.  a aquaintance of yours and Kirjava.  "Pan?"
+        asks what you were doing 
+           --> tragedy of the Palma Flora Festival, and the possibility of going to the Festival of Merit in Jigow.  
+        tells you that there are others of your friends, orphans who survived the monster pit massacre, up north.
+        look for them in Phandelin, among the Phandelvers.  one of them has an uncle up there.  Lionshield Coster.
+
+	DC 12 Investigation/History: Phandalin is a mining town of humans and dwarves, an ex-pat mining colony of empire races.
+          been there a while now, just north of jigow, in a rare patch of woods alongside a mountain range and the coast.
+
+
+### Entering the Roost
+
+describe scene:
+  "The Plank King is a giant of a man. dull gray skin covered in scars and his eyes are cold even when smiling. While
+   most goliath men do not have hair, Wyatt has long black curls that fall past the shoulders.  his
+   charisma makes him welcoming, but scary."
+
+- flanked on his right by a all-black tabaxi, with a sharp grey vest, and flowing grey pants, and grey bandoleers
+- to his left a tortle in mottled blue-green shell holding a trident 
+ and beside each of those a
+  - a triton in long flowing black hair, and matching scimitars
+  - a female sea elf w/ curly, shoulder-length blonde hair and a scar above one eye, waring a tattered black coat
+  - a human scribe, and a human scribe/bard - Linus & Solon
+
+otherwise humans and a mix of the other local races.
+
+then they're greeted:
+
+- the Plank King laughs out loud at your entry, startling two men beeseeching him and calls out,
+  "Three Earings! You're back from the mainland! And you brought friends!" 
+   he motions far to this left at somone, then looks to his right.
+   The Tabaxi looks back and says, "how about i take this to the back room?"
+
+the kings motions stares at all of you a second, then motions to the closer scribe, who whispers for a moment.  
+"go ahead.... wait, just a second."  triton goes to james.
+
+- JAMES: triton recognizes the pendant, asks about Jace and the Hammertow.  
+        asks what side Jace is on these days.  haven't seen him around.
+        recognizes pendant.  Squalls?  military family?
+        says those triton sailors are suffering.
+        lots of folks are on the lookout for...  aquatic artifacts.  (it could potentially counter the rod)
+
+
+### Entering the side room
+
+3 earings introduces you to the tabaxi 
+
+3: "This is Tybalt, my dad."  Tybalt Rye - right hand to the Plank King, father of 3 earings.
+T:
+  - "we've heard about the devistation"
+  - "did you bring any liquor for the king?"
+  - "what's the status of the staff?"
+3: 
+  - "it was wilder than anyone could imagine.  the entire island sank into the sea like it was nothing.
+  these brave adventurers, and friends, saved many lives, including multiple of my crew.  without them, who knows."
+T: "is the spy still onboard?  
+3: she nods, motions to bob and says, "was worried about this one, then he lit a concord ship on fire for us."
+   "i think dajarkal signalled for them."
+T: "how nice. looks like a pirate to me."  clearly meant it as a compliment.
+   " ... anyway, so... about the rod?"
+
+she motions to you to answer about the rod.
+
+the Plank King / Tybalt provides sending stones http://dnd5e.wikidot.com/wondrous-items:sending-stones
+
+offers items in trade: 
+- Bag of Holding
+- Immovable Rod
+- +1 shield
+- any 2x: +1 weapon, Gauntlets of Ogre Power, Eyes of the Eagle, Mithral armor
+
+
+# Exit ship
+
+hooks:
