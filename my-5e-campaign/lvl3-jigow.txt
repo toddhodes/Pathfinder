@@ -1,4 +1,6 @@
 
+Chapter 1 - A Fateful Competition (Jigow)
+
 ## Summary til now:
 
 ### Cross Border
@@ -238,31 +240,6 @@ Who is Alyxian the Apotheon? Answering this means piecing together the details o
 story and framing the ultimate question of the campaign, which is whether he should be
 helped, freed, or destroyed. (You may also discover that understanding what’s at stake
 if the Apotheon is freed is an important and distinct revelation.)
-
-## Revelation List: Lore of Alyxian
-
-- History of the Jewel of Three Prayers.
-- The Jewel of Three Prayers was empowered by the gods three times.
-- Shrines were erected near each location where the Jewel was empowered.
-- The Jewel can be fully reactivated by visiting the shrines.
-- Ruidium is appearing in sites associated with the Apotheon.
-- Properties of ruidium.
-- The Lore of the Alyxian 
-- Alyxian's Sacrifices:
-
-When Alyxian prayed to Sehanine, he gave up his future, and any chance he had of trying to make
-a normal life for himself. In return he received the first part of the Jewel of Three Prayers,
-as well as an ally to help him in his struggles (Perigee). With this he was able to help
-Sehanine and Moradin trap Torog.
-
-When he prayed to Avandra in Betrayer's Rise, he gave up his present, sacrificing his strongest
-ally and only friend, Perigee (I am planning to run the Ruins of Sorrow encounter for some
-exposition on Perigee). In return he was given the second part of the Jewel, and was able to
-help banish Tharizdun back into the Abyss.
-
-When he and his followers left Wildemount to help in Marquet, he prayed to Correllon, this time
-giving up his past, condemning his name and deeds to be lost to history in exchange for the
-third part of the Jewel, allowing him to help Corellon defeat Gruumsh.
 
 
 ## Conclusions

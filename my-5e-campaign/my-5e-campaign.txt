@@ -1,6 +1,37 @@
 
 # Portal of Worlds
 
+Level	Requirement
+4th	Finish the Emerald Grotto challenge in chapter 1.
+      and empty Redbrand hideout
+5th	Arrive at Bazzoxan at the end of chapter 2.
+6th	Defeat or frighten away the gloomstalkers that escape from the Betrayers' Rise in chapter 3.
+7th	Reach the prayer site in the Betrayers' Rise (area R16) at the end of chapter 3.
+8th	Complete at least three faction missions in chapter 4.
+9th	Complete at least one faction mission in chapter 4 that requires the party to visit the sunken ruins of Cael Morrow.
+10th	Enable the Jewel of Three Prayers to transform into its Exalted State (see area M9).
+11th	Obtain at least three Fragments of Suffering by exploring the Netherdeep in chapter 6.
+12th	Enter the Heart of Despair at the end of chapter 6.
+13th	Defeat Alyxian or enable him to be redeemed in chapter 7.
+
+Level Content
+2nd   Menagerie Coast/Palma Flora -> Xhorhas
+      LMoP Part2: Redbrand Hideout
+3rd	Chpt 1: Festival and Emerald Grotto
+      LMoP Part3: Triboar Trail, Conyberry and Agatha's Lair, Old Owl Well, Ruins of Thundertree, Wyvern Tor, Cragmaw Castle
+4th	Chpt 2: Travel to Bazzoxan 
+      LMoP Part4: Wave Echo Cave
+5th	Chpt 3a: Bazzoxan city (B1-B7) + edge of the Rise
+6th	Chpt 3b: Betrayers' Rise (R1-R16)
+7th	Chpt 4: Do 3 faction missions 
+8th	Chpt 4: remaining faction missions, visit districts; end at sunken ruins of Cael Morrow
+9th	Chpt 5: Drowned City Cael Morrow, (M1-M9), find rift. Exalt the Jewel of Three Prayers 
+10th	Chpt 6: Cael Morrow (M10-M16) + Netherdeep (N1-N9) - Obtain three Fragments of Suffering 
+11th	Chpt 6: Netherdeep  - Grottoes of Regret (Areas N1–N9), Vents of Fury (Areas N10–N18), Chasm of Yearning (Areas N19–N25)
+12th	Chpt 7: Heart of Despair
+
+
+
 ## Map entities
 
 Menagerie coast
