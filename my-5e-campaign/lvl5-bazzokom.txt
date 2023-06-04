@@ -1,19 +1,36 @@
 
-# Level 5 - Bazzoxan 
+# Level 5 / Chapter 3(b) - Bazzoxan 
 
 5th	Chpt 3a: Bazzoxan city (B1-B7) + edge of the Rise
-
-Chapter 3a - Bazzoxan
  + The Hythenos Estate
  + On a Red Rock Trail
 
+  set CORE STRUCTURE of Call of the Netherdeep
+
+  In Ank’harel there are three factions — the Allegiance of Allsight, the Consortium of
+  Vermilion Dreams, and the Library of the Cobalt Soul.
+
+  Each faction has a specific ruidium agenda regarding ruidium. (The Allegiance wants to use it
+  to become arms dealers; the Consortium wants to monopolize it for arcane research; the
+  Library wants it destroyed.)
+
+  Each faction has sent a researcher to Bazzoxan — Prolix Yusaf (Allegiance), Aloysia Telfin
+  Consortium), and Question (Library).
+
+  The PCs should arrive in Bazzoxan and befriend a researcher (or more than one).
+
+  The PCs will follow the researcher(s) back to Ank’harel and join a faction (or more than one,
+  although that probably won’t remain tenable given the factions’ mutually contradictory
+  goals).
+
+  The PCs will then perform faction missions, which lead them to Cael Morrow and then the Netherdeep.
+
+
 ## Hook reminder
 
-“I was in Bazzoxan once, where the legacy of the Calamity lingers more strongly anywhere
- else in Xhorhas, and I saw this very Jewel depicted on the walls of the Betrayers’ Rise.
- Perhaps you will find answers there.”
+ re-read research -- jewel, names, places
 
-Three Scholars of Ank’Harel in Bazzoxan (Question, Prolix, and Aloysia) 
+ Scholars of Ank’Harel in Bazzoxan (Question, Prolix, and Aloysia) 
 
 
 ## Approach Betrayer's Rise
@@ -23,21 +40,21 @@ ruidium is specifically found around this entrance and in this micro-dungeon
 find this one, or, get a guide to the bas relief, or, steal notes to it.
 
 "The Doors of The Laughing Hand, champion of Torog. Speak, friend, and enter."
-And underneath small and faint is written: "Durham of Zeidel drew these signs"
+ And underneath small and faint is written: "Durham of Zeidel drew these signs"
 
 
 # Factions
 
 clarify conflicting motivations:
 
+- Library of the Cobalt Soul (Question) believe that ruidium is dangerous and it must be either
+  destroyed or sealed away so that it cannot harm the world.
+
 - Allegiance of Allsight (Prolix) want to use the ruidium to create weapons, armor, and other
   artifacts that they can sell to the highest bidder.
 
 - Consortium of Vermilion Dreams (Aloysia) want to secure a monopoly on ruidium so that they
   can study its deeper mysteries and have sole access to its power.
-
-- Library of the Cobalt Soul (Question) believe that ruidium is dangerous and it must be either
-  destroyed or sealed away so that it cannot harm the world.
 
   have rivals choose differently
 
@@ -65,3 +82,26 @@ clarify conflicting motivations:
 Chapter 5: The rift to the Netherdeep in Cael Morrow emerges from a cracked Luxon beacon.
 
 https://www.reddit.com/r/CalloftheNetherdeep/comments/vc8y8r/a_plot_twist_for_the_campaign/
+
+
+## CORE STRUCTURE of Call of the Netherdeep
+
+  In Ank’harel there are three factions — the Allegiance of Allsight, the Consortium of
+  Vermilion Dreams, and the Library of the Cobalt Soul.
+
+  Each faction has a specific ruidium agenda regarding ruidium. (The Allegiance wants to use it
+  to become arms dealers; the Consortium wants to monopolize it for arcane research; the
+  Library wants it destroyed.)
+
+  Each faction has sent a researcher to Bazzoxan — Prolix Yusaf (Allegiance), Aloysia Telfin
+  Consortium), and Question (Library).
+
+  The PCs should arrive in Bazzoxan and befriend a researcher (or more than one).
+
+  The PCs will follow the researcher(s) back to Ank’harel and join a faction (or more than one,
+  although that probably won’t remain tenable given the factions’ mutually contradictory
+  goals).
+
+  The PCs will then perform faction missions, which lead them to Cael Morrow and then the Netherdeep.
+
+

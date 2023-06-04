@@ -1,5 +1,5 @@
 
-Chapter 1 - A Fateful Competition (Jigow)
+# Level 3 / Chapter 1 - A Fateful Competition (Jigow)
 
 ## Summary til now:
 
@@ -180,25 +180,42 @@ Landmarks:
 - ask them for a team name; choose a rivals name "the others"
 - mural
 
-E1 - (Grotto Entrance): aged murals of a white-haired girl no more than twelve years old
+## E1 - (Grotto Entrance): aged murals of a white-haired girl no more than twelve years old
     trailed by 3 nondescript soldiers or clerics (Sehanine)
 
-E3 - 3 broken statues.  seems there are broken statues of devas throughout the grotto
+## E3 - 3 broken statues.  seems there are broken statues of devas throughout the grotto
 
   DC 15 investigation - reveal Perigee's name 
   DC 15 Religion/history - reveal that Perigee was one of the fighters at the Battle of the Barbed Fields.
 
-- moonshark++: https://i.redd.it/f63nanntpt591.jpg
-- do not mention, future knowldege: Place where Alyxian prayed to Sehanine the Moonweaver
+ - moonshark++: https://i.redd.it/f63nanntpt591.jpg
+ - do not mention, future knowldege: Place where Alyxian prayed to Sehanine the Moonweaver
 
-## vision
+## E12: Prayer Site of Sehanine
 
-"You must find me! You must bring the Jewel to the Cyst of Avandra!"
- [within Betrayer’s Rise beneath Bazzoxan]
+  The light around the pedestal fades as a spectral figure in the form of a male human rises
+  from the amulet. He is dressed in leather armor and a tattered red cape and wears a shield.
+  His face is framed by curly brown hair and bears a melancholic expression. He pleads, "I am
+  imprisoned.  Please help me."
 
- --> Researching the jewel
+  Suddenly, the ground vanishes beneath your feet, and you fall, tumbling through a vortex of
+  golden light. You fall deeper, deeper, deeper, then suddenly stop. The golden light subsides,
+  and you find yourself suspended in a pitch-black expanse. You feel water buoying you. A
+  vermilion light appears in the distance, illuminating the melancholy warrior, who is shackled
+  to the ground by crimson crystal chains.
 
-     See next level
+  He raises his gaze to the heavens and, sobbing, chokes out, "Moon Weaver, I beg of you. Guide
+  those with the power to save me to the site where first I prayed to you." He looks around,
+  and his eyes settle on you. "My name is Alyxian. I am lost in darkness.  Long ago, I prayed
+  to the Change Bringer in the heart of a temple of evil. I beg you, take my jewel and..."
+
+  You feel consciousness leaving you, as if the pressure of the water were crushing the life
+  out of you. Alyxian's voice is the last thing you hear before you pass out.  "Please find me! 
+  Bring the Jewel to the Cyst of Avandra!" 
+
+ --> Researching the jewel 
+
+     See next level [within Betrayer’s Rise beneath Bazzoxan]
 
 
 ### Revelation List: Campaign Agendas
@@ -216,4 +233,3 @@ Who is Alyxian the Apotheon? Answering this means piecing together the details o
 story and framing the ultimate question of the campaign, which is whether he should be
 helped, freed, or destroyed. (You may also discover that understanding what’s at stake
 if the Apotheon is freed is an important and distinct revelation.)
-

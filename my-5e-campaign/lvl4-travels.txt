@@ -1,5 +1,5 @@
 
-# Chapter 2 - The Leave Taking (Xhorhas Wastes)
+# Level 4 / Chapter 2 - The Leave Taking (Xhorhas Wastes)
 
  - Encounters 1-8
  - Emerald Loop Caravan Stop
@@ -30,11 +30,6 @@
   Conybery banshee, Old Owl Well, Thundertree druid -> Cragmaw Castle/Wave Echo, Wyvern Tor
   Sildar: find Cragmaw Castle, search for Gundren Rockseeker, rescue the dwarf, and retrieve his map.
 
-- Kiss of the Changebringer:
-   Legend holds that Asmodeus stole this amulet from the neck of Avandra and locked it away within
-   the vaults of Bazzoxan. In an expedition into the dark fortress's depths, the Kiss of the
-   Changebringer was found and claimed by a group of Aurora Watch soldiers
-
 - Radiant Citiadel Awakening in Festival Godsbreath
   ship more Palma Floras, etc
 
@@ -43,6 +38,8 @@
 
  "You must find me! You must bring the Jewel to the Cyst of Avandra!"
   [within Betrayer’s Rise beneath Bazzoxan]
+
+### Jewel
 
 Orc Elder Ushru breakfast at the Unbroken Tusk inn
 
@@ -57,12 +54,38 @@ Orc Elder Ushru breakfast at the Unbroken Tusk inn
 
   "There are often leading experts from Ank’harel on field assignment in Bazzoxan.
 
+### Figure
+
   "journal of one of the explorers who delved too deep and awakened the abyssal gate in
    Bazzoxan. The end of the journal trails off into mad gibberings, but it includes a
    vivid description of a figure that resembles the one you saw in your vision."
 
+### Avandra
 
-# Weather and Time
+  who is?
+
+  the name appears in reference to a Vestige named the Kiss of the Changebringer:
+  "Legend holds that Asmodeus stole this amulet from the neck of Avandra and locked it away within
+   the vaults of Bazzoxan. In an expedition into the dark fortress's depths, the Kiss of the
+   Changebringer was found and claimed by a group of Aurora Watch soldiers
+
+  Location of Cyst of Avandra
+  "It is said that during the time of the Calamity, Avandra blessed a site within Bazzoxan; it
+   is described in some demonic texts as a “cyst” which blighted that temple of the Betrayers Gods
+
+### Alyxian
+ 
+ no info -- "There are often leading experts from Ank’harel on field assignment in Bazzoxan.
+
+ Ank’harel main factions 
+   — the Allegiance of Allsight
+   - the Consortium of Vermilion Dreams
+   - the Library of the Cobalt Soul
+
+
+# Travel, incl the Barbed Fields
+
+## Weather and Time
 
 9-15 days depending on pace
 
@@ -74,7 +97,7 @@ Orc Elder Ushru breakfast at the Unbroken Tusk inn
  11-12 sunny
 
 
-# Encounters
+## Encounters
 
 1	A Lucky Break
 2	Aurora Watch Patrol
@@ -100,13 +123,13 @@ X. Reunion with the Rivals - Dragonchess match, exchange quests, info
 X. Patrol in Battle - tear in world; vision of Perigree's death
 
 
-# Caravan Stop
+## Caravan Stop
 
-## Attack on the Emerald Loop Caravan Stop --> Dream-bane Cave
+### Attack on the Emerald Loop Caravan Stop --> Dream-bane Cave
 
   Netherdeep | Dream-bane Cave: https://docs.google.com/document/d/1sygEx1qJIF7GH45kW-ZdH_fN0-60qQUek9_3qNwwEwE/edit
 
-## Ruins of Sorrow 
+### Ruins of Sorrow 
 
   original: https://www.reddit.com/r/CalloftheNetherdeep/comments/unr6tt/road_to_bazzoxan_climactic_conclusion_the_ruins/
   Ruins of Sorrow (Adaptation): https://docs.google.com/document/d/1UIe8RCglQge4T77l02AhNjVn_0xH8oa5/edit
@@ -114,14 +137,14 @@ X. Patrol in Battle - tear in world; vision of Perigree's death
   "You are about a day away from Bazzoxan. Full Ruidus happened the night before giving you all
    a sense of unease, especially those of you with faith."
 
-### RoS Location Notes
+#### RoS Location Notes
 
  When Perigee did her final strike against the Betrayer general, she damaged the surroundings
  and weakened the barrier between the material realm and the Abyss. 
  the Abyssal rift in Betrayers' Rise has never fully closed, and are a hot-spot for demons. 
  Aurora Watch patrols check often and try to keep the demon numbers down.
 
-### Encounter
+#### Encounter
 
   "Rising up before you is the old crest of a ruined citadel, walls tumbled down and cracked.
    You hear scraping rock, low guttural exhortions, and cries of combat."
@@ -157,13 +180,18 @@ X. Patrol in Battle - tear in world; vision of Perigree's death
      summarize https://www.reddit.com/r/CalloftheNetherdeep/comments/uozh5s/ruins_of_sorrow_vision_perigees_death/
    - final wave arrives: x The Lonely "energies of the ruins are released"
 
-
 Alt: 
 1x Lonely Sorrowsworn : 
 1x Lost Sorrowsworn :
 8x Wretched Sorrowsworn :
 
 
+## Completion
+
+ Sleep, wake next day, complete travel to Bozox 
+
+
+--- Lore --
 
 # Canonical Order of Events
 
@@ -232,4 +260,26 @@ help banish Tharizdun back into the Abyss.
 When he and his followers left Wildemount to help in Marquet, he prayed to Correllon, this time
 giving up his past, condemning his name and deeds to be lost to history in exchange for the
 third part of the Jewel, allowing him to help Corellon defeat Gruumsh.
+
+
+## CORE STRUCTURE of Call of the Netherdeep
+
+  In Ank’harel there are three factions — the Allegiance of Allsight, the Consortium of
+  Vermilion Dreams, and the Library of the Cobalt Soul.
+
+  Each faction has a specific ruidium agenda regarding ruidium. (The Allegiance wants to use it
+  to become arms dealers; the Consortium wants to monopolize it for arcane research; the
+  Library wants it destroyed.)
+
+  Each faction has sent a researcher to Bazzoxan — Prolix Yusaf (Allegiance), Aloysia Telfin
+  Consortium), and Question (Library).
+
+  The PCs should arrive in Bazzoxan and befriend a researcher (or more than one).
+
+  The PCs will follow the researcher(s) back to Ank’harel and join a faction (or more than one,
+  although that probably won’t remain tenable given the factions’ mutually contradictory
+  goals).
+
+  The PCs will then perform faction missions, which lead them to Cael Morrow and then the Netherdeep.
+
 
