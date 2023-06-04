@@ -1,18 +1,28 @@
 
-Chapter 2 - The Leave Taking (Xhorhas Wastes)
+# Chapter 2 - The Leave Taking (Xhorhas Wastes)
 
+ - Encounters 1-8
+ - Emerald Loop Caravan Stop
+ - Dream-Bane Cave: caravan stop --> dream-bane cave
+ - Ruins of Sorrow: level chars to 5, then --> ruins of sorrow
 
-# Structure
+   DMing Bazzoxan travel: https://www.reddit.com/r/CalloftheNetherdeep/comments/10o5sgu/dming_bazzoxan_travel/
 
-Encounters 1-8
-Additional Encounters:
- - Dream-Bane Cave
-   - caravan stop --> dream-bane cave
- - Ruins of Sorrow 
-   level chars to 5, then --> ruins of sorrow
+### GM reminder: Revelation List: Campaign Agendas
 
+  What is the Jewel of Three Prayers? Specifically, the PCs should be able to figure out that
+  it was empowered by the gods to aid Alyxian three times; that shrines were erected in those
+  places; and that they need to find the shrines in order to fully reactivate the Jewel.
 
- DMing Bazzoxan travel: https://www.reddit.com/r/CalloftheNetherdeep/comments/10o5sgu/dming_bazzoxan_travel/
+  What is ruidium and what should be done with it? This obviously includes the properties of
+  ruidium itself, but it should also become clear that ruidium is appearing at sites associated
+  with the Apotheon.
+
+  Who is Alyxian the Apotheon? Answering this means piecing together the details of his story
+  and framing the ultimate question of the campaign, which is whether he should be helped,
+  freed, or destroyed. (You may also discover that understanding what’s at stake if the
+  Apotheon is freed is an important and distinct revelation.)
+
 
 ## Summarize Existing Hooks
 
@@ -29,37 +39,27 @@ Additional Encounters:
   ship more Palma Floras, etc
 
 
-## Intro New Hook
+## Research the jewel or the location
 
-Daybreak comes with a knock on the door of your room. The voice of Orc Elder Ushru comes through the door. 
-Ushru invites the characters for breakfast at the Unbroken Tusk inn. At first he is
-conversational with the characters, but then his tone becomes deadly serious:
+ "You must find me! You must bring the Jewel to the Cyst of Avandra!"
+  [within Betrayer’s Rise beneath Bazzoxan]
 
-  "A vision came to me last night. A golden amulet rose to the surface of a pool of blood, and
-  countless hands lunged upward out of the blood to grasp it. In turn, all the hands fell back
-  into the pool until only one remained. The one whose hand claimed the amulet was a handsome
-  man with curly hair and a somber expression. He turned to me and said, 'They must find me.
-  The ones from the grotto.' Tell me, did anything happen to you in that place that would help
-  me understand this vision?"
+Orc Elder Ushru breakfast at the Unbroken Tusk inn
 
-<expect response>
-
-  "If what you tell me is true, what you have found is a Vestige of Divergence, an
-  enchanted relic from the time of the Calamity known as the Jewel of Three Prayers. People do
-  not stumble upon Vestiges without a reason.
+  "What you have found is a Vestige of Divergence, an enchanted relic from the time of the
+  Calamity known as the Jewel of Three Prayers. People do not stumble upon Vestiges without a
+  reason.
 
   "Bazzoxan is a grim town under the control of the Aurora Watch, not a pleasant place to
    visit.  But I was in Bazzoxan once, where the legacy of the Calamity lingers more strongly
    anywhere else in Xhorhas, and I saw this very Jewel depicted on the walls of the Betrayers’
    Rise.  Perhaps you will find answers wth leading experts who congregrate there."
 
+  "There are often leading experts from Ank’harel on field assignment in Bazzoxan.
 
-TODO seed other hook:
-- leading experts on this from Ank’harel.  Recent reports suggest that they’re on a
-  field assignment in Bazzoxan.
-- a journal of one of the explorers who delved too deep and awakened the abyssal gate in
-  Bazzoxan. The end of the journal trails off into mad gibberings, but it includes a
-  vivid description of a figure that resembles the one you saw in your vision.
+  "journal of one of the explorers who delved too deep and awakened the abyssal gate in
+   Bazzoxan. The end of the journal trails off into mad gibberings, but it includes a
+   vivid description of a figure that resembles the one you saw in your vision."
 
 
 # Weather and Time
@@ -102,13 +102,9 @@ X. Patrol in Battle - tear in world; vision of Perigree's death
 
 # Caravan Stop
 
-Stop notes:
-- 
-
 ## Attack on the Emerald Loop Caravan Stop --> Dream-bane Cave
 
   Netherdeep | Dream-bane Cave: https://docs.google.com/document/d/1sygEx1qJIF7GH45kW-ZdH_fN0-60qQUek9_3qNwwEwE/edit
-
 
 ## Ruins of Sorrow 
 

@@ -134,12 +134,6 @@ she introduces friends from Jigow and Asarius/"City of Beasts"
   These cocktails sell for 2-3x wholesale, 10x retail
 
 
-choose a district:
-Meatwaters: J2, J3      maze, plunge
-Jumble:     J1, J4, J7  pie, armwrestle, riddles
-Wetwalk:    J5, J6      rice, herding
-
-
 # Competitions
 
  *** rules mods ***
@@ -178,9 +172,6 @@ Landmarks:
 - J6: Closing Ceremony @ the square
 
 
-summary doc: https://docs.google.com/document/d/11l3GZPZ-D95iGCiBXVEZcA6CXgmLtp25aWtpw-ZQPpo/edit
-
-
 # Emerald Grotto
 
 ## setup
@@ -188,7 +179,6 @@ summary doc: https://docs.google.com/document/d/11l3GZPZ-D95iGCiBXVEZcA6CXgmLtp2
 - tracking table
 - ask them for a team name; choose a rivals name "the others"
 - mural
-
 
 E1 - (Grotto Entrance): aged murals of a white-haired girl no more than twelve years old
     trailed by 3 nondescript soldiers or clerics (Sehanine)
@@ -201,31 +191,17 @@ E3 - 3 broken statues.  seems there are broken statues of devas throughout the g
 - moonshark++: https://i.redd.it/f63nanntpt591.jpg
 - do not mention, future knowldege: Place where Alyxian prayed to Sehanine the Moonweaver
 
+## vision
 
-# Researching the jewel
+"You must find me! You must bring the Jewel to the Cyst of Avandra!"
+ [within Betrayer’s Rise beneath Bazzoxan]
 
-You discover:
-- that there’s a painting on the wall of Betrayers’ Rise which depicts the Jewel.
-  "I was in Bazzoxan once, where the legacy of the Calamity lingers more strongly
-   anywhere else in Xhorhas, and I saw this very Jewel depicted on the walls of the
-   Betrayers’ Rise.  Perhaps you will find answers there."
+ --> Researching the jewel
 
-- a journal of one of the explorers who delved too deep and awakened the abyssal gate in
-  Bazzoxan. The end of the journal trails off into mad gibberings, but it includes a
-  vivid description of a figure that resembles the one you saw in your vision.
-
-- leading experts on this from Ank’harel.  Recent reports suggest that they’re on a
-  field assignment in Bazzoxan.
-
-## Moons
-
-when/how??
-- ruidium exists in tiny amounts
-- moons phases
-- red moon is weird
+     See next level
 
 
-## Revelation List: Campaign Agendas
+### Revelation List: Campaign Agendas
 
 What is the Jewel of Three Prayers? Specifically, the PCs should be able to figure out
 that it was empowered by the gods to aid Alyxian three times; that shrines were erected
@@ -241,7 +217,3 @@ story and framing the ultimate question of the campaign, which is whether he sho
 helped, freed, or destroyed. (You may also discover that understanding what’s at stake
 if the Apotheon is freed is an important and distinct revelation.)
 
-
-## Conclusions
-
-re-mention two other hooks
