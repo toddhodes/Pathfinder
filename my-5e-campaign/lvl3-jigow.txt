@@ -1,7 +1,7 @@
 
 # Level 3 / Chapter 1 - A Fateful Competition (Jigow)
 
-## Summary til now:
+## Summary til now
 
 ### Cross Border
 
@@ -12,13 +12,13 @@
   - Righteous Brand (Regular Army/Border Security) 
     [plate mail with a silver and dark-crimson design]
   - Crownsguard (Lawkeepers/Reserves/Secret police, Bladegarden)
-    [vermilion or maroon robes, bronze scale mail breast and arm plates, a shield, greaves, a helmet, a crossbow, and a basic longsword]
+    [vermilion or maroon robes, bronze scale mail breast and arm plates, greaves, longsword]
 
 ### Phandalin
 
 - returned Sildar Hallwinter to Phandalin / Inn
     --> Sildar Hallwinter <--
-- dropped your wagonload of supplies Barthen's Provisions. NAME
+- dropped your wagonload of supplies Barthen's Provisions.
     --> Elmar Barthen <--
 - reported the stolen goods to Lionshield Coster.  retrived from the Cragmaw hideout,
     --> Linene Graywind  <--
@@ -29,7 +29,7 @@
     --> Toblen Stonehill (Innkeper) <--
 
 
-### Leave for Jigow
+## Prepare for Jigow
 
 [re-read thealexandrian.net remixing-call-of-the-netherdeep-part-2-jigow]
 
@@ -48,21 +48,7 @@
   of the Kryn Dynasty.  The dynasty also has a political liaison in Jigow: a drow named Durth
   Mirimm (see area J9) reporting to the court of the Bright Queen
 
-
-### character status
-
-Ayo has left ahead of you to set up the palma flora stand
-
-- Ryan: sounds of the festival resonate with your half-orc upbringing.  
-     there is a joyousness around the culture you are not accustomed to.
-- Josh: you are keeping an eye out for ex-pats, no hits yet
-- Stephen: you keep seeing fleeting glimpes of a long-haired human in your perephial vision.
-   but when you turn to focus, there's is nothing there.  it's getting odd.
-- James: no news of Jace and no signs from the Rod or Retribution
-- Stav: you're now very near the city of Bazzoxan -- a dark military encampment that keeps watch over the Betrayers' Rise, 
-   a key instrumental to the Betrayer Gods during the Calamity.  No one has a clue what the red jewel material is, but it reminds
-   them of ruidium, which is named after the red moon.  ruidium is local only to these moumentially scarred areas to your SE
-
+ "Ayo has left ahead of you to set up the palma flora stand
 
 # Arrive Jigow
 
@@ -81,6 +67,29 @@ Ayo has left ahead of you to set up the palma flora stand
   tortoise [J1], and on the other side of the road, a banner emblazoned with the words “Riddles
   and Rhymes: Take Your Shot!” That banner points toward a three-story temple in the center of the
   Jumble. [J7] Ahead is a registration/information table with a trio of orcs calmly manning it.
+
+
+## Character status
+
+- Ryan: sounds of the festival resonate with your half-orc upbringing.  
+     there is a joyousness around the culture you are not accustomed to.
+- Josh: you are keeping an eye out for ex-pats, no hits yet
+- Stephen: you keep seeing fleeting glimpes of a long-haired human in your perephial vision among the crowds.
+   but when you turn to focus, there's is nothing there.  
+- James: no news of Jace. no signs from the Rod or Retribution
+- Stav: you're now near the city of Bazzoxan -- a dark military encampment that keeps watch over the Betrayers' Rise, 
+   a key instrumental to the Betrayer Gods during the Calamity.  No one has a clue what the red jewel material is, but it reminds
+   them of the incredibley rare element ruidium, named after the red moon.
+   ruidium is local only to the moumentially scarred areas of the final terrible battles of the calamity, 
+   in an area to your SE across the Barbed Fields.
+
+places to go:
+- info table
+- drink stand
+- other merchants
+- river
+- massive tortoises
+- city tour / other
 
 ## Info table
 
@@ -108,8 +117,9 @@ Hawkers:
     Medal of the Meat Pie - 2d4+2 tmp HP
     Medal of the Wetlands - ignore difficult terrain
     Medal of Wit - INT checks 1hr
-  - A artificer's stand w/ mechani-magical toys depicting events from the Calamity.
-  - A fortune-teller who “reads the red rays of Ruidus” to tell your future. 
+  - A artificer's stand w/ mechani-magical toys depicting events from the Calamity.  firbolg
+    - scenes: home fire (performance?), armies in betrayers (combat), snow globe (nature)
+  - A fortune-teller who "reads the red rays of Ruidus" to tell your future. 
   - A hawker is selling mysterious red gemstones - (ruidium) that have been washing up on shore.
 
 Arriving at the stand:
@@ -125,8 +135,7 @@ she introduces friends from Jigow and Asarius/"City of Beasts"
          calm energy.  she calls him a very old friend from the north 
      - Maggie (Keeneyes): newer companion, 12' female beige ogre w/ high-pitched voice. (leather, maul, hammers)
 
-
-  sets out Palma Flora cocktail 3 variaties: all use the Palma Flower liquer, plus
+ sets out Palma Flora cocktail 3 variaties: all use the Palma Flower liquer, plus
   - rice based (korean soju)
   - grape based (grappa)
   - stronger distilled liquors (rum/sugar, vokda/potato-like, whisky/grain-like)
@@ -139,18 +148,21 @@ she introduces friends from Jigow and Asarius/"City of Beasts"
  *** rules mods ***
 
 - The Ifolon Plunge @ River (J3)
-  Some distance offshore in the Ifolon River, a rusted spear is lodged into a weathered piece of a pier - test you swimming speed and skill.
 
   *** DASH: DC13 Athletics: on fail, wasted + DC 13 CON save or 1 lvl exhaustion ***
 
 - Call to Arms @ Square (J4)
-  Maryl Bronzefang of the Aurora Watch has challenged anyone and everyone to best her in an arm-wrestling contest. Last year she went undefeated.
+
+   1st: AW Female Drow: +3
+   2nd: current champ:  AW orc gladiator Maryl Bronzefang: +4
+   3rd: Maggie Keeneyes: +4
 
   *** each round, Athletics check
-   1-5: +1/-1 point
+   1-4: +1/-1 point
    5-9: +2/-2 pt
    10+: +3/-3 pt
    4-5 points wins
+
    +1d6 for each STR mod, use at any time
    use last one, all checks -1d4
 
