@@ -9,7 +9,7 @@
 - marked your signs
 - met Aurora Watch.  [mall red shoulder sash in front of the armor]
 - avoided Bladegarden and the other side:
-  - Righteous Brand (Regular Army/Border Security) 
+  - Righteous Brand (Regular Army/Border Security)
     [plate mail with a silver and dark-crimson design]
   - Crownsguard (Lawkeepers/Reserves/Secret police, Bladegarden)
     [vermilion or maroon robes, bronze scale mail breast and arm plates, greaves, longsword]
@@ -56,7 +56,7 @@
   the town of Jigow. Throngs of people, most of them orcs and goblins, seconded by kobolds,
   bugbears, hobgoblins, and all manner of bizaare creatures move through the streets, laughing,
   singing, and sightseeing.  All are enthralled by the raucous sights and sounds of the town's
-  Festival of Merit which is underway.  
+  Festival of Merit which is underway.
 
   You hear snippets of conversations as people pass by: a goblin mother telling her children not
   to go near the baby horizonback tortoises, a drow guard in shining insectile armor complaining
@@ -71,16 +71,16 @@
 
 ## Character status
 
-- Ryan: sounds of the festival resonate with your half-orc upbringing.  
+- Ryan: sounds of the festival resonate with your half-orc upbringing.
      there is a joyousness around the culture you are not accustomed to.
 - Josh: you are keeping an eye out for ex-pats, no hits yet
 - Stephen: you keep seeing fleeting glimpes of a long-haired human in your perephial vision among the crowds.
-   but when you turn to focus, there's is nothing there.  
+   but when you turn to focus, there's is nothing there.
 - James: no news of Jace. no signs from the Rod or Retribution
-- Stav: you're now near the city of Bazzoxan -- a dark military encampment that keeps watch over the Betrayers' Rise, 
+- Stav: you're now near the city of Bazzoxan -- a dark military encampment that keeps watch over the Betrayers' Rise,
    a key instrumental to the Betrayer Gods during the Calamity.  No one has a clue what the red jewel material is, but it reminds
    them of the incredibley rare element ruidium, named after the red moon.
-   ruidium is local only to the moumentially scarred areas of the final terrible battles of the calamity, 
+   ruidium is local only to the moumentially scarred areas of the final terrible battles of the calamity,
    in an area to your SE across the Barbed Fields.
 
 places to go:
@@ -96,9 +96,9 @@ places to go:
 5gp to enter each; 25 for all 7.  100gp to skip the lines.
 
 J1: Best Pies in the Jumble eating contest
-J2: One-Shot Solution maze 
+J2: One-Shot Solution maze
 J3: The Ifolon Plunge swim race
-J4: Call to Arms arm-wrestling 
+J4: Call to Arms arm-wrestling
 J5: Wetwalks Paddywhack rice paddy harvest competition
 J6: Herding the Horizonbacks. young horizonback tortoises riding from the Wetwalks to the Jumble.
 J7: Riddles and Rhymes
@@ -111,7 +111,7 @@ Hawkers:
   - headbands and headresses; they seem to be a popular choice for the festival
   - necklaces with medals of all sizes and shapes.  some much more expensive looking and magical.
   - Medal of Muscle - STR checks 1hr
-    Medal of the Conch - swim speed 
+    Medal of the Conch - swim speed
     Medal of the Horizonback - shield spell
     Medal of the Maze - wisdom checks 1hr
     Medal of the Meat Pie - 2d4+2 tmp HP
@@ -119,7 +119,7 @@ Hawkers:
     Medal of Wit - INT checks 1hr
   - A artificer's stand w/ mechani-magical toys depicting events from the Calamity.  firbolg
     - scenes: home fire (performance?), armies in betrayers (combat), snow globe (nature)
-  - A fortune-teller who "reads the red rays of Ruidus" to tell your future. 
+  - A fortune-teller who "reads the red rays of Ruidus" to tell your future.
   - A hawker is selling mysterious red gemstones - (ruidium) that have been washing up on shore.
 
 Arriving at the stand:
@@ -127,12 +127,12 @@ Arriving at the stand:
 she introduces friends from Jigow and Asarius/"City of Beasts"
 
      - Ayo: beautiful water genasi female w/ blue skin, green eyes, black hair, lower fangs.  bracelets, hairband, necklace.
-     (ranger: studded leather, harpoon and bow)· 
-         - compliments you and recalls 
+     (ranger: studded leather, harpoon and bow)·
+         - compliments you and recalls
      - Irwin has somehow appeared! as usual is concentrating his attention on Ayo
         taking large swigs off the liquor.  (leather armor, bandolier of daggers.)
      - Dermot (Wonder): short yellow goblin w/ a luxon necklace around his neck, breastplace, warhammer. (cleric)
-         calm energy.  she calls him a very old friend from the north 
+         calm energy.  she calls him a very old friend from the north
      - Maggie (Keeneyes): newer companion, 12' female beige ogre w/ high-pitched voice. (leather, maul, hammers)
 
  sets out Palma Flora cocktail 3 variaties: all use the Palma Flower liquer, plus
@@ -151,6 +151,14 @@ she introduces friends from Jigow and Asarius/"City of Beasts"
 
   *** DASH: DC13 Athletics: on fail, wasted + DC 13 CON save or 1 lvl exhaustion ***
 
+
+** Interruption ** 
+
+- Black Spider's Bugbears
+  2 bugbears + 2 bb captains have been collecting protection money; including from you.
+  +2-4 bbs as needed.
+  Dermot reports it, and he and Maggie join you in going to confront them (riddles map)
+
 - Call to Arms @ Square (J4)
 
    1st: AW Female Drow: +3
@@ -167,18 +175,59 @@ she introduces friends from Jigow and Asarius/"City of Beasts"
    use last one, all checks -1d4
 
 - Wetwalks Paddywhack @ Wetwalks (J5)
-   *** 1d6 damage to collector on cutter fail
+  cutter: DC 11 Athletics: 5' cleared
+    *** fail: 1d6 damage to gatherer
+  gatherer: DC 11 Slight of Hand: 5' bundled
+    *** fail -> disadvantagre to cutter
+
+  Orc Team. Athletics +3, Sleight of Hand +0
+  Drow Team. Athletics +0, Sleight of Hand +2
 
 - Herding the Horizonbacks @ Square (J6)
 
+  DC 12 Wisdom (Animal Handling)
+  DC 13 "
+  DC 14 "
+  DC 15 "
+   * success: continue
+   * fail: bucked, DC 13 DEX save:
+        * success: continue
+        * fail: 1d6 bludgeoning, DC 15 Dexterity (Acrobatics):
+             * success: remount
+             * fail:: attacks +7/4d6+4 + DC 14 STR or prone
+
+
 - Riddles and Rhymes @ Jumble (J7)
-  Test your mettle against one of Jigow’s elders. He has come up with several new riddles specially for the festival this year.
   *** DC success -> either bronze or copper
-  +1 "I must be broken before I can be used."  [egg]
+  *** 4th riddle: "I must be broken to be used."  [egg]
 
 
 Landmarks:
 - J8: Temple of the Luxon
+
+ Dermot explains Luxon.
+
+   The Luxon is a divine entity of light and rebirth that grants its faithful esoteric secrets.
+
+   The act of consecution is a sacred Kryn ritual of rebirth through the mystical power of the Luxon. 
+
+   Through the process of Consecution — preparing one's soul for rebirth -- we live many
+   lifetimes, in bodies different from the ones they were first born in.
+
+   Irwin here lived a previous life as a bugbear of Den Hythenos.
+
+   I was a drow, reborn a bullywug, a deep gnome, a Githyanki, an orc, and now a goblin.
+
+   On each step we gain greater knowledge about the world, and hidden secrets of life.. and family.
+
+   The one key feature is that we must die within range of a Luxon Beacon
+   for our soul to be reincarnated within a random newborn. also within range of the beacon.
+
+   But followers of the path who deviate from this acn be drawn in in other mysterious ways. 
+
+   We believe we have a devine purpose the will bring the world peace.
+
+
 - J9: "Helter-Skelter" Aurora Watch / Dynasty outpost
 - J10: Black Islands
 - J6: Closing Ceremony @ the square
@@ -197,7 +246,7 @@ Landmarks:
 
 ## E3 - 3 broken statues.  seems there are broken statues of devas throughout the grotto
 
-  DC 15 investigation - reveal Perigee's name 
+  DC 15 investigation - reveal Perigee's name
   DC 15 Religion/history - reveal that Perigee was one of the fighters at the Battle of the Barbed Fields.
 
  - moonshark++: https://i.redd.it/f63nanntpt591.jpg
@@ -216,16 +265,28 @@ Landmarks:
   vermilion light appears in the distance, illuminating the melancholy warrior, who is shackled
   to the ground by crimson crystal chains.
 
-  He raises his gaze to the heavens and, sobbing, chokes out, "Moon Weaver, I beg of you. Guide
-  those with the power to save me to the site where first I prayed to you." He looks around,
-  and his eyes settle on you. "My name is Alyxian. I am lost in darkness.  Long ago, I prayed
-  to the Change Bringer in the heart of a temple of evil. I beg you, take my jewel and..."
+  He raises his gaze and chokes out a surprise.
 
-  You feel consciousness leaving you, as if the pressure of the water were crushing the life
-  out of you. Alyxian's voice is the last thing you hear before you pass out.  "Please find me! 
-  Bring the Jewel to the Cyst of Avandra!" 
+  "Oh! Thank the gods. Someone! [amazement]
+   How are you even...  [quizically]
+   I'm *Alyxian*, but I've been lost for an eternity, lost in this... darkness." [waves around]
 
- --> Researching the jewel 
+   His eyes cast around, but you cannpt tell what he sees.
+   As the pressure of the water crushes the life out of you, you feel consciousness leaving.
+
+  "No, no, no, you're already fading," [panics]
+
+  "Long ago, my troops and I prayed in the heart of battle.
+   These moments turned the tide."
+
+  "Please.  I beg you..."
+   Go to the shrines where we prayed, and the gods answered."
+   Use the jewel and...  Get the Jewel to the Cyst of Avandra."
+
+   He looks to you with desperate eyes.  and is gone.
+
+
+ --> Researching the jewel
 
      See next level [within Betrayer’s Rise beneath Bazzoxan]
 

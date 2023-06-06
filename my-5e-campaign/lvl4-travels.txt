@@ -26,7 +26,7 @@
 
 ## Summarize Existing Hooks
 
-- The Spider's Web 
+- The Spider's Web
   Conybery banshee, Old Owl Well, Thundertree druid -> Cragmaw Castle/Wave Echo, Wyvern Tor
   Sildar: find Cragmaw Castle, search for Gundren Rockseeker, rescue the dwarf, and retrieve his map.
 
@@ -74,10 +74,10 @@ Orc Elder Ushru breakfast at the Unbroken Tusk inn
    is described in some demonic texts as a “cyst” which blighted that temple of the Betrayers Gods
 
 ### Alyxian
- 
+
  no info -- "There are often leading experts from Ank’harel on field assignment in Bazzoxan.
 
- Ank’harel main factions 
+ Ank’harel main factions
    — the Allegiance of Allsight
    - the Consortium of Vermilion Dreams
    - the Library of the Cobalt Soul
@@ -89,7 +89,7 @@ Orc Elder Ushru breakfast at the Unbroken Tusk inn
 
 9-15 days depending on pace
 
-2d6: 
+2d6:
  2-3 dust storm
  4  rain (acid rain in the barbed fields)
  5-9 cloudy
@@ -118,7 +118,7 @@ order:
 5. Feast for the Eyes - 1100': gloomstalker antagonizing 3 mammoths; shreik -> skeletons
 8. Roadside Raiders - Six-Knives, bumbling dark humor.  Boneshaver, Gleam, Grudge, Jabby, Pierce, and Tickles.
 X. Reunion with the Rivals - Dragonchess match, exchange quests, info
-6. Ill Omen - Ruidus flare - re-explain moons.  DC 10 history bad luck, dread holding Jewel and looking at Ruidus. 
+6. Ill Omen - Ruidus flare - re-explain moons.  DC 10 history bad luck, dread holding Jewel and looking at Ruidus.
    ask for theories.
 X. Patrol in Battle - tear in world; vision of Perigree's death
 
@@ -129,7 +129,7 @@ X. Patrol in Battle - tear in world; vision of Perigree's death
 
   Netherdeep | Dream-bane Cave: https://docs.google.com/document/d/1sygEx1qJIF7GH45kW-ZdH_fN0-60qQUek9_3qNwwEwE/edit
 
-### Ruins of Sorrow 
+### Ruins of Sorrow
 
   original: https://www.reddit.com/r/CalloftheNetherdeep/comments/unr6tt/road_to_bazzoxan_climactic_conclusion_the_ruins/
   Ruins of Sorrow (Adaptation): https://docs.google.com/document/d/1UIe8RCglQge4T77l02AhNjVn_0xH8oa5/edit
@@ -140,8 +140,8 @@ X. Patrol in Battle - tear in world; vision of Perigree's death
 #### RoS Location Notes
 
  When Perigee did her final strike against the Betrayer general, she damaged the surroundings
- and weakened the barrier between the material realm and the Abyss. 
- the Abyssal rift in Betrayers' Rise has never fully closed, and are a hot-spot for demons. 
+ and weakened the barrier between the material realm and the Abyss.
+ the Abyssal rift in Betrayers' Rise has never fully closed, and are a hot-spot for demons.
  Aurora Watch patrols check often and try to keep the demon numbers down.
 
 #### Encounter
@@ -149,11 +149,11 @@ X. Patrol in Battle - tear in world; vision of Perigree's death
   "Rising up before you is the old crest of a ruined citadel, walls tumbled down and cracked.
    You hear scraping rock, low guttural exhortions, and cries of combat."
 
-- 6 Aurora Watch (AW) is already fighting some unusually high level demons 
-  - 2/6 are down (bleed out in 2 turns if nothing is done) 
+- 6 Aurora Watch (AW) is already fighting some unusually high level demons
+  - 2/6 are down (bleed out in 2 turns if nothing is done)
 - fighting a Hezrou and a Draegloth, with a hidden Babau using its Gaze.
 
-- Round 1: 
+- Round 1:
 
    - Lair actions: The PCs make a Cha save DC 13. On fail, they take 2d6 necro as hands from
      the fog suck the life from them (this cuts through temp hp). Half on a save. Fail by more
@@ -166,7 +166,7 @@ X. Patrol in Battle - tear in world; vision of Perigree's death
      and spell casters have to make a DC 13 spell casting check or they can't get their spell
      off. If they fail by more than 5, attacks have advantage on them.
 
-- Round 3: 
+- Round 3:
 
    - Lair actions: Int save DC 13 as they see hoards of enemies rise from the fog. On a fail,
      they are caught in the illusion. They can expend their attack to fight the enemies off or
@@ -176,19 +176,19 @@ X. Patrol in Battle - tear in world; vision of Perigree's death
 - Round 4:
 
    - rivals arrive
-   - vision of Perigee's death and feel Alyxian's grief. DC 13 Cha save. 
+   - vision of Perigee's death and feel Alyxian's grief. DC 13 Cha save.
      summarize https://www.reddit.com/r/CalloftheNetherdeep/comments/uozh5s/ruins_of_sorrow_vision_perigees_death/
    - final wave arrives: x The Lonely "energies of the ruins are released"
 
-Alt: 
-1x Lonely Sorrowsworn : 
+Alt:
+1x Lonely Sorrowsworn :
 1x Lost Sorrowsworn :
 8x Wretched Sorrowsworn :
 
 
 ## Completion
 
- Sleep, wake next day, complete travel to Bozox 
+ Sleep, wake next day, complete travel to Bozox
 
 
 --- Lore --
@@ -244,7 +244,7 @@ https://www.reddit.com/r/CalloftheNetherdeep/comments/unr6tt/road_to_bazzoxan_cl
 - The Jewel can be fully reactivated by visiting the shrines.
 - Ruidium is appearing in sites associated with the Apotheon.
 - Properties of ruidium.
-- The Lore of the Alyxian 
+- The Lore of the Alyxian
 - Alyxian's Sacrifices:
 
 When Alyxian prayed to Sehanine, he gave up his future, and any chance he had of trying to make
