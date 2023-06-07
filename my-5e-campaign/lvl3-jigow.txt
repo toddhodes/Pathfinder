@@ -145,19 +145,18 @@ she introduces friends from Jigow and Asarius/"City of Beasts"
 
 # Competitions
 
- *** rules mods ***
+ rules mods: ***
 
 - The Ifolon Plunge @ River (J3)
 
   *** DASH: DC13 Athletics: on fail, wasted + DC 13 CON save or 1 lvl exhaustion ***
 
+- *** Games Interruption
+  Dermot comes running:
+    3 bugbears + 2 bugbear captains have been collecting protection money for the Black Spider
+    +1 BBC at end
 
-** Interruption ** 
-
-- Black Spider's Bugbears
-  2 bugbears + 2 bb captains have been collecting protection money; including from you.
-  +2-4 bbs as needed.
-  Dermot reports it, and he and Maggie join you in going to confront them (riddles map)
+  hurt him and Maggie. confront them? (riddles map)
 
 - Call to Arms @ Square (J4)
 
