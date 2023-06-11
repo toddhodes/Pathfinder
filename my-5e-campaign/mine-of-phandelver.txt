@@ -104,50 +104,52 @@ a crowd begins to form around your table.  and soom others have come in from out
 - Pip, Toblen's young son: "Qelline Alderleaf's son Carp said he found a secret tunnel in
   the woods, but Redbrands almost caught him." "Alderleaf Farm" section
 
+## People summary
 
+Stonehill Inn           Toblen Stonehill, son Pip / Lionshield Coster
+Barthen’s Provisions	Elmar Barthen, clerks Ander, Thistle
+Edermath Orchard	    Daran Edermath
+Lionshield Coster       Linene Graywind, 35
+Miner’s Exchange        Halia Thornton
+Alderleaf Farm	        Qelline Alderleaf, son Carp
+Shrine of Luck          Sister Garaele
+Townmaster’s Hall	    Harbin Wester
 
 ## Barthens Provisions - Elmar Barthen
 - Deliver goods; also knows mine
 - two more Rockseeker brothers, Nundro and Tharden, are camped somewhere outside town.
-hasn't seen them in a tenday, expects the brothers to return "any day now" to resupply.
+  hasn't seen them in a tenday, expects the brothers to return "any day now" to resupply.
 
 ## Lionshield Coster - Linene Graywind, 35
 - return stolen goods
+- bandits are raifing Lionshield caravans, look out for the sigyl
 
-## "Shrine of Luck" 
-- banshee Agatha 
-  bring jeweled silver comb, tell location of spellbook belonging to a legendary mage named Bowgentle. 
-  3 potions of healing "Conyberry and Agatha's Lair"
+## Shrine of Luck - Sister Garaele
+  bring Agatha jeweled silver comb, get location of spellbook belonging to a legendary mage named Bowgentle. 
+  3 potions of gr healing --> "Conyberry and Agatha's Lair"
 
-## "Phandalin Miner's Exchange" 
-  Halia Thornton.
-- Halia Offer: Redbrand ruffians loiter around the Sleeping Giant tap house and
-  have a base under Tresendar Manor.  100gp to eliminate Redbrand leader, Glasstaff, and bring correspondence.  
+## Phandalin Miner's Exchange - Halia Thornton.
+- Halia Offer: Redbrand ruffians have a base under Tresendar Manor.  
+  100gp to eliminate Redbrand leader, Glasstaff, and bring correspondence.  
   DC 15 Wisdom (Insight) ulterior motives
 
-
-## "Edermath Orchard" 
-- knows the Redbrands hang around the Sleeping Giant tap house, but he can also tell the
-characters that the main Redbrand safe house lies under Tresendar Manor, the ruin at the
-east edge of town.
+## Edermath Orchard
+- knows the main Redbrand safe house lies under Tresendar Manor, the ruin at the east edge of town.
+- knows their leader is Glasstaff
 
 - prospectors in the hills northeast of Phandalin digging around in the
-ruins known as Old Owl Well.  chased from the area by undead. 
-knows that the ruins are an old watchtower of an ancient magical empire
+  ruins known as Old Owl Well chased from the area by undead. 
+  knows that the ruins are an old watchtower of an ancient magical empire
 
-## "Townmaster's Hall" / returning Sildar Hallwinter 
-Quest: Orc Trouble: head east on Triboar Trail, band of orcs near Wyvern Tor. 100 gp 
-Quest: Find Cragmaw Castle: find the lost mine of Wave Echo Cave
+## Townmaster's Hall - Harbin Wester
+ Quest: Orc Trouble: head east on Triboar Trail, band of orcs near Wyvern Tor. 100 gp 
+ Quest: Find Cragmaw Castle: find the lost mine of Wave Echo Cave
        500gp locate and defeat chieftain.  search around Triboar Trail / "Wilderness Encounters" 
-Quest: Finding Iarno / 200gp eliminate redbrands (Glassstaff)
-  Iarno Albrek, Lords' Alliance, disappeared exploring Tresendar Manor two months ago, shortly after arriving 
+ Quest: Finding Iarno / 200gp eliminate redbrands Glasstaff
+  Iarno Albrek, XXX, disappeared after exploring Tresendar Manor two months ago, shortly after arriving 
   investigate the manor to find Iarno "a short, dark-bearded human wizard in his thirties."
 
-
-## Visit Redbrands at Sleeping Giant
-no fight, empty
-
-## "Alderleaf Farm" / Qelline Alderleaf and son Carp 
+## Alderleaf Farm - Qelline Alderleaf and son Carp
 - woods near Tresendar Manor secret tunnel in a thicket. 
 - ask Reidoth the Druid for info on locations -- in ruins of a town called Thundertree
   "there's not an inch of the land he doesn't know." 
@@ -155,12 +157,40 @@ no fight, empty
 
 ## Quests Summary
 
- - Sister Garaele seek banshee Agatha in the ruined town of Conybery and ask about Bowgentle's spellbook.
- - Daran Edermath wants to find out who is lurking near the ruins at Old Owl Well.
- - Quelline Alderleaf go to the ruined town of Thundertree and consult with the druid Reidoth, 
-   whereabouts of Cragmaw Castle, Wave Echo Cave, or both.
- - Townmaster Harbin Wester seek out orc encampment near Wyvern Tor and chase away 
- - Sildar Hallwinter wants the characters to find Cragmaw Castle, rescue Gundren Rockseeker and map.
+ - visit ruins of Thundertree, consult druid Reidoth, whereabouts of Cragmaw Castle, Wave Echo Cave [Farmer Quelline Alderleaf]
+ - find Cragmaw Castle, search for Gundren Rockseeker, rescue the dwarf, and retrieve his map [Sildar Hallwinter]
+ - Visit ruined town of Conyberry and Agatha's Lair w/ comb, ask about Bowgentle's spellbook [Sister Garaele]
+ - Iarno Albrek disappeared, investigate Tresendar Manor for clues
+ - Kill Glasstaff, bring correspondance [Miner's Exchange Halia Thornton, 100gp]
+ - Clear warband encampment near Wyvern Tor, east on Triboar Trail [Townmaster Harbin, 100gp]
+ - Find Cragmaw HQ and kill chieftain [Townmaster Harbin, 500gp]
+ - find out who is lurking near ruins at Old Owl Well, watchtower of ancient magical empire; clear undead [Orcharder Daran Edermath]
+ - keep an eye out for Rockseeker bros 2/3: Nundro and Tharden
+
+
+   Key NPCs: Glasstaff, Black Spider, Ilarno, Rockseekers
+
+
+# Cragmaw Manor
+
+Glasstaff: 
+"oh my.  i see right through that flimsy disguise
+ i lost family to the monster pit massacre, and while everyone else calls you a hero, i beg to differ.
+ i hold you responsible. and, i'be been waiting years for this moment"
+
+- bonused action bladesong
+  - +DEX AC - 13 + 3DEX + 4INT = 20
+  - +10' mv
+  - advantage  (Acrobatics) 
+  - +INT concentration (+8)
+
+r1: casts shadow blade (CONC): 3rd lvl 3d8+3 
+    cast booming blade: 4d8+3 +2d8 mv
+     -> dim light ADV
+r1: familiar helps -> advantage
+r2: mv, 2 attacks, mv
+   - shield
+r3: potion: 8d4 + 8
 
 
 # The Spider's Web
@@ -179,42 +209,6 @@ no fight, empty
 # Maps, Encounters, Tokens
  https://docs.google.com/spreadsheets/d/1tcg5Id7sy30Lxim0IjJIRh-8f43tQ7l7vth1ddDkTUc/edit#gid=1538643795
 
-Chapter 1: Goblin Arrows			
-LMoP 1-01 Goblin Ambush	32x20	Goblin Ambush	4 Goblin
-LMoP 1-02 Cragmore Hideout			14 Goblin
-		1. Cave Mouth	
-		2. Goblin Blind	2 Goblin
-		3. Kennel	3 Wolf
-		4. Steep Passage	
-		5. Overpass	1 Goblin
-		6. Goblin Den	6 Goblin, Sildar Hallwinter, Yeemik
-		7. Twin Pools Cave	3 Goblin
-		8. Klarg’s Cave	Klarg, Ripper, 2 Goblin
-			
-Chapter 2: Phandalin			5 Commoner Male, 5 Commoner Female
-LMoP 2-01 Town Square Day	32x30	Stonehill Inn, Shrine of Luck, Lionshield Coster, Townmaster’s Hall	Toblen Stonehill, Narth, Elsa, Lanar, Trilena, Pip, Freda, Sister Garaele, Linene Graywind, Harbin Wester
-LMoP 2-02 Town Square Night	32x30	Stonehill Inn, Shrine of Luck, Lionshield Coster, Townmaster’s Hall	Toblen Stonehill, Narth, Elsa, Lanar, Trilena, Pip, Freda, Sister Garaele, Linene Graywind, Harbin Wester
-LMoP 2-03 Barthens Provisions	32x20	Barthen’s Provisions	Elmar Barthen
-LMoP 2-04 Edermath Orchard	32x20	Edermath Orchard	Daran Edermath
-LMoP 2-05 Phandalin Miners Exchange	32x20	Phandalin Miner’s Exchange, Woodworker	Halia Thornton
-LMoP 2-06 Alderleaf Farm	32x20	Alderleaf Farm	Qelline Alderleaf, Carp
-LMoP 2-07 The Sleeping Giant	32x20	The Sleeping Giant	4 Redbrand Ruffian
-LMoP 2-08 Tresendar Manor	32x20	Tresendar Manor	
-LMoP 2-09 Tresendar Manor Restored	32x20	Tresendar Manor but fixed	
-LMoP 2-10 Redbrand Hideout			
-		1. Cellar	
-		2. Barracks	3 Redbrand Ruffian
-		3. Trapped Hall	
-		4. Tresendar Crypts	2 Skeleton
-		5. Slave Pens	2 Redbrand Ruffian, Mirna Dendrar, Nars, Nilsa
-		6. Armory	
-		7. Storeroom and Work Area	
-		8. Crevasse	Nothic
-		9. Guard Barracks	3 Bugbear, Droop
-		10. Common Room	4 Redbrand Ruffian
-		11. Wizard’s Workshop	
-		12. Glasstaff’s Quarters	Glasstaff
-			
 Chapter 3: The Spider’s Web			
 LMoP 3-15 Conyberry	32x30	Conyberry	
 LMoP 3-16 Agathas Lair	32x20	Conyberry and Agatha’s Lair	Agatha
