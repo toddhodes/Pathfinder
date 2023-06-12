@@ -154,6 +154,28 @@ Townmaster’s Hall	    Harbin Wester
 - ask Reidoth the Druid for info on locations -- in ruins of a town called Thundertree
   "there's not an inch of the land he doesn't know." 
 
+## Cragmaw Manor
+
+Glasstaff: 
+"oh my.  i see right through that flimsy disguise
+ i lost family to the monster pit massacre, and while everyone else calls you a hero, i beg to differ.
+ i hold you responsible. and, i'be been waiting years for this moment"
+
+- bonused action bladesong
+  - +DEX AC - 13 + 3DEX + 4INT = 20
+  - +10' mv
+  - advantage  (Acrobatics) 
+  - +INT concentration (+8)
+
+r1: bladesong
+    casts shadow blade (CONC): 3rd lvl 3d8+3 
+    cast booming blade: 4d8+3 +2d8 mv
+     -> dim light ADV
+r1: familiar helps -> advantage
+r2: mv, 2 attacks, mv
+   - shield
+r3: potion: 8d4 + 8
+
 
 ## Quests Summary
 
@@ -167,39 +189,40 @@ Townmaster’s Hall	    Harbin Wester
  - find out who is lurking near ruins at Old Owl Well, watchtower of ancient magical empire; clear undead [Orcharder Daran Edermath]
  - keep an eye out for Rockseeker bros 2/3: Nundro and Tharden
 
-
    Key NPCs: Glasstaff, Black Spider, Ilarno, Rockseekers
-
-
-# Cragmaw Manor
-
-Glasstaff: 
-"oh my.  i see right through that flimsy disguise
- i lost family to the monster pit massacre, and while everyone else calls you a hero, i beg to differ.
- i hold you responsible. and, i'be been waiting years for this moment"
-
-- bonused action bladesong
-  - +DEX AC - 13 + 3DEX + 4INT = 20
-  - +10' mv
-  - advantage  (Acrobatics) 
-  - +INT concentration (+8)
-
-r1: casts shadow blade (CONC): 3rd lvl 3d8+3 
-    cast booming blade: 4d8+3 +2d8 mv
-     -> dim light ADV
-r1: familiar helps -> advantage
-r2: mv, 2 attacks, mv
-   - shield
-r3: potion: 8d4 + 8
 
 
 # The Spider's Web
 
+ - summarize quests
+ + Post-Manor New Quest: Mirna's Heirloom. Thundertree emerald necklace beneath shelves.  shop in the southeast
+
+ Travel: 24miles per day / 10hours. rest 8hours, 6hours camp --> 5 hexs
+
+## Old Owl Well
+  Recently, prospectors in the area have noted that someone has set up a campsite at Old Owl Well,
+  and that undead guardians have been posted to keep intruders out.
+
+  - all characters smell a deathly odor wafting from the tower's direction
+  - "As you crest a low ridge, you spy the crumbling ruins of an old watchtower standing amid the
+     rugged hills. The place is so old that the walls are only mounds of rubble enclosing a courtyard
+     of sorts, adjacent to the broken stump of an old tower. A colorful tent has been set up in the
+     middle of the courtyard, but no one is in sight."
+  - Hamun Kost, the evil mage, emerges from his tent and asks, "What is the meaning of this?"
+  - wants to ask Agatha: "What is the name of the wizard who built the tower at Old Owl Well?" [Arthindol]
+
 ## Ruins of Thundertree
 
-- Dragon's Tower: Venomfang: "Another band sent by a "kindly druid"? What lies did it tell you? That I am vile and a
- threat? Who do I threaten here in my home? It is playing you for fools."
+ "Gradually, the trail becomes an old, overgrown lane winding between dilapidated buildings
+  choked in vines and brush. Ahead of you, in the middle of the settlement, rises a steep hill,
+  upon which stands a stone tower with a partially collapsed roof and an adjoining cottage. A dirt
+  road hugs the base of the hill and wends its way between old stone houses, many of which are
+  roofless ruins with interiors open to the weather. Other buildings appear more or less intact.
+  The whole place is eerily silent.
+  A wooden sign is nailed to a post nearby. It reads: "DANGER! Plant monsters AND zombies! Turn back now!"
 
+ Dragon's Tower: Venomfang: "Another band sent by a 'kindly druid'? What lies did that thing tell you? 
+     That I am vile and a threat? Who do I threaten here in my home? The cerature is playing you for fools."
 
 
 # Wave Echo Cave
