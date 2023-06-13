@@ -206,42 +206,77 @@ Landmarks:
 
  Dermot explains Luxon.
 
-   The Luxon is a divine entity of light and rebirth that grants its faithful esoteric secrets.
+   The Luxon is a divine entity of light and rebirth that grants its faithful "esoteric" secrets.
 
-   The act of consecution is a sacred Kryn ritual of rebirth through the mystical power of the Luxon. 
+   Dying within range of a Luxon Beacon allows for our soul to be reincarnated within a newborn also within range of the beacon.
 
-   Through the process of Consecution — preparing one's soul for rebirth -- we live many
-   lifetimes, in bodies different from the ones they were first born in.
+   The process of preparing one's soul for rebirth is called Consecution.
 
-   Irwin here lived a previous life as a bugbear of Den Hythenos.
+   Through the process of Consecution we live many lifetimes, in bodies different from the ones
+   they were first born in, and with families the grow in strange and mytical ways.
 
-   I was a drow, reborn a bullywug, a deep gnome, a Githyanki, an orc, and now a goblin.
+   Irvin here lived a previous life as a bugbear of Den Hythenos.
 
-   On each step we gain greater knowledge about the world, and hidden secrets of life.. and family.
+   I was a drow, reborn a bullywug, reborn a deep gnome, reborn a Githyanki, and now a goblin.
 
-   The one key feature is that we must die within range of a Luxon Beacon
-   for our soul to be reincarnated within a random newborn. also within range of the beacon.
+   On each step, as we grow through consecuted rebirth, we gain greater knowledge about the world, and hidden 
+   secrets. multi-life generational goals.  Maybe even some shared divine purpose of peace or resolution.
 
-   But followers of the path who deviate from this acn be drawn in in other mysterious ways. 
+   followers of the path can lose their connection to the glow of the luxon.  but when the path of
+   their past lives and families is truly powerful, they can to be drawn back in mysterious ways.
 
-   We believe we have a devine purpose the will bring the world peace.
+   i think you might be such a person, Rumblebottom Loudpants. (he jokes) "Rumblepants Loudbottom."
 
 
 - J9: "Helter-Skelter" Aurora Watch / Dynasty outpost
 - J10: Black Islands
 - J6: Closing Ceremony @ the square
 
+## Final Exercises
+
+ "the sound of rhythmic drumming echoes throughout the Jumble.
+  People explain they are summoning the participants to the paddock (J6), cleared of horizonbacks
+  A council of elders collects on the podium, a mix of orcs and goblins, 12 total, one/village
+  After a series of speeches and various congrats to each other, an elderly orc dressed in deep blue robes stands 
+  atop a platform of crates. He smiles at the crowd. "Mighty warriors, brilliant strategists, you
+  have impressed us with your feats of strength, wit, resolve, and consitution." 
+  "And now for the final event. Two teams will be chosen to compete in a race through the depths of the Emerald Grotto, 
+  and a great prize awaits the victor! - a replica of the Emerald Eye (100gp)"  
+  The elders and their priests begin a series of augury spells, and, chattering.  People sip their drinks and gaze around
+  at the assembled masses.  Finally, the elder turns
+  "our first selection is: Ajo Jabe.  come get your badge, and ready yourself to choose a team."
+  "our second selection: our new frinds who beat every single challenge, ran off miscreants to boot:  
+   Rumble and his friends.  come get your badge."
+
+  drinks are put in your hands, and laurels around your heads.
+  and with that, you're on your way to the grotto, surrounded by well-wishers and merriment.
+
+  Ajo approaches: well, looks like we're going to have to compete once again!  and grabs her friends as teamates,
+  maggie, dermot, irvan, and taps ad row spellcaster you hadn't seen before, who she introduces as Gal.
+  The loser buys drinks tonight!
+
 
 # Emerald Grotto
 
-## setup
 
-- tracking table
-- ask them for a team name; choose a rivals name "the others"
-- mural
+  Elder Ushru stands before the mouth of a cave and addresses you and your opponents. "You brave
+  and valiant individuals have triumphed in many challenges this day; now, the final Test of Merit
+  awaits you!" He pulls a palm-sized gold-and-emerald amulet from his robes, holds it aloft, and
+  declares: "This medal, the Emerald Eye, has a twin has been placed in the deepest cavern of the Emerald Grotto. Be the
+  first to wear it and you will be declared Jigow's Champions of Merit. A title to cherish for the ages."
 
-## E1 - (Grotto Entrance): aged murals of a white-haired girl no more than twelve years old
-    trailed by 3 nondescript soldiers or clerics (Sehanine)
+  Ajo, do you have a name for your team, for the commentators ease?  "The Others"
+  Rumble, how about you?
+
+  Elder Colbu Kaz places a potion of water breathing in front of each contestant. "Good luck"
+
+  And the countdown begins!  roll initiative!
+
+- setup tracking table
+- describe e1 mural
+
+## E1 - (Grotto Entrance)
+ aged murals of a white-haired girl no more than twelve years old trailed by 3 nondescript soldier clerics (Sehanine)
 
 ## E3 - 3 broken statues.  seems there are broken statues of devas throughout the grotto
 
@@ -250,6 +285,25 @@ Landmarks:
 
  - moonshark++: https://i.redd.it/f63nanntpt591.jpg
  - do not mention, future knowldege: Place where Alyxian prayed to Sehanine the Moonweaver
+
+## E02: Moonshark
+Action
+- Blood Frenzy. advantage on melee against nonfull HP
+- Bite +9/2d10+6 --> grapple, escape DC 16
+- Moonweaver's Touch (3/Day). 30' DC 15 CON -> save: 2d10/2 radiant
+  failed: 2d10 radiant, target -> quipper 1min.  repeat save at end of turn.
+Bonus
+- Bite misses, swim 25' no OA
+- Tail. +9/1d10+6  DC17 STR or 10' push
+React
+- person in mouth, +2AC, misses hit person
+
+Dislodge moonweaver's spear: DC 13 Strength (Athletics)
+
+spear: 3/day: 30', 2d10 radiant, DC15 CON 
+  success: 2d10/2
+  failed: 2d10 radiant, target -> quipper 1min.  repeat save at end of turn.
+
 
 ## E12: Prayer Site of Sehanine
 
