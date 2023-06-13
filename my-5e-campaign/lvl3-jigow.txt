@@ -255,8 +255,7 @@ Landmarks:
 
   The light around the pedestal fades as a spectral figure in the form of a male human rises
   from the amulet. He is dressed in leather armor and a tattered red cape and wears a shield.
-  His face is framed by curly brown hair and bears a melancholic expression. He pleads, "I am
-  imprisoned.  Please help me."
+  His face is framed by curly brown hair and bears a melancholic expression. 
 
   Suddenly, the ground vanishes beneath your feet, and you fall, tumbling through a vortex of
   golden light. You fall deeper, deeper, deeper, then suddenly stop. The golden light subsides,
@@ -271,15 +270,14 @@ Landmarks:
    I'm *Alyxian*, but I've been lost for an eternity, lost in this... darkness." [waves around]
 
    His eyes cast around, but you cannpt tell what he sees.
-   As the pressure of the water crushes the life out of you, you feel consciousness leaving.
+   As the pressure of the water crushes you, you feel consciousness leaving.
 
   "No, no, no, you're already fading," [panics]
 
   "Long ago, my troops and I prayed in the heart of battle.
    These moments turned the tide."
 
-  "Please.  I beg you..."
-   Go to the shrines where we prayed, and the gods answered."
+  "Please.  I beg you... Go to the shrines where we prayed, and the gods answered."
    Use the jewel and...  Get the Jewel to the Cyst of Avandra."
 
    He looks to you with desperate eyes.  and is gone.
