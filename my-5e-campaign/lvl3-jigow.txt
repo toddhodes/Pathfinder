@@ -267,14 +267,22 @@ Landmarks:
      maggie, dermot, irvan, and a drow spellcaster you hadn't seen before, who she introduces as Gal.
 
 
+  You all proceed with the elders to the southeastern edge of Jigow with what seems like the
+  entire population in a procession behind you. 
+
+  two Elders wade out to an island, and gesture at you to join them.
+
+
 # Emerald Grotto
 
-  Elder Ushru stands before the mouth of a cave and addresses you and your opponents. "You
-  brave and valiant individuals have triumphed in many challenges this day; now, the final Test
-  of Merit awaits you!" He pulls a palm-sized gold-and-emerald amulet from his robes, holds it
-  aloft, and declares: "This medal, the Emerald Eye, has a twin has been placed in the deepest
-  cavern of the Emerald Grotto. Be the first to wear it and you will be declared Jigow's
-  Champions of Merit. A title to cherish for the ages."
+  An elder named Colbu Kaz places a potion of water breathing in front of each of you. "Good luck"
+
+  Another elder, Elder Ushru, stands before the mouth of a cave and addresses you. "You brave and
+  valiant individuals have triumphed in many challenges this day; now, the final Test of Merit
+  awaits you!" He pulls a palm-sized gold-and-emerald amulet from his robes, holds it aloft, and
+  declares: "This medal, the Emerald Eye, has a twin has been placed in the deepest cavern of the
+  Emerald Grotto. Be the first to wear it and you will be declared Jigow's Champions of Merit. A
+  title to cherish for the ages."
 
   Ajo, do you have a name for your team, for the commentators ease?  "The Others"
   Rumble, how about you?
