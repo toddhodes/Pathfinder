@@ -232,28 +232,39 @@ Landmarks:
 - J10: Black Islands
 - J6: Closing Ceremony @ the square
 
-## Final Exercises
+## FoM Invitational
 
- "the sound of rhythmic drumming echoes throughout the Jumble.
+  the sound of rhythmic drumming echoes throughout the Jumble.
   People explain they are summoning the participants to the paddock (J6), cleared of horizonbacks
-  A council of elders collects on the podium, a mix of orcs and goblins, 12 total, one/village
+
+  A council of elders collects on the podium, a mix of orcs and goblins, one from each village
   After a series of speeches and various congrats to each other, an elderly orc dressed in deep blue robes stands 
-  atop a platform of crates. He smiles at the crowd. "Mighty warriors, brilliant strategists, you
-  have impressed us with your feats of strength, wit, resolve, and consitution." 
-  "And now for the final event. Two teams will be chosen to compete in a race through the depths of the Emerald Grotto, 
-  and a great prize awaits the victor! - a replica of the Emerald Eye (100gp)"  
-  The elders and their priests begin a series of augury spells, and, chattering.  People sip their drinks and gaze around
-  at the assembled masses.  Finally, the elder turns
-  "our first selection is: Ajo Jabe.  come get your badge, and ready yourself to choose a team."
-  "our second selection: our new frinds who beat every single challenge, ran off miscreants to boot:  
-   Rumble and his friends.  come get your badge."
+  atop a platform of crates. He smiles at the crowd. 
+
+ "Mighty warriors, brilliant strategists, you have impressed us with your feats of strength, wit,
+  resolve, and consitution."
+
+  "And now for the final event. The Festival of Merit Invitational.  Two people will be choosen to
+  lead teams in a race through the depths of the Emerald Grotto, and a great prize awaits the
+  victor!" he raises a Emerald broach (100gp). The elders and their priests begin a series of
+  augury spells, and, chattering.  People sip their drinks and gaze around at the assembled
+  masses.  Finally, the elder turns 
+ "our first selection is: Ajo Jabe.  come get your badge, and ready yourself to choose a team." 
+  a cheer arupts.  she is a popular person around here, well know.
+
+  a few moments pass, and after some arguments:
+ "our second selection: our new frinds who beat every single challenge, and ran off outsider miscreants to
+  boot! Rumblebottom and his friends.  (he gets the name wrong) come get your badge."
 
   drinks are put in your hands, and laurels around your heads.
+
   and with that, you're on your way to the grotto, surrounded by well-wishers and merriment.
 
-  Ajo approaches: well, looks like we're going to have to compete once again!  and grabs her friends as teamates,
-  maggie, dermot, irvan, and taps ad row spellcaster you hadn't seen before, who she introduces as Gal.
-  The loser buys drinks tonight!
+  as you walk, Ajo approaches: 
+  "well, looks like we're going to compete once again!"  The loser buys tonight!"
+
+  she seems to have grabbed her friends as teamates: 
+     maggie, dermot, irvan, and a drow spellcaster you hadn't seen before, who she introduces as Gal.
 
 
 # Emerald Grotto
