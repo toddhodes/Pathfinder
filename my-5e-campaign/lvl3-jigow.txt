@@ -275,18 +275,53 @@ Landmarks:
 - setup tracking table
 - describe e1 mural
 
-## E1 - (Grotto Entrance)
- aged murals of a white-haired girl no more than twelve years old trailed by 3 nondescript soldier clerics (Sehanine)
+- E1: Grotto Entrance
+ "aged murals of a long white-haired girl no more than twelve years old trailed by 3 serious looking soldier clerics"
 
-## E3 - 3 broken statues.  seems there are broken statues of devas throughout the grotto
+ DC 15 Religion: Sehanine, the MoonWeaver
+ DC 13 Perception: find where the tunnel dips below
 
-  DC 15 investigation - reveal Perigee's name
+– E2: Kelp Tangle
+DC 13 Strength (Athletics) group check swim through the mass of kelp 1 vs 2 rounds
+
+– E3: Cavern Fork
+if ayo in front, she motions to let party choose.  1 vs 2 rounds
+
+ here there are 3 broken statues.  seems there are broken statues of devas throughout the grotto
+  DC 15 Investigation - reveal Perigee's name
   DC 15 Religion/history - reveal that Perigee was one of the fighters at the Battle of the Barbed Fields.
 
- - moonshark++: https://i.redd.it/f63nanntpt591.jpg
- - do not mention, future knowldege: Place where Alyxian prayed to Sehanine the Moonweaver
+– E4: Ghostgrass Patch
+ DC 12 Dexterity or take 1d6 necrotic and *restrained*. 
+ DC 12 Athletics to free
+ DC 11 Nature or Survival: algae sheds light
+ 2 rounds + N caught + 1 harvest
 
-## E02: Moonshark
+– E5: Landslide
+   DC 14 Dexterity, 3d6 bludgeoning or half
+   landslide blocked the exit:
+   DC 10 Investigation - find path
+   DC 15 Investigation - spots hidden cave at the top of the landslide.
+   cave: potion of healing and scroll of thunderwave.
+   2 + fail + 1 cave
+
+– E6: Quipper Den
+   fight 1 + combat
+
+– E7: Octopus's Garden
+  fight 1 + combat; 57 gp and a pouch containing dust of dryness
+
+– E8: Riptide Tunnel
+  DC 15 Athletics to swim; 2+N
+
+– E9: Dead End?
+   DC 11 Perception - find exit
+   DC 16 Perception - find cave
+   cave: 3 potions healing
+
+– E10: Moonshark Lair
+
+
 Action
 - Blood Frenzy. advantage on melee against nonfull HP
 - Bite +9/2d10+6 --> grapple, escape DC 16
@@ -304,12 +339,20 @@ spear: 3/day: 30', 2d10 radiant, DC15 CON
   success: 2d10/2
   failed: 2d10 radiant, target -> quipper 1min.  repeat save at end of turn.
 
+– E11: Moon Weaver's Gateway
+  read
 
 ## E12: Prayer Site of Sehanine
 
-  The light around the pedestal fades as a spectral figure in the form of a male human rises
-  from the amulet. He is dressed in leather armor and a tattered red cape and wears a shield.
-  His face is framed by curly brown hair and bears a melancholic expression. 
+  "The watery environment gives way to a cavern dotted with trees and pools of water. The walls
+   are covered in vines of green ivy interspersed with colorful flowers. Part of the cavern is open
+   to the sky.  In the middle of the cavern is a sphere of pale light surrounding a crystal
+   pedestal, upon which rests a golden pendant attached to a fine golden chain."
+
+ touch:
+  "The light around the pedestal fades as a spectral figure in the form of a male human rises
+   from the amulet. He is dressed in leather armor and a tattered red cape and wears a shield.
+   His face is framed by curly brown hair and bears a melancholic expression. 
 
   Suddenly, the ground vanishes beneath your feet, and you fall, tumbling through a vortex of
   golden light. You fall deeper, deeper, deeper, then suddenly stop. The golden light subsides,
@@ -336,6 +379,7 @@ spear: 3/day: 30', 2d10 radiant, DC15 CON
 
    He looks to you with desperate eyes.  and is gone.
 
+   ... You awaken to find the rivals attempting to rouse them.
 
  --> Researching the jewel
 
