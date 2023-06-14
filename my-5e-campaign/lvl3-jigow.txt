@@ -258,12 +258,12 @@ Landmarks:
 
 # Emerald Grotto
 
-
-  Elder Ushru stands before the mouth of a cave and addresses you and your opponents. "You brave
-  and valiant individuals have triumphed in many challenges this day; now, the final Test of Merit
-  awaits you!" He pulls a palm-sized gold-and-emerald amulet from his robes, holds it aloft, and
-  declares: "This medal, the Emerald Eye, has a twin has been placed in the deepest cavern of the Emerald Grotto. Be the
-  first to wear it and you will be declared Jigow's Champions of Merit. A title to cherish for the ages."
+  Elder Ushru stands before the mouth of a cave and addresses you and your opponents. "You
+  brave and valiant individuals have triumphed in many challenges this day; now, the final Test
+  of Merit awaits you!" He pulls a palm-sized gold-and-emerald amulet from his robes, holds it
+  aloft, and declares: "This medal, the Emerald Eye, has a twin has been placed in the deepest
+  cavern of the Emerald Grotto. Be the first to wear it and you will be declared Jigow's
+  Champions of Merit. A title to cherish for the ages."
 
   Ajo, do you have a name for your team, for the commentators ease?  "The Others"
   Rumble, how about you?
