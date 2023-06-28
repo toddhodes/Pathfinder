@@ -1,6 +1,68 @@
 
 # Level 4 / Chapter 2 - The Leave Taking (Xhorhas Wastes)
 
+## Phandalin
+
+Harbin Wester:
+
+Runs down characters:
+ "Congrats on the festival, hope you had fun, winning is a pretty big honor down there.
+  May your hangovers by fleeting.
+
+  Anyway, let me see if I get this straight:
+  - I hear you're some kind of war hero or apostate or both. Don't say much, but with that
+    on my shoulders, I get that
+  - And you, aquatic one from the coast, with an old captain caught up in the war?
+    I reckon your some kind of pirate, tho you certainly hold your cards close on that that bit.
+    Well, that makes sense.
+  - And, you [motions to Bottom], Dermot seems to indicate your one of them, whatever the fuck that
+    is.  Looking for a family that's literally already dead.  Well, I've heard way weirder.
+    Long as it ain't necromancy I have no problems connecting with the dead.
+  - And then we got this living miracle of a mechanical man, as i live and breathe!  Trying to understand
+    your connections inside you.  and i guess their connection to the rest of the living world.
+    I wish you the best on both.
+  - Now that just leaves you [motions at Adam].  fighting for truth justice and freedom, the morals and ethics
+    of it all?  not quite sure what side your on, who you're fighting for, but I think the blood on your sword
+    comes from a good place.
+
+ "Now.. I'm no sherriff" as he taps a 7-pointed star casually on the desk, 
+  and there's no democracy electing me to speak for everyone, but I think I do when I say,
+  we got some troubles."
+
+ Quest: Orc Trouble: head east on Triboar Trail, band of orcs near Wyvern Tor. 100 gp·
+ Quest: Find Cragmaw Castle: find the lost mine of Wave Echo Cave
+       500gp locate and defeat chieftain.  search around Triboar Trail / "Wilderness Encounters"·
+ Quest: Finding Iarno / 200gp eliminate redbrands Glasstaff
+  Iarno Albrek, Zadah-ian, disappeared after exploring Tresendar Manor two months ago, shortly after arriving·
+  investigate the manor to find Iarno "a short, dark-bearded human wizard in his thirties."
+
+ - Clear warband encampment near Wyvern Tor, east on Triboar Trail [Townmaster Harbin, 100gp]
+ - Find Cragmaw HQ and kill chieftain [Townmaster Harbin, 500gp]  (glasstaff escape? spider?)
+
+  "As for the jewel. That's waaay above my pay grade.  The best place for that locally is Boxy.
+   Bozoxxon to the underdarkers.  It's the site of Betrayer's Rise, one of the final battles of the
+   Calamity.  Its an entire mountain of shifting arcane passages and rooms connected
+   to the betrayer gods and planes of hell, planes of dark, planes connected to that.
+   The townsfolk are a hardy bunch, ones like Adam there, who wage a constant unending war
+   against the leakage out of."
+
+  "The passage to Boxy and Betrayer's Rise, is through the Barbed Fields.  Some of the darkest 
+   poisoned land on the planet.  The fallout from the most epic battles of humanity.
+   its a 10 day trek and do be careful."
+
+  "Now, why would you ever go there?  Well, there's one other spot that was forever changed by the Calamity.
+   Well, that didn't end up completely destroyed, like the Shattered Teeth.  And that's Marquest, that contient 
+   far below east.  Now a desert, with its past half a mile below it.  The greatest scholars are in Marquet, but,
+   they happen to send the scholars to Boxy.  There's 3-4 visiting and studying there for the organizations they
+   represent and any given time.  Save you a two thousand mile trip going to Bozy first."
+
+
+  "But, again, wouldn't be so bad if you could help with at least with the complex under Tresendar Manor, if
+   nothing else."
+
+
+## Road
+
  - Encounters 1-8
  - Emerald Loop Caravan Stop
  - Dream-Bane Cave: caravan stop --> dream-bane cave

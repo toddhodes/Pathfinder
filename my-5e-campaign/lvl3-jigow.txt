@@ -167,11 +167,12 @@ she introduces friends from Jigow and Asarius/"City of Beasts"
   *** each round, Athletics check
    1-4: +1/-1 point
    5-9: +2/-2 pt
-   10+: +3/-3 pt
-   4-5 points wins
+   10-14: +3/-3 pt
+   15+: +4/-4
+   5 points wins
 
    +1d6 for each STR mod, use at any time
-   use last one, all checks -1d4
+    use last one, all checks -1d4
 
 - Wetwalks Paddywhack @ Wetwalks (J5)
   cutter: DC 11 Athletics: 5' cleared
@@ -184,14 +185,14 @@ she introduces friends from Jigow and Asarius/"City of Beasts"
 
 - Herding the Horizonbacks @ Square (J6)
 
-  DC 12 Wisdom (Animal Handling)
+  DC 12 Animal Handling
   DC 13 "
   DC 14 "
   DC 15 "
    * success: continue
    * fail: bucked, DC 13 DEX save:
         * success: continue
-        * fail: 1d6 bludgeoning, DC 15 Dexterity (Acrobatics):
+        * fail: 1d6 bludgeoning, DC 15 Acrobatics:
              * success: remount
              * fail:: attacks +7/4d6+4 + DC 14 STR or prone
 
@@ -285,9 +286,7 @@ Landmarks:
   title to cherish for the ages."
 
   Ajo, do you have a name for your team, for the commentators ease?  "The Others"
-  Rumble, how about you?
-
-  Elder Colbu Kaz places a potion of water breathing in front of each contestant. "Good luck"
+  Rumble, how about you? "BARDS"
 
   And the countdown begins!  roll initiative!
 
@@ -306,17 +305,19 @@ DC 13 Strength (Athletics) group check swim through the mass of kelp 1 vs 2 roun
 – E3: Cavern Fork
 if ayo in front, she motions to let party choose.  1 vs 2 rounds
 
+– E4: Ghostgrass Patch
+
  here there are 3 broken statues.  seems there are broken statues of devas throughout the grotto
   DC 15 Investigation - reveal Perigee's name
   DC 15 Religion/history - reveal that Perigee was one of the fighters at the Battle of the Barbed Fields.
 
-– E4: Ghostgrass Patch
  DC 12 Dexterity or take 1d6 necrotic and *restrained*. 
  DC 12 Athletics to free
  DC 11 Nature or Survival: algae sheds light
  2 rounds + N caught + 1 harvest
 
 – E5: Landslide
+
    DC 14 Dexterity, 3d6 bludgeoning or half
    landslide blocked the exit:
    DC 10 Investigation - find path
@@ -328,7 +329,7 @@ if ayo in front, she motions to let party choose.  1 vs 2 rounds
    fight 1 + combat
 
 – E7: Octopus's Garden
-  fight 1 + combat; 57 gp and a pouch containing dust of dryness
+  fight 1 + combat; 57 gp and a pouch containing: dust of dryness, potion healing
 
 – E8: Riptide Tunnel
   DC 15 Athletics to swim; 2+N
@@ -339,7 +340,6 @@ if ayo in front, she motions to let party choose.  1 vs 2 rounds
    cave: 3 potions healing
 
 – E10: Moonshark Lair
-
 
 Action
 - Blood Frenzy. advantage on melee against nonfull HP
