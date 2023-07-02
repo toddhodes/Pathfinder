@@ -1,6 +1,13 @@
 
 # Level 4 / Chapter 2 - The Leave Taking (Xhorhas Wastes)
 
+  - Jewel of Three Prayers was empowered by the gods to aid Alyxian three times; that shrines
+    were erected in those places; find the shrines in order to reactivate the Jewel.
+  - Ruidium is appearing at sites associated with the Apotheon.
+  - Alyxian will be helped, freed, or destroyed. 
+    (what’s at stake if the Apotheon is freed is important and distinct revelation.)
+
+
 ## Phandalin
 
 Harbin Wester:
@@ -60,6 +67,11 @@ Runs down characters:
   "But, again, wouldn't be so bad if you could help with at least with the complex under Tresendar Manor, if
    nothing else."
 
+  - Conybery banshee, Old Owl Well, Thundertree druid, Cragmaw Castle, Wyvern Tor
+  - Harbin/Sildar: find Gundren Rockseeker and his map
+  - Black Spider is searching Wave Echo Cave for the Forge of Spells
+  - Radiant Citiadel Awakening in Festival Godsbreath - ship more Palma Floras, etc
+
 
 ## Road
 
@@ -72,32 +84,11 @@ Runs down characters:
    DMing Bazzoxan travel: https://www.reddit.com/r/CalloftheNetherdeep/comments/10o5sgu/dming_bazzoxan_travel/
    Prep https://www.youtube.com/watch?v=TAUV4s3g2b4
 
-### GM reminder: Revelation List: Campaign Agendas
-
-  Jewel of Three Prayers was empowered by the gods to aid Alyxian three times; that shrines
-  were erected in those places; find the shrines in order to reactivate the Jewel.
-
-  ruidium is appearing at sites associated with the Apotheon.
-
-  helped, freed, or destroyed. 
-  (what’s at stake if the Apotheon is freed is important and distinct revelation.)
-
 ### Potential other Vestiges
 
-  Hide of the Feral Guardian - Light armor (studded leather armor)
-    polymorph, polymorphs get +N
-  
-  Wreath of the Prism - dominate monster
-  
-  Stormgirdle - too strong
-
-## Summarize Existing Hooks
-
-- The Spider's Web
-  Conybery banshee, Old Owl Well, Thundertree druid -> Cragmaw Castle/Wave Echo, Wyvern Tor
-  Harbin/Sildar: find Cragmaw Castle, search for Gundren Rockseeker, rescue the dwarf, and retrieve his map.
-  Black Spider is searching Wave Echo Cave for the Forge of Spells
-- Radiant Citiadel Awakening in Festival Godsbreath - ship more Palma Floras, etc
+  - Hide of the Feral Guardian - armor, polymorph, polymorphs get +N
+  - Wreath of the Prism - dominate monster
+  - Stormgirdle - too strong
 
 
 ## Research the jewel or the location
@@ -145,18 +136,10 @@ Someone else: Dermot?
    - the Library of the Cobalt Soul
 
 
-# Travel, incl the Barbed Fields
+# Travel 
 
-## Weather and Time
-
-9-15 days depending on pace
-
-2d6:
- 2-3 dust storm
- 4  rain (acid rain in the barbed fields)
- 5-9 cloudy
- 10  foggy
- 11-12 sunny
+Weather 
+ 2d6: 2-3 dust storm, 4 rain (acid rain in the barbed fields), 5-9 cloudy, 10  foggy, 11-12 sunny
 
 
 ## Encounters
