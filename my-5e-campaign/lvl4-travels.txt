@@ -170,18 +170,25 @@ Someone else: Dermot?
 7	Moorbounder Mayhem
 8	Roadside Raiders
 
-order:
-7. Moorbounder Mayhem - fun; Justice on Rice Pudding. scare off DC 21 Intimidation.
-4. Demonic Carrion - solemn and dangerous; udaak, DC 12 collars; dagger+1
-3. Crashed Wagon - will o'whispss, charm of heroism, potion of giant strength (hill)
-1. A Lucky Break - Dead gloomstalker, ring
-2a. Aurora Watch Patrol - at rest: dangers of the Barbed Fields, gloomstalkers snatch people, the Ruins of Sorrow.
-   good spirit, LG drow scout cook. accept food?  long rest? food grants +1d10 temporary HP
-5. Feast for the Eyes - 1100': gloomstalker antagonizing 3 mammoths; shreik -> skeletons
-8. Roadside Raiders - Six-Knives, bumbling dark humor.  Boneshaver, Gleam, Grudge, Jabby, Pierce, and Tickles.
-6. Ill Omen - Ruidus flare - re-explain moons.  DC 10 history bad luck, dread holding Jewel and looking at Ruidus.
-   ask for theories.
-2b. Aurora Watch Patrol in Battle - tear in world; vision of Perigree's death
+## Encounters 1-4
+
+4. Demonic Carrion - solemn/dangerous; udaak corpse, enormous, ape-like demon, vrock, 2 quasits; dagger+1 | ALuckyBreak
+3. Crashed Wagon - 3 will o'whisps, charm of heroism, potion of giant strength (hill)                | CrashedWagon
+
+2c. Aurora Watch Patrol Lost - six dead, corpse of a hezrou, two shadow demons and two quasits lurk  | Badlands Enc2 Lost
+1. A Lucky Break - Dead gloomstalker, wastewalker ring                                               
+2b. Aurora Watch Patrol in Battle - 6 veterans (LG drow, humans, and orcs) fighting a hezrou.        | Ba Enc2 InBattle
+2a. Aurora Watch Patrol at Rest: dangers of the Barbed Fields, gloomstalkers snatch people,          | Campsite 
+   good spirit, LG drow scout cook. accept food/rest? +1d10 temporary HP. 
+   warn of tear in world @ the Ruins of Sorrow.
+
+    -- arrive caravan stop --
+
+5. Feast for the Eyes - 1100': gloomstalker antagonizing 3 mammoths; shreik -> skeletons             | Badlands Enc5
+7. Moorbounder Mayhem - Justice on Rice Pudding. scare off moors w/ DC 21 Intimidation. --> reward   | Badlands Enc7
+8. Roadside Raiders - Six-Knives bribe                                                               | No-Map or Badlands Enc5 (again)
+6. Ill Omen - Ruidus flare - re-explain moons.  DC 10 history bad luck,                              
+               dread holding Jewel and looking at Ruidus. theories.
 
 
 ## Caravan Stop
@@ -199,6 +206,10 @@ order:
 
   Netherdeep | Dream-bane Cave: https://docs.google.com/document/d/1sygEx1qJIF7GH45kW-ZdH_fN0-60qQUek9_3qNwwEwE/edit
 
+## Encounters 5-8
+
+
+
 ### Ruins of Sorrow
 
   original: https://www.reddit.com/r/CalloftheNetherdeep/comments/unr6tt/road_to_bazzoxan_climactic_conclusion_the_ruins/
@@ -207,12 +218,12 @@ order:
   "You are about a day away from Bazzoxan. Full Ruidus happened the night before giving you all
    a sense of unease, especially those of you with faith."
 
-#### RoS Location Notes
-
  When Perigee did her final strike against the Betrayer general, she damaged the surroundings
  and weakened the barrier between the material realm and the Abyss.
  the Abyssal rift in Betrayers' Rise has never fully closed, and are a hot-spot for demons.
  Aurora Watch patrols check often and try to keep the demon numbers down.
+
+ vision of Perigree's death
 
 #### Encounter
 
