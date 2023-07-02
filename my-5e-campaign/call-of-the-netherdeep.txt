@@ -1,31 +1,100 @@
+--- Lore --
+
+# Canonical Order of Events
+
+Alyxian gained a group of companions during his earlier battles on Wildemount, after he had
+gained some fame in battle, after he got the first god blessing. They were an effective and
+close unit and were key to taking the area around Bazzoxan, cutting it off from Ghor Dranas.
+The scene from the fallen Change Bringer temple happens during this time.
+
+The companions all died during the siege of Ghor Dranas, falling at key moments, heroically, at
+times when Alyxian couldn't get to them. During the final battle before taking Ghor Dranas, at
+a decisive moment, Alyxian desperately called out to the Moon Weaver for help, and Perigee
+came. With her help, they took Ghor Dranas.
+
+Next, the they tackled shutting down Bazzoxan, for though they taken the surrounding area, the
+temple still was spitting out demons and causing trouble. Alyxian, along with Perigee, led
+groups into the temple, taking sections of it from the demons, driving them back toward the
+source. She and Alyxian became close allies during this, with Alyxian finding a sort of comfort
+in having a companion so close to the divinity he was taking more and more steps towards and
+someone that surely couldn't be killed, seeing as they were immortal (he had hopes, you guys).
+
+With Bazzoxan coming closer to being truly defeated, the Betrayer Gods sent forces to divert
+the attention of those attacking the temple. Perigee was needed to defend their allies outside
+the temple, with Alyxian continuing efforts inside. Near the end of the long slog, with both
+sides becoming desperate, hoards of enemies were thrown at Bazzoxan's defense. With Perigee
+desperately close to being over run, Alyxian was called from the assault within to help her,
+dooming the allies that he had been fighting with. Alyxian arrived at the battle outside
+Bazzoxan, fought through enemies to get Perigee's side, only to see her make a final strike
+against the Betrayer general leading the strike, killing her foe and dying herself. With the
+general down, the attackers scattered, and a mournful Alyxian finally drove out the demons and
+took the temple of Bazzoxan. The scene from the Changer Bringer shrine happens here, as Alyxian
+receives the second god blessing.
+
+In the final few battles that Alyxian fights on Wildemount, he fights separated from his mortal
+allies. He is only partnered with the humanoid forms of the Moon Weaver and the Changer
+Bringer. Cue the carving from the beginning of the Betrayers' Rise.
+
+With Wildemount decimated but Betrayer God strongholds destroyed, Alyxian travels to Marquet,
+where the fighting is still going strong. He is perpetually melancholy but still kind, though
+he makes no deep connections with those he fights with, staying aloof and full of prayer. He is
+fully the Apotheon.
+
+https://www.reddit.com/r/CalloftheNetherdeep/comments/unr6tt/road_to_bazzoxan_climactic_conclusion_the_ruins/
+
+
+## Revelation List: Lore of Alyxian
+
+- History of the Jewel of Three Prayers.
+- The Jewel of Three Prayers was empowered by the gods three times.
+- Shrines were erected near each location where the Jewel was empowered.
+- The Jewel can be fully reactivated by visiting the shrines.
+- Ruidium is appearing in sites associated with the Apotheon.
+- Properties of ruidium.
+- The Lore of the Alyxian
+- Alyxian's Sacrifices:
+
+When Alyxian prayed to Sehanine, he gave up his future, and any chance he had of trying to make
+a normal life for himself. In return he received the first part of the Jewel of Three Prayers,
+as well as an ally to help him in his struggles (Perigee). With this he was able to help
+Sehanine and Moradin trap Torog.
+
+When he prayed to Avandra in Betrayer's Rise, he gave up his present, sacrificing his strongest
+ally and only friend, Perigee (I am planning to run the Ruins of Sorrow encounter for some
+exposition on Perigee). In return he was given the second part of the Jewel, and was able to
+help banish Tharizdun back into the Abyss.
+
+When he and his followers left Wildemount to help in Marquet, he prayed to Correllon, this time
+giving up his past, condemning his name and deeds to be lost to history in exchange for the
+third part of the Jewel, allowing him to help Corellon defeat Gruumsh.
+
+
+## CORE STRUCTURE of Call of the Netherdeep
+
+  In Ank’harel there are three factions — the Allegiance of Allsight, the Consortium of
+  Vermilion Dreams, and the Library of the Cobalt Soul.
+
+  Each faction has a specific ruidium agenda regarding ruidium. (The Allegiance wants to use it
+  to become arms dealers; the Consortium wants to monopolize it for arcane research; the
+  Library wants it destroyed.)
+
+  Each faction has sent a researcher to Bazzoxan — Prolix Yusaf (Allegiance), Aloysia Telfin
+  Consortium), and Question (Library).
+
+  The PCs should arrive in Bazzoxan and befriend a researcher (or more than one).
+
+  The PCs will follow the researcher(s) back to Ank’harel and join a faction (or more than one,
+  although that probably won’t remain tenable given the factions’ mutually contradictory
+  goals).
+
+  The PCs will then perform faction missions, which lead them to Cael Morrow and then the Netherdeep.
+
+
+# Excel
+
 Call of the Netherdeep
 ----------------------
 
-Chapter 1 - A Fateful Competition			
-1-01 Festival Pie Eating and Inn	20x16	J1 Best Pies in the Jumble	Agathe Silverspoon, Drow Male, Halfling Female, Ivan Wastewalker
-1-02 Festival Maze	20x16	J2 One-Shot Solution	Sharpwatch, Maggie Keeneyes, Dermot Wurder
-1-03 Festival Swimming Race	20x16	J3 The Ifolon Plunge	Omo, Ayo Jabe, Galsariad Ardyth, Orc Male, Human Female
-1-04 Festival Arm-Wrestling	20x16	J4 Call to Arms	Maryl Bronzefang, 2 Aurora Watch Veteran, Vars, Maggie Keeneyes
-1-05 Festival Paddy Harvest	20x16	J5 Wetwalks Paddywhack	Beetle, Zag, Orc Female, Drow Male, Drow Female
- 									J6 Herding the Horizonbacks	Ayo Jabe, Adan, 5 Horizonback Tortoise 1x1
-1-06 Festival Riddles	20x16		J7 Riddles and Rhymes	Elder Colbu Kaz, Galsariad Ardyth
-1-07 Festival Town Temple	20x16	J8 Temple of Luxon	Belana Zolaed, Dermot Wurder
-1-08 Festival Town Barracks	32x20	J9 Helter-Skelter	Durth Mirimm, Eldar Ushru
-1-09 Festival River Islands	20x16	J10 Black Islands	
-1-11 Emerald Grotto Map	37x24	Emerald Grotto	Eldar Ushru, Ayo Jabe, Durmot Wurder, Ivan Wastewalker, Maggie Keeneyes, Galsariad Ardyth
-		E1: Grotto Entrance	
-		E2: Kelp Tangle	
-		E3: Cavern Fork	
-		E4: Ghostgrass Patch	
-		E5: Landslide	
-		E6: Quipper Den	Swarm of Quippers
-		E7: Octopus’s Garden	Giant Octopus
-		E8: Riptide Tunnel	
-		E9: Dead End?	
-		E10: Moonshark Lair	Giant Shark
-		E11: Moon Weaver’s Gateway	
-		E12: Prayer Site of Sehanine	
-			
 Chapter 2 - The Leave-Taking			
 2-01 Badlands Encounter 1	20x16	Random Encounter 1 A Lucky Break	
 2-02 Badlands Encounter 2 At Rest	20x16	Random Encounter 2 Aurora Watch Patrol	6 Aurora Watch Veteran, Aurora Watch Scout
