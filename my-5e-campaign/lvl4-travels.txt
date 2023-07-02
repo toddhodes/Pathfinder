@@ -63,47 +63,50 @@ Runs down characters:
 
 ## Road
 
- - Encounters 1-8
+ - Encounters 1-5
  - Emerald Loop Caravan Stop
- - Dream-Bane Cave: caravan stop --> dream-bane cave
- - Ruins of Sorrow: level chars to 5, then --> ruins of sorrow
+ - Encounters 6-8
+ - Dream-Bane Cave: caravan stop --> attack --> dream-bane cave
+ - Ruins of Sorrow: level chars to 5 --> ruins of sorrow
 
    DMing Bazzoxan travel: https://www.reddit.com/r/CalloftheNetherdeep/comments/10o5sgu/dming_bazzoxan_travel/
+   Prep https://www.youtube.com/watch?v=TAUV4s3g2b4
 
 ### GM reminder: Revelation List: Campaign Agendas
 
-  What is the Jewel of Three Prayers? Specifically, the PCs should be able to figure out that
-  it was empowered by the gods to aid Alyxian three times; that shrines were erected in those
-  places; and that they need to find the shrines in order to fully reactivate the Jewel.
+  Jewel of Three Prayers was empowered by the gods to aid Alyxian three times; that shrines
+  were erected in those places; find the shrines in order to reactivate the Jewel.
 
-  What is ruidium and what should be done with it? This obviously includes the properties of
-  ruidium itself, but it should also become clear that ruidium is appearing at sites associated
-  with the Apotheon.
+  ruidium is appearing at sites associated with the Apotheon.
 
-  Who is Alyxian the Apotheon? Answering this means piecing together the details of his story
-  and framing the ultimate question of the campaign, which is whether he should be helped,
-  freed, or destroyed. (You may also discover that understanding what’s at stake if the
-  Apotheon is freed is an important and distinct revelation.)
+  helped, freed, or destroyed. 
+  (what’s at stake if the Apotheon is freed is important and distinct revelation.)
 
+### Potential other Vestiges
+
+  Hide of the Feral Guardian - Light armor (studded leather armor)
+    polymorph, polymorphs get +N
+  
+  Wreath of the Prism - dominate monster
+  
+  Stormgirdle - too strong
 
 ## Summarize Existing Hooks
 
 - The Spider's Web
   Conybery banshee, Old Owl Well, Thundertree druid -> Cragmaw Castle/Wave Echo, Wyvern Tor
-  Sildar: find Cragmaw Castle, search for Gundren Rockseeker, rescue the dwarf, and retrieve his map.
-
-- Radiant Citiadel Awakening in Festival Godsbreath
-  ship more Palma Floras, etc
+  Harbin/Sildar: find Cragmaw Castle, search for Gundren Rockseeker, rescue the dwarf, and retrieve his map.
+  Black Spider is searching Wave Echo Cave for the Forge of Spells
+- Radiant Citiadel Awakening in Festival Godsbreath - ship more Palma Floras, etc
 
 
 ## Research the jewel or the location
 
- "You must find me! You must bring the Jewel to the Cyst of Avandra!"
-  [within Betrayer’s Rise beneath Bazzoxan]
+ "You must find me! You must bring the Jewel to the Cyst of Avandra!" [within Betrayer’s Rise beneath Bazzoxan]
 
 ### Jewel
 
-Orc Elder Ushru breakfast at the Unbroken Tusk inn
+Orc Elder Ushru / whoever / the Unbroken Tusk inn
 
   "What you have found is a Vestige of Divergence, an enchanted relic from the time of the
   Calamity known as the Jewel of Three Prayers. People do not stumble upon Vestiges without a
@@ -116,24 +119,21 @@ Orc Elder Ushru breakfast at the Unbroken Tusk inn
 
   "There are often leading experts from Ank’harel on field assignment in Bazzoxan.
 
-### Figure
+Someone else: Dermot?
 
-  "journal of one of the explorers who delved too deep and awakened the abyssal gate in
-   Bazzoxan. The end of the journal trails off into mad gibberings, but it includes a
-   vivid description of a figure that resembles the one you saw in your vision."
+  "I have a gift for you -- a journal of one of the explorers who delved too deep and awakened
+  the abyssal gate in Bazzoxan. The end of the journal trails off into mad gibberings, but it
+  includes a vivid description of a figure that resembles the one you saw in your vision."
 
-### Avandra
-
-  who is?
+### Who is Avandra / Location of Cyst of Avandra
 
   the name appears in reference to a Vestige named the Kiss of the Changebringer:
   "Legend holds that Asmodeus stole this amulet from the neck of Avandra and locked it away within
    the vaults of Bazzoxan. In an expedition into the dark fortress's depths, the Kiss of the
    Changebringer was found and claimed by a group of Aurora Watch soldiers
 
-  Location of Cyst of Avandra
   "It is said that during the time of the Calamity, Avandra blessed a site within Bazzoxan; it
-   is described in some demonic texts as a “cyst” which blighted that temple of the Betrayers Gods
+   is described in some demonic texts as a “cyst” which blighted that temple of the Betrayers Gods"
 
 ### Alyxian
 
@@ -175,17 +175,25 @@ order:
 4. Demonic Carrion - solemn and dangerous; udaak, DC 12 collars; dagger+1
 3. Crashed Wagon - will o'whispss, charm of heroism, potion of giant strength (hill)
 1. A Lucky Break - Dead gloomstalker, ring
-2. Aurora Watch Patrol - at rest: dangers of the Barbed Fields, gloomstalkers snatch people, the Ruins of Sorrow.
+2a. Aurora Watch Patrol - at rest: dangers of the Barbed Fields, gloomstalkers snatch people, the Ruins of Sorrow.
    good spirit, LG drow scout cook. accept food?  long rest? food grants +1d10 temporary HP
 5. Feast for the Eyes - 1100': gloomstalker antagonizing 3 mammoths; shreik -> skeletons
 8. Roadside Raiders - Six-Knives, bumbling dark humor.  Boneshaver, Gleam, Grudge, Jabby, Pierce, and Tickles.
-X. Reunion with the Rivals - Dragonchess match, exchange quests, info
 6. Ill Omen - Ruidus flare - re-explain moons.  DC 10 history bad luck, dread holding Jewel and looking at Ruidus.
    ask for theories.
-X. Patrol in Battle - tear in world; vision of Perigree's death
+2b. Aurora Watch Patrol in Battle - tear in world; vision of Perigree's death
 
 
 ## Caravan Stop
+
+- [Gaeya Iliera] - cooking food can give extra HP for 24 hours if her food is consumed
+- [Tyvak and Moghra] - daughter and son of Kierchaly Wastewalker who was killed by the udaak in Demonic Carrion encounter. 
+                       Will trade +1 battleaxe for their father’s +1 dagger
+- [Justice] - give party [Goggles of Night] if they helped him
+- [The Acorn Sisters (Lanata & Robur)] - if shown great respect they can give a [charm of vitality]
+
+- Goblin Family on tutrle --- merge w/ cooking food? -- make kobold family --> MILF!
+- bugbear shop - ?
 
 ### Attack on the Emerald Loop Caravan Stop --> Dream-bane Cave
 
@@ -253,50 +261,11 @@ Alt:
  Sleep, wake next day, complete travel to Bozox
 
 
---- Lore --
+# --- Lore --
 
-# Canonical Order of Events
+see call-of-the-netherdeep.txt
 
-Alyxian gained a group of companions during his earlier battles on Wildemount, after he had
-gained some fame in battle, after he got the first god blessing. They were an effective and
-close unit and were key to taking the area around Bazzoxan, cutting it off from Ghor Dranas.
-The scene from the fallen Change Bringer temple happens during this time.
-
-The companions all died during the siege of Ghor Dranas, falling at key moments, heroically, at
-times when Alyxian couldn't get to them. During the final battle before taking Ghor Dranas, at
-a decisive moment, Alyxian desperately called out to the Moon Weaver for help, and Perigee
-came. With her help, they took Ghor Dranas.
-
-Next, the they tackled shutting down Bazzoxan, for though they taken the surrounding area, the
-temple still was spitting out demons and causing trouble. Alyxian, along with Perigee, led
-groups into the temple, taking sections of it from the demons, driving them back toward the
-source. She and Alyxian became close allies during this, with Alyxian finding a sort of comfort
-in having a companion so close to the divinity he was taking more and more steps towards and
-someone that surely couldn't be killed, seeing as they were immortal (he had hopes, you guys).
-
-With Bazzoxan coming closer to being truly defeated, the Betrayer Gods sent forces to divert
-the attention of those attacking the temple. Perigee was needed to defend their allies outside
-the temple, with Alyxian continuing efforts inside. Near the end of the long slog, with both
-sides becoming desperate, hoards of enemies were thrown at Bazzoxan's defense. With Perigee
-desperately close to being over run, Alyxian was called from the assault within to help her,
-dooming the allies that he had been fighting with. Alyxian arrived at the battle outside
-Bazzoxan, fought through enemies to get Perigee's side, only to see her make a final strike
-against the Betrayer general leading the strike, killing her foe and dying herself. With the
-general down, the attackers scattered, and a mournful Alyxian finally drove out the demons and
-took the temple of Bazzoxan. The scene from the Changer Bringer shrine happens here, as Alyxian
-receives the second god blessing.
-
-In the final few battles that Alyxian fights on Wildemount, he fights separated from his mortal
-allies. He is only partnered with the humanoid forms of the Moon Weaver and the Changer
-Bringer. Cue the carving from the beginning of the Betrayers' Rise.
-
-With Wildemount decimated but Betrayer God strongholds destroyed, Alyxian travels to Marquet,
-where the fighting is still going strong. He is perpetually melancholy but still kind, though
-he makes no deep connections with those he fights with, staying aloof and full of prayer. He is
-fully the Apotheon.
-
-https://www.reddit.com/r/CalloftheNetherdeep/comments/unr6tt/road_to_bazzoxan_climactic_conclusion_the_ruins/
-
+## Canonical Order of Events
 
 ## Revelation List: Lore of Alyxian
 
@@ -308,20 +277,9 @@ https://www.reddit.com/r/CalloftheNetherdeep/comments/unr6tt/road_to_bazzoxan_cl
 - Properties of ruidium.
 - The Lore of the Alyxian
 - Alyxian's Sacrifices:
-
-When Alyxian prayed to Sehanine, he gave up his future, and any chance he had of trying to make
-a normal life for himself. In return he received the first part of the Jewel of Three Prayers,
-as well as an ally to help him in his struggles (Perigee). With this he was able to help
-Sehanine and Moradin trap Torog.
-
-When he prayed to Avandra in Betrayer's Rise, he gave up his present, sacrificing his strongest
-ally and only friend, Perigee (I am planning to run the Ruins of Sorrow encounter for some
-exposition on Perigee). In return he was given the second part of the Jewel, and was able to
-help banish Tharizdun back into the Abyss.
-
-When he and his followers left Wildemount to help in Marquet, he prayed to Correllon, this time
-giving up his past, condemning his name and deeds to be lost to history in exchange for the
-third part of the Jewel, allowing him to help Corellon defeat Gruumsh.
+When Alyxian prayed to Sehanine, he gave up his future
+When he prayed to Avandra in Betrayer's Rise, he gave up his present
+When he and his followers left Wildemount to help in Marquet, giving up his past
 
 
 ## CORE STRUCTURE of Call of the Netherdeep
@@ -343,5 +301,4 @@ third part of the Jewel, allowing him to help Corellon defeat Gruumsh.
   goals).
 
   The PCs will then perform faction missions, which lead them to Cael Morrow and then the Netherdeep.
-
 
