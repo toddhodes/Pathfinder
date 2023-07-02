@@ -7,6 +7,7 @@
   - Alyxian will be helped, freed, or destroyed. 
     (what’s at stake if the Apotheon is freed is important and distinct revelation.)
 
+Travel Time: 24 miles per day over 10 hours; rest 8h; camp 6h
 
 ## Phandalin
 
@@ -43,7 +44,7 @@ Runs down characters:
   Iarno Albrek, Zadah-ian, disappeared after exploring Tresendar Manor two months ago, shortly after arriving·
   investigate the manor to find Iarno "a short, dark-bearded human wizard in his thirties."
 
- - Clear warband encampment near Wyvern Tor, east on Triboar Trail [Townmaster Harbin, 100gp]
+ - Clear warband encampment near Wyvern Tor, west on Triboar Trail [Townmaster Harbin, 100gp]
  - Find Cragmaw HQ and kill chieftain [Townmaster Harbin, 500gp]  (glasstaff escape? spider?)
 
   "As for the jewel. That's waaay above my pay grade.  The best place for that locally is Boxy.

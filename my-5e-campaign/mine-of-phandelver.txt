@@ -158,7 +158,7 @@ Townmaster’s Hall	    Harbin Wester
 
 ## Cragmaw Manor
 
- Bladesinger Elarno Glasstaff: 
+ Bladesinger Elarno Glasstaff:
   "oh my.  i see right through that flimsy disguise
    i lost family to the monster pit massacre, and while everyone else calls you a hero, i beg to differ.
    i hold you responsible. and, i'be been waiting years for this moment"
@@ -172,14 +172,20 @@ Townmaster’s Hall	    Harbin Wester
   Arcane Deflection: fail a saving throw, reaction +4 bonus to that saving throw. 
                       can't cast spells other than cantrips until the end of your next turn.
 
-  r1: bladesong
-      casts BA shadow blade (CONC): 3rd lvl 3d8+3 
+  r1: cast BA shadow blade (CONC): 3rd lvl: 3d8+3
       cast booming blade: 4d8+3 +2d8 mv
        -> dim light ADV
-    r?(has own init): familiar helps -> advantage
-  r2-3: mv, 2 attacks, mv
-     - shield
+      action att: 3d8+3
+       -> dim light ADV
+      cast shield
+  r?(has own init): familiar: mv, help action, mv -> 1 att has advantage. [AC 10, HP 1]
+  r2: BA bladesong, AC 21->25
+      mv, bb attack, attiack, mv
+      cast shield
+  r3: mv, bb attack, attack, mv
+      cast shield
   r4: healing potion: 8d4 + 8
+      cast shield
 
 
 ## Quests Summary
