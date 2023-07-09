@@ -154,13 +154,12 @@ Weather
 7	Moorbounder Mayhem
 8	Roadside Raiders
 
-## Encounters 1-4
+## Encounters 1-6
 
-4. Demonic Carrion - solemn/dangerous; udaak corpse, enormous, ape-like demon, vrock, 2 quasits; dagger+1 | ALuckyBreak
-3. Crashed Wagon - 3 will o'whisps, charm of heroism, potion of giant strength (hill)                | CrashedWagon
-
+4. Demonic Carrion - solemn; udaak corpse, enormous, ape-like demon, vrock, 2 quasits; dagger+1      | ALuckyBreak
+7. Moorbounder Mayhem - Justice on Rice Pudding. scare off moors w/ DC 21 Intimidation. --> reward   | Badlands Enc7
 2c. Aurora Watch Patrol Lost - six dead, corpse of a hezrou, two shadow demons and two quasits lurk  | Badlands Enc2 Lost
-1. A Lucky Break - Dead gloomstalker, wastewalker ring                                               
+1. A Lucky Break - Dead gloomstalker, wastewalker ring                                               | editef map
 2b. Aurora Watch Patrol in Battle - 6 veterans (LG drow, humans, and orcs) fighting a hezrou.        | Ba Enc2 InBattle
 2a. Aurora Watch Patrol at Rest: dangers of the Barbed Fields, gloomstalkers snatch people,          | Campsite 
    good spirit, LG drow scout cook. accept food/rest? +1d10 temporary HP. 
@@ -168,18 +167,11 @@ Weather
 
     -- arrive caravan stop --
 
-5. Feast for the Eyes - 1100': gloomstalker antagonizing 3 mammoths; shreik -> skeletons             | Badlands Enc5
-7. Moorbounder Mayhem - Justice on Rice Pudding. scare off moors w/ DC 21 Intimidation. --> reward   | Badlands Enc7
-8. Roadside Raiders - Six-Knives bribe                                                               | No-Map or Badlands Enc5 (again)
-6. Ill Omen - Ruidus flare - re-explain moons.  DC 10 history bad luck,                              
-               dread holding Jewel and looking at Ruidus. theories.
-
-
 ## Caravan Stop
 
 - [Gaeya Iliera] - cooking food can give extra HP for 24 hours if her food is consumed
-- [Tyvak and Moghra] - daughter and son of Kierchaly Wastewalker who was killed by the udaak in Demonic Carrion encounter. 
-                       Will trade +1 battleaxe for their father’s +1 dagger
+- [Tyvak and Moghra] - daughter and son of Kierchaly Wastewalker who was killed by the udaak in
+                      Demonic Carrion encounter.  Will trade +1 battleaxe for their father’s +1 dagger
 - [Justice] - give party [Goggles of Night] if they helped him
 - [The Acorn Sisters (Lanata & Robur)] - if shown great respect they can give a [charm of vitality]
 
@@ -190,14 +182,20 @@ Weather
 
   Netherdeep | Dream-bane Cave: https://docs.google.com/document/d/1sygEx1qJIF7GH45kW-ZdH_fN0-60qQUek9_3qNwwEwE/edit
 
-## Encounters 5-8
+## Encounters 7-10
 
+3. Crashed Wagon - 3 will o'whisps, charm of heroism, potion of giant strength (hill)                | CrashedWagon
+5. Feast for the Eyes - 1100': gloomstalker antagonizing 3 mammoths; shreik -> skeletons             | Badlands Enc5
+8. Roadside Raiders - Six-Knives bribe                                                               | VermalocPath
+6. Ill Omen - Ruidus flare - re-explain moons.  DC 10 history bad luck,                              | Camp
+               dread holding Jewel and looking at Ruidus. theories                                   | Badland Reunion night.
 
 
 ### Ruins of Sorrow
 
   original: https://www.reddit.com/r/CalloftheNetherdeep/comments/unr6tt/road_to_bazzoxan_climactic_conclusion_the_ruins/
   Ruins of Sorrow (Adaptation): https://docs.google.com/document/d/1UIe8RCglQge4T77l02AhNjVn_0xH8oa5/edit
+  visions summarize https://www.reddit.com/r/CalloftheNetherdeep/comments/uozh5s/ruins_of_sorrow_vision_perigees_death/
 
   "You are about a day away from Bazzoxan. Full Ruidus happened the night before giving you all
    a sense of unease, especially those of you with faith."
@@ -212,43 +210,53 @@ Weather
 #### Encounter
 
   "Rising up before you is the old crest of a ruined citadel, walls tumbled down and cracked.
-   You hear scraping rock, low guttural exhortions, and cries of combat."
+   You hear scraping rock and cries of combat."
 
-- 6 Aurora Watch (AW) is already fighting some unusually high level demons
-  - 2/6 are down (bleed out in 2 turns if nothing is done)
-- fighting a Hezrou and a Draegloth, with a hidden Babau using its Gaze.
+   the Jewel of Three Prayers begins to glow
+
+ - 4 Aurora Watch (AW) are already fighting some unusually high level demons
+   - 2 more are down (bleed out in 2 turns if nothing is done)
+   - Hezrou and a Draegloth, hidden Babau using its Gaze.
+
+ - lore drops, rounds 2-5:
+  2. on a horrible, massive battlefield, covered in dead
+   - 30' demons with tusks and black feathers and claws Goristro (cr17)
+    - fields of Glabrezu (CR9), Hezrou (CR8), Draegloth (CR7), Babau (CR4)
+    - one side: drow, goblin, hobgoblin, orc, duergar, snifnerb, tieflings
+    - other side: humans, elves, dwarf, halfling, aasimar, and everything between
+   - horrible sight of humanoids assisting, twisted enough to side with the Betrayers
+  3. hazy outline of some kind of Demon Lord.  slime of Jubilex? minotaur Baphomet?
+   - many being crushed under the hooves of the bull demon goring
+   - a pair of massive black-winged horned demon of fire, w/ a whip and sword..  Baylor (cr19)
+   - divinely bright blast of radiant light thins the field; Perigree?
+  4. massive sets of explosions, magical meteors, swirling acid, fire. cold. 
+   - Everyone around blast radius, friend and for alike, is char, smoldering on the ground
+   - demonic generals melting into smoking ichor. Perigee is softly glowing ash.
+  5. .. the Rise falls.  onto Ghor Dranas.
 
 - Round 1:
+  Jewel of Three Prayers floats
+   - Lair actions: The PCs make a Cha save DC 13. On fail, 2d6 necro hands from fog surrounds; 
+     half on success.  mv forward to exit fog
+   - AW casts protection from evil on those they can touch
 
-   - Lair actions: The PCs make a Cha save DC 13. On fail, they take 2d6 necro as hands from
-     the fog suck the life from them (this cuts through temp hp). Half on a save. Fail by more
-     than 5, their max hp is reduced.
-
-- Round 2: 1 Draegloth and 4 Wretched.
-
-   - Lair actions: Wis save DC 13 as they are wracked by sorrow. On fail, uncontrollable
-     tears fall; their speed is cut in half and they are shaken. They have dis on their attacks
-     and spell casters have to make a DC 13 spell casting check or they can't get their spell
-     off. If they fail by more than 5, attacks have advantage on them.
-
-- Round 3:
-
+- Round 2:
+   the Jewel flashes
    - Lair actions: Int save DC 13 as they see hoards of enemies rise from the fog. On a fail,
      they are caught in the illusion. They can expend their attack to fight the enemies off or
-     they will take 2d6 psych damage. If they fail by more than 5, they take 1d6 damage even if
+     they will take 2d6 psych damage.  If they fail by more than 5, they take 1d6 damage even if
      they fight and 3d6 if they don't.
 
+- Round 3: haze settles, creating Draegloth + Babau.
+   the Jewel flashes
+   - Lair actions: Wis save DC 13 as they are wracked by sorrow. On fail, uncontrollable
+     tears fall; their speed is cut in half and they are shaken. 
+
 - Round 4:
-
-   - rivals arrive
-   - vision of Perigee's death and feel Alyxian's grief. DC 13 Cha save.
-     summarize https://www.reddit.com/r/CalloftheNetherdeep/comments/uozh5s/ruins_of_sorrow_vision_perigees_death/
-   - final wave arrives: x The Lonely "energies of the ruins are released"
-
-Alt:
-1x Lonely Sorrowsworn :
-1x Lost Sorrowsworn :
-8x Wretched Sorrowsworn :
+   - reenforcements if needed arrive
+   - vision of Perigee's death and Alyxian's grief. 
+     DC 13 Cha save. fail, shaken, disadvantage by the strong emotions
+   - "energies of the ruins are released"
 
 
 ## Completion
