@@ -1,36 +1,106 @@
 
-# Level 5 / Chapter 3(b) - Bazzoxan 
+# Level 5 / Chapter 3(b) - Bazzoxan
 
 5th	Chpt 3a: Bazzoxan city (B1-B7) + edge of the Rise
  + The Hythenos Estate
  + On a Red Rock Trail
 
-  set CORE STRUCTURE of Call of the Netherdeep
+ "There are often leading experts from Ank’harel on field assignment in Bazzoxan."
 
-  In Ank’harel there are three factions — the Allegiance of Allsight, the Consortium of
-  Vermilion Dreams, and the Library of the Cobalt Soul.
+ Ank’harel main factions
+   — the Allegiance of Allsight
+     researcher: Prolix Yusaf (Allegiance)
+     agenda: The Allegiance wants to use it to become arms dealers
 
-  Each faction has a specific ruidium agenda regarding ruidium. (The Allegiance wants to use it
-  to become arms dealers; the Consortium wants to monopolize it for arcane research; the
-  Library wants it destroyed.)
+   - the Consortium of Vermilion Dreams
+     researcher: Aloysia Telfin Consortium)
+     agenda: the Consortium wants to monopolize it for arcane research
 
-  Each faction has sent a researcher to Bazzoxan — Prolix Yusaf (Allegiance), Aloysia Telfin
-  Consortium), and Question (Library).
+   - the Library of the Cobalt Soul
+     researcher: Question (Library)
+     agenda: the Library wants it destroyed
 
-  The PCs should arrive in Bazzoxan and befriend a researcher (or more than one).
+  Reminder:
+  - befriend a researcher (or more than one).
+  - follow the researcher(s) back to Ank’harel and join a faction (or more than one)
+     although that probably won’t remain tenable given the factions’ mutually contradictory goals).
+  - perform faction missions, which lead them to Cael Morrow and then the Netherdeep.
 
-  The PCs will follow the researcher(s) back to Ank’harel and join a faction (or more than one,
-  although that probably won’t remain tenable given the factions’ mutually contradictory
-  goals).
+## Faction Hooks
 
-  The PCs will then perform faction missions, which lead them to Cael Morrow and then the Netherdeep.
+ re-summarize research -- jewel, names, places
 
+ Scholars of Ank’Harel in Bazzoxan (Question, Prolix, and Aloysia):
+  - Aloysia will attempt to eavesdrop on conversations between the PCs and other scholars. (And
+   can be caught doing so by attentive PCs.) She might also ask the PCs to distract Prolix so that
+   she can slip away and so something without his prying eyes.
 
-## Hook reminder
+  - Prolix may tell the PCs that he’s been sent primarily to spy on Aloysia. And we can
+   strengthen this by having Prolix ask them to break into Aloysia’s room and steal her notes.
 
- re-read research -- jewel, names, places
+  - Question suspects that one of the other Ank’harel researchers has stolen one of his
+   sketchbooks. She’d like the PCs to recover it.
 
- Scholars of Ank’Harel in Bazzoxan (Question, Prolix, and Aloysia) 
+ Clarify conflicting motivations:
+   - Allegiance of Allsight (Prolix) want to use the ruidium to create weapons, armor, and other
+     artifacts that they can sell to the highest bidder.
+
+   - Consortium of Vermilion Dreams (Aloysia) want to secure a monopoly on ruidium so that they
+     can study its deeper mysteries and have sole access to its power.
+
+   - Library of the Cobalt Soul (Question) believe that ruidium is dangerous and it must be either
+     destroyed or sealed away so that it cannot harm the world.
+
+## Locations
+
+ A. Sacrifice Engines
+    "Among the most prominent features of Bazzoxan are the town's two sacrifice engines, each one
+    a 30-foot-deep pit lined with rows of silver blades. The blades can be made to spin by pulling
+    a lever near the edge of the pit. A creature in the pit while the blades are spinning takes 44
+    (8d10) slashing damage at the start of each of its turns.
+
+    "in bygone days, servants of the Betrayer Gods threw mortals into these pits to appease their
+    evil lords. Now, the Aurora Watch herds demons and other monsters into them to avoid prolonged
+    battles.
+
+ 1. Gate - intro fight, 5 gibbering mouthers, Verin Thelyss
+ 2. Crematorium - Prolix, Allegiance of Allsight.
+ 3. Infirmary - priest Bautha Dyrr. has info. mission: place item at wall
+ 4. Gatehold Barracks - Verin give info:
+    - expedition from the Library of the Cobalt Soul is currently in the Betrayers' Rise with an
+      Aurora Watch escort, researching battles of the Calamity that took place within its halls.
+
+    - agent of the Consortium of the Vermilion Dream is staying in Bazzoxan. an elf named Aloysia, 
+      reprimanded for trying to bribe Aurora Watch soldiers to protect her while she searches for an 
+      ancient holy site she claims is within the Betrayers' Rise.
+
+    - archaeologist named Prolix from the Allegiance of Allsight in Ank'Harel also recently
+      arrived in Bazzoxan. He is ostensibly assisting Aurora Watch arcanists who are researching
+      ways to seal the rift within the Betrayers' Rise. Verin suspects that the archaeologist has
+      other motives, seen lurking around the crematorium.
+
+    "The Betrayers' Rise is... challenging to navigate. Its passages shift to confuse mapmakers
+     and search parties. I think the power of the Abyss flows through it, warping the environment
+     so no two groups follow the same path through it. Whether it's demon magic or not doesn't
+     really matter; all I know is that if you get lost down there, my soldiers won't be able to
+     find you."
+ 4b. Gatehold Garracks Mess Hall:
+     -  member of the Cobalt Soul expedition, a tiefling named Question, went with his group
+        to the gate of the Betrayers' Rise but elected not to enter the place. He's holed up at
+        the Ready Room (area B7), ready to talk about his research
+     - An elf named Aloysia tried to bribe some soldiers into escorting her into the Betrayers'
+       Rise.  Some people believe that she wants only to ransack the temple, but others think her
+       concern is religious and she is searching for long-lost lore about the Prime Deities.
+ 5. Dilapidated Temple
+     "Glass crunches underfoot amid overgrown weeds. Collapsed walls have been replaced with rows
+      of wooden shelves that hold earthenware pots. Numerous alcoves are being used as planters for
+      stubborn flora. Just outside the far end of the enclosure, a smashed mosaic of stained glass
+      sits in a splintered window frame next to a withered, skeletal tree."
+      DC 17 (Religion): mosaic once depicted a woman's face on a golden disk: the iconography of Avandra the Change Bringer.
+      Fogholm - lore, jewel three fragments of divine power within it, one awake and two slumbering
+
+ 6. Wall of the Unforgotten - Kalym Telaarin.  grants Mote of Possibilies
+ 7. The Ready Room - Question, Aloysia
 
 
 ## Approach Betrayer's Rise
@@ -70,38 +140,14 @@ clarify conflicting motivations:
 
   https://drive.google.com/drive/folders/1c95Lxa2OzB_RGUQ8AhTGPT3rV73ncq8y
 
-
 # Introduce other lvl 5-8 content
 
   Hidden Shrine
   Library
 
-
 # Hint Netherdeep is inside a Luxon
 
 Chapter 5: The rift to the Netherdeep in Cael Morrow emerges from a cracked Luxon beacon.
-
 https://www.reddit.com/r/CalloftheNetherdeep/comments/vc8y8r/a_plot_twist_for_the_campaign/
-
-
-## CORE STRUCTURE of Call of the Netherdeep
-
-  In Ank’harel there are three factions — the Allegiance of Allsight, the Consortium of
-  Vermilion Dreams, and the Library of the Cobalt Soul.
-
-  Each faction has a specific ruidium agenda regarding ruidium. (The Allegiance wants to use it
-  to become arms dealers; the Consortium wants to monopolize it for arcane research; the
-  Library wants it destroyed.)
-
-  Each faction has sent a researcher to Bazzoxan — Prolix Yusaf (Allegiance), Aloysia Telfin
-  Consortium), and Question (Library).
-
-  The PCs should arrive in Bazzoxan and befriend a researcher (or more than one).
-
-  The PCs will follow the researcher(s) back to Ank’harel and join a faction (or more than one,
-  although that probably won’t remain tenable given the factions’ mutually contradictory
-  goals).
-
-  The PCs will then perform faction missions, which lead them to Cael Morrow and then the Netherdeep.
 
 

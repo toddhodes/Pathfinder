@@ -73,7 +73,6 @@ Runs down characters:
   - Black Spider is searching Wave Echo Cave for the Forge of Spells
   - Radiant Citiadel Awakening in Festival Godsbreath - ship more Palma Floras, etc
 
-
 ## Road
 
  - Encounters 1-5
@@ -84,20 +83,11 @@ Runs down characters:
    DMing Bazzoxan travel: https://www.reddit.com/r/CalloftheNetherdeep/comments/10o5sgu/dming_bazzoxan_travel/
    Prep https://www.youtube.com/watch?v=TAUV4s3g2b4
 
-### Potential other Vestiges
-
-  - Hide of the Feral Guardian - armor, polymorph, polymorphs get +N
-  - Wreath of the Prism - dominate monster
-  - Stormgirdle - too strong
-
-
 ## Research the jewel or the location
-
- "You must find me! You must bring the Jewel to the Cyst of Avandra!" [within Betrayer’s Rise beneath Bazzoxan]
 
 ### Jewel
 
-Orc Elder Ushru / whoever / the Unbroken Tusk inn
+Dermot:
 
   "What you have found is a Vestige of Divergence, an enchanted relic from the time of the
   Calamity known as the Jewel of Three Prayers. People do not stumble upon Vestiges without a
@@ -110,39 +100,48 @@ Orc Elder Ushru / whoever / the Unbroken Tusk inn
 
   "There are often leading experts from Ank’harel on field assignment in Bazzoxan.
 
-Someone else: Dermot?
-
-  "I have a gift for you -- a journal of one of the explorers who delved too deep and awakened
+  "Finally, I have a gift for you -- a journal of one of the explorers who delved too deep and awakened
   the abyssal gate in Bazzoxan. The end of the journal trails off into mad gibberings, but it
   includes a vivid description of a figure that resembles the one you saw in your vision."
 
-### Who is Avandra / Location of Cyst of Avandra
-
-  the name appears in reference to a Vestige named the Kiss of the Changebringer:
-  "Legend holds that Asmodeus stole this amulet from the neck of Avandra and locked it away within
-   the vaults of Bazzoxan. In an expedition into the dark fortress's depths, the Kiss of the
-   Changebringer was found and claimed by a group of Aurora Watch soldiers
+### Location of Cyst of Avandra
 
   "It is said that during the time of the Calamity, Avandra blessed a site within Bazzoxan; it
    is described in some demonic texts as a “cyst” which blighted that temple of the Betrayers Gods"
 
+  Avandra also appears in reference to a Vestige named the Kiss of the Changebringer:
+  "Legend holds that Asmodeus stole this amulet from the neck of Avandra and locked it away within
+   the vaults of Bazzoxan. In an expedition into the dark fortress's depths, the Kiss of the
+   Changebringer was found and claimed by a group of Aurora Watch soldiers
+
+  Potential other Vestiges
+  - Kiss of the Changebringer - saves, no grappled, blink
+  - Hide of the Feral Guardian - armor, polymorph, polymorphs get +N
+  - Wreath of the Prism - dominate monster
+  - Stormgirdle - too strong
+
+
 ### Alyxian
 
- no info -- "There are often leading experts from Ank’harel on field assignment in Bazzoxan.
+ "There are often leading experts from Ank’harel on field assignment in Bazzoxan."
+ befriend a researcher
 
  Ank’harel main factions
    — the Allegiance of Allsight
+     researcher: Prolix Yusaf (Allegiance)
+     agenda: The Allegiance wants to use it to become arms dealers
+
    - the Consortium of Vermilion Dreams
+     researcher: Aloysia Telfin Consortium)
+     agenda: the Consortium wants to monopolize it for arcane research
+
    - the Library of the Cobalt Soul
+     researcher: Question (Library)
+     agenda: the Library wants it destroyed
 
+# Travel Encounters
 
-# Travel 
-
-Weather 
- 2d6: 2-3 dust storm, 4 rain (acid rain in the barbed fields), 5-9 cloudy, 10  foggy, 11-12 sunny
-
-
-## Encounters
+Weather 2d6: 2-3 dust storm, 4 rain (acid rain in the barbed fields), 5-9 cloudy, 10  foggy, 11-12 sunny
 
 1	A Lucky Break
 2	Aurora Watch Patrol
@@ -253,10 +252,13 @@ Weather
      DC 13 Cha save. fail, shaken, disadvantage by the strong emotions
    - "energies of the ruins are released"
 
+- End: gain favor for entering Bazzoxan from AW
 
 ## Completion
 
- Sleep, wake next day, complete travel to Bozox
+  Sleep, wake next day, complete travel to Bozox
+  remind, favor for entering Bazzoxan from AW
+  repeat Jewel, Location, Avandra lore
 
 
 # --- Lore --
