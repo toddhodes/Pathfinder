@@ -79,7 +79,6 @@ Runs down characters:
  - Encounters 1-5
  - Emerald Loop Caravan Stop
  - Encounters 6-8
- - Dream-Bane Cave: caravan stop --> attack --> dream-bane cave
  - Ruins of Sorrow: level chars to 5 --> ruins of sorrow
 
    DMing Bazzoxan travel: https://www.reddit.com/r/CalloftheNetherdeep/comments/10o5sgu/dming_bazzoxan_travel/
@@ -178,10 +177,6 @@ Weather
 - Goblin Family on tutrle --- merge w/ cooking food? -- make kobold family --> MILF!
 - bugbear shop - ?
 
-### Attack on the Emerald Loop Caravan Stop --> Dream-bane Cave
-
-  Netherdeep | Dream-bane Cave: https://docs.google.com/document/d/1sygEx1qJIF7GH45kW-ZdH_fN0-60qQUek9_3qNwwEwE/edit
-
 ## Encounters 7-10
 
 3. Crashed Wagon - 3 will o'whisps, charm of heroism, potion of giant strength (hill)                | CrashedWagon
@@ -247,7 +242,7 @@ Weather
      they will take 2d6 psych damage.  If they fail by more than 5, they take 1d6 damage even if
      they fight and 3d6 if they don't.
 
-- Round 3: haze settles, creating Draegloth + Babau.
+- Round 3: haze settles, creating 2 Babau. (Draegloth?)
    the Jewel flashes
    - Lair actions: Wis save DC 13 as they are wracked by sorrow. On fail, uncontrollable
      tears fall; their speed is cut in half and they are shaken. 
