@@ -90,8 +90,8 @@ Runs down characters:
 Dermot:
 
   "What you have found is a Vestige of Divergence, an enchanted relic from the time of the
-  Calamity known as the Jewel of Three Prayers. People do not stumble upon Vestiges without a
-  reason.
+   Calamity known as the Jewel of Three Prayers. People do not stumble upon Vestiges without a
+   reason.
 
   "Bazzoxan is a grim town under the control of the Aurora Watch, not a pleasant place to
    visit.  But I was in Bazzoxan once, where the legacy of the Calamity lingers more strongly
@@ -114,11 +114,26 @@ Dermot:
    the vaults of Bazzoxan. In an expedition into the dark fortress's depths, the Kiss of the
    Changebringer was found and claimed by a group of Aurora Watch soldiers
 
-  Potential other Vestiges
+#### Potential other Vestiges / Artifacts
+
   - Kiss of the Changebringer - saves, no grappled, blink
   - Hide of the Feral Guardian - armor, polymorph, polymorphs get +N
   - Wreath of the Prism - dominate monster
   - Stormgirdle - too strong
+
+#### Arms of the Betrayers - Anti-Vestiges
+
+Ruin's Wake
+   Perigee sacrifice herself at the battle of the barbed fields to kill Yarrowish, who was sent to
+   the Abyss. After the battle, Gruumsh took his soul and turned it into Ruin's Wake, using it as
+   the spear he "smote" Alyxian with.
+   - It was forged in the War Fires of the Endless Battlefield of Acheron using the soul of a
+     slaughter-loving Balor named Yarrowish.
+   - It was used by the Ruiner to bring low a hero blessed by three Prime Deities and hit the
+     continent of Marquet with such force that it was said to have torn open a rift to the elemental plane of water.
+   - It was deflected from its intended target and was flung far to the northeast, where it was
+     recovered by demon acolytes of Baphomet and hidden away in the depths of the Seat of the Demon
+     Princes, now known as Betrayer's Rise.
 
 
 ### Alyxian
