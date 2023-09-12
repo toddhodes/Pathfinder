@@ -3,6 +3,9 @@ Lost Mines of Phandelver
 
 Travel: 24miles per day / 10hours. rest 8hours, 6hours camp --> 5 hexs
 
+ Maps, Encounters, Tokens
+ https://docs.google.com/spreadsheets/d/1tcg5Id7sy30Lxim0IjJIRh-8f43tQ7l7vth1ddDkTUc/edit#gid=1538643795
+
 # Leaving Cragmaw Hideout
 
 Sildar:
@@ -335,8 +338,5 @@ close associates.
 
 "My take is you best steer clear of this area for a minute, stay in your mine, 
  or take a chance to visit elsewhere.  Let us try and track this down."
-
-# Maps, Encounters, Tokens
- https://docs.google.com/spreadsheets/d/1tcg5Id7sy30Lxim0IjJIRh-8f43tQ7l7vth1ddDkTUc/edit#gid=1538643795
 
 

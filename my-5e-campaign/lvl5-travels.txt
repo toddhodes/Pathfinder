@@ -9,23 +9,71 @@
 
 Travel Time: 24 miles per day over 10 hours; rest 8h; camp 6h
 
-## Phandalin
+## Phandalin / Finale of LMoP
 
-Level 4 ends at Wave Echo cave and a return to Phandalin.
+  Level 4 ends at Wave Echo cave and a return to Phandalin.
+  --> This section is a copy of the material at the end of mine-of-phandelver.txt
+  Use that for Forge Details, this is the finale and linking to CotN.
 
-### Finale of LMoP
+ "Through canny execution and a bit of luck, you have 
+  - defeated the Black Spider & his legion of minons,
+  - cleared the Redbrand ruffian bandits, 
+  - taken a dent out of the Cragmaw clan connected to him.
 
-Use the material at the end of mine-of-phandelver.txt
+  Once a promising member of the Zadash outcasts who survived the monster pit massacre, is now a corpse.
 
-### Linking back to CotN
+  you have claimed the Pact of the Lost Mine of Phandelver,
+  - it's Forge of Spells,
+  - and Wave Echo Cave surrounding it
 
-Harbin Wester:
+  Phandalin in not clear of all its many challenges, but, much has been set right.
+
+  What lies ahead? Weeks or months needed to restore the mines,
+  months or years needed to master the magic infusions and transfers of the Forge,
+  a lifetime to undertand its connection to the Portal System.    ["Sigil"]
+
+  the Phandelver's Pact has the potential to bring great riches to all who support it, and help
+  establish a beachhead of peace and prosperity in the area otherwise only famous for terrible battles in a
+  terrible war.
+
+  Gundren and Nundro Rockseeker agree to take over administration of the mine.  You now set off to finalize
+  the paperwork on the agreement due for your service, the award of a 10 percent share of the mine's profits.
+
+### Signing Papers
+
+Arriving in the Townmaster's Hall, you greet [Harbin Wester], 
+Townmaster and Sherriff of Phandalin, and ex-pat aquaintence [Sildar Hallwinter].
 
  "Congrats on the pact.  It's a major change around here."
   Don't think I forgot about your reward -- give you 500gp Spider, 200gp glasstaff
 
- Good to have you fighting for truth and justice, morals and ethics, right vs wrong.
- I think the blood on your swords comes from a good place.
+  after papers are in order, he remarks:
+  you are welcome to make a home here -- perhaps restoring Tresendar Manor for use when you are not
+  at the Cave, or otherwise out in search of new adventures.
+
+### Surprise Party
+
+a crowd gathers at the Stonehill Inn
+
+At first site of your return to the city, it seems an impromptu party has been set up at the Inn.
+
+Toblen Stonehill, Elmar, Linene, Sister Garaele, the Eldermaths, and the Alderleafs.
+and Ayo, Irvan Wastewalker, Maggie, and Dermot.
+
+Irvan (Irwin) is already quite drunk, and pawing on Ajo, a wide smile across his face.
+
+Linene takes out a lute and invites Rumble into a Bugbear jig in 5/4 time, one he knows from... somewhere.
+You ask to borrow the instrument, and as you play, you are visited by a vision, and a name,
+The Lute of the Beacon.
+
+later, after the party and cheer, the party is approached by Maggie
+guarded, lowered eye contact.
+
+  "Dermot, we've had our fun.  Ask them"
+
+  "Can we come with you?"
+
+### Linking back to CotN
 
   "As for the jewel. That's waaay above my pay grade.  The best place for that locally is Boxy.
    Bozoxxon to the underdarkers.  It's the site of Betrayer's Rise, one of the final battles of the
@@ -43,6 +91,7 @@ Harbin Wester:
    far below east.  Now a desert, with its past half a mile below it.  The greatest scholars are in Marquet, but,
    they happen to send the scholars to Boxy.  There's 3-4 visiting and studying there for the organizations they
    represent and any given time.  Save you a two thousand mile trip going to Bozy first."
+
 
 ## Road
 
