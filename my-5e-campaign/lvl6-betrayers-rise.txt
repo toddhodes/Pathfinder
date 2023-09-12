@@ -8,6 +8,7 @@ Chapter 3b - Betrayer’s Rise
 Additional Rooms
  - Fountain of the First Knight
  - Chamber of Tiamat
+   https://www.reddit.com/r/CalloftheNetherdeep/comments/v2icke/betrayers_rise_changes_tiamat_boss_room_fight/?utm_source=share&utm_medium=ios_app&utm_name=ioscss&utm_content=2&utm_term=10
  - Hall of Mirrors
  - Serpent’s Maw
  - Vecna’s Library
@@ -18,6 +19,31 @@ Additional Rooms
 
 ## Enter the Rise
 
+https://www.reddit.com/r/CalloftheNetherdeep/comments/168dh93/just_finished_cotn_last_night_ama/
+
+the Ruin's of Sorrow by u/JisaHinode, 
+the Hythenos Estate by u/katvalkyrie, 
+
+made a big maze competition for the Bowl of Judgement to tie in the D&D movie 
+added the Vidorant Vault heist from Keys from the Golden Vault 
+  https://5e.tools/adventure.html#kftgv,8
+added the Price of Beauty from Candlekeep Mysteries.  
+  https://5e.tools/adventure.html#cm,7
+    Beach Day episode that went horribly wrong, 
+    replaced the Steam Gardens in the River District with the spa from The Price of Beauty.
+
+Aloysia -> action-oriented CR12 boss (killing her before Betrayers Rise?)
+   Ruidium-powered Arcane Trickster Rogue.  short sword attack. sneak attack psychic damage, 
+   + few good enchantment and illusion spells.
+
+https://www.reddit.com/r/CalloftheNetherdeep/comments/16awsss/betrayers_rise_moving_too_quickly_and_easily/
+
+- arms only lead to the Colliseum of Nightmares, the pool of blood with the Fiendish Orcs, Or the Spider's Chancel. 
+- BR individual challenges thematically appropriate to each player (specifically designed rooms) 
+
+- Matt's Baxxozan dungeon from C2
+- added The Laughing Hand as a boss in Betrayer's Rise (lifted the whole encounter from The King's Cage episode) 
+- added a high priestess of Lolth with the Shadow Crown from Locke and Key as another boss.
 
 
 # Introduce other lvl 5-8 content
@@ -25,6 +51,13 @@ Additional Rooms
   Hidden Shrine
   Library
 
+## Bestiary
+
+ - Statblock nightmare shepherd https://www.worldanvil.com/block/829904
+ - Mastix the Fettered, Champion of Torog - 
+   https://www.dndbeyond.com/monsters/2909523-mastix-the-fettered-champion-of-torog
+
+ - 
 
 # Hint Netherdeep is inside a Luxon
 

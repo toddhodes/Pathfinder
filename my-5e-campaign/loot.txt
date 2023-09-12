@@ -1,0 +1,109 @@
+
+Rod of Uk'atoa
+--------------
+(WIP, based on Quicksilver + base rod + depth behavior)
+
+Vestige of the Divergence
+Wondrous Item, artifact (requires attunement by a by a devotee of the Luxon)
+
+Sentience: (Partial; Chaotic Neutral)
+The weapon communicates telepathically at 120' range,
+and speaks common, undercommon, and all aquatic languages
+
+DORMANT
+- Acts as a rod of retribution: 
+- At depth of 30' or lower, +1 AC and +1 saving throws
+- You have a +1 bonus to attack and damage rolls made with this magic weapon. Immediately after you make an attack with this thrown or ranged weapon, it returns to your hand.
+- This item allows you to manifest a form of your choosing. As a bonus action on your turn, you can hold forth the item and transform it into any type of weapon you have used before 
+- While holding this weapon, you have advantage on initiative rolls
+
+AWAKENED
+- When touching water, bonus in water goes to +2 AC and +2 saving throws
+- The weapon’s bonus to attack and damage rolls increases to +2.
+- Any one-handed weapon choosen has the finesse property
+- as a free action at the start of each of your turns, you can change the weapon type of the weapon.
+- X While wielding this weapon, you can cast the disguise self spell (DC 15) at will, without expending a spell slot.
+
+EXALTED
+- When touching water, +3 AC and +3 saving throws
+- The weapon’s bonus to attack and damage rolls increases to +3.
+- you are proficient with any weapon you manifest
+- The saving throw DC for the weapon’s abilities increases to 17.
+
+
+Lute of the Beacon
+------------------
+(based on Lute of Inspiration)
+
+Vestige of the Divergence
+Wondrous Item, artifact (requires attunement by a by a devotee of the Luxon)
+
+A dark wood lute with gunmetal silver etchings, dragonbone inlays, and strings of adamatinum alloy.
+various symbols of the gods of music is carved into the back. (Corellon Larethian, Olidammara)
+
+DORMANT
+- +1 spell attack rolls and save DC.
+- You can use this item as a spellcasting focus for your bard spells.
+- You know the Vicious Mockery cantrip and it doesn’t count towards the number of cantrips you know.
+- You know the Dissonant Whispers spell and it doesn’t count towards the number of spells you know. 
+  Cast 1/day without expending a spell slot. 
+- gain 3 extra skill or tool proficiencies and your proficiency bonus is double for ability checks 
+  made using these skills or tools.
+- +1/day use of Bardic Inspiration.
+- +d4 bonus to initiative rolls.
+
+AWAKENED
+- +2 spell attack rolls and save DC.
+- jack of all trades uses full proficiency bonus
+- You know the Compulsion spell and it doesn’t count towards the number of spells you know. 
+  Cast 1/day without expending a spell slot. 
+- When you use the Song of Rest feature, creatures now roll an extra die when regaining hit points.
+  If no dice are used, gain 1 die.
+- The bonus from above becomes +2/day use of Bardic Inspiration.
+- The bonus from above becomes +d6 bonus to initiative rolls.
+
+EXALTED
+- +3 spell attack rolls and save DC.
+- You learn any two spells of your choosing and they do not count against the number of spells you can know.
+- The bonus from above becomes +3/day use of Bardic Inspiration.
+- The bonus from above becomes +d10 bonus to initiative rolls.
+
+
+Mind Crystals
+-------------
+Careful - 3 auto-save
+Distant - +100', touch -> 30'
+Empowered - reroll 3d
+Extended - 2x time
+Heightened - disadv on first save against
+Quickened - action -> bonus action
+Subtle - no som, verbal components
+
+
+Salvage	
+--------
+Masterwork Net (Medium) (320 gp)
+4x Rope Net (10' x 10') (4 gp, 40 lb)
+4x Fishing Net (4 gp, 5 lb)
+Masterwork Throwing Axe (Medium) (308 gp)
+Altar (30 gp)
+57 x Bag of 20 Marbles (2 sp, 1 lb)
+Cauldron (10 gp)
+Courtier's Outfit (30 gp, 6 lb)
+10 x Crowbar (2 gp, 5 lb)
+Large Carpet (50 gp)
+22 x Scroll Case (1 gp, 1/2 lb)
+Backpack (2 gp, 2 lb)
+Bag of Iron Nails (5 sp, 1 lb)
+10 x Box of 20 Candles (2 sp, 1 lb)
+11 x Box of Charcoal (1 sp, 20 lb)
+Cold Weather Outfit (8 gp, 7 lb)
+13 x Flask of Oil (1 sp, 1 lb)
+Pan Flute (1 gp, 1 lb)
+Pole (10') (5 cp, 8 lb)
+7 x Sewing Needle (5 sp)
+Sledge (1 gp, 10 lb)
+Small Hunting Trap (4 gp, 5 lb)
+Tiny Wooden Box (5 sp, 1 lb)
+3 x Wooden Holy Symbol (1 gp)
+Handsaw (3 gp, 5 lb)
