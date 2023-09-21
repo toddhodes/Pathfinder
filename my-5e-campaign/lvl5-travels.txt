@@ -203,14 +203,35 @@ Weather 2d6: 2-3 dust storm, 4 rain (acid rain in the barbed fields), 5-9 cloudy
 
 ## Caravan Stop
 
-- [Gaeya Iliera] - cooking food can give extra HP for 24 hours if her food is consumed
+- [Gaeya Iliera] - cooking food can give extra HP for 24 hours if her food is consumed, to share w/ AW
 - [Tyvak and Moghra] - daughter and son of Kierchaly Wastewalker who was killed by the udaak in
                       Demonic Carrion encounter.  Will trade +1 longsword for their father’s +1 dagger
 - [Justice] - give party [Goggles of Night] if they helped him
-- [The Acorn Sisters (Lanata & Robur)] - if shown great respect they can give a [charm of vitality]
+- [The Acorn Sisters (Lanata & Robur)] - if shown great respect they can give all [charm of vitality]
 
-- Goblin Family on turtle --- merge w/ cooking food? -- make kobold family --> MILF!
+- Kobold [NOT GOBLIN] Family on turtle --> MILF!  Spork fam
 - bugbear shop - ?
+
+- family of 2 sunburned hill dwarves camped in the North West, with two small tents and shaggy ponies.
+  - [Thuda Flintfury] (f, chaotic good dwarf druid block) sunburned pale skin; red hair streaked
+     with gray, braided in pigtails; short red goatee; leather armor; wooden staff
+  - [Nanain Flintfury] (m, neutral good dwarf thug block) sunburned pale skin; bald but wearing
+    wearing a brimmed hat in the daytime; long braided gray beard; leather armor; mace and light crossbow
+   --> describe [Disanz Flintfury] (m, lawful neutral dwarf spy block) very thin and gaunt; often sunburned pale skin;
+       short blond hair; short blond beard; simple clothes
+
+    Thuda and Ninain from Pride's Call, in Bladegarden at the time the war started, pleading with
+    the leadership there to locate their son Disanz. Last they heard he was captured while
+    scouting in Xhorhas. They sought answers, finally learning he was being held prisoner in
+    Rosohna. Their community will provide a large reward for his return.
+
+     urgency: parental guilt that they got him into this mess by encouraging him to join the military, 
+              and instigated by their home being destroyed in a demon attack in Pride's Call.
+
+    Thuda and Ninain have traveled across the wastes aiming to Rosohna, surviving on her druid and his guard skills,
+    and managed to arrange the release of their son Disanz if they can get there.
+
+     https://www.reddit.com/r/CalloftheNetherdeep/comments/uhb7o2/brainstorming_an_encounter_for_emerald_loop/
 
 ## Encounters 7-10
 
@@ -288,7 +309,7 @@ Weather 2d6: 2-3 dust storm, 4 rain (acid rain in the barbed fields), 5-9 cloudy
    - AW casts protection from evil on those they can touch
 
 - Round 5:
-   the Jewel is sad
+   the Jewel drops
    - 2 Babau (or Draegloth?) placed on board
    - reenforcements arrive - 4 AW
    - Lair actions: Wis save DC 14 as they are wracked by sorrow. On fail, tears fall;
