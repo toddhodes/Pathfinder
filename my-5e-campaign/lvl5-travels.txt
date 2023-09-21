@@ -1,23 +1,23 @@
 
 # Level 5 (was Level 4) / Chapter 2 - The Leave Taking (Xhorhas Wastes)
 
+reminder:
   - Jewel of Three Prayers was empowered by the gods to aid Alyxian three times; that shrines
     were erected in those places; find the shrines in order to reactivate the Jewel.
   - Ruidium is appearing at sites associated with the Apotheon.
-  - Alyxian will be helped, freed, or destroyed. 
+  - Alyxian will be helped, freed, or destroyed.
     (what’s at stake if the Apotheon is freed is important and distinct revelation.)
 
 Travel Time: 24 miles per day over 10 hours; rest 8h; camp 6h
 
 ## Phandalin / Finale of LMoP
 
-  Level 4 ends at Wave Echo cave and a return to Phandalin.
-  --> This section is a copy of the material at the end of mine-of-phandelver.txt
-  Use that for Forge Details, this is the finale and linking to CotN.
+  the material at the end of `mine-of-phandelver.txt` has Forge Details, this is the finale and linking to CotN.
 
- "Through canny execution and a bit of luck, you have 
+"Last time:
+ Through canny execution and a bit of luck, you have
   - defeated the Black Spider & his legion of minons,
-  - cleared the Redbrand ruffian bandits, 
+  - cleared the Redbrand ruffian bandits,
   - taken a dent out of the Cragmaw clan connected to him.
 
   Once a promising member of the Zadash outcasts who survived the monster pit massacre, is now a corpse.
@@ -41,7 +41,7 @@ Travel Time: 24 miles per day over 10 hours; rest 8h; camp 6h
 
 ### Signing Papers
 
-Arriving in the Townmaster's Hall, you greet [Harbin Wester], 
+Arriving in the Townmaster's Hall, you greet [Harbin Wester],
 Townmaster and Sherriff of Phandalin, and ex-pat aquaintence [Sildar Hallwinter].
 
  "Congrats on the pact.  It's a major change around here."
@@ -50,6 +50,8 @@ Townmaster and Sherriff of Phandalin, and ex-pat aquaintence [Sildar Hallwinter]
   after papers are in order, he remarks:
   you are welcome to make a home here -- perhaps restoring Tresendar Manor for use when you are not
   at the Cave, or otherwise out in search of new adventures.
+
+  in the meantime, how about a drink?
 
 ### Surprise Party
 
@@ -66,8 +68,7 @@ Linene takes out a lute and invites Rumble into a Bugbear jig in 5/4 time, one h
 You ask to borrow the instrument, and as you play, you are visited by a vision, and a name,
 The Lute of the Beacon.
 
-later, after the party and cheer, the party is approached by Maggie
-guarded, lowered eye contact.
+later, after the party and cheer, the party is approached by Maggie, guarded, no eye contact.
 
   "Dermot, we've had our fun.  Ask them"
 
@@ -82,12 +83,12 @@ guarded, lowered eye contact.
    The townsfolk are a hardy bunch, ones like Adam there, who wage a constant unending war
    against the leakage out of."
 
-  "The passage to Boxy and Betrayer's Rise, is through the Barbed Fields.  Some of the darkest 
+  "The passage to Boxy and Betrayer's Rise, is through the Barbed Fields.  Some of the darkest
    poisoned land on the planet.  The fallout from the most epic battles of humanity.
    its a 10 day trek and do be careful."
 
   "Now, why would you ever go there?  Well, there's one other spot that was forever changed by the Calamity.
-   Well, that didn't end up completely destroyed, like the Shattered Teeth.  And that's Marquest, that contient 
+   Well, that didn't end up completely destroyed, like the Shattered Teeth.  And that's Marquest, that contient
    far below east.  Now a desert, with its past half a mile below it.  The greatest scholars are in Marquet, but,
    they happen to send the scholars to Boxy.  There's 3-4 visiting and studying there for the organizations they
    represent and any given time.  Save you a two thousand mile trip going to Bozy first."
@@ -189,13 +190,13 @@ Weather 2d6: 2-3 dust storm, 4 rain (acid rain in the barbed fields), 5-9 cloudy
 
 ## Encounters 1-6
 
-4. Demonic Carrion - solemn; udaak corpse, enormous, ape-like demon, vrock, 2 quasits; dagger+1      | ALuckyBreak
-7. Moorbounder Mayhem - Justice on Rice Pudding. scare off moors w/ DC 21 Intimidation. --> reward   | Badlands Enc7
-2c. Aurora Watch Patrol Lost - six dead, corpse of a hezrou, two shadow demons and two quasits lurk  | Badlands Enc2 Lost
 1. A Lucky Break - Dead gloomstalker, wastewalker ring                                               | editef map
+2c. Aurora Watch Patrol Lost - six dead, corpse of a hezrou, two shadow demons and two quasits lurk  | Badlands Enc2 Lost
+4. Demonic Carrion - solemn; udaak corpse, enormous, ape-like demon, vrock, 2 quasits; dagger+1      | ALuckyBreak
 2b. Aurora Watch Patrol in Battle - 6 veterans (LG drow, humans, and orcs) fighting a hezrou.        | Ba Enc2 InBattle
-2a. Aurora Watch Patrol at Rest: dangers of the Barbed Fields, gloomstalkers snatch people,          | Campsite 
-   good spirit, LG drow scout cook. accept food/rest? +1d10 temporary HP. 
+7. Moorbounder Mayhem - Justice on Rice Pudding. scare off moors w/ DC 21 Intimidation. --> reward   | Badlands Enc7
+2a. Aurora Watch Patrol at Rest: dangers of the Barbed Fields, gloomstalkers snatch people,          | Campsite
+   good spirit, LG drow scout cook. accept food/rest? +1d10 temporary HP.
    warn of tear in world @ the Ruins of Sorrow.
 
     -- arrive caravan stop --
@@ -204,11 +205,11 @@ Weather 2d6: 2-3 dust storm, 4 rain (acid rain in the barbed fields), 5-9 cloudy
 
 - [Gaeya Iliera] - cooking food can give extra HP for 24 hours if her food is consumed
 - [Tyvak and Moghra] - daughter and son of Kierchaly Wastewalker who was killed by the udaak in
-                      Demonic Carrion encounter.  Will trade +1 battleaxe for their father’s +1 dagger
+                      Demonic Carrion encounter.  Will trade +1 longsword for their father’s +1 dagger
 - [Justice] - give party [Goggles of Night] if they helped him
 - [The Acorn Sisters (Lanata & Robur)] - if shown great respect they can give a [charm of vitality]
 
-- Goblin Family on tutrle --- merge w/ cooking food? -- make kobold family --> MILF!
+- Goblin Family on turtle --- merge w/ cooking food? -- make kobold family --> MILF!
 - bugbear shop - ?
 
 ## Encounters 7-10
@@ -223,8 +224,8 @@ Weather 2d6: 2-3 dust storm, 4 rain (acid rain in the barbed fields), 5-9 cloudy
 ### Ruins of Sorrow
 
   original: https://www.reddit.com/r/CalloftheNetherdeep/comments/unr6tt/road_to_bazzoxan_climactic_conclusion_the_ruins/
-  Ruins of Sorrow (Adaptation): https://docs.google.com/document/d/1UIe8RCglQge4T77l02AhNjVn_0xH8oa5/edit
   visions summarize https://www.reddit.com/r/CalloftheNetherdeep/comments/uozh5s/ruins_of_sorrow_vision_perigees_death/
+  Ruins of Sorrow (Adaptation): https://docs.google.com/document/d/1UIe8RCglQge4T77l02AhNjVn_0xH8oa5/edit
 
   "You are about a day away from Bazzoxan. Full Ruidus happened the night before giving you all
    a sense of unease, especially those of you with faith."
@@ -241,53 +242,83 @@ Weather 2d6: 2-3 dust storm, 4 rain (acid rain in the barbed fields), 5-9 cloudy
   "Rising up before you is the old crest of a ruined citadel, walls tumbled down and cracked.
    You hear scraping rock and cries of combat."
 
-   the Jewel of Three Prayers begins to glow
+   "as you approach, the Jewel of Three Prayers begins to glow"
 
- - 4 Aurora Watch (AW) are already fighting some unusually high level demons
-   - 2 more are down (bleed out in 2 turns if nothing is done)
-   - Hezrou and a Draegloth, hidden Babau using its Gaze.
+ - 4 Aurora Watch (AW) are already fighting some nasty [unusually high level] demons
+   - 2 more AW are down (bleed out in 2 turns if nothing is done)
+   - Hezrou (CR8) and a Draeglot (CR7), hidden Babau (CR4) using its Gaze.
 
  - lore drops, rounds 2-5:
   2. on a horrible, massive battlefield, covered in dead
-   - 30' demons with tusks and black feathers and claws Goristro (cr17)
+   - 30' demons with tusks and black feathers and claws Goristro (CR17)
     - fields of Glabrezu (CR9), Hezrou (CR8), Draegloth (CR7), Babau (CR4)
     - one side: drow, goblin, hobgoblin, orc, duergar, snifnerb, tieflings
     - other side: humans, elves, dwarf, halfling, aasimar, and everything between
    - horrible sight of humanoids assisting, twisted enough to side with the Betrayers
   3. hazy outline of some kind of Demon Lord.  slime of Jubilex? minotaur Baphomet?
-   - many being crushed under the hooves of the bull demon goring
-   - a pair of massive black-winged horned demon of fire, w/ a whip and sword..  Baylor (cr19)
-   - divinely bright blast of radiant light thins the field; Perigree?
-  4. massive sets of explosions, magical meteors, swirling acid, fire. cold. 
-   - Everyone around blast radius, friend and for alike, is char, smoldering on the ground
-   - demonic generals melting into smoking ichor. Perigee is softly glowing ash.
+   - many being crushed under the hooves of the bull demon & its goring [the Goristro (CR17)]
+   - a massive black-winged horned demon of fire, w/ a whip and sword..  Baylor (CR19)
+   - divinely bright blast of radiant light thins the field;
+   - Perigee, with moon bright wings and a shining mace
+  4. massive sets of explosions, magical meteors, swirling acid, fire. cold.
+   - demon and Perigree deliver strikes; Abyssal and divine fire clash, combining in a massive explosion.
   5. .. the Rise falls.  onto Ghor Dranas.
-
-- Round 1:
-  Jewel of Three Prayers floats
-   - Lair actions: The PCs make a Cha save DC 13. On fail, 2d6 necro hands from fog surrounds; 
-     half on success.  mv forward to exit fog
-   - AW casts protection from evil on those they can touch
+   - Everyone around blast radius, friend and for alike, is char, smoldering on the ground
+   - The demonic general is melting into smoking, black ichor. And Perigee is softly glowing ash.
 
 - Round 2:
-   the Jewel flashes
-   - Lair actions: Int save DC 13 as they see hoards of enemies rise from the fog. On a fail,
-     they are caught in the illusion. They can expend their attack to fight the enemies off or
-     they will take 2d6 psych damage.  If they fail by more than 5, they take 1d6 damage even if
-     they fight and 3d6 if they don't.
+  Jewel of Three Prayers floats
+   - Lair actions: grasping hands from fog surrounds; Cha save DC 14.  fail, 2d6, half on success.
+     must mv forward to exit fog
+   - AW casts protection from evil on those they can touch
 
-- Round 3: haze settles, creating 2 Babau. (Draegloth?)
-   the Jewel flashes
-   - Lair actions: Wis save DC 13 as they are wracked by sorrow. On fail, uncontrollable
-     tears fall; their speed is cut in half and they are shaken. 
+- Round 3:
+   the Jewel pulls
+   - Lair actions: hoards of enemies rise from the fog.  Int save DC 14.  On a fail,
+     they are caught in the illusion. Choice: expend attack to fight the enemies off or
+     take 2d6 psych damage.  If they fail by more than 5: +1d6 damage. fail 10: move -> +2d6 dmg
+   - AW casts protection from evil on those they can touch
 
-- Round 4:
-   - reenforcements if needed arrive
-   - vision of Perigee's death and Alyxian's grief. 
-     DC 13 Cha save. fail, shaken, disadvantage by the strong emotions
+- Round 4: haze settles, hints of a Babau in the distance. (or Draegloth?)
+   the Jewel flashes
+   - Lair actions:
+       blast of radiant light strikes out at everyone within 150ft radius of the altar.
+       DC 14 CON save or take 2d6 radiant damage and be knocked prone.
+       Half on save. If failed by 5 or more: pushed 15' back
+   - AW casts protection from evil on those they can touch
+
+- Round 5:
+   the Jewel is sad
+   - 2 Babau (or Draegloth?) placed on board
+   - reenforcements arrive - 4 AW
+   - Lair actions: Wis save DC 14 as they are wracked by sorrow. On fail, tears fall;
+     their speed is cut in half and they are shaken.
+   - vision of Perigee's death and Alyxian's grief.
    - "energies of the ruins are released"
+   - AW casts protection from evil on those they can touch
 
-- End: gain favor for entering Bazzoxan from AW
+- Round N:
+   - ?
+
+- End:
+    all players gain Inspiration
+
+   "Before you lies the ancient cracked ruins of a destroyed fortification. Tiles and bricks have
+    tumbled to the ground and lie undisturbed in the reddish dirt that is common to the area. At
+    the heart of the bastion is a raised dais, shattered, but with a growth of silvery blue
+    crystal, almost like a shockwave that you remember from the vision you had during the fight.
+
+    gain favor for entering Bazzoxan from AW
+    gain Coin of delving
+
+    Investigation
+      Low: Tendrils of angry red weave through the crystal matrix
+      High: A weathered inscription, one one of the flagstones at the center of the dais, barely legible reads:
+        "Doesn’t the daughter of Sehanine know, down deep, the man who fights the gods does not live long?'
+         I’m sorry my friend. Rest in Peace. May your Moonweaver let us to find one another someday."
+    Collect crystal
+      Worth ?, or N spellwrought tatoo of lightning bolt DC15, can keep some for further invesitgation
+
 
 ## Completion
 
