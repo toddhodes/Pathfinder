@@ -69,10 +69,7 @@ You ask to borrow the instrument, and as you play, you are visited by a vision, 
 The Lute of the Beacon.
 
 later, after the party and cheer, the party is approached by Maggie, guarded, no eye contact.
-
-  "Dermot, we've had our fun.  Ask them"
-
-  "Can we come with you?"
+  "be careful out there"
 
 ### Linking back to CotN
 
@@ -95,6 +92,26 @@ later, after the party and cheer, the party is approached by Maggie, guarded, no
 
 
 ## Road
+
+Before leaving:
+
+  You receive a message from the (scholars and sages called the Avowed) of the Library at Candlekeep.  They
+  congratulate you on your recent success, which resonated across the ley lines, and propose a book trade.
+  At your convenience.  A sending stone will be teleported to Phandalin for you if you'd like to keep in touch.
+
+  as you may know, the required entrance fee for admission into Candlekeep is a work of writing not already
+  collected therein.  we have great confidence you have tomes we'd be interested in acquiring, or better, trading for.
+
+  we're available at the Soltryce Academy in the Shimmer Ward in Rexxentrum
+
+  roll Knowledge, DC?; all people from Zadash, ADVANTAGE:
+   low: Zadash has a subsidiary of the Academy, called the Hall of Erudition, located in the Tri-Spire
+        District of the city. Its centerpiece is the Zauberspire. It has some connection to the Academy
+   med: Soltryce Academy has an uneasy and mistrusting working relationship with The Cobalt Soul
+   high: trains a number of war mages, some of woudl be stationed in Bladegarden and on the front
+         lines against the forces of Xhorhas.
+
+Leaving:
 
  - Encounters 1-5
  - Emerald Loop Caravan Stop
@@ -225,7 +242,7 @@ Weather 2d6: 2-3 dust storm, 4 rain (acid rain in the barbed fields), 5-9 cloudy
     scouting in Xhorhas. They sought answers, finally learning he was being held prisoner in
     Rosohna. Their community will provide a large reward for his return.
 
-     urgency: parental guilt that they got him into this mess by encouraging him to join the military, 
+     urgency: parental guilt that they got him into this mess by encouraging him to join the military,
               and instigated by their home being destroyed in a demon attack in Pride's Call.
 
     Thuda and Ninain have traveled across the wastes aiming to Rosohna, surviving on her druid and his guard skills,
