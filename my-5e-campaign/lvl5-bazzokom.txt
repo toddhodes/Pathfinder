@@ -131,6 +131,23 @@ clarify conflicting motivations:
 
 # Side Quests
 
+## Rewards of Study 
+
+ add to one of Question's journal pages a Poem
+   "O Ruidus, grant humble chorus leave To sing the song which hails the zenith of Your
+   accursed, thrice-blessed Apotheon; Remembered best by deeds in war, and yet Whose acts were
+   driven oft by fate most foul.
+   His kindly brow bore gifts from gods of change, And art, and moon, yet in his soul was pain,
+   The suffering of your vermilion light Drove the Paragon to a desert realm Bestrewn with
+   blades and drenched in crimson blood.
+   So hear, O moon of cursed deeds and fates! The song of he who rose above your great And
+   mighty pow'r, to save Exandria. From the flames of war fanned by The Ruiner's blade."
+
+   a warrior who’s name is unknown fought in betrayers rise and fell with the sunken city of Cael Morrow
+
+   texts might have made it out about the histories of the Battle of the Barbed
+   Fields and a twice-blessed hero who led the charge to storm the gates of Bazzoxan.
+
 ## The Hythenos Estate
 
   Question wants you to help them make contact with Hythenos and find out what the other agents of the Cobalt Soul learned.
