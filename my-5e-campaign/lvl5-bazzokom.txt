@@ -4,8 +4,43 @@
 5th	Chpt 3a: Bazzoxan city (B1-B7) + edge of the Rise
  + The Hythenos Estate
  + On a Red Rock Trail
-
  "There are often leading experts from Ank’harel on field assignment in Bazzoxan."
+
+
+## Approach
+
+ "Jutting from the rusty orange mountains of eastern Xhorhas are tall spires of black stone.
+  The unmistakable outline of Betrayer's rise.
+
+  A stunning structure to behold, the infamous Betrayers' Rise is both ominous and beautiful. 
+  Its black walls are carved with intricate Bas relief; grotesques of gargoyles & demons peer down from high above. 
+
+  The Betrayer Gods spent centuries infusing and expanding its interiors, investing blood and coin
+  into carved rock, in famously shifting and ambiguous paths.  
+
+  Vast resources were used to defend this fortress-temple against the Prime Deities. It's fall and 
+  the taking of Ghor Dhranas were the final blows ending the Calamity.
+
+  Ahead of you, beneath the spires, camped in the shadows of its front cliff face, is the garrison town of Boxy. 
+  Tall stone walls surround it, with iron watchtowers spaced irregularly.
+  Soldiers of the Aurora Watch patrol the tops of the walls, and a single central gate manages entry.  
+
+
+## Enter Gate
+
+  [if they approach:] a guard on the wall calls out, calmly, "Identify!""
+    --> to talk to Theyres, go to the gatehold barraks
+
+  "From around the corner of a crumbling building, five twitching masses of 
+   eyes and mouths wriggle into view. One of them is shredding the flesh of a hapless
+   soldier in three of its amorphous maws. Trumpets blare an alarm, and several Aurora Watch
+   soldiers hurry into the streets. 
+
+   Your accompanyment, the male drow, breaks to charge, and yells back:
+   "Newcomers, No time for pleasantries — draw your weapons or get to safety! Go to the barracks after!"
+
+
+## Faction Hooks
 
  Ank’harel main factions
    — the Allegiance of Allsight
@@ -13,22 +48,18 @@
      agenda: The Allegiance wants to use it to become arms dealers
 
    - the Consortium of Vermilion Dreams
-     researcher: Aloysia Telfin Consortium)
+     researcher: Aloysia Telfin (Consortium)
      agenda: the Consortium wants to monopolize it for arcane research
 
    - the Library of the Cobalt Soul
      researcher: Question (Library)
      agenda: the Library wants it destroyed
 
-  Reminder:
+  Players goal:
   - befriend a researcher (or more than one).
+  DM goal:
   - follow the researcher(s) back to Ank’harel and join a faction (or more than one)
-     although that probably won’t remain tenable given the factions’ mutually contradictory goals).
   - perform faction missions, which lead them to Cael Morrow and then the Netherdeep.
-
-## Faction Hooks
-
- re-summarize research -- jewel, names, places
 
  Scholars of Ank’Harel in Bazzoxan (Question, Prolix, and Aloysia):
   - Aloysia will attempt to eavesdrop on conversations between the PCs and other scholars. (And
@@ -42,16 +73,25 @@
    sketchbooks. She’d like the PCs to recover it.
 
  Clarify conflicting motivations:
-   - Allegiance of Allsight (Prolix) want to use the ruidium to create weapons, armor, and other
-     artifacts that they can sell to the highest bidder.
-
    - Consortium of Vermilion Dreams (Aloysia) want to secure a monopoly on ruidium so that they
      can study its deeper mysteries and have sole access to its power.
-
+   - Allegiance of Allsight (Prolix) want to use the ruidium to create weapons, armor, and other
+     artifacts that they can sell to the highest bidder.
    - Library of the Cobalt Soul (Question) believe that ruidium is dangerous and it must be either
      destroyed or sealed away so that it cannot harm the world.
 
+Appearance: 
+Roleplaying:
+Background: 
+Key Info:
+
 ## Locations
+
+battle summary aftermath:
+  - Most of the town's inhabitants are soldiers but has supporting civilians and researchers and religious figures.
+  - Incursions: dretches, quasits, mouthers, and other lesser demons created by demons in the Betrayers' Rise are common threats.
+    On rare occasions, more powerful demons attack, or demonic energy animates the bodies of dead Aurora Watch soldiers.
+  - re-summarize research -- jewel, names, places
 
  A. Sacrifice Engines
     "Among the most prominent features of Bazzoxan are the town's two sacrifice engines, each one
@@ -82,8 +122,8 @@
     "The Betrayers' Rise is... challenging to navigate. Its passages shift to confuse mapmakers
      and search parties. I think the power of the Abyss flows through it, warping the environment
      so no two groups follow the same path through it. Whether it's demon magic or not doesn't
-     really matter; all I know is that if you get lost down there, my soldiers won't be able to
-     find you."
+     really matter; all I know is that if you get lost down there, my soldiers won't be able to find you."
+
  4b. Gatehold Garracks Mess Hall:
      -  member of the Cobalt Soul expedition, a tiefling named Question, went with his group
         to the gate of the Betrayers' Rise but elected not to enter the place. He's holed up at
@@ -105,6 +145,11 @@
 
 ## Approach Betrayer's Rise
 
+  Its exterior is in a wide variety of styles from various locations or planes or Gods; these
+  include many potential entrances, or study locations, tho these are mostly inaccessible due
+  to inscrutible entrance instructions, runes to be interpreted, and likely traps to be
+  navigated.
+
 Many entrances; 
 ruidium is specifically found around this entrance and in this micro-dungeon
 find this one, or, get a guide to the bas relief, or, steal notes to it.
@@ -112,21 +157,6 @@ find this one, or, get a guide to the bas relief, or, steal notes to it.
 "The Doors of The Laughing Hand, champion of Torog. Speak, friend, and enter."
  And underneath small and faint is written: "Durham of Zeidel drew these signs"
 
-
-# Factions
-
-clarify conflicting motivations:
-
-- Library of the Cobalt Soul (Question) believe that ruidium is dangerous and it must be either
-  destroyed or sealed away so that it cannot harm the world.
-
-- Allegiance of Allsight (Prolix) want to use the ruidium to create weapons, armor, and other
-  artifacts that they can sell to the highest bidder.
-
-- Consortium of Vermilion Dreams (Aloysia) want to secure a monopoly on ruidium so that they
-  can study its deeper mysteries and have sole access to its power.
-
-  have rivals choose differently
 
 
 # Side Quests

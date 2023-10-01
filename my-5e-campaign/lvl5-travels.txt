@@ -224,14 +224,30 @@ Weather 2d6:
 
 ## Caravan Stop
 
-- [Gaeya Iliera] - cooking food can give extra HP for 24 hours if her food is consumed, to share w/ AW
-- [Tyvak and Moghra] - daughter and son of Kierchaly Wastewalker who was killed by the udaak in
-                      Demonic Carrion encounter.  Will trade +1 longsword for their father’s +1 dagger
+- [Gaeya Iliera] - cook; +1d10 HP for 24 hours if consumed, to share w/ AW
+- [Tyvak and Moghra] - daughter and son of Kierchaly Wastewalker 
+            Kierchaly killed by Udaak [Demonic Carrion]; fled
+            Will trade +1 longsword for their father’s +1 dagger
 - [Justice] - give party [Goggles of Night] if they helped him
-- [The Acorn Sisters (Lanata & Robur)] - if shown great respect they can give all [charm of vitality]
+- [The Acorn Sisters (Lanata & Robur)] - if shown great respect they can give all 
+            2 [charm of vitality] & 2 [Izzet Charm - 1 lightning bolt or 3rd lvl slot]
+            [charm of the biting cold], [Charm of Heroism]
 
-- Kobold [NOT GOBLIN] Family on turtle --> MILF!  Spork fam
+- Kobold [NOT GOBLIN] Family on turtle --> MILF!
+
+  **Papa Draz - served in the Aurora Watch. These days, he doesn’t wear armor or carry weapons, except for a dagger.
+  **Pops Kel - served in the Asarius Town Guard and wears his old chain mail. He’s easygoing and artistic.
+  **Auntie Jaller - druid. old and elegant-looking, long silver hair, deep green robes. 
+                      “old witch” brewing potions and inventing new tea blend.
+  children: 5 & 3; missing others: Spork, Spurt, Milf
+
 - bugbear shop - ?
+- AW: gateways to the Abyss seems to be perking up.
+  -  About 40 years ago, researchers uncovered a long-dormant gateway to the Abyss. Its demonic
+     influence drove them mad, and they reactivated the gateway.
+     This enabled demonic forces to pour out into the city. This incursion was eventually stifled, though at a great loss of life.
+  - The restoration has not gone according to plan; the city remains under siege
+
 
 - family of 2 sunburned hill dwarves camped in the North West, with a small tent and 2 shaggy ponies
   - [Thuda Flintfury] (f, chaotic good dwarf druid block) sunburned pale skin; red hair streaked
@@ -254,6 +270,8 @@ Weather 2d6:
      https://www.reddit.com/r/CalloftheNetherdeep/comments/uhb7o2/brainstorming_an_encounter_for_emerald_loop/
 
 ## Encounters 6-9
+
+The spires of the Barbed Fields reach as high as thirty feet into the sky
 
 3. Crashed Wagon - 3 will o'whisps, charm of heroism, potion of giant strength (hill)                | CrashedWagon
 8. Roadside Raiders - Six-Knives bribe                                                               | VermalocPath
@@ -352,8 +370,8 @@ Weather 2d6:
     the heart of the bastion is a raised dais, shattered, but with a growth of silvery blue
     crystal, almost like a shockwave that you remember from the vision you had during the fight.
 
-    gain favor for entering Bazzoxan from AW
-    gain Coin of delving
+    - gain favor of Taskhand Verin Thelyss, head of the Auroran Watch in Bazzoxan for entering Bazzoxan 
+    - at bottom is a Coin of delving
 
     Investigation
       Low: Tendrils of angry red weave through the crystal matrix
@@ -367,7 +385,7 @@ Weather 2d6:
 ## Completion
 
   Sleep, wake next day, complete travel to Bozox
-  remind, favor for entering Bazzoxan from AW
+  remind, favor upon entering Bazzoxan - Taskhand Verin Thelyss is the head of the Auroran Watch in Bazzoxan.
   repeat Jewel, Location, Avandra lore
 
 
