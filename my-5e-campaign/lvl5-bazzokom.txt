@@ -39,6 +39,9 @@
    Your accompanyment, the male drow, breaks to charge, and yells back:
    "Newcomers, No time for pleasantries — draw your weapons or get to safety! Go to the barracks after!"
 
+  Civilians head for secure buildings while members of the Aurora Watch mobilize to engage the threat
+
+  End: bring wounded to infirmary, roam at will, meet at gatehold at your leisure
 
 ## Faction Hooks
 
@@ -64,7 +67,7 @@
  Scholars of Ank’Harel in Bazzoxan (Question, Prolix, and Aloysia):
   - Aloysia will attempt to eavesdrop on conversations between the PCs and other scholars. (And
    can be caught doing so by attentive PCs.) She might also ask the PCs to distract Prolix so that
-   she can slip away and so something without his prying eyes.
+   she can slip away and do something without his prying eyes.
 
   - Prolix may tell the PCs that he’s been sent primarily to spy on Aloysia. And we can
    strengthen this by having Prolix ask them to break into Aloysia’s room and steal her notes.
@@ -80,31 +83,28 @@
    - Library of the Cobalt Soul (Question) believe that ruidium is dangerous and it must be either
      destroyed or sealed away so that it cannot harm the world.
 
+
+## Locations
+
+ Anywhere
+  - Most of the town's inhabitants are soldiers but has supporting civilians and researchers and religious figures.
+    Most residents are drow, but some goblins, hobgoblins, bugbears, orcs, and other Xhorhasian folk live here as well.
+  - Incursions: dretches, quasits, mouthers, and other lesser demons created by demons in the Betrayers' Rise are common threats.
+    On rare occasions, more powerful demons attack, or demonic energy animates the bodies of dead Aurora Watch soldiers.
+
+ A. Sacrifice Engines
+    "Among the most prominent features of Bazzoxan are the town's two sacrifice engines, each one
+    a 30-foot-deep pit lined with rows of silver blades.  in bygone days, servants of the
+    Betrayer Gods threw mortals into these pits to appease them.  Now, the Aurora Watch herds
+    demons and other monsters into them.
+
+ 1. Gate - intro fight, 5 gibbering mouthers, Verin Thelyss
+ 2. Crematorium - Prolix, Allegiance of Allsight.
 Appearance: 
 Roleplaying:
 Background: 
 Key Info:
 
-## Locations
-
-battle summary aftermath:
-  - Most of the town's inhabitants are soldiers but has supporting civilians and researchers and religious figures.
-  - Incursions: dretches, quasits, mouthers, and other lesser demons created by demons in the Betrayers' Rise are common threats.
-    On rare occasions, more powerful demons attack, or demonic energy animates the bodies of dead Aurora Watch soldiers.
-  - re-summarize research -- jewel, names, places
-
- A. Sacrifice Engines
-    "Among the most prominent features of Bazzoxan are the town's two sacrifice engines, each one
-    a 30-foot-deep pit lined with rows of silver blades. The blades can be made to spin by pulling
-    a lever near the edge of the pit. A creature in the pit while the blades are spinning takes 44
-    (8d10) slashing damage at the start of each of its turns.
-
-    "in bygone days, servants of the Betrayer Gods threw mortals into these pits to appease their
-    evil lords. Now, the Aurora Watch herds demons and other monsters into them to avoid prolonged
-    battles.
-
- 1. Gate - intro fight, 5 gibbering mouthers, Verin Thelyss
- 2. Crematorium - Prolix, Allegiance of Allsight.
  3. Infirmary - priest Bautha Dyrr. has info. mission: place item at wall
  4. Gatehold Barracks - Verin give info:
     - expedition from the Library of the Cobalt Soul is currently in the Betrayers' Rise with an
@@ -119,10 +119,9 @@ battle summary aftermath:
       ways to seal the rift within the Betrayers' Rise. Verin suspects that the archaeologist has
       other motives, seen lurking around the crematorium.
 
-    "The Betrayers' Rise is... challenging to navigate. Its passages shift to confuse mapmakers
-     and search parties. I think the power of the Abyss flows through it, warping the environment
-     so no two groups follow the same path through it. Whether it's demon magic or not doesn't
-     really matter; all I know is that if you get lost down there, my soldiers won't be able to find you."
+    Betrayers' Rise: "is... challenging to navigate. Its passages shift to confuse mapmakers
+     and search parties. the Abyss flows through it, warping the environment so no two groups follow the same path. 
+     if you get lost down there, my soldiers won't be able to find you."
 
  4b. Gatehold Garracks Mess Hall:
      -  member of the Cobalt Soul expedition, a tiefling named Question, went with his group
@@ -141,6 +140,17 @@ battle summary aftermath:
 
  6. Wall of the Unforgotten - Kalym Telaarin.  grants Mote of Possibilies
  7. The Ready Room - Question, Aloysia
+Appearance: 
+Roleplaying:
+Background: 
+Key Info:
+  - Question wants you to help them make contact with Hythenos and find out what the other agents of the Cobalt Soul learned.
+  - Found a portal to within white plume mountina
+Appearance: 
+Roleplaying:
+Background: 
+Key Info:
+  - Aloysia wants you to find and steal back a shipment of Ruidium that she was forwarding to Ank’Harel by way of a local fence.
 
 
 ## Approach Betrayer's Rise
@@ -158,8 +168,9 @@ find this one, or, get a guide to the bas relief, or, steal notes to it.
  And underneath small and faint is written: "Durham of Zeidel drew these signs"
 
 
-
 # Side Quests
+
+ https://www.reddit.com/r/CalloftheNetherdeep/comments/v5w21j/bazzoxan_additional_factionthemed_sidequests/
 
 ## Rewards of Study 
 
