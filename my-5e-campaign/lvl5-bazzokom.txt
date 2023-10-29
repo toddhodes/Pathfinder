@@ -12,29 +12,29 @@
  "Jutting from the rusty orange mountains of eastern Xhorhas are tall spires of black stone.
   The unmistakable outline of Betrayer's rise.
 
-  A stunning structure to behold, the infamous Betrayers' Rise is both ominous and beautiful. 
-  Its black walls are carved with intricate Bas relief; grotesques of gargoyles & demons peer down from high above. 
+  A stunning structure to behold, the infamous Betrayers' Rise is both ominous and beautiful.
+  Its black walls are carved with intricate Bas relief; grotesques of gargoyles & demons peer down from high above.
 
   The Betrayer Gods spent centuries infusing and expanding its interiors, investing blood and coin
-  into carved rock, in famously shifting and ambiguous paths.  
+  into carved rock, in famously shifting and ambiguous paths. 
 
-  Vast resources were used to defend this fortress-temple against the Prime Deities. It's fall and 
+  Vast resources were used to defend this fortress-temple against the Prime Deities. It's fall and
   the taking of Ghor Dhranas were the final blows ending the Calamity.
 
-  Ahead of you, beneath the spires, camped in the shadows of its front cliff face, is the garrison town of Boxy. 
+  Ahead of you, beneath the spires, camped in the shadows of its front cliff face, is the garrison town of Boxy.
   Tall stone walls surround it, with iron watchtowers spaced irregularly.
-  Soldiers of the Aurora Watch patrol the tops of the walls, and a single central gate manages entry.  
+  Soldiers of the Aurora Watch patrol the tops of the walls, and a single central gate manages entry. 
 
 
 ## Enter Gate
 
-  [if they approach:] a guard on the wall calls out, calmly, "Identify!""
+  [if they approach:] a guard on the wall calls out, calmly, "Identify!"
     --> to talk to Theyres, go to the gatehold barraks
 
-  "From around the corner of a crumbling building, five twitching masses of 
+  "From around the corner of a crumbling building, five twitching masses of
    eyes and mouths wriggle into view. One of them is shredding the flesh of a hapless
    soldier in three of its amorphous maws. Trumpets blare an alarm, and several Aurora Watch
-   soldiers hurry into the streets. 
+   soldiers hurry into the streets.
 
    Your accompanyment, the male drow, breaks to charge, and yells back:
    "Newcomers, No time for pleasantries — draw your weapons or get to safety! Go to the barracks after!"
@@ -65,15 +65,14 @@
   - perform faction missions, which lead them to Cael Morrow and then the Netherdeep.
 
  Scholars of Ank’Harel in Bazzoxan (Question, Prolix, and Aloysia):
-  - Aloysia will attempt to eavesdrop on conversations between the PCs and other scholars. (And
-   can be caught doing so by attentive PCs.) She might also ask the PCs to distract Prolix so that
-   she can slip away and do something without his prying eyes.
+  - Aloysia will attempt to eavesdrop on conversations between the PCs and other scholars. (And can be caught.)
+    She asks the PCs to distract Prolix so that she can slip away and do something without his prying eyes.
 
-  - Prolix may tell the PCs that he’s been sent primarily to spy on Aloysia. And we can
-   strengthen this by having Prolix ask them to break into Aloysia’s room and steal her notes.
+  - Prolix tells the PCs that he’s been sent primarily to spy on Aloysia.
+    Ask them to break into Aloysia’s room and steal her notes.
 
   - Question suspects that one of the other Ank’harel researchers has stolen one of his
-   sketchbooks. She’d like the PCs to recover it.
+    sketchbooks. She’d like the PCs to recover it.
 
  Clarify conflicting motivations:
    - Consortium of Vermilion Dreams (Aloysia) want to secure a monopoly on ruidium so that they
@@ -91,6 +90,9 @@
     Most residents are drow, but some goblins, hobgoblins, bugbears, orcs, and other Xhorhasian folk live here as well.
   - Incursions: dretches, quasits, mouthers, and other lesser demons created by demons in the Betrayers' Rise are common threats.
     On rare occasions, more powerful demons attack, or demonic energy animates the bodies of dead Aurora Watch soldiers.
+  -  researcher: Question (Library)
+     researcher: Prolix Yusaf (Allegiance)
+     researcher: Aloysia Telfin (Consortium)
 
  A. Sacrifice Engines
     "Among the most prominent features of Bazzoxan are the town's two sacrifice engines, each one
@@ -100,22 +102,24 @@
 
  1. Gate - intro fight, 5 gibbering mouthers, Verin Thelyss
  2. Crematorium - Prolix, Allegiance of Allsight.
-Appearance: 
-Roleplaying:
-Background: 
-Key Info:
+  - Prolix may tell the PCs that he’s been sent primarily to spy on Aloysia. And we can
+   strengthen this by having Prolix ask them to break into Aloysia’s room and steal her notes.
+   - Allegiance of Allsight (Prolix) want to use the ruidium to create weapons, armor, and other
+     artifacts that they can sell to the highest bidder.
+     agenda: The Allegiance wants to use it to become arms dealers
+
 
  3. Infirmary - priest Bautha Dyrr. has info. mission: place item at wall
- 4. Gatehold Barracks - 
-   four main sections: war room, mess hall, training area, sleeping quarters. 
+ 4. Gatehold Barracks -
+   four main sections: war room, mess hall, training area, sleeping quarters.
    Taskhand Verin Thelyss is expecting the characters, so, a soldier leads them to the war room.
 
  4a. Gatehold Garracks War Room: Verin give info:
     - expedition from the Library of the Cobalt Soul is currently in the Betrayers' Rise with an
       Aurora Watch escort, researching battles of the Calamity that took place within its halls.
 
-    - agent of the Consortium of the Vermilion Dream is staying in Bazzoxan. an elf named Aloysia, 
-      reprimanded for trying to bribe Aurora Watch soldiers to protect her while she searches for an 
+    - agent of the Consortium of the Vermilion Dream is staying in Bazzoxan. an elf named Aloysia,
+      reprimanded for trying to bribe Aurora Watch soldiers to protect her while she searches for an
       ancient holy site she claims is within the Betrayers' Rise.
 
     - archaeologist named Prolix from the Allegiance of Allsight in Ank'Harel also recently
@@ -123,19 +127,19 @@ Key Info:
       ways to seal the rift within the Betrayers' Rise. Verin suspects that the archaeologist has
       other motives, seen lurking around the crematorium.
 
-    Betrayers' Rise: 
+    Betrayers' Rise:
     "might hold the solution to breaking the stalemate that grips the town. I have sent out
      scouting parties and arcane experts to confirm that idea. None of the expeditions have
      been fruitful so far." [Verin can't spare any more personnel]
 
     "is... challenging to navigate. Its passages shift to confuse mapmakers
-     and search parties. the Abyss flows through it, warping the environment so no two groups follow the same path. 
+     and search parties. the Abyss flows through it, warping the environment so no two groups follow the same path.
      if you get lost down there, my soldiers won't be able to find you."
 
  4b. Gatehold Garracks Mess Hall:
      -  member of the Cobalt Soul expedition, a tiefling named Question, went with his group
         to the gate of the Betrayers' Rise but elected not to enter the place. He's holed up at
-        the Ready Room (area B7), ready to talk about his research
+        the Ready Room, ready to talk about his research
      - An elf named Aloysia tried to bribe some soldiers into escorting her into the Betrayers'
        Rise.  Some people believe that she wants only to ransack the temple, but others think her
        concern is religious and she is searching for long-lost lore about the Prime Deities.
@@ -148,24 +152,32 @@ Key Info:
       sits in a splintered window frame next to a withered, skeletal tree."
       DC 17 (Religion): mosaic once depicted a woman's face on a golden disk: the iconography of Avandra the Change Bringer.
     Fogholm - worships Melora the Wild Mother, but recognizes the temple as a former holy place of Avandra the Change Bringer.
-     - No vegetation survives for long in Bazzoxan.  He hopes to honor both deities by cultivating new life 
+     - No vegetation survives for long in Bazzoxan.  He hopes to honor both deities by cultivating new life
      - While meditating the other night, he felt something surge within the earth nearby
      - jewel: three fragments of divine power within it, one awake and two slumbering
 
 
  6. Wall of the Unforgotten - Kalym Telaarin.  grants Mote of Possibilies
- 7. The Ready Room - Question, Aloysia
-Appearance: 
-Roleplaying:
-Background: 
-Key Info:
+ 7. The Ready Room
+     Question
   - Question wants you to help them make contact with Hythenos and find out what the other agents of the Cobalt Soul learned.
   - Found a portal to within white plume mountina
-Appearance: 
-Roleplaying:
-Background: 
-Key Info:
+  - Question suspects that one of the other Ank’harel researchers has stolen one of his sketchbooks. She’d like the PCs to recover it.
+   - Library of the Cobalt Soul (Question) believe that ruidium is dangerous and it must be either
+     destroyed or sealed away so that it cannot harm the world.
+     agenda: the Library wants it destroyed
+
+      Aloysia
+  - Aloysia will attempt to eavesdrop on conversations between the PCs and Q. (And can be caught)
+  - She asks the PCs to distract Prolix so that she can slip away and do something without his prying eyes.
   - Aloysia wants you to find and steal back a shipment of Ruidium that she was forwarding to Ank’Harel by way of a local fence.
+   - Consortium of Vermilion Dreams (Aloysia) want to secure a monopoly on ruidium so that they
+     can study its deeper mysteries and have sole access to its power.
+     agenda: the Consortium wants to monopolize it for arcane research
+  - Asks you to find and steal back a shipment of red crystal she was forwarding to Ank’Harel by way of a local fence.
+    The Ruidium was stolen by the Myriad, who recently heard word about a strange red substance. the theft impacts
+    Aloysia’s status as a good operative for the Consortium, and she wants it back badly.
+    --> Red Rock Trail
 
 
 ## Approach Betrayer's Rise
@@ -175,7 +187,7 @@ Key Info:
   to inscrutible entrance instructions, runes to be interpreted, and likely traps to be
   navigated.
 
-Many entrances; 
+Many entrances;
 ruidium is specifically found around this entrance and in this micro-dungeon
 find this one, or, get a guide to the bas relief, or, steal notes to it.
 
@@ -187,17 +199,16 @@ find this one, or, get a guide to the bas relief, or, steal notes to it.
 
  https://www.reddit.com/r/CalloftheNetherdeep/comments/v5w21j/bazzoxan_additional_factionthemed_sidequests/
 
-## Rewards of Study 
+## Rewards of Study
 
  add to one of Question's journal pages a Poem
-   "O Ruidus, grant humble chorus leave To sing the song which hails the zenith of Your
-   accursed, thrice-blessed Apotheon; Remembered best by deeds in war, and yet Whose acts were
-   driven oft by fate most foul.
-   His kindly brow bore gifts from gods of change, And art, and moon, yet in his soul was pain,
-   The suffering of your vermilion light Drove the Paragon to a desert realm Bestrewn with
-   blades and drenched in crimson blood.
-   So hear, O moon of cursed deeds and fates! The song of he who rose above your great And
-   mighty pow'r, to save Exandria. From the flames of war fanned by The Ruiner's blade."
+   "O Ruidus, grant humble chorus
+   hail the zenith of Your accursed, thrice-blessed Apotheon;
+   The suffering of your vermilion light
+   Drove the Paragon to a desert realm
+   Bestrewn with blades and drenched in crimson blood.
+   So hear, O moon of cursed deeds and fates, The song of he who rose
+   From the flames of war fanned by The Ruiner's blade."
 
    a warrior who’s name is unknown fought in betrayers rise and fell with the sunken city of Cael Morrow
 
@@ -211,12 +222,63 @@ find this one, or, get a guide to the bas relief, or, steal notes to it.
 
 ## On a Red Rock Trail
 
+   The focus of this quest is to find and steal back a shipment of Ruidium that Aloysia Teflan was forwarding to
+   Ank’Harel by way of a local fence. The Ruidium was stolen by the Myriad who recently heard word about a strange
+   red substance that had been reportedly recovered by some dungeon delvers. Their boss wanted it to see what they
+   could get for it on the black market. Unfortunately the theft impacts Aloysia’s plans and status as a good
+   operative for the Consortium, and she wants it back badly enough to pay some adventurers to help.
+
   https://drive.google.com/drive/folders/1c95Lxa2OzB_RGUQ8AhTGPT3rV73ncq8y
 
 # Introduce other lvl 5-8 content
 
-  Hidden Shrine
-  Library
+  - James:
+   in rexentruum, entire private bar.  person recognizes you and asks how Jace is.  Person next to him
+    visibily stiffens.  Says in thieves kant, "you haven't heard?".  explains the following:
+    Jace Slumber was running high-level battlefield caliber spell weapondry, and selling to the highest
+    bidder.  We're talking hundreds of thousands of GP.  This was a bidding between the highest levels of
+    the dynasty and empire.  the bright queen and king dwendel would have to have been invovled to sign off.
+    then he disappeared.  Jace is the consumate smuggler. doesn't ply in trouble.  we made careful inquiries.
+    he is alive.  but must have learned something he shouldn't have, and is being held by one side or the other,
+    either in ghor drhanas or rexentrem.  these are the most secure jails they have.  if you want to break him out,
+    the only organization who can help with that is the Golden Vault.  To meet with them, make a request for a
+    meeting via the pirate network.  when you do -- make sure the responder has the right accent of thieves kant.
+    there are secrets getting out and rumors of a double agent in the ranks.
+
+       Rumored to be associated with metallic dragons, the Golden Vault is a secretive
+       organization that has its base on one of the good-aligned Outer Planes. Its membership
+       and activities are almost impossible for outsiders to track, but those in the know are
+       aware that the organization rights moral wrongs, supports virtuous underdogs, and
+       handles delicate situations local authorities won't touch. The Golden Vault's motto
+       reflects its primary motivation: "Do good, no matter the cost." Missions from the Golden
+       Vault are often illegal, but they always support a just, moral cause.
+
+  - Ryan:
+   The archmage Keraptis has the Lute of the Beacon at White Plume Mountain.  a person of the right lineage can
+   play the lute and discover the song of the lute of the beacon, whose lyrics might lead to the first clues of
+   that lineage's generational goals.
+
+   In the Biting North, White Plume Mountain has always been a subject of superstitious awe to the neighboring
+   villagers. People still travel many miles to gaze upon this natural wonder, though few will approach it
+   closely, as it is reputed to be the haunt of various demons and devils. The occasional disappearance of
+   those who stray too close to the Plume reinforces this belief.
+
+   It is rumored that Thirteen hundred years ago, the wizard Keraptis was searching for a suitable haven where
+   he could indulge his eccentricities without fear of interference. He visited White Plume Mountain, going
+   closer than most dared to, and took it over, privoding who knows what kind of alterations.  he disappeared
+   below White Plume Mountain and vanished from the stories of the surface world.
+
+   Several weeks ago, three highly valued magic weapons named Wave, Whelm, and Blackrazor
+   disappeared from the vaults of their owners. Rewards were posted, servants hanged, even the
+   sanctuary of the thieves' guild was violated in the frantic search for the priceless arms,
+   but not even a single clue was turned up until the weapons' former owners each received a
+   copy of the following note: ...
+
+   The Lute of the Beacon is disguised as Whelm
+
+  - Library - which?
+  - Keys from the Golden Vault - heist/prisoner mapi
+
 
 # Hint Netherdeep is inside a Luxon
 
