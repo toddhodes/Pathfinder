@@ -1,7 +1,43 @@
+
+
+# Overview
+
+https://5e.tools/book.html#egw,-1
+
+Prime Deities
+Deity	Alignment	Province	Suggested Domains	Common Symbol
+Avandra	CG	Change, freedom, luck	Nature, Trickery	Woman's profile embossed on a gold coin or pendant
+Bahamut	LG	Honor, justice	Life, Order, War	Silver dragon's head in profile
+Corellon	CG	Art, beauty, elves	Arcana, Light	Two crescent moons facing each other atop a four-pointed star
+Erathis	LN	Civilization, law, peace	Knowledge, Order	Double-headed axe inset with a pattern of scales
+Ioun	N	Knowledge, learning, teaching	Arcana, Knowledge	Pair of open eyes crowned with a third open eye
+Kord	CN	Battle, competition, storms	Tempest, War	Four bolts of lightning radiating from the center of a shield
+Melora	N	Seas, wilderness	Life, Nature, Tempest	Wreath of grass and grain affixed to a crook
+Moradin	LG	Craft, creation	Forge, Knowledge, War	Hammer with ends carved in the likeness of dwarven heads
+Pelor	NG	Healing, sun	Life, Light, Nature	Bright, eight-pointed star
+Raei	NG	Atonement, compassion	Life, Light	Humanoid, feminine phoenix
+The Raven Queen	LN	Death, fate, winter	Death, Grave	White, humanoid mask framed in black feathers
+Sehanine	CG	Illusion, moonlight, night	Arcana, Nature, Trickery	Crescent moon turned upward, strung like a bow
+
+Betrayer Gods
+Deity	Alignment	Province	Suggested Domains	Common Symbol
+Asmodeus	LE	God of the Nine Hells	Trickery, War	Crown of spiked onyx and curved horns
+Bane	LE	Conquest, tyranny	Forge, Order, War	Flail of chains, each ending in shackles
+Gruumsh	CE	Slaughter, warfare	Death, Tempest, War	Single, unblinking eye that bleeds
+Lolth	CE	Deceit, spiders	Knowledge, Trickery	Jeweled spider
+Tharizdun	CE	Darkness, destruction	Death, Grave, Trickery	Crooked, seven-pointed star made of chains
+Tiamat	LE	Dragon god of evil	Order, Trickery, War	Taloned dragon claw
+Torog	NE	Enslavement, torture	Death, Trickery	Three pale arms clawing from a dark void
+Vecna	NE	Necromancy, secrets	Arcana, Death, Grave, Knowledge	Desiccated hand with an eye in the palm
+Zehir	CE	Assassins, poison, snakes	Nature, Trickery	Coiled serpent
+
+
+# Prime Deities
+
 https://docs.google.com/presentation/d/1aDcacXxv2F6SCiAarDYnbqdcfMnjqGkVqGYShrbzOFY/edit#slide=id.g1248f117c01_0_16
 
-# The Change Bringer
-
+## The Change Bringer
+  Avandra
 Freedom, Travel, Change, Adventure, Luck
 Holy Day: New Dawn
 Symbol: A woman’s profile embossed on a gold coin or pendant
@@ -17,8 +53,8 @@ History:
 Speculation that she created halflings
 Tricked the armies of the Lord of the Nine Hells into attacking one another
 
-# Moon Weaver
-
+## Moon Weaver
+  Sehanine
 Illusion, Moonlight, Night
 Holy Day: The night of the decades longest full moon
 Symbol: A crescent moon turned upward and strung like a bow
@@ -35,8 +71,8 @@ History:
 Helped banish the Crawling King by building the Kings Cage, a trap disguised as a temple
 
 
-# Arch Heart
-
+## Arch Heart
+  Correllon
 Art, Beauty, Elves
 Holy Day: Elven Dawn or Midsummer
 Symbol: Two crescent moons facing each other atop a four-pointed star

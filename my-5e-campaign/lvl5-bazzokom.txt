@@ -90,9 +90,6 @@
     Most residents are drow, but some goblins, hobgoblins, bugbears, orcs, and other Xhorhasian folk live here as well.
   - Incursions: dretches, quasits, mouthers, and other lesser demons created by demons in the Betrayers' Rise are common threats.
     On rare occasions, more powerful demons attack, or demonic energy animates the bodies of dead Aurora Watch soldiers.
-  -  researcher: Question (Library)
-     researcher: Prolix Yusaf (Allegiance)
-     researcher: Aloysia Telfin (Consortium)
 
  A. Sacrifice Engines
     "Among the most prominent features of Bazzoxan are the town's two sacrifice engines, each one
@@ -158,7 +155,7 @@
 
 
  6. Wall of the Unforgotten - Kalym Telaarin.  grants Mote of Possibilies
- 7. The Ready Room
+ 7. The Ready Room - Aloysia -> Red Rock Trail; Question -> Hy Estate
      Question
   - Question wants you to help them make contact with Hythenos and find out what the other agents of the Cobalt Soul learned.
   - Found a portal to within white plume mountina
@@ -178,6 +175,7 @@
     The Ruidium was stolen by the Myriad, who recently heard word about a strange red substance. the theft impacts
     Aloysia’s status as a good operative for the Consortium, and she wants it back badly.
     --> Red Rock Trail
+
 
 
 ## Approach Betrayer's Rise
@@ -201,23 +199,52 @@ find this one, or, get a guide to the bas relief, or, steal notes to it.
 
 ## Rewards of Study
 
- add to one of Question's journal pages a Poem
-   "O Ruidus, grant humble chorus
-   hail the zenith of Your accursed, thrice-blessed Apotheon;
+ - Question's journal pages Poem
+  "O Ruidus, grant humble chorus
+   Hail the zenith of your accursed, thrice-blessed Apotheon;
    The suffering of your vermilion light
    Drove the Paragon to a desert realm
-   Bestrewn with blades and drenched in crimson blood.
-   So hear, O moon of cursed deeds and fates, The song of he who rose
-   From the flames of war fanned by The Ruiner's blade."
+   Bestrewn with blades and drenched in crimson.
+   So hear, O moon of cursed deeds and fates, 
+   The song of he who rose
+   From the flames of war 
+   Fanned by The Ruiner's Blade."
 
-   a warrior who’s name is unknown fought in betrayers rise and fell with the sunken city of Cael Morrow
+   a blessed hero 
+   who’s name is unknown 
+   led the charge to storm the gates of Bazzoxan
+   or fought in betrayers rise 
+   or survived the Battle of the Barbed Fields
+   and fell with the sunken city of Cael Morrow
 
-   texts might have made it out about the histories of the Battle of the Barbed
-   Fields and a twice-blessed hero who led the charge to storm the gates of Bazzoxan.
+ - The Arbor Exemplar is a lone, giant tree that grows in the midst of the barren wasteland that is the Barbed
+   Fields. It is four to five hundred feet tall, about 30 feet in diameter and the lowest branches are
+   approximately three hundred feet from the ground, with a lush, leafed canopy defying the desolate barrens
+   surrounding it.[1] It is surrounded by verdant grass about ten to fifteen feet from it, which grows out a
+   hundred feet or so during the night and then retracts during the day.  Beware of Rocs.
+   sister tree to the Seed of Rebirth, which resides in the center of The Abundant Terrace of Vasselheim.
+   sleep beneath this tree for protection.
+
+ - BR is an/the ancient palace of the Princes of the Abyss: 
+  Orcus: Demon Prince of the Undead,
+    Thanatos: The layer over which Orcus reigns.
+  Yeenoghu: A demon lord of hunger and destruction chiefly worshiped by evil gnolls.
+  Graz'zt: Demon Prince of Indulgence
+    Azzatar: The domain Graz'zt controls.
+  Baphomet: The Horned King, Demon Prince of Beasts
+    The Endless Maze: The layer where Baphomet resides.
+  Lolth: Spider queen, god of the original drow
+    Demonweb: The domain of Lolth, the Spider Queen, aka the Dreadnest.
+
+
 
 ## The Hythenos Estate
 
-  Question wants you to help them make contact with Hythenos and find out what the other agents of the Cobalt Soul learned.
+Recently, agents of the Cobalt Soul from the new Rosohna Archive arrived to study the Umbra Gates, and stayed
+briefly with Hythenos before very suddenly entering Betrayer's Rise.  Question wants you to help them make
+contact with Hythenos and find out what the other agents of the Cobalt Soul learned. They’ve gone to his home
+before but he hadn’t seemed to be at home.  He fears entering.
+
   https://drive.google.com/drive/folders/1Cqw3hdwTLa5FynCDrt4VqnLlVfLmSfkC
 
 ## On a Red Rock Trail
@@ -232,17 +259,18 @@ find this one, or, get a guide to the bas relief, or, steal notes to it.
 
 # Introduce other lvl 5-8 content
 
-  - James:
-   in rexentruum, entire private bar.  person recognizes you and asks how Jace is.  Person next to him
-    visibily stiffens.  Says in thieves kant, "you haven't heard?".  explains the following:
-    Jace Slumber was running high-level battlefield caliber spell weapondry, and selling to the highest
-    bidder.  We're talking hundreds of thousands of GP.  This was a bidding between the highest levels of
-    the dynasty and empire.  the bright queen and king dwendel would have to have been invovled to sign off.
-    then he disappeared.  Jace is the consumate smuggler. doesn't ply in trouble.  we made careful inquiries.
-    he is alive.  but must have learned something he shouldn't have, and is being held by one side or the other,
-    either in ghor drhanas or rexentrem.  these are the most secure jails they have.  if you want to break him out,
-    the only organization who can help with that is the Golden Vault.  To meet with them, make a request for a
-    meeting via the pirate network.  when you do -- make sure the responder has the right accent of thieves kant.
+ - James:
+   In rexentruum, entire private bar.  person recognizes you and asks how Jace is.  Person next to him visibily stiffens.  
+   Says in thieves kant, "you haven't heard?".  explains the following:
+    Jace Slumber was running high-level battlefield caliber arcane weaponry, rumored to be from Ruins of
+    Molaesmyr in the Savalirwood.  nd this time, he was selling to the highest bidder.  We're talking 100k GP.
+    This was a bidding between the highest levels of the dynasty and empire.  the Bright Queen and King
+    Bertrand Dwendal would have to have been invovled to sign off.  then he disappeared.  Jace is the consumate
+    smuggler. doesn't ply in trouble.  we made careful inquiries.  he is alive.  but must have learned
+    something he shouldn't have, and is being held by one side or the other, ib either capital, Roshana or
+    Rexxentrum.  these are the most secure jails they have.  if you want to break him out, the only
+    organization who can help with that is the Golden Vault.  To meet with them, make a request for a meeting
+    via the pirate network.  when you do -- make sure the responder has the right accent of thieves kant.
     there are secrets getting out and rumors of a double agent in the ranks.
 
        Rumored to be associated with metallic dragons, the Golden Vault is a secretive
@@ -253,12 +281,17 @@ find this one, or, get a guide to the bas relief, or, steal notes to it.
        reflects its primary motivation: "Do good, no matter the cost." Missions from the Golden
        Vault are often illegal, but they always support a just, moral cause.
 
-  - Ryan:
+ - Ryan:
    The archmage Keraptis has the Lute of the Beacon at White Plume Mountain.  a person of the right lineage can
    play the lute and discover the song of the lute of the beacon, whose lyrics might lead to the first clues of
    that lineage's generational goals.
 
-   In the Biting North, White Plume Mountain has always been a subject of superstitious awe to the neighboring
+   In the Biting North, beyond the Greying Wildlands and into the islands of Eiselcross, lies a miniature companion to 
+   Kravaarad: White Plume Mountain.
+   [Kravaarad: North of Uthodurn, in the heart of the Floktet Alps, where the snowy landscape is defiantly interrupted 
+    by the black and ever-smoldering volcano]
+
+   White Plume Mountain has always been a subject of superstitious awe to the neighboring
    villagers. People still travel many miles to gaze upon this natural wonder, though few will approach it
    closely, as it is reputed to be the haunt of various demons and devils. The occasional disappearance of
    those who stray too close to the Plume reinforces this belief.
