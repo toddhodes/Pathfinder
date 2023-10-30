@@ -236,6 +236,7 @@ find this one, or, get a guide to the bas relief, or, steal notes to it.
   Lolth: Spider queen, god of the original drow
     Demonweb: The domain of Lolth, the Spider Queen, aka the Dreadnest.
 
+ - the curse infecting the Savalirwood creates portals to the Lower Planes. and here.
 
 
 ## The Hythenos Estate
@@ -262,16 +263,15 @@ before but he hadn’t seemed to be at home.  He fears entering.
  - James:
    In rexentruum, entire private bar.  person recognizes you and asks how Jace is.  Person next to him visibily stiffens.  
    Says in thieves kant, "you haven't heard?".  explains the following:
-    Jace Slumber was running high-level battlefield caliber arcane weaponry, rumored to be from Ruins of
-    Molaesmyr in the Savalirwood.  nd this time, he was selling to the highest bidder.  We're talking 100k GP.
-    This was a bidding between the highest levels of the dynasty and empire.  the Bright Queen and King
-    Bertrand Dwendal would have to have been invovled to sign off.  then he disappeared.  Jace is the consumate
-    smuggler. doesn't ply in trouble.  we made careful inquiries.  he is alive.  but must have learned
-    something he shouldn't have, and is being held by one side or the other, ib either capital, Roshana or
-    Rexxentrum.  these are the most secure jails they have.  if you want to break him out, the only
-    organization who can help with that is the Golden Vault.  To meet with them, make a request for a meeting
-    via the pirate network.  when you do -- make sure the responder has the right accent of thieves kant.
-    there are secrets getting out and rumors of a double agent in the ranks.
+    Jace Slumber was running high-level battlefield caliber arcane weaponry, rumored to be from Ruins of Molaesmyr in
+    the Savalirwood or the Aeor crash site. selling to the highest bidder.  We're talking 100k GP here.
+    This was a bidding between the highest levels of the dynasty and empire.  the Bright Queen and King Bertrand Dwendal
+    would have to have been invovled to sign off.  then he disappeared.  Jace is the consumate smuggler. doesn't ply in
+    trouble.  we made careful inquiries.  he is alive.  but must have learned something he shouldn't have, and is being
+    held by one side or the other, ib either capital, Roshana or Rexxentrum.  these are the most secure jails they have.
+    if you want to break him out, the only organization who can help with that is the Golden Vault.  To meet with them,
+    make a request for a meeting via the pirate network.  when you do -- make sure the responder has the right accent of
+    thieves kant.  there are secrets getting out and rumors of a double agent in the ranks.
 
        Rumored to be associated with metallic dragons, the Golden Vault is a secretive
        organization that has its base on one of the good-aligned Outer Planes. Its membership

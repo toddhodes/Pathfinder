@@ -19,10 +19,21 @@ Additional Rooms
 
 ## Enter the Rise
 
-https://www.reddit.com/r/CalloftheNetherdeep/comments/168dh93/just_finished_cotn_last_night_ama/
+## Custom Room 1
 
-the Ruin's of Sorrow by u/JisaHinode, 
-the Hythenos Estate by u/katvalkyrie, 
+natural cavern at the edge of a dark chasm. A massive iron bridge crosses it, but the other side and the bottom (if any) is lost in darkness. 
+ movement down the caverns awakens a chorus of hundreds of whispering, moaning, screaming voices which gradually subside 
+ --> DC15 WIll to resist their influence and back away, else... starts to prepare to jump
+ loud voice --> whispers rise --> DC15 Cha or catatonic for six seconds. 
+
+## Custom Room 2
+
+place: https://criticalrole.fandom.com/wiki/King%27s_Cage
+episodes: https://criticalrole.fandom.com/wiki/Beyond_the_Eyes_of_Angels
+ 
+
+
+https://www.reddit.com/r/CalloftheNetherdeep/comments/168dh93/just_finished_cotn_last_night_ama/
 
 made a big maze competition for the Bowl of Judgement to tie in the D&D movie 
 added the Vidorant Vault heist from Keys from the Golden Vault 
@@ -48,8 +59,6 @@ https://www.reddit.com/r/CalloftheNetherdeep/comments/16awsss/betrayers_rise_mov
 
 # Introduce other lvl 5-8 content
 
-  Hidden Shrine
-  Library
 
 ## Bestiary
 
