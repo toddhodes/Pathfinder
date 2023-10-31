@@ -2,8 +2,7 @@
 # Level 5 / Chapter 3(b) - Bazzoxan
 
 5th	Chpt 3a: Bazzoxan city (B1-B7) + edge of the Rise
- + The Hythenos Estate
- + On a Red Rock Trail
+ + The Hythenos Estate + On a Red Rock Trail
  "There are often leading experts from Ank’harel on field assignment in Bazzoxan."
 
 
@@ -167,7 +166,7 @@
       Aloysia
   - Aloysia will attempt to eavesdrop on conversations between the PCs and Q. (And can be caught)
   - She asks the PCs to distract Prolix so that she can slip away and do something without his prying eyes.
-  - Aloysia wants you to find and steal back a shipment of Ruidium that she was forwarding to Ank’Harel by way of a local fence.
+  - The Dreamer is exploring the Netherdeep in search of a portal, which he believes will lead him to the surface of Ruidus
    - Consortium of Vermilion Dreams (Aloysia) want to secure a monopoly on ruidium so that they
      can study its deeper mysteries and have sole access to its power.
      agenda: the Consortium wants to monopolize it for arcane research
@@ -190,7 +189,6 @@ ruidium is specifically found around this entrance and in this micro-dungeon
 find this one, or, get a guide to the bas relief, or, steal notes to it.
 
 "The Doors of The Laughing Hand, champion of Torog. Speak, friend, and enter."
- And underneath small and faint is written: "Durham of Zeidel drew these signs"
 
 
 # Side Quests
@@ -268,7 +266,7 @@ before but he hadn’t seemed to be at home.  He fears entering.
     This was a bidding between the highest levels of the dynasty and empire.  the Bright Queen and King Bertrand Dwendal
     would have to have been invovled to sign off.  then he disappeared.  Jace is the consumate smuggler. doesn't ply in
     trouble.  we made careful inquiries.  he is alive.  but must have learned something he shouldn't have, and is being
-    held by one side or the other, ib either capital, Roshana or Rexxentrum.  these are the most secure jails they have.
+    held by one side or the other, ib either capital, Roshana (Shadowspire) or Rexxentrum (?).  these secure jails.
     if you want to break him out, the only organization who can help with that is the Golden Vault.  To meet with them,
     make a request for a meeting via the pirate network.  when you do -- make sure the responder has the right accent of
     thieves kant.  there are secrets getting out and rumors of a double agent in the ranks.

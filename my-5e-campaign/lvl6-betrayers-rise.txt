@@ -19,24 +19,88 @@ Additional Rooms
 
 ## Enter the Rise
 
-## Custom Room 1
+ "Entryway to The Laughing Hand, champion of Torog. Speak, friend, and enter."
 
-natural cavern at the edge of a dark chasm. A massive iron bridge crosses it, but the other side and the bottom (if any) is lost in darkness. 
+ [prove humanoid or trap]
+
+## Custom Rooms
+
+From the entrance the tunnel is steadily descending pathway, seven-foot high, six feet wide.  After two hundred
+feet the tunnel turns sharply.  
+after a quarter mile, you begin to hear an faint series of tones. after another half mile, they become inaudible.
+after two miles the walls stop, and it opens into a chamber + larger
+cylindrical tunnel, 40 feet in diameter, going to the left and right.  The left passageway is fully caved in
+and collapsed. The right tunnel continues to drop down. Eventually on the right side of the tunnel, there is an
+four sided needle like obelisk that emerges from the ground, rising up about 15 feet. The tunnel continues
+before it slopes further down.
+
+The obelisk is slate gray off color with vertical abyssal symbols on each side of it that has been defaced. 
+The symbols read "Only those who know our song".
+
+On the right side of the Obelisk is a set of stone doors with two figures, one on each door, beautiful
+alabaster, humanoid features, smooth skin, cropped hair, folded wings on their back, robes, 
+blank expressions. There are trails of crimson down their faces.
+
+touching them plays a variey of different light musical notes.
+
+The door lead to a subterranean courtyard.
+
+The subterranean courtyard has a crescent form with a curved wall, floor-to-ceiling. The ground is uneven with
+rocks and scraps of metal. There are a 7 statues, all humanoid, sitting, all facing the far wall. They all are
+of white stone, smooth head, cropped hair, folded wings across the back, robes, crystal trails from the eyes, and all
+sitting.  Beside the statues there are celestial bodies buried with their armor and weapons.
+
+The far wall is a deep, black stone, with grooves about every ten feet or so that just striate up the side.
+There is a single, 20 feet wide, 15 feet tall adamantine door with a yellow gem that is affixed, and a dangling
+loose chain in front of it.
+
+pulling the chain opens the door to an interior room. There is a row 2x4 pillars, 60' length, the width unknown
+as the light fades to pitch black beyond 20' either side, except for a collapsed corner on the right side at the end.
+
+across the way there is a double doors, and a large gate of intersecting lattice metal bars. there is a keyhole
+through which mist is emerging.  the edges of the room are pitch black magical darkness.
+ [key hidden in chamber]
+
+Beyond the gate and door is a 10' square room with a descending spiral staircase.
+billowing from the staircase is a 1' thick mist that covers the floor. The spiral staircase is three feet wide and spirals down to the right.
+ [One of the steps is trapped, triggering a very subtle hum], summoning an Invisible Stalker, and an electrifying wave 
+  that periodically fires]
+
+On the bottom of the stairs is a large brass and stone tower with blue and red crystal veins. beside it 
+there is a door made with similar material as the tower -- without a handle; there is a small gemstone shaped slot 
+encircled by concentric crystal.
+ [must put crystal in slot to open]
+
+beyond the door is massive natural cavern at the edge of a dark chasm. 
+A heavy iron bridge crosses it, but the other side and the bottom (if any) is lost in darkness. 
+
+120' bridge + 20' approaches.
+visible from center: 20' to either side 
+stalagmites rise up into 15' platforms w/ 5' rusted iron cages on them. Within the cages are bones and armor.
+ [inescapable lash in one]
+ [@ 60' 2 ropers attack]
+ [at bottom of bridge is a mass of skin, flesh, muscle, teeth, mouths and eyes, that move against itself, writhing and shifting]
+
  movement down the caverns awakens a chorus of hundreds of whispering, moaning, screaming voices which gradually subside 
  --> DC15 WIll to resist their influence and back away, else... starts to prepare to jump
- loud voice --> whispers rise --> DC15 Cha or catatonic for six seconds. 
+ loud voice --> whispers rise --> DC15 Cha or roll for effect: 1st: catatonic for six seconds, later: catatonic, walk random direction
+ 
+after passing through chasm, another massive door.
 
-## Custom Room 2
+one single porcelain celestial sculpture, holding its hands together with a small opening. 
+ [need item to open; eyes crystalize]
 
 place: https://criticalrole.fandom.com/wiki/King%27s_Cage
 episodes: https://criticalrole.fandom.com/wiki/Beyond_the_Eyes_of_Angels
+          https://criticalrole.fandom.com/wiki/The_King%27s_Cage
  
 
+# Further notes
 
 https://www.reddit.com/r/CalloftheNetherdeep/comments/168dh93/just_finished_cotn_last_night_ama/
 
 made a big maze competition for the Bowl of Judgement to tie in the D&D movie 
-added the Vidorant Vault heist from Keys from the Golden Vault 
+added the Vidorant Vault (7th) heist from Keys from the Golden Vault 
   https://5e.tools/adventure.html#kftgv,8
 added the Price of Beauty from Candlekeep Mysteries.  
   https://5e.tools/adventure.html#cm,7
@@ -50,11 +114,9 @@ Aloysia -> action-oriented CR12 boss (killing her before Betrayers Rise?)
 https://www.reddit.com/r/CalloftheNetherdeep/comments/16awsss/betrayers_rise_moving_too_quickly_and_easily/
 
 - arms only lead to the Colliseum of Nightmares, the pool of blood with the Fiendish Orcs, Or the Spider's Chancel. 
-- BR individual challenges thematically appropriate to each player (specifically designed rooms) 
-
 - Matt's Baxxozan dungeon from C2
 - added The Laughing Hand as a boss in Betrayer's Rise (lifted the whole encounter from The King's Cage episode) 
-- added a high priestess of Lolth with the Shadow Crown from Locke and Key as another boss.
+- added a high priestess of Lolth [with the Shadow Crown from Locke and Key as another boss]
 
 
 # Introduce other lvl 5-8 content
