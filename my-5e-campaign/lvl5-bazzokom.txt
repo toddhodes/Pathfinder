@@ -66,10 +66,8 @@
  Scholars of Ank’Harel in Bazzoxan (Question, Prolix, and Aloysia):
   - Aloysia will attempt to eavesdrop on conversations between the PCs and other scholars. (And can be caught.)
     She asks the PCs to distract Prolix so that she can slip away and do something without his prying eyes.
-
   - Prolix tells the PCs that he’s been sent primarily to spy on Aloysia.
     Ask them to break into Aloysia’s room and steal her notes.
-
   - Question suspects that one of the other Ank’harel researchers has stolen one of his
     sketchbooks. She’d like the PCs to recover it.
 
@@ -84,12 +82,6 @@
 
 ## Locations
 
- Anywhere
-  - Most of the town's inhabitants are soldiers but has supporting civilians and researchers and religious figures.
-    Most residents are drow, but some goblins, hobgoblins, bugbears, orcs, and other Xhorhasian folk live here as well.
-  - Incursions: dretches, quasits, mouthers, and other lesser demons created by demons in the Betrayers' Rise are common threats.
-    On rare occasions, more powerful demons attack, or demonic energy animates the bodies of dead Aurora Watch soldiers.
-
  A. Sacrifice Engines
     "Among the most prominent features of Bazzoxan are the town's two sacrifice engines, each one
     a 30-foot-deep pit lined with rows of silver blades.  in bygone days, servants of the
@@ -98,26 +90,31 @@
 
  1. Gate - intro fight, 5 gibbering mouthers, Verin Thelyss
  2. Crematorium - Prolix, Allegiance of Allsight.
-  - Prolix may tell the PCs that he’s been sent primarily to spy on Aloysia. And we can
-   strengthen this by having Prolix ask them to break into Aloysia’s room and steal her notes.
+  - Prolix may tell the PCs that he’s been sent primarily to spy on Aloysia. 
+    have Prolix ask them to break into Aloysia’s room and steal her notes.
    - Allegiance of Allsight (Prolix) want to use the ruidium to create weapons, armor, and other
      artifacts that they can sell to the highest bidder.
      agenda: The Allegiance wants to use it to become arms dealers
 
 
- 3. Infirmary - priest Bautha Dyrr. has info. mission: place item at wall
+ 3. Infirmary - priest Bautha Dyrr. no info. mission: place item at wall
  4. Gatehold Barracks -
    four main sections: war room, mess hall, training area, sleeping quarters.
    Taskhand Verin Thelyss is expecting the characters, so, a soldier leads them to the war room.
 
  4a. Gatehold Garracks War Room: Verin give info:
+    Inhabitants
+     - Most of the town's inhabitants are soldiers but has supporting civilians and researchers and religious figures.
+       Most residents are drow, but some goblins, hobgoblins, bugbears, orcs, and other Xhorhasian folk live here as well.
+     Incursions: 
+     - dretches, quasits, mouthers, and other lesser demons created by demons in the Betrayers' Rise are common threats.
+       On rare occasions, more powerful demons attack, or demonic energy animates the bodies of dead Aurora Watch soldiers.
+
     - expedition from the Library of the Cobalt Soul is currently in the Betrayers' Rise with an
       Aurora Watch escort, researching battles of the Calamity that took place within its halls.
-
     - agent of the Consortium of the Vermilion Dream is staying in Bazzoxan. an elf named Aloysia,
       reprimanded for trying to bribe Aurora Watch soldiers to protect her while she searches for an
       ancient holy site she claims is within the Betrayers' Rise.
-
     - archaeologist named Prolix from the Allegiance of Allsight in Ank'Harel also recently
       arrived in Bazzoxan. He is ostensibly assisting Aurora Watch arcanists who are researching
       ways to seal the rift within the Betrayers' Rise. Verin suspects that the archaeologist has
@@ -128,14 +125,14 @@
      scouting parties and arcane experts to confirm that idea. None of the expeditions have
      been fruitful so far." [Verin can't spare any more personnel]
 
-    "is... challenging to navigate. Its passages shift to confuse mapmakers
-     and search parties. the Abyss flows through it, warping the environment so no two groups follow the same path.
+    "is... challenging to navigate. Its passages shift to confuse mapmakers and search parties. 
+     the Abyss flows through it, warping the environment so no two groups follow the same path.
      if you get lost down there, my soldiers won't be able to find you."
 
  4b. Gatehold Garracks Mess Hall:
-     -  member of the Cobalt Soul expedition, a tiefling named Question, went with his group
-        to the gate of the Betrayers' Rise but elected not to enter the place. He's holed up at
-        the Ready Room, ready to talk about his research
+     - A member of the Cobalt Soul expedition, a tiefling named Question, went with his group
+       to the gate of the Betrayers' Rise but elected not to enter the place. He's holed up at
+       the Ready Room, ready to talk about his research
      - An elf named Aloysia tried to bribe some soldiers into escorting her into the Betrayers'
        Rise.  Some people believe that she wants only to ransack the temple, but others think her
        concern is religious and she is searching for long-lost lore about the Prime Deities.
@@ -150,21 +147,49 @@
     Fogholm - worships Melora the Wild Mother, but recognizes the temple as a former holy place of Avandra the Change Bringer.
      - No vegetation survives for long in Bazzoxan.  He hopes to honor both deities by cultivating new life
      - While meditating the other night, he felt something surge within the earth nearby
-     - jewel: three fragments of divine power within it, one awake and two slumbering
-
+     - if given jewel: three fragments of divine power within it, one awake and two slumbering
+    "The Kryn capital of Rosohna was the Betrayer Gods' citadel of Ghor Dranas in the time before the
+     Calamity, and the Betrayers' Rise was once a fortress protecting Ghor Dranas. In the darkest days of the
+     Calamity, the Prime Deities and their most loyal champions laid siege to Ghor Dranas before capturing the
+     Betrayers' Rise and routing the Betrayer Gods' forces there. Though storytellers have long since forgotten
+     the names of many of those heroes, the force of their bonds still resonates across the land."
 
  6. Wall of the Unforgotten - Kalym Telaarin.  grants Mote of Possibilies
  7. The Ready Room - Aloysia -> Red Rock Trail; Question -> Hy Estate
-     Question
-  - Question wants you to help them make contact with Hythenos and find out what the other agents of the Cobalt Soul learned.
-  - Found a portal to within white plume mountina
-  - Question suspects that one of the other Ank’harel researchers has stolen one of his sketchbooks. She’d like the PCs to recover it.
+  Question
+   awkward bow.  "heroes fighting against impossible odds, sacrificing everything for the sake
+   of defending the world. All done for people who would never know them, never think of them,
+   never be able to thank them. Simply because it was the right thing to do."
+   these acts of monumental courage leave an impression on the world that lingers after all memory of the deeds has faded.  
+   "mythic resonance." 
+  - BR is an/the ancient palace of the Princes of the Abyss
+  - shows journal pages Poem
+  - sketch of an island bathed in the moonlight of Catha and Ruidus, full. trees, marble pillars, and crystal shards, [Emerald Grotto]
+  - rough drawing of more elaborate Jewel of Three Prayers. three delicate spires inlaid with stones.
+  - rubbing of a wall carving in the Betrayers' Rise (R1).  symbol that depicts a long-haired woman peering into the distance. 
+    DC 12 (Religion): holy symbol of Avandra the Change Bringer. 
+
+  - asks you to help them make contact with Hythenos and find out what the other agents of the Cobalt Soul learned.
+    - near The Arbor Exemplar 
+  - the curse infecting the Savalirwood creates portals to the Lower Planes and here.
+         + believes there is a portal within to white plume mountina
+    - Lute of the Beacon has been called the Lyre of the beacon.  changes forms --> Whelm
+    - Rod: says ?
+    - Jewel: 
+   "Long ago, a hero of the Calamity begged for aid from three different gods in his time of need. 
+     Avandra is said to have grieved for the hero because she feared he would be robbed of a future."
+    - Spear: wielded in same battle as jewel
+  - suspects that one of the other Ank’harel researchers has stolen one of his sketchbooks. She’d like the PCs to recover it.
    - Library of the Cobalt Soul (Question) believe that ruidium is dangerous and it must be either
      destroyed or sealed away so that it cannot harm the world.
      agenda: the Library wants it destroyed
 
-      Aloysia
-  - Aloysia will attempt to eavesdrop on conversations between the PCs and Q. (And can be caught)
+  Aloysia
+  - gets caught eavesdropping 
+  - wants to find an ancient prayer site / rift deep inside the Betrayers' Rise
+  - "folklore afficianados" looking for a crimson mineral she calls ruidium, said to be infused with the power of Ruidus.
+    Fragmented historical records tell of a hero born under full Ruidus and wields the vermilion moon's power
+    hero wore a pendant that contained the power of three gods.
   - She asks the PCs to distract Prolix so that she can slip away and do something without his prying eyes.
   - The Dreamer is exploring the Netherdeep in search of a portal, which he believes will lead him to the surface of Ruidus
    - Consortium of Vermilion Dreams (Aloysia) want to secure a monopoly on ruidium so that they
@@ -174,8 +199,6 @@
     The Ruidium was stolen by the Myriad, who recently heard word about a strange red substance. the theft impacts
     Aloysia’s status as a good operative for the Consortium, and she wants it back badly.
     --> Red Rock Trail
-
-
 
 ## Approach Betrayer's Rise
 
