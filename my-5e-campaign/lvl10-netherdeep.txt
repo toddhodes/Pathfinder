@@ -1,0 +1,13 @@
+
+
+The commander function in N7 is weird, the players nominate someone to be the commander and the
+only function it has is if the other players move to far away, they take damage. I would add
+something to it like giving them the ability to order troops or fire siege weapons
+
+push your players into N15 to meet Theo (or introduce him somewhere else) as he provides a huge
+amount of context and clarify for the party as to how to proceed with Alyxian in the final
+encounter. Without meeting him, the party could be inclined to just release him and get the bad
+ending and not really understand why that happened.
+
+The Moon fight in N25 is weird, I think the moon has too many hit point and the combat isn't
+really that engaging. My players really didn't have a clue they were in combat.
