@@ -151,7 +151,7 @@
    - four main sections: war room, mess hall, training area, sleeping quarters.
    - "Taskhand Verin Thelyss is expecting you"... a soldier leads them to the war room.
 
- 4a. War Room:
+ 4. a. War Room:
    circular table in the center of the room is covered with maps of Bazzoxan
    Verin welcomes and thanks and asks their business.  offers info
 
@@ -179,76 +179,98 @@
 
    "challenging to navigate. passages shift to confuse. if you get lost down there, my soldiers won't be able to find you."
 
- 4b. Mess Hall:
+ 4. b. Mess Hall:
      - A member of the Cobalt Soul expedition, a tiefling named Question, went with his group
        to the gate of the Betrayers' Rise but elected not to enter the place. He's holed up at
        the Ready Room, ready to talk about his research
      - An elf named Aloysia tried to bribe some soldiers into escorting her into the Betrayers'
        Rise.  Some people believe that she wants only to ransack the temple, but others think her
        concern is religious and she is searching for long-lost lore about the Prime Deities.
- 4c. Barracks Training: Shooting Match.  Sparring Match.  Wrestling Match.
+
+ 4. c. Barracks Training: Shooting Match.  Sparring Match.  Wrestling Match.
 
  5. Dilapidated Temple
+     "what might have been a flourishing, spiral-shaped temple has fallen into disrepair"
      "Glass crunches underfoot amid overgrown weeds. Collapsed walls have been replaced with rows
       of wooden shelves that hold earthenware pots. Numerous alcoves are being used as planters for
       stubborn flora. Just outside the far end of the enclosure, a smashed mosaic of stained glass
       sits in a splintered window frame next to a withered, skeletal tree."
-      DC 17 (Religion): mosaic once depicted a woman's face on a golden disk: the iconography of Avandra the Change Bringer.
-    Fogholm - worships Melora the Wild Mother, but recognizes the temple as a former holy place of Avandra the Change Bringer.
-     - No vegetation survives for long in Bazzoxan.  He hopes to honor both deities by cultivating new life
+    --> DC 17 (Religion): mosaic once depicted a woman's face on a golden disk: the iconography of Avandra the Change Bringer.
+    a firbolg [Fogholm] tends to the greenery - [Melora the Wild Mother, recognizes Avandra]
+     - No vegetation survives for long in Bazzoxan.  He hopes to honor both deities by cultivating new life"
      - While meditating the other night, he felt something surge within the earth nearby
      - if given jewel: three fragments of divine power within it, one awake and two slumbering
+
     "The Kryn capital of Rosohna was the Betrayer Gods' citadel of Ghor Dranas in the time before the
      Calamity, and the Betrayers' Rise was once a fortress protecting Ghor Dranas. In the darkest days of the
      Calamity, the Prime Deities and their most loyal champions laid siege to Ghor Dranas before capturing the
      Betrayers' Rise and routing the Betrayer Gods' forces there. Though storytellers have long since forgotten
      the names of many of those heroes, the force of their bonds still resonates across the land."
 
- 6. Wall of the Unforgotten - Kalym Telaarin.  grants Mote of Possibilies
+ 6. Wall of the Unforgotten 
+  "A stretch of stone wall is carved with names and wreathed in dried flowers, silver necklaces, and ropes weighted
+   with good-luck charms. The ground near the wall is cluttered with trinkets left there as offerings.  A drow of the
+   Aurora Watch prays near a corner of the wall.  The wall is crowded with names, most scratched into the surface with knives."
+   - 300yo drow priest [Kalym Telaarin].  left leg is an intricate prosthetic carved from chitinous black rock and ringed with bands 
+     of pale purple light. 
+   - Kalym rises to his feet and motions to the wall. "They've earned their rest."
+   [if ITEM from infirmary] --> Mote of Possibilies
+
  7. The Ready Room - Aloysia -> Red Rock Trail; Question -> Hy Estate
   Question
-   awkward bow.  "heroes fighting against impossible odds, sacrificing everything for the sake
-   of defending the world. All done for people who would never know them, never think of them,
-   never be able to thank them. Simply because it was the right thing to do."
-   these acts of monumental courage leave an impression on the world that lingers after all memory of the deeds has faded.
-   "mythic resonance."
-  - BR is an/the ancient palace of the Princes of the Abyss
-  - shows journal pages Poem
-  - sketch of an island bathed in the moonlight of Catha and Ruidus, full. trees, marble pillars, and crystal shards, [Emerald Grotto]
-  - rough drawing of more elaborate Jewel of Three Prayers. three delicate spires inlaid with stones.
-  - rubbing of a wall carving in the Betrayers' Rise (R1).  symbol that depicts a long-haired woman peering into the distance.
-    DC 12 (Religion): holy symbol of Avandra the Change Bringer.
+   awkward bow.
+  "heroes fighting against impossible odds .. acts of monumental courage leave an impression on the world that lingers 
+    'mythic resonance.'"
+  - DC 11 Wisdom (Insight) - scared to death
+  - takes out journal
+   - BR is an/the ancient palace of the Princes of the Abyss
+   - suspects that one of the other Ank’harel researchers has stolen one of his sketchbooks. She’d like the PCs to recover it.
+   - *Poem*
+   - sketch of an island bathed in the moonlight of Catha and Ruidus, full. trees, marble pillars, and crystal shards, [Emerald Grotto]
+   - rough drawing of more elaborate Jewel of Three Prayers. three delicate spires inlaid with stones.
+   - rubbing of a wall carving in the Betrayers' Rise (R1).  symbol that depicts a long-haired woman peering into the distance.
+     DC 12 (Religion): holy symbol of Avandra the Change Bringer.
+  --> Aly get caught eavesdropping
+  - the curse infecting the Savalirwood creates portals to the Lower Planes --> these lead here
+    - additional portals to Vestiges
+  - asks you to help contact Hythenos and find out what the other agents of the Cobalt Soul learned.
 
-  - asks you to help them make contact with Hythenos and find out what the other agents of the Cobalt Soul learned.
-    - near The Arbor Exemplar
-  - the curse infecting the Savalirwood creates portals to the Lower Planes and here.
-         + believes there is a portal within to white plume mountina
-    - Lute of the Beacon has been called the Lyre of the beacon.  changes forms --> Whelm
-    - Rod: says ?
-    - Jewel:
-   "Long ago, a hero of the Calamity begged for aid from three different gods in his time of need.
+  [if ask abvout Lute]: Lute of the Beacon has been called the Lyre of the beacon.  changes forms --> Whelm
+  [if shown Jewel]: "Long ago, a hero of the Calamity begged for aid from three different gods in his time of need.
      Avandra is said to have grieved for the hero because she feared he would be robbed of a future."
-    - Spear: wielded in same battle as jewel
-  - suspects that one of the other Ank’harel researchers has stolen one of his sketchbooks. She’d like the PCs to recover it.
-   - Library of the Cobalt Soul (Question) believe that ruidium is dangerous and it must be either
-     destroyed or sealed away so that it cannot harm the world.
-     agenda: the Library wants it destroyed
+  [if shown Spear]: wielded in same battle as jewel
+  [if shown Rod]: ?
 
-  Aloysia
-  - gets caught eavesdropping
-  - wants to find an ancient prayer site / rift deep inside the Betrayers' Rise
+   [Library of the Cobalt Soul (Question) believe that ruidium is dangerous and it must be either
+     destroyed or sealed away so that it cannot harm the world.  agenda: the Library wants it destroyed]
+
+  Aloysia - gets caught eavesdropping, once caught walks up
+  - w/ Consortium of Vermilion Dreams 
+  - wants to find an ancient rift deep inside the Betrayers' Rise.  [prayer site?]
   - "folklore afficianados" looking for a crimson mineral she calls ruidium, said to be infused with the power of Ruidus.
-    Fragmented historical records tell of a hero born under full Ruidus and wields the vermilion moon's power
-    hero wore a pendant that contained the power of three gods.
+  [if shown Jewel]: Fragmented historical records tell of a hero born under Ruidus, wields the vermilion moon's power;
+    hero wore a pendant 
   - She asks the PCs to distract Prolix so that she can slip away and do something without his prying eyes.
   - The Dreamer is exploring the Netherdeep in search of a portal, which he believes will lead him to the surface of Ruidus
-   - Consortium of Vermilion Dreams (Aloysia) want to secure a monopoly on ruidium so that they
-     can study its deeper mysteries and have sole access to its power.
-     agenda: the Consortium wants to monopolize it for arcane research
   - Asks you to find and steal back a shipment of red crystal she was forwarding to Ank’Harel by way of a local fence.
     The Ruidium was stolen by the Myriad, who recently heard word about a strange red substance. the theft impacts
-    Aloysia’s status as a good operative for the Consortium, and she wants it back badly.
-    --> Red Rock Trail
+    Aloysia’s status as a good operative for the Consortium, and she wants it back badly.  --> Red Rock Trail
+
+   [consortium of Vermilion Dreams (Aloysia) want to secure a monopoly on ruidium so that they
+     can study its deeper mysteries and have sole access to its power.  agenda: the Consortium wants to monopolize it for arcane research]
+
+## Conclude
+
+  - "as you wind down, a message comes in from Pirates" - news of jace
+
+  summarize options
+  - Hypothenos
+  - Myriad
+  - BR  (choose reearcher?)
+  - Follow up on Jace (message Pirates about Rod)
+  - Follow up on Lute
+  - follow up on Phandelver Mine tasks
+
 
 ## Approach Betrayer's Rise
 
@@ -280,13 +302,6 @@ find this one, or, get a guide to the bas relief, or, steal notes to it.
    The song of he who rose
    From the flames of war
    Fanned by The Ruiner's Blade."
-
-   a blessed hero
-   who’s name is unknown
-   led the charge to storm the gates of Bazzoxan
-   or fought in betrayers rise
-   or survived the Battle of the Barbed Fields
-   and fell with the sunken city of Cael Morrow
 
  - The Arbor Exemplar is a lone, giant tree that grows in the midst of the barren wasteland that is the Barbed
    Fields. It is four to five hundred feet tall, about 30 feet in diameter and the lowest branches are
