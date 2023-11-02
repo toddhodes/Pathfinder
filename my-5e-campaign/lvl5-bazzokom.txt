@@ -337,6 +337,11 @@ before but he hadn’t seemed to be at home.  He fears entering.
 
   https://drive.google.com/drive/folders/1Cqw3hdwTLa5FynCDrt4VqnLlVfLmSfkC
 
+changes:
+- entryway 6 rugs, 60HP 16 AC, DC15 grapple+ suffoc, +7/2d6+3
+- stone guardians - +8/3d6+4 OR DC15 Dex v 3d6; dispel magic deactivates 1min
+- instead of dybbuk, use oni
+
 ## On a Red Rock Trail
 
    The focus of this quest is to find and steal back a shipment of Ruidium that Aloysia Teflan was forwarding to
@@ -346,6 +351,9 @@ before but he hadn’t seemed to be at home.  He fears entering.
    operative for the Consortium, and she wants it back badly enough to pay some adventurers to help.
 
   https://drive.google.com/drive/folders/1c95Lxa2OzB_RGUQ8AhTGPT3rV73ncq8y
+
+changes:
+- 5 thugs, 2 assassin
 
 # Introduce other lvl 5-8 content
 
