@@ -15,14 +15,14 @@
   Its black walls are carved with intricate Bas relief; grotesques of gargoyles & demons peer down from high above.
 
   The Betrayer Gods spent centuries infusing and expanding its interiors, investing blood and coin
-  into carved rock, in famously shifting and ambiguous paths. 
+  into carved rock, in famously shifting and ambiguous paths.
 
   Vast resources were used to defend this fortress-temple against the Prime Deities. It's fall and
   the taking of Ghor Dhranas were the final blows ending the Calamity.
 
   Ahead of you, beneath the spires, camped in the shadows of its front cliff face, is the garrison town of Boxy.
   Tall stone walls surround it, with iron watchtowers spaced irregularly.
-  Soldiers of the Aurora Watch patrol the tops of the walls, and a single central gate manages entry. 
+  Soldiers of the Aurora Watch patrol the tops of the walls, and a single central gate manages entry.
 
 
 ## Enter Gate
@@ -90,26 +90,78 @@
 
  1. Gate - intro fight, 5 gibbering mouthers, Verin Thelyss
  2. Crematorium - Prolix, Allegiance of Allsight.
-  - Prolix may tell the PCs that he’s been sent primarily to spy on Aloysia. 
-    have Prolix ask them to break into Aloysia’s room and steal her notes.
-   - Allegiance of Allsight (Prolix) want to use the ruidium to create weapons, armor, and other
-     artifacts that they can sell to the highest bidder.
-     agenda: The Allegiance wants to use it to become arms dealers
+   Thick smoke billows from the chimneys of this stone building. Corpses wrapped in beige cloth are stacked in
+   a small yard northeast of the building.  A willowy man wearing a leather apron greets you at the entrance with dour
+   cheer. "New bodies for Bazzoxan, I see." Behind him stands a giant man: muscular, blue-eyed, with short-cropped hair
+   and a missing arm.
+  - off to the side, a bookish tiefling is awkwardly poking at a dead vrock, repulsive, which oddly hasn't dissolved into a pool of
+   ichor as it should have, which suggests some sort of abnormality. the tiefling has a variety of archaeology tools hang at his waist
+   along with a satchel holding notebooks. he explains "We can't burn this yet. something is off."
+   once he sees you staring, he Reaches into the satchel, and pulls out a badge and holds it up, as if the badge alone
+   explained his reason for being here.  The badge displays the symbol of his faction: a scroll bearing a single, watchful eye.
+   - Allegiance of Allsight
 
+  - hi, i'm Prolix!  archaeologist from Ank'Harel, a city on the distant continent of Marquet.
+  - vrocks often swallow jewelry and other ornamental objects
+  - a little help w/ the body?
+  - DC 15 Wisdom (Survival) check.
+    failed: eruption of spores 10': DC 14 Constitution saving throw or poisoned. 1d10 poison.
+    success: pair of gold-trimmed eyes of the eagle, 3 gaudy rings worth 20 gp each, cube-shaped puzzle box made of onyx and measuring 3"
+       aura of abjuration magic.   DC 20 Intelligence to open
+    --> Prolix grabs box
+        body starts to dissolve
 
- 3. Infirmary - priest Bautha Dyrr. no info. mission: place item at wall
+   "I'm an archaeologist, but I'm not here to perform archaeology, per se. I was sent by the Allegiance of
+    Allsight to spy on a rival agent of the Consortium of the Vermilion Dream." Prolix says that the Allegiance
+    doesn't know why the Consortium dispatched someone to Bazzoxan, but the reason can't be good.  [Aloysia]
+
+   "She's looking for something in the Betrayers' Rise. She's not hard to spot. Tall, pale, dressed in red.
+    Cold-blooded. Seems like she'd do anything to get what she wants. And what she wants is... well, that's what
+    I'd like to know!"
+
+  - we should  break into her [Aloysia’s] room and steal her notes.  (at the Ready Room).
+   [Allegiance of Allsight (Prolix) want to use the ruidium to create weapons, armor, and other
+     artifacts that they can sell to the highest bidder.  agenda: The Allegiance wants to use it to become arms dealers]
+  - "Can i see that item?" draws sketch
+    - invites the characters to return with him to the Crystal Chateau, his university in Ank'Harel,
+    - mentions Question
+
+ 3. Infirmary
+  - 3 buildings on the perimeter of the central square have doors marked with a symbol of a hand alight with magic.
+    you enter &
+   "The walls are lined with shelves that hold old books and medical supplies. The floor is crammed with
+    narrow cots. There's a small office in the back, its door ajar, and the air reeks of medicinal poultices.
+  - a drow priest is chatting with a young wounded female drow edge of bed.
+    Other wounded patients -- most of them asleep -- fill the infirmary bed
+  - approaches, concerned look.  "hello friends.  are you well? i'm Bautha Dyrr."
+     DC 15 Intelligence (Religion) check:
+     - pin in the shape of a black wing attached to Bautha's cloak is holy symbol of Xalicas,
+       a solar who served as the right hand of Corellon the Arch Heart before falling in the Calamity
+  - "ok?  great.  the violence here is... horrible"
+
+  --> as yoyu leave, wounded member of the AW calls out.
+     [Naevyn Tasithar].
+    "can you get me my satchel? pulls out small tiger's eye carving of a rabbit with a name carved into.
+    "can you bring this to the Wall of the Unforgotten?"
+
  4. Gatehold Barracks -
-   four main sections: war room, mess hall, training area, sleeping quarters.
-   Taskhand Verin Thelyss is expecting the characters, so, a soldier leads them to the war room.
+   "These barracks are filled with the sounds of chatter, voices shouting orders, and clanging metal. Armored
+    Aurora Watch soldiers go about their business, performing drills and sharpening weapons.
 
- 4a. Gatehold Garracks War Room: Verin give info:
+   - four main sections: war room, mess hall, training area, sleeping quarters.
+   - "Taskhand Verin Thelyss is expecting you"... a soldier leads them to the war room.
+
+ 4a. War Room:
+   circular table in the center of the room is covered with maps of Bazzoxan
+   Verin welcomes and thanks and asks their business.  offers info
+
     Inhabitants
      - Most of the town's inhabitants are soldiers but has supporting civilians and researchers and religious figures.
        Most residents are drow, but some goblins, hobgoblins, bugbears, orcs, and other Xhorhasian folk live here as well.
-     Incursions: 
+    Incursions:
      - dretches, quasits, mouthers, and other lesser demons created by demons in the Betrayers' Rise are common threats.
        On rare occasions, more powerful demons attack, or demonic energy animates the bodies of dead Aurora Watch soldiers.
-
+    Researchers:
     - expedition from the Library of the Cobalt Soul is currently in the Betrayers' Rise with an
       Aurora Watch escort, researching battles of the Calamity that took place within its halls.
     - agent of the Consortium of the Vermilion Dream is staying in Bazzoxan. an elf named Aloysia,
@@ -121,22 +173,20 @@
       other motives, seen lurking around the crematorium.
 
     Betrayers' Rise:
-    "might hold the solution to breaking the stalemate that grips the town. I have sent out
-     scouting parties and arcane experts to confirm that idea. None of the expeditions have
-     been fruitful so far." [Verin can't spare any more personnel]
+   "There has been recent uptick in activity and interest. Larger rifts are appearing.
+    I have sent out scouting parties and arcane experts into BR. None of the expeditions have been fruitful so far."
+    [Verin can't spare any more personnel]
 
-    "is... challenging to navigate. Its passages shift to confuse mapmakers and search parties. 
-     the Abyss flows through it, warping the environment so no two groups follow the same path.
-     if you get lost down there, my soldiers won't be able to find you."
+   "challenging to navigate. passages shift to confuse. if you get lost down there, my soldiers won't be able to find you."
 
- 4b. Gatehold Garracks Mess Hall:
+ 4b. Mess Hall:
      - A member of the Cobalt Soul expedition, a tiefling named Question, went with his group
        to the gate of the Betrayers' Rise but elected not to enter the place. He's holed up at
        the Ready Room, ready to talk about his research
      - An elf named Aloysia tried to bribe some soldiers into escorting her into the Betrayers'
        Rise.  Some people believe that she wants only to ransack the temple, but others think her
        concern is religious and she is searching for long-lost lore about the Prime Deities.
- 4c. Gatehold Garracks Training: Shooting Match.  Sparring Match.  Wrestling Match.
+ 4c. Barracks Training: Shooting Match.  Sparring Match.  Wrestling Match.
 
  5. Dilapidated Temple
      "Glass crunches underfoot amid overgrown weeds. Collapsed walls have been replaced with rows
@@ -160,23 +210,23 @@
    awkward bow.  "heroes fighting against impossible odds, sacrificing everything for the sake
    of defending the world. All done for people who would never know them, never think of them,
    never be able to thank them. Simply because it was the right thing to do."
-   these acts of monumental courage leave an impression on the world that lingers after all memory of the deeds has faded.  
-   "mythic resonance." 
+   these acts of monumental courage leave an impression on the world that lingers after all memory of the deeds has faded.
+   "mythic resonance."
   - BR is an/the ancient palace of the Princes of the Abyss
   - shows journal pages Poem
   - sketch of an island bathed in the moonlight of Catha and Ruidus, full. trees, marble pillars, and crystal shards, [Emerald Grotto]
   - rough drawing of more elaborate Jewel of Three Prayers. three delicate spires inlaid with stones.
-  - rubbing of a wall carving in the Betrayers' Rise (R1).  symbol that depicts a long-haired woman peering into the distance. 
-    DC 12 (Religion): holy symbol of Avandra the Change Bringer. 
+  - rubbing of a wall carving in the Betrayers' Rise (R1).  symbol that depicts a long-haired woman peering into the distance.
+    DC 12 (Religion): holy symbol of Avandra the Change Bringer.
 
   - asks you to help them make contact with Hythenos and find out what the other agents of the Cobalt Soul learned.
-    - near The Arbor Exemplar 
+    - near The Arbor Exemplar
   - the curse infecting the Savalirwood creates portals to the Lower Planes and here.
          + believes there is a portal within to white plume mountina
     - Lute of the Beacon has been called the Lyre of the beacon.  changes forms --> Whelm
     - Rod: says ?
-    - Jewel: 
-   "Long ago, a hero of the Calamity begged for aid from three different gods in his time of need. 
+    - Jewel:
+   "Long ago, a hero of the Calamity begged for aid from three different gods in his time of need.
      Avandra is said to have grieved for the hero because she feared he would be robbed of a future."
     - Spear: wielded in same battle as jewel
   - suspects that one of the other Ank’harel researchers has stolen one of his sketchbooks. She’d like the PCs to recover it.
@@ -185,7 +235,7 @@
      agenda: the Library wants it destroyed
 
   Aloysia
-  - gets caught eavesdropping 
+  - gets caught eavesdropping
   - wants to find an ancient prayer site / rift deep inside the Betrayers' Rise
   - "folklore afficianados" looking for a crimson mineral she calls ruidium, said to be infused with the power of Ruidus.
     Fragmented historical records tell of a hero born under full Ruidus and wields the vermilion moon's power
@@ -226,15 +276,15 @@ find this one, or, get a guide to the bas relief, or, steal notes to it.
    The suffering of your vermilion light
    Drove the Paragon to a desert realm
    Bestrewn with blades and drenched in crimson.
-   So hear, O moon of cursed deeds and fates, 
+   So hear, O moon of cursed deeds and fates,
    The song of he who rose
-   From the flames of war 
+   From the flames of war
    Fanned by The Ruiner's Blade."
 
-   a blessed hero 
-   who’s name is unknown 
+   a blessed hero
+   who’s name is unknown
    led the charge to storm the gates of Bazzoxan
-   or fought in betrayers rise 
+   or fought in betrayers rise
    or survived the Battle of the Barbed Fields
    and fell with the sunken city of Cael Morrow
 
@@ -246,7 +296,7 @@ find this one, or, get a guide to the bas relief, or, steal notes to it.
    sister tree to the Seed of Rebirth, which resides in the center of The Abundant Terrace of Vasselheim.
    sleep beneath this tree for protection.
 
- - BR is an/the ancient palace of the Princes of the Abyss: 
+ - BR is an/the ancient palace of the Princes of the Abyss:
   Orcus: Demon Prince of the Undead,
     Thanatos: The layer over which Orcus reigns.
   Yeenoghu: A demon lord of hunger and destruction chiefly worshiped by evil gnolls.
@@ -282,7 +332,7 @@ before but he hadn’t seemed to be at home.  He fears entering.
 # Introduce other lvl 5-8 content
 
  - James:
-   In rexentruum, entire private bar.  person recognizes you and asks how Jace is.  Person next to him visibily stiffens.  
+   In rexentruum, entire private bar.  person recognizes you and asks how Jace is.  Person next to him visibily stiffens.
    Says in thieves kant, "you haven't heard?".  explains the following:
     Jace Slumber was running high-level battlefield caliber arcane weaponry, rumored to be from Ruins of Molaesmyr in
     the Savalirwood or the Aeor crash site. selling to the highest bidder.  We're talking 100k GP here.
@@ -307,9 +357,9 @@ before but he hadn’t seemed to be at home.  He fears entering.
    play the lute and discover the song of the lute of the beacon, whose lyrics might lead to the first clues of
    that lineage's generational goals.
 
-   In the Biting North, beyond the Greying Wildlands and into the islands of Eiselcross, lies a miniature companion to 
+   In the Biting North, beyond the Greying Wildlands and into the islands of Eiselcross, lies a miniature companion to
    Kravaarad: White Plume Mountain.
-   [Kravaarad: North of Uthodurn, in the heart of the Floktet Alps, where the snowy landscape is defiantly interrupted 
+   [Kravaarad: North of Uthodurn, in the heart of the Floktet Alps, where the snowy landscape is defiantly interrupted
     by the black and ever-smoldering volcano]
 
    White Plume Mountain has always been a subject of superstitious awe to the neighboring
