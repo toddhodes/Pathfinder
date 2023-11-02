@@ -6,36 +6,34 @@
 
 Chapter 3b - Betrayer’s Rise
 Additional Rooms
+   https://drive.google.com/drive/u/1/folders/1txC0CJBpPFpYC9QKvoOkYG0iRJwvO8ea
  - Fountain of the First Knight
- - Chamber of Tiamat
-   https://www.reddit.com/r/CalloftheNetherdeep/comments/v2icke/betrayers_rise_changes_tiamat_boss_room_fight/?utm_source=share&utm_medium=ios_app&utm_name=ioscss&utm_content=2&utm_term=10
+ - Chamber of Tiamat https://www.reddit.com/r/CalloftheNetherdeep/comments/v2icke/betrayers_rise_changes_tiamat_boss_room_fight/
  - Hall of Mirrors
  - Serpent’s Maw
  - Vecna’s Library
 
-## Summarize completed
-
-  Chapter 3a - Bazzoxan, The Hythenos Estate, On a Red Rock Trail
-
 ## Enter the Rise
 
- "Entryway to The Laughing Hand, champion of Torog. Speak, friend, and enter."
+You stand on a weather- and time- stained bridge that extends over a chasm of swirling silver mist. On the far side
+of the bridge is a closed double door of black stone inscribed with a circle containing the profile of a smiling
+woman. The symbol is gouged with deep marks.  As you get within 20', the double door begins to radiate faint crimson
+light. The light slowly pulses, as if beckoning you to touch it. The Jewel of Three Prayers grows warm to the touch
+and pulses in sync with the glowing door.
 
- [prove humanoid or trap]
+The AW warily watch you enter, and close the doors behind you.  darkness, as the last beam of sunlight shrinks away.
 
 ## Custom Rooms
 
-From the entrance the tunnel is steadily descending pathway, seven-foot high, six feet wide.  After two hundred
-feet the tunnel turns sharply.  
-after a quarter mile, you begin to hear an faint series of tones. after another half mile, they become inaudible.
-after two miles the walls stop, and it opens into a chamber + larger
-cylindrical tunnel, 40 feet in diameter, going to the left and right.  The left passageway is fully caved in
-and collapsed. The right tunnel continues to drop down. Eventually on the right side of the tunnel, there is an
-four sided needle like obelisk that emerges from the ground, rising up about 15 feet. The tunnel continues
-before it slopes further down.
+From the entrance the tunnel is steadily descending pathway, seven-foot high, six feet wide.  After 200'
+the tunnel turns sharply left, and then right.  another 100', same.
+after a quarter mile, you hear an faint series of tones.  after another quarter mile, they become inaudible.
+after a mile, the walls stop, and it opens into a chamber + larger cylindrical tunnel, 40 feet in diameter, going to
+the left and right.  The left passageway is fully caved in and collapsed. The right tunnel continues to drop down.
+Eventually on the right side of the tunnel, there is an four sided needle like obelisk that emerges from the ground,
+rising up about 15 feet. The tunnel continues before it slopes further down.
 
-The obelisk is slate gray off color with vertical abyssal symbols on each side of it that has been defaced. 
-The symbols read "Only those who know our song".
+The obelisk is slate gray off color with vertical abyssal symbols on each side.  The symbols read "Repeat the song".
 
 On the right side of the Obelisk is a set of stone doors with two figures, one on each door, beautiful
 alabaster, humanoid features, smooth skin, cropped hair, folded wings on their back, robes, 
@@ -93,9 +91,12 @@ one single porcelain celestial sculpture, holding its hands together with a smal
 place: https://criticalrole.fandom.com/wiki/King%27s_Cage
 episodes: https://criticalrole.fandom.com/wiki/Beyond_the_Eyes_of_Angels
           https://criticalrole.fandom.com/wiki/The_King%27s_Cage
- 
+
 
 # Further notes
+
+another entry:
+ "Entryway to The Laughing Hand, champion of Torog. Speak, friend, and enter." [speak to prove humanoid or trap]
 
 https://www.reddit.com/r/CalloftheNetherdeep/comments/168dh93/just_finished_cotn_last_night_ama/
 
