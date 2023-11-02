@@ -72,13 +72,11 @@
     sketchbooks. She’d like the PCs to recover it.
 
  Clarify conflicting motivations:
-   - Consortium of Vermilion Dreams (Aloysia) want to secure a monopoly on ruidium so that they
-     can study its deeper mysteries and have sole access to its power.
+   - Consortium of Vermilion Dreams (Aloysia) want to secure a monopoly on ruidium so that they have sole access 
    - Allegiance of Allsight (Prolix) want to use the ruidium to create weapons, armor, and other
      artifacts that they can sell to the highest bidder.
-   - Library of the Cobalt Soul (Question) believe that ruidium is dangerous and it must be either
-     destroyed or sealed away so that it cannot harm the world.
-
+   - Library of the Cobalt Soul (Question) believe that ruidium is dangerous and it must be either destroyed or sealed away 
+     so that it cannot harm the world.
 
 ## Locations
 
@@ -231,6 +229,7 @@
    - rubbing of a wall carving in the Betrayers' Rise (R1).  symbol that depicts a long-haired woman peering into the distance.
      DC 12 (Religion): holy symbol of Avandra the Change Bringer.
   --> Aly get caught eavesdropping
+  - Library of the Cobalt Soul (Question) believe that ruidium is dangerous 
   - the curse infecting the Savalirwood creates portals to the Lower Planes --> these lead here
     - additional portals to Vestiges
   - asks you to help contact Hythenos and find out what the other agents of the Cobalt Soul learned.
@@ -241,10 +240,12 @@
   [if shown Jewel]: "Long ago, a hero of the Calamity begged for aid from three different gods in his time of need.
      Avandra is said to have grieved for the hero because she feared he would be robbed of a future."
   [if shown Spear]: wielded in same battle as jewel
-  [if shown Rod]: ?
+  [if shown Rod]: these are all vestiges...
 
-   [Library of the Cobalt Soul (Question) believe that ruidium is dangerous and it must be either
-     destroyed or sealed away so that it cannot harm the world.  agenda: the Library wants it destroyed]
+  Vestiges of divergence start DORMAT.
+  With time, perseverance, and personal growth, grow in power with their owner to the AWAKENED state.
+  Eventually, through extreme personal challenge, evolution, and achievement, they can achieve their EXALTED state.
+
 
   Aloysia - gets caught eavesdropping, once caught walks up
   - w/ Consortium of Vermilion Dreams 
@@ -258,13 +259,18 @@
     The Ruidium was stolen by the Myriad, who recently heard word about a strange red substance. the theft impacts
     Aloysia’s status as a good operative for the Consortium, and she wants it back badly.  --> Red Rock Trail
   - reward: portal to the Wuyun Gates, gateway between Menagerie and Empire, north of Nicodranas
-
-   [consortium of Vermilion Dreams (Aloysia) want to secure a monopoly on ruidium so that they
-     can study its deeper mysteries and have sole access to its power.  agenda: the Consortium wants to monopolize it for arcane research]
+   [consortium of Vermilion Dreams (Aloysia) want to monopolize ruidium for arcane research]
 
 ## Conclude
 
-  - "as you wind down, a message comes in from Pirates" - news of jace
+ Clarify conflicting motivations:
+   - Consortium of Vermilion Dreams (Aloysia) want to secure a monopoly on ruidium so that they have sole access 
+   - Allegiance of Allsight (Prolix) want to use the ruidium to create weapons, armor, and other
+     artifacts that they can sell to the highest bidder.
+   - Library of the Cobalt Soul (Question) believe that ruidium is dangerous and it must be either destroyed or sealed away 
+     so that it cannot harm the world.
+
+  "As you wind down, a message comes in from Pirates" - news of jace
 
   summarize options
   - Hypothenos
