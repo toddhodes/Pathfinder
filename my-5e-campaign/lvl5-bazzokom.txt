@@ -234,6 +234,7 @@
   - the curse infecting the Savalirwood creates portals to the Lower Planes --> these lead here
     - additional portals to Vestiges
   - asks you to help contact Hythenos and find out what the other agents of the Cobalt Soul learned.
+  - reward: a portal to the Ruins of Molaesmyr in the Savalirwood, and lessons on history around it
 
   [if ask abvout Lute]: Lute of the Beacon has been called the Lyre of the beacon.  changes forms --> Whelm
   [if shown Jewel]: "Long ago, a hero of the Calamity begged for aid from three different gods in his time of need.
@@ -255,6 +256,7 @@
   - Asks you to find and steal back a shipment of red crystal she was forwarding to Ank’Harel by way of a local fence.
     The Ruidium was stolen by the Myriad, who recently heard word about a strange red substance. the theft impacts
     Aloysia’s status as a good operative for the Consortium, and she wants it back badly.  --> Red Rock Trail
+  - reward: a portal to Kravaarad, North of Uthodurn, in the heart of the Floktet Alpp, and the history around it
 
    [consortium of Vermilion Dreams (Aloysia) want to secure a monopoly on ruidium so that they
      can study its deeper mysteries and have sole access to its power.  agenda: the Consortium wants to monopolize it for arcane research]
@@ -266,7 +268,7 @@
   summarize options
   - Hypothenos
   - Myriad
-  - BR  (choose reearcher?)
+  - BR (choose reearcher?)
   - Follow up on Jace (message Pirates about Rod)
   - Follow up on Lute
   - follow up on Phandelver Mine tasks
