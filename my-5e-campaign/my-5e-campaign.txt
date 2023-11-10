@@ -14,6 +14,7 @@ Level	Requirement
 12th	Enter the Heart of Despair at the end of chapter 6.
 13th	Defeat Alyxian or enable him to be redeemed in chapter 7.
 
+
 Level Content
 2nd   Menagerie Coast/Palma Flora -> Xhorhas
       LMoP Part2: Redbrand Hideout
@@ -30,7 +31,8 @@ Level Content
 11th	Chpt 6: Netherdeep  - Grottoes of Regret (Areas N1–N9), Vents of Fury (Areas N10–N18), Chasm of Yearning (Areas N19–N25)
 12th	Chpt 7: Heart of Despair
 
-
+13th-16th: Legion of Doom villain group made up of Champions of the Betrayer God's using the Arms to help in their
+           mission to tear down the Divine Gate.
 
 ## Map entities
 

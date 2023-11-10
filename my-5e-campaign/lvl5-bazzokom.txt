@@ -5,7 +5,6 @@
  + The Hythenos Estate + On a Red Rock Trail
  "There are often leading experts from Ank’harel on field assignment in Bazzoxan."
 
-
 ## Approach
 
  "Jutting from the rusty orange mountains of eastern Xhorhas are tall spires of black stone.
@@ -79,6 +78,8 @@
      so that it cannot harm the world.
 
 ## Locations
+
+  gained favor of Taskhand Verin Thelyss, head of the Auroran Watch in Bazzoxan for entering Bazzoxan
 
  A. Sacrifice Engines
     "Among the most prominent features of Bazzoxan are the town's two sacrifice engines, each one
@@ -215,26 +216,27 @@
    [if ITEM from infirmary] --> Mote of Possibilies
 
  7. The Ready Room - Aloysia -> Red Rock Trail; Question -> Hy Estate
-  Question
+  **Question**
    awkward bow.
   "heroes fighting against impossible odds .. acts of monumental courage leave an impression on the world that lingers 
     'mythic resonance.'"
   - DC 11 Wisdom (Insight) - scared to death
   - takes out journal
-   - BR is an/the ancient palace of the Princes of the Abyss
-   - suspects that one of the other Ank’harel researchers has stolen one of his sketchbooks. She’d like the PCs to recover it.
-   - *Poem*
+   - poem, BR is an/the ancient palace of the Princes of the Abyss
    - sketch of an island bathed in the moonlight of Catha and Ruidus, full. trees, marble pillars, and crystal shards, [Emerald Grotto]
    - rough drawing of more elaborate Jewel of Three Prayers. three delicate spires inlaid with stones.
    - rubbing of a wall carving in the Betrayers' Rise (R1).  symbol that depicts a long-haired woman peering into the distance.
      DC 12 (Religion): holy symbol of Avandra the Change Bringer.
-  --> Aly get caught eavesdropping
-  - Library of the Cobalt Soul (Question) believe that ruidium is dangerous 
+
+  - suspects that one of the other Ank’harel researchers has stolen one of his sketchbooks. She’d like the PCs to recover it.
+       --> Aly get caught eavesdropping
+  - Library of the Cobalt Soul (Question) believe that ruidium is dangerous
   - the curse infecting the Savalirwood creates portals to the Lower Planes --> these lead here
-    - additional portals to Vestiges
+    - additional portals to Arms & Vestiges
   - asks you to help contact Hythenos and find out what the other agents of the Cobalt Soul learned.
   - reward: portal to the Ruins of Molaesmyr in the Savalirwood
-            White Plume Mountain is rumored to be in Kravaarad, North of Uthodurn , in the heart of the Floktet Alps (dwarves + elves)
+            @ The Arbor Exemplar 
+            White Plume Mountain is rumored to be in Kravaarad, North of Uthodurn, in the heart of the Floktet Alps (dwarves + elves)
 
   [if ask abvout Lute]: Lute of the Beacon has been called the Lyre of the beacon.  changes forms --> Whelm
   [if shown Jewel]: "Long ago, a hero of the Calamity begged for aid from three different gods in his time of need.
@@ -246,8 +248,7 @@
   With time, perseverance, and personal growth, grow in power with their owner to the AWAKENED state.
   Eventually, through extreme personal challenge, evolution, and achievement, they can achieve their EXALTED state.
 
-
-  Aloysia - gets caught eavesdropping, once caught walks up
+  **Aloysia** - gets caught eavesdropping, once caught walks up
   - w/ Consortium of Vermilion Dreams 
   - wants to find an ancient rift deep inside the Betrayers' Rise.  [prayer site?]
   - "folklore afficianados" looking for a crimson mineral she calls ruidium, said to be infused with the power of Ruidus.
@@ -259,6 +260,7 @@
     The Ruidium was stolen by the Myriad, who recently heard word about a strange red substance. the theft impacts
     Aloysia’s status as a good operative for the Consortium, and she wants it back badly.  --> Red Rock Trail
   - reward: portal to the Wuyun Gates, gateway between Menagerie and Empire, north of Nicodranas
+            @ The Arbor Exemplar 
    [consortium of Vermilion Dreams (Aloysia) want to monopolize ruidium for arcane research]
 
 ## Conclude
@@ -320,16 +322,12 @@ find this one, or, get a guide to the bas relief, or, steal notes to it.
    sister tree to the Seed of Rebirth, which resides in the center of The Abundant Terrace of Vasselheim.
    sleep beneath this tree for protection.
 
- - BR is an/the ancient palace of the Princes of the Abyss:
-  Orcus: Demon Prince of the Undead,
-    Thanatos: The layer over which Orcus reigns.
-  Yeenoghu: A demon lord of hunger and destruction chiefly worshiped by evil gnolls.
-  Graz'zt: Demon Prince of Indulgence
-    Azzatar: The domain Graz'zt controls.
-  Baphomet: The Horned King, Demon Prince of Beasts
-    The Endless Maze: The layer where Baphomet resides.
-  Lolth: Spider queen, god of the original drow
-    Demonweb: The domain of Lolth, the Spider Queen, aka the Dreadnest.
+ - Betrayer's Rise is an ancient palace of the Princes of the Abyss:
+  Orcus: Demon Prince of the Undead; domain: Thanatos
+  Yeenoghu: A demon lord of hunger and destruction, God of the gnolls; domain: Death Dells
+  Graz'zt: Demon Prince of Indulgence; domain: Azzatar
+  Baphomet: The Horned King, Demon Prince of Beasts; domain: The Endless Maze
+  Lolth: Spider queen, god of the (underground) drow; domain: The Demonweb, aka the Dreadnest
 
  - the curse infecting the Savalirwood creates portals to the Lower Planes. and here.
 
@@ -345,7 +343,7 @@ before but he hadn’t seemed to be at home.  He fears entering.
 
 changes:
 - entryway 6 rugs, 60HP 16 AC, DC15 grapple+ suffoc, +7/2d6+3
-- stone guardians - +8/3d6+4 OR DC15 Dex v 3d6; dispel magic deactivates 1min
+- stone guardians - DC15 Dex v 3d6; dispel magic deactivates 1min
 - instead of dybbuk, use oni
 
 ## On a Red Rock Trail
@@ -371,7 +369,13 @@ changes:
     This was a bidding between the highest levels of the dynasty and empire.  the Bright Queen and King Bertrand Dwendal
     would have to have been invovled to sign off.  then he disappeared.  Jace is the consumate smuggler. doesn't ply in
     trouble.  we made careful inquiries.  he is alive.  but must have learned something he shouldn't have, and is being
-    held by one side or the other, in either capital, Roshana (Shadowspire) or Rexxentrum (Claykeep Prison).  or other secure place.
+    held by one side or the other, in either capital, Roshana (Shadowspire) or Rexxentrum (Claykeep Prison).  
+    or other secure place. [Vergesson Sanatorium
+      vast prison known as the Archevault was repurposed by the Cerberus Assembly as an imperial sanatorium and
+      hospital. Named after Lord Symon Vergesson, the late assembly member who founded it, the massive mansion is
+      surrounded by vast gardens and filled with beautiful artwork designed to please the primarily wealthy
+      patients.]
+
     if you want to break him out, the only organization who can help with that is the Golden Vault.  To meet with them,
     make a request for a meeting via the pirate network.  when you do -- make sure the responder has the right accent of
     thieves kant.  there are secrets getting out and rumors of a double agent in the ranks.
@@ -412,8 +416,10 @@ changes:
 
    The Lute of the Beacon is disguised as Whelm
 
-  - Library - which?
-  - Keys from the Golden Vault - heist/prisoner map
+ - Sam: Grimoire Infinitus
+
+ - Keys from the Golden Vault - heist/prisoner map
+ - Library - which?
 
 
 # Hint Netherdeep is inside a Luxon
