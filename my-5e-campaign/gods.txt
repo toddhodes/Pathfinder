@@ -1,6 +1,7 @@
 
+# Gods and Heros
 
-# Overview
+## Gods Overview
 
 https://5e.tools/book.html#egw,-1
 
@@ -30,6 +31,60 @@ Tiamat	LE	Dragon god of evil	Order, Trickery, War	Taloned dragon claw
 Torog	NE	Enslavement, torture	Death, Trickery	Three pale arms clawing from a dark void
 Vecna	NE	Necromancy, secrets	Arcana, Death, Grave, Knowledge	Desiccated hand with an eye in the palm
 Zehir	CE	Assassins, poison, snakes	Nature, Trickery	Coiled serpent
+
+## Heros 
+
+ Alyxian’s Allies
+
+ 1. Phaelis - Champion of the Wildmother
+  --> intro plot with him that will tie the Druid in
+  
+  Phaelis was a halfling Druid from the area of the current-day Lotusden Greenwood.
+  With the Wildmother’s blessing, they created 3 artifacts together.
+  
+  - The Verdant Heart, a green pendant on a necklace. (roll on a d100 table to polymorph into
+  random beast once per day)
+
+  - Sapling, a staff made from a branch of the Seed of Rebirth in Vasselheim. (+1 Magic
+  quarterstaff w/ +1 to spell attack rolls and the Tree Form ability from the Staff of the
+  Woodlands)
+
+  - The Hide of the Feral Guardian (Vestige of Divergence)
+
+  When Phaelis fell in the Battle for Ghor Dranas, these three artifacts were scattered across
+  Exandria. In memory of Phaelis and as a beacon of hope, the Wildmother later sprouted the
+  Arbor Exemplar from the remains of his body.
+
+ 2. Orrik - Champion of the All-Hammer
+  --> intro plot with him that will tie into Paladin
+
+  Orrik was a dwarf Paladin who fell in the battle for Ghor Dranas. He wields a Vestige of
+  Divergence which was forged in the Core Anvil. A hammer called Obsidias.
+
+  Not much is known about Orrik, nor about Obsidias 
+
+ 3. Duana - Champion of the Dawnfather
+
+  Duana was an elven high priestess (cleric) of the Dawnfather who fell in the Battle for Ghor
+  Dranas. She was the original owner of the Plate of the Dawnmartyr, a Vestige of Divergence
+  which now rests in the hands of Pike Trickfoot.
+
+  (The only info on her official wiki is that she wore the vestige before Pike and died in the
+  battle for Ghor Dranas, so this seemed like a perfect fit)
+
+ 4. Dyamak - Champion of the Knowing Mentor
+
+  Dyamak was a blue Dragonborn monk who fell in the Battle for Ghor Dranas. She was the
+  original owner of a Vestige of Divergence known as Dyamak’s Wraps.
+
+  She is the original “Cobalt Soul” monk. As the champion of Ioun, she gathered knowledge and
+  tried to stomp out corruption wherever possible. After her passing, the tenets she lived by
+  became the basis for the Order of the Cobalt Soul, and the order was named in her honor.
+  Though she has long since been forgotten even to those within the order, her spirit lives on
+  through them.
+
+  When these heroes died, Alyxian called upon the Moonweaver and was granted an ally in
+  Perigee, but we all know about her.
 
 
 # Prime Deities
