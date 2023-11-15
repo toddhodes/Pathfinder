@@ -32,16 +32,16 @@ Torog	NE	Enslavement, torture	Death, Trickery	Three pale arms clawing from a dar
 Vecna	NE	Necromancy, secrets	Arcana, Death, Grave, Knowledge	Desiccated hand with an eye in the palm
 Zehir	CE	Assassins, poison, snakes	Nature, Trickery	Coiled serpent
 
-## Heros 
+## Heros
 
- Alyxian’s Allies
+### Alyxian’s Allies
 
  1. Phaelis - Champion of the Wildmother
   --> intro plot with him that will tie the Druid in
-  
+
   Phaelis was a halfling Druid from the area of the current-day Lotusden Greenwood.
   With the Wildmother’s blessing, they created 3 artifacts together.
-  
+
   - The Verdant Heart, a green pendant on a necklace. (roll on a d100 table to polymorph into
   random beast once per day)
 
@@ -85,6 +85,11 @@ Zehir	CE	Assassins, poison, snakes	Nature, Trickery	Coiled serpent
 
   When these heroes died, Alyxian called upon the Moonweaver and was granted an ally in
   Perigee, but we all know about her.
+
+### Why there is a pray site to Avandra in Betrayer's Rise
+
+Avandra was an "evil" god cuz she broke a few rules. She considered betraying the elven pantheon but a human,
+Alyxian, convinced her she wasnt truly evil, and became a godess of change
 
 
 # Prime Deities
@@ -142,4 +147,17 @@ Important History:
 Created the elves
 Fought the Ruiner piercing his eye
 The blood of the Ruiner tainted the elves below turning them into orcs and centaurs
+
+
+# Betrayer Gods
+
+## Why Gruumsh loses an eye
+
+Orcs and elves were best of friends since Correllon and Onnokt, the orc diety of competition and Gruumsh's older
+brother, were friends. This changed when Gruumsh betrayed the orcs by slaying many of the gods of the pantheon
+including Onnokt. This filled Correllon with rage sparking thier legendary battle where Gruumsh looses an eye. After
+Correllon resented all orcs as his people did. Correllon saw that no one uttered the name Onnokt out of grief and
+high emotion until he was forgotten by mortals. Gruumsh had prime control forcing many of them to turn to violent
+tribes. And Alyxian is the only mortal from a time where Onnokt is remembered. That battle and the sinking of Cael
+Marrow is where Alyxian fell.
 
