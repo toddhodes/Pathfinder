@@ -86,23 +86,29 @@
     a 30-foot-deep pit lined with rows of silver blades.  in bygone days, servants of the
     Betrayer Gods threw mortals into these pits to appease them.  Now, the Aurora Watch herds
     demons and other monsters into them.
+    --> 8d10 slashing + fall
 
  1. Gate - intro fight, 5 gibbering mouthers, Verin Thelyss
  2. Crematorium - Prolix, Allegiance of Allsight.
-   Thick smoke billows from the chimneys of this stone building. Corpses wrapped in beige cloth are stacked in
-   a small yard northeast of the building.  A willowy man wearing a leather apron greets you at the entrance with dour
-   cheer. "New bodies for Bazzoxan, I see." Behind him stands a giant man: muscular, blue-eyed, with short-cropped hair
-   and a missing arm.
-  - off to the side, a bookish tiefling is awkwardly poking at a dead vrock, repulsive, which oddly hasn't dissolved into a pool of
-   ichor as it should have, which suggests some sort of abnormality. the tiefling has a variety of archaeology tools hang at his waist
-   along with a satchel holding notebooks. he explains "We can't burn this yet. something is off."
-   once he sees you staring, he Reaches into the satchel, and pulls out a badge and holds it up, as if the badge alone
-   explained his reason for being here.  The badge displays the symbol of his faction: a scroll bearing a single, watchful eye.
-   - Allegiance of Allsight
+   "Thick smoke billows from the chimneys of this stone building. Corpses wrapped in beige cloth are stacked in
+    a small yard northeast of the building.  A willowy man wearing a leather apron curtly greets as you enter.
+    'Come back when you're dead.' Behind him stands a muscular, blue-eyed, short-cropped hai drow w/ a missing arm.
+    Off to the side, a bookish tiefling is awkwardly poking at a dead vrock.
+    the tiefling has a variety of archaeology tools hang at his waist along with a satchel holding notebooks. 
 
-  - hi, i'm Prolix!  archaeologist from Ank'Harel, a city on the distant continent of Marquet.
+   - oddly hasn't dissolved into a pool of ichor, suggests abnormality.
+   - "We can't burn this yet. something is off."
+   - hi, i'm Prolix!  archaeologist from Ank'Harel, on the continent of Marquet.
+   - Reaches into the satchel, pulls out badge. as if explainging everything.
+     badge displays a scroll bearing a single, watchful eye.  [Allegiance of Allsight]
+   - "I'm an archaeologist, but I'm not here to perform archaeology, per se. I was sent by the Allegiance of
+     Allsight to deal with a rival agent of the Consortium of the Vermilion Dream." Prolix says that the Allegiance
+     doesn't know why the Consortium dispatched someone to Bazzoxan, but the reason can't be good.  [Aloysia]
+
+    "She's looking for something in the Betrayers' Rise. She's not hard to spot. Tall, pale, dressed in red.
+     Cold-blooded. what she wants is... well, that's what we'd like to know."
+
   - vrocks often swallow jewelry and other ornamental objects
-  - a little help w/ the body?
   - DC 15 Wisdom (Survival) check.
     failed: eruption of spores 10': DC 14 Constitution saving throw or poisoned. 1d10 poison.
     success: pair of gold-trimmed eyes of the eagle, 3 gaudy rings worth 20 gp each, cube-shaped puzzle box made of onyx and measuring 3"
@@ -110,36 +116,26 @@
     --> Prolix grabs box
         body starts to dissolve
 
-   "I'm an archaeologist, but I'm not here to perform archaeology, per se. I was sent by the Allegiance of
-    Allsight to spy on a rival agent of the Consortium of the Vermilion Dream." Prolix says that the Allegiance
-    doesn't know why the Consortium dispatched someone to Bazzoxan, but the reason can't be good.  [Aloysia]
-
-   "She's looking for something in the Betrayers' Rise. She's not hard to spot. Tall, pale, dressed in red.
-    Cold-blooded. Seems like she'd do anything to get what she wants. And what she wants is... well, that's what
-    I'd like to know!"
-
   - we should  break into her [Aloysia’s] room and steal her notes.  (at the Ready Room).
    [Allegiance of Allsight (Prolix) want to use the ruidium to create weapons, armor, and other
      artifacts that they can sell to the highest bidder.  agenda: The Allegiance wants to use it to become arms dealers]
-  - "Can i see that item?" draws sketch
+  - [SEES JEWEL] "Can i see that item?" draws sketch
     - invites the characters to return with him to the Crystal Chateau, his university in Ank'Harel,
-    - mentions Question
 
  3. Infirmary
   - 3 buildings on the perimeter of the central square have doors marked with a symbol of a hand alight with magic.
     you enter &
    "The walls are lined with shelves that hold old books and medical supplies. The floor is crammed with
     narrow cots. There's a small office in the back, its door ajar, and the air reeks of medicinal poultices.
-  - a drow priest is chatting with a young wounded female drow edge of bed.
-    Other wounded patients -- most of them asleep -- fill the infirmary bed
-  - approaches, concerned look.  "hello friends.  are you well? i'm Bautha Dyrr."
-     DC 15 Intelligence (Religion) check:
-     - pin in the shape of a black wing attached to Bautha's cloak is holy symbol of Xalicas,
-       a solar who served as the right hand of Corellon the Arch Heart before falling in the Calamity
-  - "ok?  great.  the violence here is... horrible"
+    A drow priest is chatting with a young wounded female drow edge of bed.
+    Other wounded patients -- most of them asleep -- fill the rest of the beds."
+  - approaches, concerned look.  - pin in the shape of a black wing is attached to his cloak 
+   "hello friends. Are you well?" ... "I'm Bautha Dyrr."
+     --> DC 15 Intelligence (Religion) check: pin is holy symbol of Xalicas,
+         a solar who served as the right hand of Corellon the Arch Heart before falling in the Calamity
+  - "ok?  great.  the violence here, it... takes a terrible toll."
 
-  --> as yoyu leave, wounded member of the AW calls out.
-     [Naevyn Tasithar].
+  --> as yoyu leave, wounded member of the AW calls out.  [Naevyn Tasithar].
     "can you get me my satchel? pulls out small tiger's eye carving of a rabbit with a name carved into.
     "can you bring this to the Wall of the Unforgotten?"
 
@@ -189,13 +185,14 @@
  4. c. Barracks Training: Shooting Match.  Sparring Match.  Wrestling Match.
 
  5. Dilapidated Temple
-     "what might have been a flourishing, spiral-shaped temple has fallen into disrepair"
+     "What might have been a flourishing, spiral-shaped temple has fallen into disrepair.
      "Glass crunches underfoot amid overgrown weeds. Collapsed walls have been replaced with rows
       of wooden shelves that hold earthenware pots. Numerous alcoves are being used as planters for
       stubborn flora. Just outside the far end of the enclosure, a smashed mosaic of stained glass
       sits in a splintered window frame next to a withered, skeletal tree."
+      A firbolg [Fogholm] tends to the greenery - [Melora the Wild Mother, recognizes Avandra]
+
     --> DC 17 (Religion): mosaic once depicted a woman's face on a golden disk: the iconography of Avandra the Change Bringer.
-    a firbolg [Fogholm] tends to the greenery - [Melora the Wild Mother, recognizes Avandra]
      - No vegetation survives for long in Bazzoxan.  He hopes to honor both deities by cultivating new life"
      - While meditating the other night, he felt something surge within the earth nearby
      - if given jewel: three fragments of divine power within it, one awake and two slumbering
@@ -204,14 +201,14 @@
      Calamity, and the Betrayers' Rise was once a fortress protecting Ghor Dranas. In the darkest days of the
      Calamity, the Prime Deities and their most loyal champions laid siege to Ghor Dranas before capturing the
      Betrayers' Rise and routing the Betrayer Gods' forces there. Though storytellers have long since forgotten
-     the names of many of those heroes, the force of their bonds still resonates across the land."
+     the names of many of those heroes, the force of their bonds still resonates across the land. there is whisp here."
 
  6. Wall of the Unforgotten 
   "A stretch of stone wall is carved with names and wreathed in dried flowers, silver necklaces, and ropes weighted
    with good-luck charms. The ground near the wall is cluttered with trinkets left there as offerings.  A drow of the
    Aurora Watch prays near a corner of the wall.  The wall is crowded with names, most scratched into the surface with knives."
-   - 300yo drow priest [Kalym Telaarin].  left leg is an intricate prosthetic carved from chitinous black rock and ringed with bands 
-     of pale purple light. 
+   - you see an ancient looking drow priest [Kalym Telaarin], 
+     left leg an intricate prosthetic carved from black rock and ringed with bands of pale purple light. 
    - Kalym rises to his feet and motions to the wall. "They've earned their rest."
    [if ITEM from infirmary] --> Mote of Possibilies
 
