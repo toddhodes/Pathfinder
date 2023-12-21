@@ -93,34 +93,26 @@ A dark wood lute with gunmetal silver etchings, dragonbone inlays, and strings o
 various symbols of the gods of music is carved into the back. (Corellon Larethian, Olidammara)
 
 DORMANT
+- spellcasting focus for your bard spells.
 - +1 spell attack rolls and save DC.
-- You can use this item as a spellcasting focus for your bard spells.
-- You know the Vicious Mockery cantrip and it doesn’t count towards the number of cantrips you know.
-- You know the Dissonant Whispers spell and it doesn’t count towards the number of spells you know. 
-  Cast 1/day without expending a spell slot. 
-- gain 3 extra skill or tool proficiencies and your proficiency bonus is double for ability checks 
-  made using these skills or tools.
-- +1/day use of Bardic Inspiration.
-- +d4 bonus to initiative rolls.
+- +1/day Bardic Inspiration.
 
 AWAKENED
 - +2 spell attack rolls and save DC.
-- jack of all trades uses full proficiency bonus
-- You know the Compulsion spell and it doesn’t count towards the number of spells you know. 
-  Cast 1/day without expending a spell slot. 
-- When you use the Song of Rest feature, creatures now roll an extra die when regaining hit points.
-  If no dice are used, gain 1 die.
-- The bonus from above becomes +2/day use of Bardic Inspiration.
-- The bonus from above becomes +d6 bonus to initiative rolls.
+- +2/day Bardic Inspiration.
+- +d4 bonus to initiative rolls.
+- Song of Rest - creatures roll an extra die when regaining hit points.  If no dice are used, gain 1 die.
 
 EXALTED
 - +3 spell attack rolls and save DC.
-- You learn any two spells of your choosing and they do not count against the number of spells you can know.
-- The bonus from above becomes +3/day use of Bardic Inspiration.
-- The bonus from above becomes +d10 bonus to initiative rolls.
+- +3/day Bardic Inspiration.
+- +d6 bonus to initiative rolls.
+- jack of all trades uses full proficiency bonus
+- Learn any spell of your choosing; does not count against the number of spells you can know.
 
 Other possible properties
 -------------------------
+- choose a skill or tool proficiency -- your proficiency bonus is double for ability checks made using these skills or tools
 - as a free action at the start of each of your turns, you can change the weapon type of the weapon.
 - While wielding this weapon, you can cast the disguise self spell (DC 15) at will, without expending a spell slot.
 
