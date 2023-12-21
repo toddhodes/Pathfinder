@@ -37,31 +37,29 @@ Zehir	CE	Assassins, poison, snakes	Nature, Trickery	Coiled serpent
 ### Alyxian’s Allies
 
  1. Phaelis - Champion of the Wildmother
-  --> intro plot with him that will tie the Druid in
+  --> Druid
 
   Phaelis was a halfling Druid from the area of the current-day Lotusden Greenwood.
   With the Wildmother’s blessing, they created 3 artifacts together.
 
-  - The Verdant Heart, a green pendant on a necklace. (roll on a d100 table to polymorph into
-  random beast once per day)
+  - The Verdant Heart, a green pendant on a necklace. (1/day wildshape)
 
-  - Sapling, a staff made from a branch of the Seed of Rebirth in Vasselheim. (+1 Magic
-  quarterstaff w/ +1 to spell attack rolls and the Tree Form ability from the Staff of the
-  Woodlands)
+  - Sapling, a staff made from a branch of the Seed of Rebirth in Vasselheim.·
+     +1 quarterstaff
+     +1 to spell attack rolls and spell DC
 
-  - The Hide of the Feral Guardian (Vestige of Divergence)
+  - The Hide of the Feral Guardian (VoD) beautifully detailed leather armor, gift from Melora
 
-  When Phaelis fell in the Battle for Ghor Dranas, these three artifacts were scattered across
-  Exandria. In memory of Phaelis and as a beacon of hope, the Wildmother later sprouted the
+  Phaelis fell in the Battle for Ghor Dranas. these three artifacts were laid with him·
+  in his crypt that was sealed by the gods for his service, but then lost to time.
+  In memory of Phaelis and as a beacon of hope, the Wildmother sprouted the
   Arbor Exemplar from the remains of his body.
 
  2. Orrik - Champion of the All-Hammer
-  --> intro plot with him that will tie into Paladin
+  --> Paladin
 
   Orrik was a dwarf Paladin who fell in the battle for Ghor Dranas. He wields a Vestige of
   Divergence which was forged in the Core Anvil. A hammer called Obsidias.
-
-  Not much is known about Orrik, nor about Obsidias 
 
  3. Duana - Champion of the Dawnfather
 

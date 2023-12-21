@@ -4,33 +4,20 @@
 
 6th	Chpt 3b: Betrayers' Rise (R1-R16)
 
-Chapter 3b - Betrayer’s Rise
-Additional Rooms
-   https://drive.google.com/drive/u/1/folders/1txC0CJBpPFpYC9QKvoOkYG0iRJwvO8ea
- - Fountain of the First Knight
- - Chamber of Tiamat https://www.reddit.com/r/CalloftheNetherdeep/comments/v2icke/betrayers_rise_changes_tiamat_boss_room_fight/
- - Hall of Mirrors
- - Serpent’s Maw
- - Vecna’s Library
-
 ## Approach Betrayer's Rise
 
-  **Aloysia**·
+  Aloysia
   - wants to find an ancient rift deep inside the Betrayers' Rise.  [prayer site?]
   - The Dreamer is exploring the Netherdeep in search of a portal, which he believes will lead him to the surface of Ruidus
 
-  **Question**
-   - rubbing of a wall carving in the Betrayers' Rise (R1).  symbol that depicts a long-haired woman peering into the distance.
-     DC 12 (Religion): holy symbol of Avandra the Change Bringer.
+  Question
+   - rubbing of a wall carving in the Betrayers' Rise depicts a long-haired woman 
+   - searching for lost people
 
   Its exterior is in a wide variety of styles from various locations or planes or Gods; these
   include many potential entrances, or study locations, tho these are mostly inaccessible due
   to inscrutible entrance instructions, runes to be interpreted, and likely traps to be
   navigated.
-
-Many entrances;
-ruidium is specifically found around this entrance and in this micro-dungeon
-find this one, or, get a guide to the bas relief, or, steal notes to it.
 
 "The Doors of The Laughing Hand, champion of Torog. Speak, friend, and enter."
 
@@ -54,9 +41,64 @@ The AW warily watch you enter, and close the doors behind you.  darkness, as the
 
 ## Rooms
 
+### Fountain of the First Knight
 
+In the center of the room is a basin over which stands a somber statue of man in armor, horns curled back, wings
+outstretched, holding a carved stone mace. The fountain basins hold blood-like liquid that sparkles like the depths
+of the stars.
+
+DC 10: The statue is of Zerxus Ilerez, First Knight, and Right Hand of the Lord of Hells.  
+
+staring into the liquid gives you visions of the story of the fall of the city of Avalir.
+
+Any player that gazes into the liquid must make a DC 15 Wisdom save or be captivated by the stars and incapacitated
+for up to one hour, gaining one level of exhaustion and temp HP equal to your level.  Taking damage breaks the
+charm effect.
+
+### Prince's library [was: Vecna]
+
+- Book: Hidden History of Avandra
+  - Avandra was neither "good" nor "evil"; she broke rules.  She considered betraying the elven pantheon but
+    omething convinced her otherwise, and she became a godess of change
+- Book: The Herald of the Champions of the Battle for Ghor Dranas
+ covers 4 people; 4 who fell in the Battle for Ghor Dranas, one who was in the fields at the Battle of "the Bazzoxan"
+
+ 1. Phaelis - Champion of the Wildmother.  halfling Druid from the area of current-day Lotusden Greenwood.
+  Phaelis fell in the Battle for Ghor Dranas.  In memory of Phaelis and as a beacon of hope, the Wildmother
+  sprouted the Arbor Exemplar from the remains of his body.
+
+  three artifacts were laid with him in his crypt that was sealed by the gods for his service, but then lost to time
+  - The Verdant Heart, a green pendant on a necklace. (1/day wildshape)
+  - The Sapling of Rebirth, a staff made from a branch of the Seed of Rebirth in Vasselheim
+     +1 quarterstaff, +1 to spell attack rolls and spell DC
+  - The Hide of the Feral Guardian (VoD) beautifully detailed leather armor, gift from Melora
+
+  ! explains the ritual to open his crypt (call out to Avandra)
+
+ 2. Orrik - Champion of the All-Hammer,
+  - He wields a Vestige of Divergence which was forged in the Core Anvil, A hammer called Obsidias.
+
+ 3. Duana - Champion of the Dawnfather, elven high priestess (cleric) 
+  - Wears the VoD, Plate of the Dawnmartyr
+
+ 4. Dyamak - Champion of the Knowing Mentor, blue Dragonborn monk 
+  - Was the owner of VoD, Dyamak’s Wraps.
+  - Claims she is the original “Cobalt Soul” monk. As the champion of Ioun, she gathered knowledge and
+  tried to stomp out corruption wherever possible. After her passing, the tenets she lived by
+  became the basis for the Order of the Cobalt Soul, and the order was named in her honor.
+
+  has long since been forgotten even to those within the order! her spirit lives on, though, through them
+
+  5. Perigee - final granted an ally granted by the Moonweaver 
 
 ## Custom Rooms
+
+https://drive.google.com/drive/u/1/folders/1txC0CJBpPFpYC9QKvoOkYG0iRJwvO8ea
+ - Fountain of the First Knight
+ - Chamber of Tiamat
+ - Hall of Mirrors
+ - Serpent’s Maw
+ - Vecna’s Library
 
 From the entrance the tunnel is steadily ascending pathway, 19-foot high, six feet wide.  After 200'
 the tunnel turns sharply left, and then right.  another 100', same.
@@ -151,9 +193,6 @@ https://www.reddit.com/r/CalloftheNetherdeep/comments/16awsss/betrayers_rise_mov
 - added a high priestess of Lolth [with the Shadow Crown from Locke and Key as another boss]
 
 
-# Introduce other lvl 5-8 content
-
-
 ## Bestiary
 
  - Statblock nightmare shepherd https://www.worldanvil.com/block/829904
@@ -167,3 +206,4 @@ https://www.reddit.com/r/CalloftheNetherdeep/comments/16awsss/betrayers_rise_mov
 Chapter 5: The rift to the Netherdeep in Cael Morrow emerges from a cracked Luxon beacon.
 
 https://www.reddit.com/r/CalloftheNetherdeep/comments/vc8y8r/a_plot_twist_for_the_campaign/
+
