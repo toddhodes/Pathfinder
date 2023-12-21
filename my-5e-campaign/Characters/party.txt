@@ -5,12 +5,14 @@ Half-orc Bard - Rumblepants Loudbottom - Ryan - valor/lore - central Xhorhas / R
 Aasimar Paladin - Adam Oreh - Steven - vengence - Zadash
 Tabaxi Druid - Stelmaria Belacqua - Josh - shepards/wildfire - Zadash
 Triton Rogue - Bobbery - James - inquisitive - Darktow
+Sorcerer - Feanturi - Divine Soul - Dynasty/Roshana
 
 
 marching order
-Stel
 DRU
+Stel
 Adam
+Fean
 Rumble
 Bob
 

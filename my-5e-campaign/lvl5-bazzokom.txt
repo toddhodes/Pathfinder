@@ -354,21 +354,32 @@ changes:
   https://drive.google.com/drive/folders/1c95Lxa2OzB_RGUQ8AhTGPT3rV73ncq8y
 
 changes:
-- 5 thugs, 2 assassin
+- 5 thugs, 1 assassin
 
 # Introduce other lvl 5-8 content
 
+ - Stav:
+   this is your questline. the jewel seems to be tied to variants of the crystals inside you, from your creator.
+ - Josh:
+   you are avoiding your dad.  the people in phandalin are known to you from.
+ - Stephen:
+   the spear is from a divine source if you choose to bond with it
+ - Sam:
+   pending: Grimoire Infinitus
+
  - James:
-   In rexentruum, entire private bar.  person recognizes you and asks how Jace is.  Person next to him visibily stiffens.
-   Says in thieves kant, "you haven't heard?".  explains the following:
+   At the Ready Room, you have a message.  A meeting is requested.
+   -- private bar.  person recognizes you and asks how Jace is.  Person next to him visibily stiffens.
+   -- Says in thieves kant, "you haven't heard?".  explains the following:
+     - Herwin & Swilliam
     Jace Slumber was running high-level battlefield caliber arcane weaponry, rumored to be from Ruins of Molaesmyr in
     the Savalirwood or the Aeor crash site. selling to the highest bidder.  We're talking 100k GP here.
     This was a bidding between the highest levels of the dynasty and empire.  the Bright Queen and King Bertrand Dwendal
     would have to have been invovled to sign off.  then he disappeared.  Jace is the consumate smuggler. doesn't ply in
     trouble.  we made careful inquiries.  he is alive.  but must have learned something he shouldn't have, and is being
     held by one side or the other, in either capital, Roshana (Shadowspire) or Rexxentrum (Claykeep Prison).  
-    or other secure place. [Vergesson Sanatorium
-      vast prison known as the Archevault was repurposed by the Cerberus Assembly as an imperial sanatorium and
+    or other secure place. [Vergesson Sanatorium]
+      [vast prison known as the Archevault was repurposed by the Cerberus Assembly as an imperial sanatorium and
       hospital. Named after Lord Symon Vergesson, the late assembly member who founded it, the massive mansion is
       surrounded by vast gardens and filled with beautiful artwork designed to please the primarily wealthy
       patients.]
@@ -386,8 +397,9 @@ changes:
        Vault are often illegal, but they always support a just, moral cause.
 
  - Ryan:
+
    The archmage Keraptis has the Lute of the Beacon at White Plume Mountain.  a person of the right lineage can
-   play the lute and discover the song of the lute of the beacon, whose lyrics might lead to the first clues of
+   play the lute and re-discover the song of the lute of the beacon, whose lyrics could provide the first clues of
    that lineage's generational goals.
 
    In the Biting North, beyond the Greying Wildlands and into the islands of Eiselcross, lies a miniature companion to
@@ -405,13 +417,24 @@ changes:
    closer than most dared to, and took it over, privoding who knows what kind of alterations.  he disappeared
    below White Plume Mountain and vanished from the stories of the surface world.
 
-   Several weeks ago, three highly valued magic weapons named Wave, Whelm, and Blackrazor
-   disappeared from the vaults of their owners. Rewards were posted, servants hanged, even the
-   sanctuary of the thieves' guild was violated in the frantic search for the priceless arms,
-   but not even a single clue was turned up until the weapons' former owners each received a
-   copy of the following note: ...
+   not long ago, three highly valued magic weapons, that remain unnamed [Wave, Whelm, and Blackrazor],
+   disappeared from the vaults of their owners. Rewards were posted, servants hanged, various
+   thieves' guild's sanctuaries were subject to intense inquiry. 
+   but not even a single clue was turned up until the weapons' former owners each received a note:
 
-   The Lute of the Beacon is disguised as Whelm
+          Search ye far or search ye near
+          You'll find no trace of the three
+          Unless you follow instructions clear
+          For the weapons abide with me.
+
+   All the notes were signed with the symbol of Keraptis.
+   It seems archmage Keraptis has them at White Plume Mountain, and invites challenge.
+
+   "so?" you ask? well...  The Lute of the Beacon might be disguised as one of these three items.
+
+   A person of the right lineage can play the lute and re-discover the song of the lute of the beacon, whose lyrics
+   could provide the first clues of that lineage's generational goals.
+
 
  - Sam: Grimoire Infinitus
 

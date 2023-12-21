@@ -13,6 +13,35 @@ Additional Rooms
  - Serpent’s Maw
  - Vecna’s Library
 
+## Approach Betrayer's Rise
+
+  **Aloysia**·
+  - wants to find an ancient rift deep inside the Betrayers' Rise.  [prayer site?]
+  - The Dreamer is exploring the Netherdeep in search of a portal, which he believes will lead him to the surface of Ruidus
+
+  **Question**
+   - rubbing of a wall carving in the Betrayers' Rise (R1).  symbol that depicts a long-haired woman peering into the distance.
+     DC 12 (Religion): holy symbol of Avandra the Change Bringer.
+
+  Its exterior is in a wide variety of styles from various locations or planes or Gods; these
+  include many potential entrances, or study locations, tho these are mostly inaccessible due
+  to inscrutible entrance instructions, runes to be interpreted, and likely traps to be
+  navigated.
+
+Many entrances;
+ruidium is specifically found around this entrance and in this micro-dungeon
+find this one, or, get a guide to the bas relief, or, steal notes to it.
+
+"The Doors of The Laughing Hand, champion of Torog. Speak, friend, and enter."
+
+- Betrayer's Rise is an ancient palace of the Princes of the Abyss:
+  Orcus: Demon Prince of the Undead; domain: Thanatos
+  Yeenoghu: A demon lord of hunger and destruction, God of the gnolls; domain: Death Dells
+  Graz'zt: Demon Prince of Indulgence; domain: Azzatar
+  Baphomet: The Horned King, Demon Prince of Beasts; domain: The Endless Maze
+  Lolth: Spider queen, god of the (underground) drow; domain: The Demonweb, aka the Dreadnest
+
+
 ## Enter the Rise
 
 You stand on a weather- and time- stained bridge that extends over a chasm of swirling silver mist. On the far side
@@ -23,9 +52,13 @@ and pulses in sync with the glowing door.
 
 The AW warily watch you enter, and close the doors behind you.  darkness, as the last beam of sunlight shrinks away.
 
+## Rooms
+
+
+
 ## Custom Rooms
 
-From the entrance the tunnel is steadily descending pathway, seven-foot high, six feet wide.  After 200'
+From the entrance the tunnel is steadily ascending pathway, 19-foot high, six feet wide.  After 200'
 the tunnel turns sharply left, and then right.  another 100', same.
 after a quarter mile, you hear an faint series of tones.  after another quarter mile, they become inaudible.
 after a mile, the walls stop, and it opens into a chamber + larger cylindrical tunnel, 40 feet in diameter, going to
@@ -33,15 +66,13 @@ the left and right.  The left passageway is fully caved in and collapsed. The ri
 Eventually on the right side of the tunnel, there is an four sided needle like obelisk that emerges from the ground,
 rising up about 15 feet. The tunnel continues before it slopes further down.
 
-The obelisk is slate gray off color with vertical abyssal symbols on each side.  The symbols read "Repeat the song".
+The obelisk is slate gray off color with vertical abyssal symbols on each side.  
 
 On the right side of the Obelisk is a set of stone doors with two figures, one on each door, beautiful
-alabaster, humanoid features, smooth skin, cropped hair, folded wings on their back, robes, 
+obsidian (alabaster), humanoid features, smooth skin, cropped hair, folded wings on their back, robes, 
 blank expressions. There are trails of crimson down their faces.
 
-touching them plays a variey of different light musical notes.
-
-The door lead to a subterranean courtyard.
+The doors lead to a subterranean courtyard.
 
 The subterranean courtyard has a crescent form with a curved wall, floor-to-ceiling. The ground is uneven with
 rocks and scraps of metal. There are a 7 statues, all humanoid, sitting, all facing the far wall. They all are
@@ -82,7 +113,7 @@ stalagmites rise up into 15' platforms w/ 5' rusted iron cages on them. Within t
  movement down the caverns awakens a chorus of hundreds of whispering, moaning, screaming voices which gradually subside 
  --> DC15 WIll to resist their influence and back away, else... starts to prepare to jump
  loud voice --> whispers rise --> DC15 Cha or roll for effect: 1st: catatonic for six seconds, later: catatonic, walk random direction
- 
+
 after passing through chasm, another massive door.
 
 one single porcelain celestial sculpture, holding its hands together with a small opening. 

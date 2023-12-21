@@ -1,34 +1,66 @@
 
 Rod of Uk'atoa
 --------------
-(WIP, based on Quicksilver + base rod + depth behavior)
+(based on Quicksilver + base rod + depth behavior)
 
 Vestige of the Divergence
-Wondrous Item, artifact (requires attunement by a by a devotee of the Luxon)
+Wondrous Item, artifact (requires attunement by aquatic race)
 
-Sentience: (Partial; Chaotic Neutral)
+Sentience: (Partial; Neutral)
 The weapon communicates telepathically at 120' range,
 and speaks common, undercommon, and all aquatic languages
 
 DORMANT
-- Acts as a rod of retribution: 
+- Acts as a rod of retribution
 - At depth of 30' or lower, +1 AC and +1 saving throws
-- You have a +1 bonus to attack and damage rolls made with this magic weapon. Immediately after you make an attack with this thrown or ranged weapon, it returns to your hand.
-- This item allows you to manifest a form of your choosing. As a bonus action on your turn, you can hold forth the item and transform it into any type of weapon you have used before 
-- While holding this weapon, you have advantage on initiative rolls
 
 AWAKENED
-- When touching water, bonus in water goes to +2 AC and +2 saving throws
-- The weapon’s bonus to attack and damage rolls increases to +2.
-- Any one-handed weapon choosen has the finesse property
-- as a free action at the start of each of your turns, you can change the weapon type of the weapon.
-- X While wielding this weapon, you can cast the disguise self spell (DC 15) at will, without expending a spell slot.
+- At all times, +1 AC and +1 saving throws
+- At depth of 10' or lower, +2 AC and +2 saving throws
+- Is a melee weapon you have proficiency & the finesse property, +2 to attack and damage, 1d6 dmg
 
 EXALTED
 - When touching water, +3 AC and +3 saving throws
 - The weapon’s bonus to attack and damage rolls increases to +3.
-- you are proficient with any weapon you manifest
+- When thrown, it returns to your hand.
 - The saving throw DC for the weapon’s abilities increases to 17.
+
+Moonweaver's Spear
+------------------
+Sentience: (Partial; Neutral)
+The weapon communicates telepathically at 120' range,
+and speaks common, undercommon, and all aquatic languages
+
+DORMANT
+- Moonweaver's Touch. 3/day, action, expend 1 or more charges to shoot a beam of moonlight at a creature you can see within 30 feet. 
+   The target must make a DC 15 Constitution saving throw, taking 2d10 radiant damage for the first charge, +1d10 for more,
+   expended this way on a failed save, or half as much on a successful one. On a failed save, the target is also transformed into
+   a tiny beast with a challenge rating of 0 (your choice) for 1 minute, as though affected by a polymorph spell.
+   The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+AWAKENED
+- +2 hit & dmg
+- returns to thrower after a ranged attack
+- sentience access: 1/day, can ask it a Y/N question.  10% chance of divine insight answer 
+
+EXALTED
+- +3 hit & dmg
+- saving throw DC increases to 17.
+
+
+Bloodwell Vial Vestige
+----------------------
+(attunement by a sorcerer)
+
+DORMANT
+- spellcasting focus
+- +1 to spell attack and DCs of sorcerer spells
+- roll Hit Dice regain 3 sorcery points 1/day
+
+AWAKENED
+- +2 to spell attack and DCs of sorcerer spells
+- While wearing this, you have advantage on initiative rolls
+- roll Hit Dice regain 5 sorcery points 1/day
 
 
 Lute of the Beacon
@@ -67,6 +99,11 @@ EXALTED
 - You learn any two spells of your choosing and they do not count against the number of spells you can know.
 - The bonus from above becomes +3/day use of Bardic Inspiration.
 - The bonus from above becomes +d10 bonus to initiative rolls.
+
+Other possible properties
+-------------------------
+- as a free action at the start of each of your turns, you can change the weapon type of the weapon.
+- While wielding this weapon, you can cast the disguise self spell (DC 15) at will, without expending a spell slot.
 
 
 Mind Crystals
