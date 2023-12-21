@@ -102,6 +102,7 @@ AWAKENED
 - +2/day Bardic Inspiration.
 - +d4 bonus to initiative rolls.
 - Song of Rest - creatures roll an extra die when regaining hit points.  If no dice are used, gain 1 die.
+- 1/week: Commune with the Beacon (as per the spell)
 
 EXALTED
 - +3 spell attack rolls and save DC.
