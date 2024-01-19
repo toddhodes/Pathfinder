@@ -55,13 +55,14 @@ Any player that gazes into the liquid must make a DC 15 Wisdom save or be captiv
 for up to one hour, gaining one level of exhaustion and temp HP equal to your level.  Taking damage breaks the
 charm effect.
 
-### Prince's library [was: Vecna]
+### Vecna's Library
 
-- Book: Hidden History of Avandra
+- Book: Disquisitions on the Vicissitude of Avandra
   - Avandra was neither "good" nor "evil"; she broke rules.  She considered betraying the elven pantheon but
-    omething convinced her otherwise, and she became a godess of change
-- Book: The Herald of the Champions of the Battle for Ghor Dranas
- covers 4 people; 4 who fell in the Battle for Ghor Dranas, one who was in the fields at the Battle of "the Bazzoxan"
+    something convinced her otherwise, and she became a godess of change
+
+- Book: The Herald of the Lamented of the Battle for Ghor Dranas
+ - covers 4 people; 4 who fell in the Battle for Ghor Dranas + one who was in the fields at the Battle of "the Bazzoxan"
 
  1. Phaelis - Champion of the Wildmother.  halfling Druid from the area of current-day Lotusden Greenwood.
   Phaelis fell in the Battle for Ghor Dranas.  In memory of Phaelis and as a beacon of hope, the Wildmother
