@@ -11,7 +11,7 @@
   - The Dreamer is exploring the Netherdeep in search of a portal, which he believes will lead him to the surface of Ruidus
 
   Question
-   - rubbing of a wall carving in the Betrayers' Rise depicts a long-haired woman 
+   - rubbing of a wall carving in the Betrayers' Rise depicts a long-haired woman
    - searching for lost people
 
   Its exterior is in a wide variety of styles from various locations or planes or Gods; these
@@ -47,7 +47,7 @@ In the center of the room is a basin over which stands a somber statue of man in
 outstretched, holding a carved stone mace. The fountain basins hold blood-like liquid that sparkles like the depths
 of the stars.
 
-DC 10: The statue is of Zerxus Ilerez, First Knight, and Right Hand of the Lord of Hells.  
+DC 10: The statue is of Zerxus Ilerez, First Knight, and Right Hand of the Lord of Hells.
 
 staring into the liquid gives you visions of the story of the fall of the city of Avalir.
 
@@ -79,10 +79,10 @@ charm effect.
  2. Orrik - Champion of the All-Hammer,
   - He wields a Vestige of Divergence which was forged in the Core Anvil, A hammer called Obsidias.
 
- 3. Duana - Champion of the Dawnfather, elven high priestess (cleric) 
+ 3. Duana - Champion of the Dawnfather, elven high priestess (cleric)
   - Wears the VoD, Plate of the Dawnmartyr
 
- 4. Dyamak - Champion of the Knowing Mentor, blue Dragonborn monk 
+ 4. Dyamak - Champion of the Knowing Mentor, blue Dragonborn monk
   - Was the owner of VoD, Dyamak’s Wraps.
   - Claims she is the original “Cobalt Soul” monk. As the champion of Ioun, she gathered knowledge and
   tried to stomp out corruption wherever possible. After her passing, the tenets she lived by
@@ -90,7 +90,8 @@ charm effect.
 
   has long since been forgotten even to those within the order! her spirit lives on, though, through them
 
-  5. Perigee - final granted an ally granted by the Moonweaver 
+  5. Perigee - final granted an ally granted by the Moonweaver
+
 
 ## Custom Rooms
 
@@ -109,10 +110,10 @@ the left and right.  The left passageway is fully caved in and collapsed. The ri
 Eventually on the right side of the tunnel, there is an four sided needle like obelisk that emerges from the ground,
 rising up about 15 feet. The tunnel continues before it slopes further down.
 
-The obelisk is slate gray off color with vertical abyssal symbols on each side.  
+The obelisk is slate gray off color with vertical abyssal symbols on each side.
 
 On the right side of the Obelisk is a set of stone doors with two figures, one on each door, beautiful
-obsidian (alabaster), humanoid features, smooth skin, cropped hair, folded wings on their back, robes, 
+obsidian (alabaster), humanoid features, smooth skin, cropped hair, folded wings on their back, robes,
 blank expressions. There are trails of crimson down their faces.
 
 The doors lead to a subterranean courtyard.
@@ -135,31 +136,31 @@ through which mist is emerging.  the edges of the room are pitch black magical d
 
 Beyond the gate and door is a 10' square room with a descending spiral staircase.
 billowing from the staircase is a 1' thick mist that covers the floor. The spiral staircase is three feet wide and spirals down to the right.
- [One of the steps is trapped, triggering a very subtle hum], summoning an Invisible Stalker, and an electrifying wave 
+ [One of the steps is trapped, triggering a very subtle hum], summoning an Invisible Stalker, and an electrifying wave
   that periodically fires]
 
-On the bottom of the stairs is a large brass and stone tower with blue and red crystal veins. beside it 
-there is a door made with similar material as the tower -- without a handle; there is a small gemstone shaped slot 
+On the bottom of the stairs is a large brass and stone tower with blue and red crystal veins. beside it
+there is a door made with similar material as the tower -- without a handle; there is a small gemstone shaped slot
 encircled by concentric crystal.
  [must put crystal in slot to open]
 
-beyond the door is massive natural cavern at the edge of a dark chasm. 
-A heavy iron bridge crosses it, but the other side and the bottom (if any) is lost in darkness. 
+beyond the door is massive natural cavern at the edge of a dark chasm.
+A heavy iron bridge crosses it, but the other side and the bottom (if any) is lost in darkness.
 
 120' bridge + 20' approaches.
-visible from center: 20' to either side 
+visible from center: 20' to either side
 stalagmites rise up into 15' platforms w/ 5' rusted iron cages on them. Within the cages are bones and armor.
  [inescapable lash in one]
  [@ 60' 2 ropers attack]
  [at bottom of bridge is a mass of skin, flesh, muscle, teeth, mouths and eyes, that move against itself, writhing and shifting]
 
- movement down the caverns awakens a chorus of hundreds of whispering, moaning, screaming voices which gradually subside 
+ movement down the caverns awakens a chorus of hundreds of whispering, moaning, screaming voices which gradually subside
  --> DC15 WIll to resist their influence and back away, else... starts to prepare to jump
  loud voice --> whispers rise --> DC15 Cha or roll for effect: 1st: catatonic for six seconds, later: catatonic, walk random direction
 
 after passing through chasm, another massive door.
 
-one single porcelain celestial sculpture, holding its hands together with a small opening. 
+one single porcelain celestial sculpture, holding its hands together with a small opening.
  [need item to open; eyes crystalize]
 
 place: https://criticalrole.fandom.com/wiki/King%27s_Cage
@@ -174,31 +175,67 @@ another entry:
 
 https://www.reddit.com/r/CalloftheNetherdeep/comments/168dh93/just_finished_cotn_last_night_ama/
 
-made a big maze competition for the Bowl of Judgement to tie in the D&D movie 
-added the Vidorant Vault (7th) heist from Keys from the Golden Vault 
+made a big maze competition for the Bowl of Judgement to tie in the D&D movie
+added the Vidorant Vault (7th) heist from Keys from the Golden Vault
   https://5e.tools/adventure.html#kftgv,8
-added the Price of Beauty from Candlekeep Mysteries.  
+added the Price of Beauty from Candlekeep Mysteries.
   https://5e.tools/adventure.html#cm,7
-    Beach Day episode that went horribly wrong, 
+    Beach Day episode that went horribly wrong,
     replaced the Steam Gardens in the River District with the spa from The Price of Beauty.
 
 Aloysia -> action-oriented CR12 boss (killing her before Betrayers Rise?)
-   Ruidium-powered Arcane Trickster Rogue.  short sword attack. sneak attack psychic damage, 
+   Ruidium-powered Arcane Trickster Rogue.  short sword attack. sneak attack psychic damage,
    + few good enchantment and illusion spells.
 
 https://www.reddit.com/r/CalloftheNetherdeep/comments/16awsss/betrayers_rise_moving_too_quickly_and_easily/
 
-- arms only lead to the Colliseum of Nightmares, the pool of blood with the Fiendish Orcs, Or the Spider's Chancel. 
+- arms only lead to the Colliseum of Nightmares, the pool of blood with the Fiendish Orcs, Or the Spider's Chancel.
 - Matt's Baxxozan dungeon from C2
-- added The Laughing Hand as a boss in Betrayer's Rise (lifted the whole encounter from The King's Cage episode) 
+- added The Laughing Hand as a boss in Betrayer's Rise (lifted the whole encounter from The King's Cage episode)
 - added a high priestess of Lolth [with the Shadow Crown from Locke and Key as another boss]
 
 
 ## Bestiary
 
  - Statblock nightmare shepherd https://www.worldanvil.com/block/829904
- - Mastix the Fettered, Champion of Torog - 
+ - Mastix the Fettered, Champion of Torog -
    https://www.dndbeyond.com/monsters/2909523-mastix-the-fettered-champion-of-torog
+
+### Drider BBEG
+
+Large monstrosity, chaotic evil
+Armor Class 19 (Natural Armor)
+Hit Points 153 (13d10 + 82)
+Speed 30 ft., climb 30 ft.
+
+STR     DEX     CON     INT     WIS     CHA
+16 (+3) 16 (+3) 18 (+4) 17 (+3) 14 (+2) 12 (+1)
+
+Saving Throws DEX +6, INT +6, WIS +5
+Skills Perception +5, Stealth +9
+Proficiency Bonus +3
+
+Actions
+Multiattack. three attacks
+ Bite. Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. Hit: 2 (1d4) piercing damage plus 9 (2d8) poison damage.
+ Longsword. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) two hands.
+ Longbow. Ranged Weapon Attack: +6 to hit, range 150/600 ft., one target. Hit: 7 (1d8 + 3) piercing damage to plus 4 (1d8) poison damage.
+Spellcasting. 7th-level spellcaster. Intelligence (spell save DC 14, +6 to hit with spell attacks).
+  Cantrips (at will: poison spray, shocking grasp, booming blade, blade ward
+  1st level (4 slots): magic missile, sleep, shield
+  2nd level (3 slots): hold person, misty step, mirror image
+  3rd level (3 slots): lightning bolt, counterspell
+  4th level (2 slots): confusion, greater invisibility.
+
+Legendary Resistance (3/day). If Nezznar fails a saving throw, it can choose to succeed instead.
+Fey Ancestry. Nezznar has advantage on saving throws against being charmed, and magic can't put the him sleep.
+Innate Spellcasting. Charisma (spell save DC 12); At will: dancing lights; 1/day each: darkness, faerie fire
+
+Legendary Actions: 3 legendary actions.  regains spent legendary actions at the start of its turn.
+  Move: Nezznar moves up to his speed without provoking attacks of opportunity.
+  Attack: melee, bite or ranged attack.
+  Cantrip: cantrip.
+  Spell: (Costs 2 actions) a spell from his prepared spell list.
 
 ### Aloysia
 
@@ -223,7 +260,7 @@ Cantrips (at will): Fire Bolt, Mage Hand, Minor Illusion, Prestidigitation
 4th level (3 slots): Greater Invisibility, Polymorph
 5th level (2 slots): Dominate Person, Teleportation Circle
 
-Metamagic: Subtle Spell. Twinned Spell. 
+Metamagic: Subtle Spell. Twinned Spell.
 Actions
  Shortsword. Melee Weapon Attack: +4 (1d6 + 2) piercing plus (2d6) psychic
  Arcane Blast (Recharge 5–6). 20-foot-radius sphere within 120 feet. DC 13 Dexterity. (3d6) force damage + pushed 10 feet if no save
