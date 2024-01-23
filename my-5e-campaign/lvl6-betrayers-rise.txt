@@ -227,7 +227,7 @@ Spellcasting. 7th-level spellcaster. Intelligence (spell save DC 14, +6 to hit w
   3rd level (3 slots): lightning bolt, counterspell
   4th level (2 slots): confusion, greater invisibility.
 
-Legendary Resistance (3/day). on fails a saving throw, succeed instead.
+Legendary Resistance (2/day). on fails a saving throw, succeed instead.
 Fey Ancestry. advantage on saving throws against being charmed, and magic can't be put to sleep.
 Innate Spellcasting. Charisma (spell save DC 12); At will: dancing lights; 1/day each: darkness, faerie fire
 
@@ -236,6 +236,41 @@ Legendary Actions: 3 legendary actions.  regains spent legendary actions at the 
   Attack: melee, bite or ranged attack.
   Cantrip: cantrip.
   Spell: (Costs 2 actions) a spell from his prepared spell list.
+
+
+### Mastix the Fettered, Champion of Torog
+
+Huge Fiend (Demon, Ogre), Chaotic Evil
+Armor Class 16 (natural armor)
+Hit Points 138 (12d12 + 60) 
+Speed 30 ft.
+
+STR 22 (+6)
+DEX 11 (+0)
+CON 20 (+5)
+INT 8 (-1)
+WIS 14 (+2)
+CHA 8 (-1)
+
+Saving Throws STR +10, CON +9, WIS +6
+Skills Athletics +9 
+Proficiency Bonus +4
+
+Legendary Resistance (2/Day). If Mastix fails a saving throw, he can choose to succeed instead.
+
+Actions
+- Multiattack. two chain smash attacks.
+- Chain Smash. Melee Weapon Attack: +10 , reach 15 ft., (2d8 + 6) bludgeoning DC 16 Constitution or stunned until the end of Mastix's next turn.
+- Dreadful Glare. 60' DC 14 Wisdom saving or frightened 1 minute. fails by 5 or more, paralyzed until the end of Mastix's next turn.
+- Animated Chains. Melee Weapon Attack: +6, reach 120 ft., (1d12 + 2) bludgeoning, grappled (escape DC 14). Until the grapple ends, the target is restrained. 
+   (AC 20, 20 hit points, resistance to piercing damage, and immunity to psychic and thunder damage.)
+
+Legendary Actions
+3 legendary actions 
+- Attack. Mastix makes one attack with his Chain Smash or uses his Dreadful Glare.
+- Animate Chains (Costs 2 Actions). Mastix makes one Animated Chains attack.
+
+
 
 ### Aloysia
 
