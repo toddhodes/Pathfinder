@@ -93,6 +93,39 @@ charm effect.
   5. Perigee - final granted an ally granted by the Moonweaver
 
 
+### Zehir (snake) room
+
+Looking at my serpentine greatness, you might wonder, which?
+First, set the darkest scales of night
+Second, the one that’s not just an itch
+Third, trusting the safest of bites
+Finally, once you're set, the maw is the switch
+Sing my name for an inkling
+
+DC 15:
+“Red against yellow, kills a fellow; 
+ but without color, we can only a guess”
+ 
+solution 
+head
+Black | Black | Black
+body
+Yellow | Red | Yellow
+tail
+Red | Black | Red  OR  Red | Black | Yellow   OR  Yellow | Black | Red
+
+
+### Fountain of the First Knight
+
+In the center of the room is a basin over which stands a somber statue of man in armor, horns curled back, wings outstretched, holding a carved stone mace. 
+The fountain basins hold amber liquid that sparkles like the depths of the stars. 
+
+The statue is of Zerxus Ilerez, First Knight, and Right Hand of the Lord of Hells.
+
+Any player that gazes into the liquid must make a DC 15 Wisdom save or be captivated by the stars and incapacitated for one hour, 
+gaining one level of exhaustion and temp hitpoints equal to your level.  Taking damage breaks the charm effect. 
+
+
 ## Custom Rooms
 
 https://drive.google.com/drive/u/1/folders/1txC0CJBpPFpYC9QKvoOkYG0iRJwvO8ea
@@ -205,7 +238,7 @@ https://www.reddit.com/r/CalloftheNetherdeep/comments/16awsss/betrayers_rise_mov
 
 Large monstrosity, chaotic evil
 Armor Class 19 (Natural Armor)
-Hit Points 153 (13d10 + 82)
+Hit Points 123 (13d10 + 82)
 Speed 30 ft., climb 30 ft.
 
 STR     DEX     CON     INT     WIS     CHA
@@ -239,6 +272,11 @@ Legendary Actions: 3 legendary actions.  regains spent legendary actions at the 
 
 
 ### Mastix the Fettered, Champion of Torog
+
+you see a monsterously huge Goliath, with a lost eye, covered in animated chains.
+"I faught alongside Alyxian until I fell in battle...  and was left for dead in the Betrayer's Rise."
+"The cruel act of abandonment, has lead me to Torog's curse, and aberrant transformation."
+"I am sorry, but, I cannot let you pass."
 
 Huge Fiend (Demon, Ogre), Chaotic Evil
 Armor Class 16 (natural armor)
