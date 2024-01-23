@@ -200,7 +200,34 @@ https://www.reddit.com/r/CalloftheNetherdeep/comments/16awsss/betrayers_rise_mov
  - Mastix the Fettered, Champion of Torog - 
    https://www.dndbeyond.com/monsters/2909523-mastix-the-fettered-champion-of-torog
 
- - 
+### Aloysia
+
+Aloysia Telfan
+Medium Humanoid (Elf, Sorcerer), Lawful Evil
+9th-level Sorcerer
+Armor Class 15 (natural armor)
+Hit Points 128
+Speed 30 ft.
+
+STR	DEX	CON	INT	WIS	CHA
+10 (+0)	14 (+2)	14 (+1)	14 (+2)	10 (+0)	20 (+5)
+
+Saving Throws Constitution +7, Charisma +9
+Skills Arcana +6, Deception +9, Persuasion +9 History +9, Perception +9
+
+Spellcasting. Charisma (spell save DC 17, +9 to hit)
+Cantrips (at will): Fire Bolt, Mage Hand, Minor Illusion, Prestidigitation
+1st level (4 slots): Charm Person, Magic Missile, Shield
+2nd level (3 slots): Invisibility, Mirror Image, Suggestion
+3rd level (3 slots): Counterspell, Fireball, Hypnotic Pattern
+4th level (3 slots): Greater Invisibility, Polymorph
+5th level (2 slots): Dominate Person, Teleportation Circle
+
+Metamagic: Subtle Spell. Twinned Spell. 
+Actions
+ Shortsword. Melee Weapon Attack: +4 (1d6 + 2) piercing plus (2d6) psychic
+ Arcane Blast (Recharge 5–6). 20-foot-radius sphere within 120 feet. DC 13 Dexterity. (3d6) force damage + pushed 10 feet if no save
+
 
 # Hint Netherdeep is inside a Luxon
 
