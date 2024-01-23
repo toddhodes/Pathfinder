@@ -227,12 +227,12 @@ Spellcasting. 7th-level spellcaster. Intelligence (spell save DC 14, +6 to hit w
   3rd level (3 slots): lightning bolt, counterspell
   4th level (2 slots): confusion, greater invisibility.
 
-Legendary Resistance (3/day). If Nezznar fails a saving throw, it can choose to succeed instead.
-Fey Ancestry. Nezznar has advantage on saving throws against being charmed, and magic can't put the him sleep.
+Legendary Resistance (3/day). on fails a saving throw, succeed instead.
+Fey Ancestry. advantage on saving throws against being charmed, and magic can't be put to sleep.
 Innate Spellcasting. Charisma (spell save DC 12); At will: dancing lights; 1/day each: darkness, faerie fire
 
 Legendary Actions: 3 legendary actions.  regains spent legendary actions at the start of its turn.
-  Move: Nezznar moves up to his speed without provoking attacks of opportunity.
+  Move: moves up to his speed without provoking attacks of opportunity.
   Attack: melee, bite or ranged attack.
   Cantrip: cantrip.
   Spell: (Costs 2 actions) a spell from his prepared spell list.
