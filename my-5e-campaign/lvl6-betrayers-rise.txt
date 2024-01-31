@@ -89,10 +89,10 @@ Finally, once you're set, the maw is the switch
 Sing my name for an inkling
 
 DC 15:
-“Red against yellow, kills a fellow; 
+“Red against yellow, kills a fellow;
  but without color, we can only a guess”
- 
-solution 
+
+solution
 head
 Black | Black | Black
 body
@@ -109,22 +109,22 @@ liquid that sparkles like the depths of the stars.
 
 The statue is of Zerxus Ilerez, First Knight, and Right Hand of the Lord of Hells.
 
-Any player that gazes into the liquid must make a DC 15 Wisdom save or be captivated by the stars and incapacitated for one hour, 
-gaining one level of exhaustion and temp hitpoints equal to your level.  Taking damage breaks the charm effect. 
+Any player that gazes into the liquid must make a DC 15 Wisdom save or be captivated by the stars and incapacitated for one hour,
+gaining one level of exhaustion and temp hitpoints equal to your level.  Taking damage breaks the charm effect.
 
 
 #### Prayer Site of Avandra
 
 A spectral figure blossoms forth from the amulet. This warrior, who called himself Alyxian in
-your previous vision, looks up at you with a faint smile and says, 
-"You came... they brought you...  you can find me!" 
+your previous vision, looks up at you with a faint smile and says,
+"You came... they brought you...  you can find me!"
 
 The crystals around you glow brightly, and your vision goes white. Then you see a company of
 armored soldiers, Alyxian among them, marching toward the Betrayers' Rise. Their expressions are grim.
 
 Surrounding Alyxian are four figures who converse for a bit, then break off and head south.
  a halfling Druid.  an elven high priestess.  a blue Dragonborn monk. a dwarven fighrt with hammer.
- the Lamented of the Battle for Ghor Dranas - Phaelis, Duana, Dyamak, Orrik 
+ the Lamented of the Battle for Ghor Dranas - Phaelis, Duana, Dyamak, Orrik
 
 The vision shifts again, and everyone in the company of soldiers is dead except for Alyxian,
 who continues to fight while surrounded by the corpses of mortals and demons. He is hurled
@@ -133,16 +133,14 @@ his knees, pleading, before a simple wooden altar that bears the holy symbol of 
 end of his prayer, he's lifted to his feet by a tall young woman with light brown skin and
 flowing black hair.
 
-A foreboding voice cuts through this scene of angelic intervention, and Alyxian freezes. 
-"Change Bringer, you cannot save him; he will suffer. He will die. Or he will be forgotten. 
- All that he has worked to save will crumble and be devoured by worms.  All is futile in the end..."
+A foreboding voice cuts through this scene of angelic intervention, and Alyxian freezes.
+"Change Bringer, you cannot save him; he will suffer. He will die. Or he will be forgotten.
+ All is futile in the end..."
 
 As the voice trails off, Alyxian turns to face you and falls to his knees in dispair. The scenery
-shifts, and the forsaken warrior is now underwater, amid the ruins of a sunken city. 
-"The Crawling King was right". "It was all futile. I have been forgotten..."
-
- I am lost in darkness. Please, help us set it right.  
- The divine are powerless to intervene now.  They charge you as their vessel."
+shifts, and the forsaken warrior is now underwater, amid the ruins of a sunken city.
+"The Crawling King was right. It was all futile. I have been forgotten..."
+ I am lost in darkness.  The divine are powerless to intervene now."
 
  At this, all your vestiges of divergance glow a brightness you haven't seen before.
 
@@ -152,14 +150,25 @@ shifts, and the forsaken warrior is now underwater, amid the ruins of a sunken c
  mortal being into something more.  But these prayers had their cost.  The first stole my past, the second
  stole my present, and the final stole my future.
 
- Now I remain, long forgotten, imprisoned in an underwater place lit by a crimson glow. 
- Your discovery has awakened something, and mortals are harvesting the source of the glow.  It's ripping things apart.
+ Now I remain, long forgotten, imprisoned in an underwater place lit by a crimson glow.
+ Your discovery has awakened something, and mortals are harvesting the source of the glow.
+ It's ripping things apart."
+
+ And with that, as Alyxian trails off, and the vision fades.
+ You return to reality, where 3 glowing bright white light appear, and a sonorous voice fills the place.
+
+"We might be unable to cross the divine gate outselves, but, what Alyxian tells you is true.  He was
+ our champion, and has been forgotten.  As the holders of our most treasured artifacts,
+ we -- Avandra, Corellon, and Sehanine -- ask of you...  Seek
+ out Alyxian, whatever has become of him.  Find out what has happened,
+ In turn, we will provide help as best we can for the journy, and be in your debt.
+ We don't know the state of ALyxian, but, we owe it to him to find out."
 
  the vestiges awaken:
- - the rod now, the spear now, the jewel now..
+ - the rod, the spear, the jewel..
 
- And with that, just as the vision of Alyxian fades, a teleportion circle appears at the edge of the crater, 
- along with a red-robed figure. "Well done, heroes!" says Aloysia Telfan. 
+ And with that, just as the final light fades, a teleportion circle appears at the edge of the crater,
+ along with a red-robed figure. "Well done, heroes!" says Aloysia Telfan.
  "Now, if you would simply hand over the jewel, we can all get out of here without spilling any more blood."
  [Wis save on DRU & Feanturi]
 
@@ -313,11 +322,11 @@ Legendary Actions: 3 legendary actions.  regains spent legendary actions at the 
 
 you see a monsterously huge Goliath, with a lost eye, covered in animated chains.
 
-"I faught alongside Alyxian until we fell in battle...  and was left for dead in the Betrayer's Rise."
-"The cruel act of abandonment, has lead me to Torog's curse, and aberrant transformation."
-"the Crawling King binds me.  His commandments are mine.  I am sorry, but, I cannot let you pass."
+"I faught alongside Alyxian until we fell in battle...  and was left for dead in the Betrayer's Rise.
+ The cruel act of abandonment, has lead me to Torog's curse, and aberrant transformation.
+ the Crawling King binds me.  His commandments are mine.  I am sorry, but, I cannot let you pass."
 
-Torog is largely depicted as a swollen, malformed worm slithering through darkness 
+Torog is largely depicted as a swollen, malformed worm slithering through darkness
 with a hairless human head, and three arms carving through a lightless rock.
 He was defeated during the Calamity by Pelor, the Dawnfather and Sarenrae, the Everlight.
 
@@ -329,7 +338,7 @@ Commandments of the Crawling King
 
 Huge Fiend (Demon, Ogre), Chaotic Evil
 Armor Class 16 (natural armor)
-Hit Points 138 (12d12 + 60) 
+Hit Points 138 (12d12 + 60)
 Speed 30 ft.
 
 STR 22 (+6)
@@ -340,7 +349,7 @@ WIS 14 (+2)
 CHA 8 (-1)
 
 Saving Throws STR +10, CON +9, WIS +6
-Skills Athletics +9 
+Skills Athletics +9
 Proficiency Bonus +4
 
 Legendary Resistance (2/Day). If Mastix fails a saving throw, he can choose to succeed instead.
@@ -349,11 +358,11 @@ Actions
 - Multiattack. two chain smash attacks.
 - Chain Smash. Melee Weapon Attack: +10 , reach 15 ft., (2d8 + 6) bludgeoning DC 16 Constitution or stunned until the end of Mastix's next turn.
 - Dreadful Glare. 60' DC 14 Wisdom saving or frightened 1 minute. fails by 5 or more, paralyzed until the end of Mastix's next turn.
-- Animated Chains. Melee Weapon Attack: +6, reach 120 ft., (1d12 + 2) bludgeoning, grappled (escape DC 14). Until the grapple ends, the target is restrained. 
+- Animated Chains. Melee Weapon Attack: +6, reach 120 ft., (1d12 + 2) bludgeoning, grappled (escape DC 14). Until the grapple ends, the target is restrained.
    (AC 20, 20 hit points, resistance to piercing damage, and immunity to psychic and thunder damage.)
 
 Legendary Actions
-3 legendary actions 
+3 legendary actions
 - Attack. Mastix makes one attack with his Chain Smash or uses his Dreadful Glare.
 - Animate Chains (Costs 2 Actions). Mastix makes one Animated Chains attack.
 
