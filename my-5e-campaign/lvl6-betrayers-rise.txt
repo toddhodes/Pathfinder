@@ -29,6 +29,17 @@
   Lolth: Spider queen, god of the (underground) drow; domain: The Demonweb, aka the Dreadnest
 
 
+## Notes
+
+Torog is largely depicted as a swollen, malformed worm slithering through darkness
+with a hairless human head, and three arms carving through a lightless rock.
+He was defeated during the Calamity by Pelor, the Dawnfather and Sarenrae, the Everlight.
+
+Commandments of the Crawling King
+- Seek and exalt places where no light touches.
+- Revel in the pain you inflict upon others, and relish the pain you suffer yourself as an offering to the Crawling King.
+- Imprison those who cannot resist you, and drag all life into the darkness.
+
 ## Enter the Rise
 
 You stand on a weather- and time- stained bridge that extends over a chasm of swirling silver mist. On the far side
@@ -115,62 +126,74 @@ gaining one level of exhaustion and temp hitpoints equal to your level.  Taking 
 
 #### Prayer Site of Avandra
 
-A spectral figure blossoms forth from the amulet. This warrior, who called himself Alyxian in
-your previous vision, looks up at you with a faint smile and says,
-"You came... they brought you...  you can find me!"
+A spectral figure blossoms forth from the amulet. This warrior, who your recognize as Alyxian and from
+your previous vision, looks up at you with a faint smile.
 
-The crystals around you glow brightly, and your vision goes white. Then you see a company of
-armored soldiers, Alyxian among them, marching toward the Betrayers' Rise. Their expressions are grim.
+"You came... the items, they brought you... I can't believe you found your way here.
+ Let me tell you what I can"
+
+The crystals around you glow brightly, and your vision shifts. You see a company of armored
+soldiers, Alyxian among them, marching toward the Betrayers' Rise. Their expressions are grim.
 
 Surrounding Alyxian are four figures who converse for a bit, then break off and head south.
- a halfling Druid.  an elven high priestess.  a blue Dragonborn monk. a dwarven fighrt with hammer.
- the Lamented of the Battle for Ghor Dranas - Phaelis, Duana, Dyamak, Orrik
+a halfling Druid.  an elven high priestess.  a blue Dragonborn monk. a dwarven fighter.
+these are the Lamented of the Battle for Ghor Dranas - Phaelis, Duana, Dyamak, Orrik.
+according to the book, they are marching to their deaths.
 
-The vision shifts again, and everyone in the company of soldiers is dead except for Alyxian,
-who continues to fight while surrounded by the corpses of mortals and demons. He is hurled
-across the battlefield by the claws of a gorilla-like demon. The scene blurs, and he falls to
-his knees, pleading, before a simple wooden altar that bears the holy symbol of Avandra. At the
-end of his prayer, he's lifted to his feet by a tall young woman with light brown skin and
-flowing black hair.
+The vision shifts again, and you're in the battle of the barbed fields, the battle for bozoxxon
+and betrayer's rise.  Alyxian is hurled across the battlefield by the claws of gorilla-like
+demons, and runs to take cover inside the rise.  The scene blurs, and shifts again.
 
-A foreboding voice cuts through this scene of angelic intervention, and Alyxian freezes.
-"Change Bringer, you cannot save him; he will suffer. He will die. Or he will be forgotten.
- All is futile in the end..."
+Alyxian is on his knees, before a simple wooden altar that bears a hastily drawn holy symbol of Avandra.
+Exhausted, he's lifted to his feet by a young woman with light brown skin and blonde flowing hair;
+leather sandals, a simple gold-colored dress, gold bracers, silver jewelry, large Moonweaver earings, and 
+armed with a silver mace.
 
-As the voice trails off, Alyxian turns to face you and falls to his knees in dispair. The scenery
-shifts, and the forsaken warrior is now underwater, amid the ruins of a sunken city.
-"The Crawling King was right. It was all futile. I have been forgotten..."
- I am lost in darkness.  The divine are powerless to intervene now."
+The same woman you saw as the last standing in you visions of the end of the battle of the
+barbed fields.  Perigree.
 
- At this, all your vestiges of divergance glow a brightness you haven't seen before.
+The scenery shifts, and the warrior is now underwater, amid the ruins of a sunken city.
+Alyxian turns to face you and falls to his knees. You sense dispair. 
 
-"I beseeched the gods for power three times and three times received it -- first on the shores of
- Wildemount, again in the depths of the Betrayers' Rise, and once more in a temple of Corellon the Arch
- Heart in a city of elves and orcs in the jungles of Marquet. These divine gifts transformed me from a
- mortal being into something more.  But these prayers had their cost.  The first stole my past, the second
- stole my present, and the final stole my future.
+"I beseeched the gods for power three times and three times received it -- first on the shores
+ of Wildemount, where you discovered me after eons. Then once again, here, in the depths of
+ Betrayers' Rise, where we meet again.  And finally in a temple of Corellon, the Arch Heart, in
+ a city of elves and orcs in the jungles of Marquet, a city destroyed centuries ago. 
+
+ These divine gifts transformed me from a mortal being into something more, and had their cost.  
+ The first act stole my past, the second stole my present, and the final stole my future.
 
  Now I remain, long forgotten, imprisoned in an underwater place lit by a crimson glow.
- Your discovery has awakened something, and mortals are harvesting the source of the glow.
- It's ripping things apart."
+ Mortals are harvesting the source of the glow, and this act is torture, and dangerous.
+ It's ripping things apart.  It's the source of the rifts that allowed me to see you, but also,
+ sends legions from hell and the abyss into the world."
 
- And with that, as Alyxian trails off, and the vision fades.
- You return to reality, where 3 glowing bright white light appear, and a sonorous voice fills the place.
+ While the city of elves and orcs was destroyed centuries ago, it's surroundings remain intact.
+ Gruumsh, the Ruiner, attempted to strike the center of the city with a force intended to
+ destroy the entire continent. I was able to block him at the last second, and Marquet
+ survived, but I and it were permanently changed.
 
-"We might be unable to cross the divine gate outselves, but, what Alyxian tells you is true.  He was
- our champion, and has been forgotten.  As the holders of our most treasured artifacts,
- we -- Avandra, Corellon, and Sehanine -- ask of you...  Seek
- out Alyxian, whatever has become of him.  Find out what has happened,
- In turn, we will provide help as best we can for the journy, and be in your debt.
- We don't know the state of ALyxian, but, we owe it to him to find out."
+ The jungle is now desert.  But that is something.  Maybe the third prayer site remains there, somewhere."
 
- the vestiges awaken:
- - the rod, the spear, the jewel..
+And with that, as Alyxian trails off, and the vision fades.
 
- And with that, just as the final light fades, a teleportion circle appears at the edge of the crater,
- along with a red-robed figure. "Well done, heroes!" says Aloysia Telfan.
- "Now, if you would simply hand over the jewel, we can all get out of here without spilling any more blood."
- [Wis save on DRU & Feanturi]
+You return to reality, where 3 glowing bright angelic figures hover. A sonorous voice addresses you:
+
+"We might be unable to cross the divine gate outselves, but, what Alyxian tells you is true.
+ He was our champion, and has been forgotten.  As the holders of our most treasured artifacts,
+ we -- Avandra, Corellon, and Sehanine -- ask of you...  Seek out Alyxian, whatever has become
+ of him.  Find out what has happened.  In turn, we will provide help as best we can for the
+ journey, and be in your debt.  We don't know the state of Alyxian, but, we owe it to him to find out.
+
+ Now, as for the help..."
+
+At this, each of you feels an item on your person being imbued with divine magic.
+- For DRU, Adam, and Bobbery, your vestiges of divergance -- the rod, the spear, the jewel.. --
+  glow a brightness you haven't seen before.
+- For Rumble, Stel, and Feanturi, one item each takes on a shine
+
+And with that:
+ **Do you want to attempt to ask anything of Alyxian or the gods?**
 
 
 ## Custom Rooms
@@ -320,20 +343,11 @@ Legendary Actions: 3 legendary actions.  regains spent legendary actions at the 
 
 ### Mastix the Fettered, Champion of Torog
 
-you see a monsterously huge Goliath, with a lost eye, covered in animated chains.
+you see a monsterous, huge Goliath, with a lost eye, covered in animated chains.
 
 "I faught alongside Alyxian until we fell in battle...  and was left for dead in the Betrayer's Rise.
  The cruel act of abandonment, has lead me to Torog's curse, and aberrant transformation.
  the Crawling King binds me.  His commandments are mine.  I am sorry, but, I cannot let you pass."
-
-Torog is largely depicted as a swollen, malformed worm slithering through darkness
-with a hairless human head, and three arms carving through a lightless rock.
-He was defeated during the Calamity by Pelor, the Dawnfather and Sarenrae, the Everlight.
-
-Commandments of the Crawling King
-- Seek and exalt places where no light touches.
-- Revel in the pain you inflict upon others, and relish the pain you suffer yourself as an offering to the Crawling King.
-- Imprison those who cannot resist you, and drag all life into the darkness.
 
 
 Huge Fiend (Demon, Ogre), Chaotic Evil
