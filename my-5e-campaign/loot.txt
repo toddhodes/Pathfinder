@@ -4,7 +4,7 @@ Rod of Uk'atoa
 (based on Quicksilver + base rod + depth behavior)
 
 Vestige of the Divergence
-Wondrous Item, artifact (requires attunement by aquatic race)
+Wondrous Item, legendary (requires attunement by aquatic race)
 
 Sentience: (Partial; Neutral)
 The weapon communicates telepathically at 120' range,
@@ -18,23 +18,29 @@ AWAKENED
 - At all times, +1 AC and +1 saving throws
 - At depth of 10' or lower, +2 AC and +2 saving throws
 - Is a melee weapon you have proficiency & the finesse property, +2 to attack and damage, 1d6 dmg
+- Retribution damage becomes 3d10
 
 EXALTED
 - When touching water, +3 AC and +3 saving throws
 - The weapon’s bonus to attack and damage rolls increases to +3.
 - When thrown, it returns to your hand.
 - The saving throw DC for the weapon’s abilities increases to 17.
+- Retribution damage becomes 4d10
+
 
 Moonweaver's Spear
 ------------------
+Vestige of the Divergence
+Weapon (spear), legendary (requires attunement)
+
 Sentience: (Partial; Neutral)
 The weapon communicates telepathically at 120' range,
-and speaks common, undercommon, and all aquatic languages
+and speaks common, halfling, elven, celestial, and sylvan
 
 DORMANT
 - Moonweaver's Touch. 3/day, action, expend 1 or more charges to shoot a beam of moonlight at a creature you can see within 30 feet. 
-   The target must make a DC 15 Constitution saving throw, taking 2d10 radiant damage for the first charge, +1d10 for more,
-   expended this way on a failed save, or half as much on a successful one. On a failed save, the target is also transformed into
+   The target must make a DC 15 Constitution saving throw, taking 2d10 radiant damage for the first charge, +1d10 for each additional
+   charge expended this way on a failed save, or half as much on a successful one. On a failed save, the target is also transformed into
    a tiny beast with a challenge rating of 0 (your choice) for 1 minute, as though affected by a polymorph spell.
    The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
@@ -50,6 +56,8 @@ EXALTED
 
 Hide of the Feral Guardian
 --------------------------
+Vestige of the Divergence
+Armor (studded leather), legendary (requires attunement)
 
 Dormant State
 - The armor grants you a +1 bonus to AC.
@@ -87,7 +95,7 @@ Lute of the Beacon
 (based on Lute of Inspiration)
 
 Vestige of the Divergence
-Wondrous Item, artifact (requires attunement by a by a devotee of the Luxon)
+Wondrous Item, legendary (requires attunement by a by a devotee of the Luxon)
 
 A dark wood lute with gunmetal silver etchings, dragonbone inlays, and strings of adamatinum alloy.
 various symbols of the gods of music is carved into the back. (Corellon Larethian, Olidammara)
@@ -116,6 +124,29 @@ Other possible properties
 - choose a skill or tool proficiency -- your proficiency bonus is double for ability checks made using these skills or tools
 - as a free action at the start of each of your turns, you can change the weapon type of the weapon.
 - While wielding this weapon, you can cast the disguise self spell (DC 15) at will, without expending a spell slot.
+
+
+The Verdant Heart
+-------------------
+Wondrous Item, legendary (requires attunement by a Druid)
+
+The Verdant Heart is a green pendant on a necklace. You can use the pendant as a spellcasting
+focus for your spells while wearing or holding it, and you gain 1 additional use your Wildshape
+feature once per long rest.
+
+
+
+Sapling
+--------
+Wondrous Item, legendary (requires attunement)
+
+Sapling is a staff made from a branch of the Seed of Rebirth in Vasselheim. It acts as a +1
+quarterstaff, and adds +1 to spell attack rolls and spell DC while attuned to it.
+
+
+
+
+
 
 
 Mind Crystals
