@@ -19,8 +19,10 @@ AWAKENED
 - At depth of 10' or lower, +2 AC and +2 saving throws
 - Is a melee weapon you have proficiency & the finesse property, +2 to attack and damage, 1d6 dmg
 - Retribution damage becomes 3d10
+- The saving throw DC for the weapon’s abilities increases to 15
 
 EXALTED
+- At all times, +2 AC and +2 saving throws
 - When touching water, +3 AC and +3 saving throws
 - The weapon’s bonus to attack and damage rolls increases to +3.
 - When thrown, it returns to your hand.
