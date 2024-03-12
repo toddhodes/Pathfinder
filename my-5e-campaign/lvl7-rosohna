@@ -4,7 +4,7 @@
 
 use Shadow of the Sun from Radiant Citadel
 - Akharin Sangar (city) -> Rosohna
-- festival of Shabe Taabaan -> (Sh'taba) "Ruidius Sun" or "Brilliant Night"
+- festival of Shabe Taabaan -> "Ruidius Apogee" or "Brilliant Night"
 - Atash --> Bright Queen, her Empress Queen Leylas Krynn
 - Artavazda --> Vaza, Nightguard captain
 - Afsoun Ghorbani -> Bonnie, playwright and actress
@@ -19,9 +19,9 @@ use Shadow of the Sun from Radiant Citadel
 ## Pre-entry hook
 
 Message from 3-Earings Dad, Tybalt Rye: go to the ornamental dagger stall in Three Sun Square; use the phrase
-"Let the night guide the way" in conversation, in Darktow accented Thieves Cant
+"Let the night guide the way" in conversation, in a Menagerie Coast accent.  Respond to their query in Thieves Cant.
 
-## Intro
+## Arrival at the city
 
 Rosohna, meaning "Rebirth" in the language of the drow, is a vast metropolis in almost perpetual night, alight with
 thousands of small, green, sparkling arcane lanterns. Bonfires are lit in some streets, creating orange glows that
@@ -32,24 +32,30 @@ beautiful and sleek.  Much of the architecture in Rosohna incorporates the Kryn 
 The extended wards of the city are more patchwork and scattered, progressively wider in shape and more diverse in
 population as one travels outward. Each district is surrounded by large 15-foot barriers.
 
+The architecture also extends below the ground level; the Dynasty has, over time,
+reclaimed the subterranean halls of Ghor Dranas. Some of the underground structures serve as residential areas, some
+are hubs of the tunnel network the drow use to travel throughout Wildemount, some are used for the farming of edible
+mushrooms, and some remain true to their original purpose as holding cells for dangerous prisoners."
 
-### Sections
+The city is sectioned as follows:
 
-- Lucid Bastion: hill in center of the city
-  court of the three ruling dens of the Kryn Dynasty and home of Bright Queen Leylas Kryn
 - Firmaments: luxurious city center and a place of higher learning
-  - Nimbus Keep, base of the Aurora Watch, entry to the Dungeon of Penance.
-- Shadowspire + Dungeon of Penance
-- Gallimaufry: mix of drow and Dwendalian Empire architecture;  social center and commercial district, full of music
+  - Lucid Bastion: in center of the city on a large hill, sits the Lucid Bastion
+    - court of the three ruling "dens" of the Kryn Dynasty
+    - home of Bright Queen Leylas Kryn and her husband, Dusk Captain Quana Kryn
+  - Nimbus Keep: nearby is the Nimbus Keep, base of the Aurora Watch [entry to the Dungeon of Penance]
+- Gallimaufry: mix of drow and Dwendalian Empire architecture; social center and commercial district, full of music
 - Coronas: farmland, factories, industrial buildings, suburban residential
 - Ghostland: beyond the walls.  incursions of the spirits of the calamity
+[- Shadowspire: a grandiose, subterranean cavern underneath the city, accessed via the stairways in the Firmaments]
 
 
 ## Three Sun Square
 
-"Hundreds of people flock to Three Sun Square in advance of the Brilliant Night. The crowded plaza is filled with
- colorful stalls and vendors hawking toys and keepsakes. Booths selling steaming rice, tangy stews, and sun- and
- moon- shaped desserts fill the air with delectable fragrances. Nearby, members of the Nightguard -- Empress Leylas
+"Hundreds of people flock to Three Sun Square in advance of the Brilliant Night, a Ruidius Apogee. The crowded plaza is named
+ for the unique lighting, 3 particularly brilliant yellow arcane lanterns.  Currently is it alive, filled with
+ colorful stalls and vendors hawking toys and keepsakes, Booths selling steaming rice and tangy stews.
+ moon-shaped desserts fill the air with delectable fragrances. Nearby, members of the Nightguard -- Empress Leylas
  Krynn's queensguard of the Auroura Watch (led by Dusk Captain Quana Kryn) -- a holy order of protectors -— patrol
  the arched balconies of their headquarters, the Noble Jewel, and scan the crowd for trouble."
 
@@ -60,11 +66,12 @@ after they resolve the stall:
 "An ear-splitting crash pierces the air. Five figures wearing snarling, crimson masks clamber atop stalls, each
  raising a cone-like device to their mouth. Along with an irritating buzzing noise, the masked figures' voices
  emanate from the contraptions, amplified over the cacophony of the crowd: 
- 'Down with war tyrants! Let the embers light the way!'" 
- "Cast off your fetters!" "Democracy now!"
+ 'Down with the followers of the faceless god, an object with no soul.  no eyes, no ears, no mouth, ....
+  the source of our current war and countless deaths in foreign realms.  These tyrants distract from the true
+  god of the drow, the queen of the dark.  Come back to your mother!  oppressive tyrants masquerading as saints'
 
-- The Ashen Heirs decry the AW as oppressive brutes masquerading as pious saints; stop the war, free the captives
-- Your the two contacts sigh, might be trouble -- Ashen Heirs
+- The Ashen Heirs decry the AW as oppressive tyrants masquerading as saints
+- Your two contacts sigh, might be trouble -- Ashen Heirs
 - 5 AW head this way
 - DC 16 Wisdom (Perception): intensifying vibration beneath your feet. 
 - subsequent DC 14 Intelligence (Nature): something is burrowing under the square.
@@ -86,7 +93,7 @@ aftermath: Vaza approaches heal
 - A blue-skinned celestial with four scarlet wings lands before you, accompanied by a gentle breeze. 
   wears a pointed, shimmering helmet and wields a flanged mace. "I am Vaza, harbinger of the Nightguard and Xhorhas's righteous hand."
 - Vaza offers to heal
-- offers 800gp job for a few days -- lead-up to RSun / Brilliant Night, the AW has seen many disruptions. 
+- offers 800gp job for a few days -- lead-up to RApogee / Brilliant Night, the AW has seen many disruptions. 
   - Rebels and AW members are harmed during altercations. Vaza wants those who oppose BQ's rule to have the opportunity to 
     learn the error of their ways peaceably.
 - motions over to 2 AW questioning someone [Bonnie]
@@ -102,10 +109,10 @@ aftermath: Vaza approaches heal
 
 ## Safehouse
 
-1) we were told to expect you but wee given limited information by Tybalt Rye 
+1) we were told to expect you but wee given limited information by Tybalt Rye
 2) slides pice of paper -- read this, and explain the situation
 3) you're new in town? 
-  - pushes a map iver, starts to describe the city 
+  - pushes a map over, starts to describe the city 
   - Gallimaufrey: safe houses
     - Dim's Inn: Gaben, a well-groomed male dark elf with a pencil-thin white mustache, light yellow-orange eyes, 
                  and short white hair parted on one side and pulled over
@@ -125,34 +132,38 @@ aftermath: Vaza approaches heal
 
 ### Shadowspire: Dungeon of Penance, and, the Pedestal of Judgement
 
-Under the city is the Shadowshire, a grandiose, subterranean cavern about a quarter mile across in every direction.
-The base of the cavern is a "bustling neighborhood of stone and glass, lit with green lantern light." 
-It was reclaimed from Torog's prisons during the days of Ghor Dranas and is now home to the poor.
-Luminescent crops line the floor and the ceiling of the central cavern, a 
-"massive underground farmland maintained through magical means, bearing unique sunless vegetables".
-walls contain protruding bits of rough rock, crystals, and an exposed metal ore that glimmers when the light hits it.
+Under the city is the Shadowshire, a grandiose, subterranean cavern about a quarter mile across in every direction,
+or greater when accounting for tributary caves.  
+This area was reclaimed from Torog's prisons during the days of Ghor Dranas.
+It accessed from the Firmaments by stairways spiraling around one of three pillars, tho, generally home only to the poor.
+The base of the cavern is a bustling neighborhood of stone and glass, lit with green lantern light.
+Luminescent crops line the floor and the ceiling of the central cavern, a massive underground farmland maintained
+through magical means, bearing unique sunless vegetables.  walls contain protruding bits of rough rock, crystals,
+and an exposed metal ore that glimmers when the light hits it.
+
+Moreover, it contains an entrance to the Dungeon of Penance.
 
 #### Dungeon of Penance
 
-- accessed from the Firmaments by a very large stairway spiraling around one of three pillars
-- an entrance to the Dungeon of Penance (another entrance is in the Nimbus Keep)
+the Dungeon of Penance is an iron structure with a spiked, metallic railing. Burning braziers flank the large front
+doors. Inside, a subtle dunamantic gravity distortion makes it difficult to trace one's path. The paths are lit
+by perpetually crackling small, magically lit flames, and the prisoners are kept within small iron cages with
+reinforced bars. There are at least four levels in the prison, with each level downward growing "progressively
+darker and more heinous." The upper levels have been modified to reflect Kryn design, but many of the lower
+levels are little changed from when Ghor Dranas was ruled by the Betrayer Gods. The temperature within the prison is
+cold, and many guards and jailors supervise those locked within.
 
-"The architecture also extends below the ground level; the Dynasty has, over time,
- reclaimed the subterranean halls of Ghor Dranas. Some of the underground structures serve as residential areas, some
- are hubs of the tunnel network the drow use to travel throughout Wildemount, some are used for the farming of edible
- mushrooms, and some remain true to their original purpose as holding cells for dangerous prisoners."
+There are two known entrances: the base of the Shadowspire, and inside the Nimbus Keep.
 
 ### Pedestal of Judgement
 
-The Pedestal of Judgment is
-ia sixty-foot-diameter disc is made from black marble and floats two hundred feet above the rocky ground, at the 
-very tallest secton of the generally 200-300ft hieght.  Green crystals hover near the disc, like jeweled spikes adorning 
-a crown. A handful of similar crystals slowly orbit the disc, twinkling in the night sky.
+The Pedestal of Judgment is a sixty-foot-diameter disc is made from black marble that floats two hundred feet above
+the rocky ground, at the very tallest secton of the Shadowspire heights.  Gunmetal-banded green crystals hover near
+the disc, like jeweled spikes adorning a crown. A handful of similar crystals orbit the disc, twinkling in the artifical skylight.
 
-13 Xhorhasian commoners are frozen within the gunmetal-banded, green crystals around the platform
+The pedestal is a holding and judgement area, courtroom, and visible symbol of that which is hidden below in the dungeon.
 
-
-## 
+[13 Xhorhasian commoners are frozen within the gunmetal-banded, green crystals around the platform]
 
 
-
+##
