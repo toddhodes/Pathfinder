@@ -11,15 +11,16 @@ use Shadow of the Sun from Radiant Citadel
 - Navid -> Davin, head of the Ashen Heir
 
 - Brightguard --> "Nightguard" regiment of the Aurora Watch
-   Krynn's queensguard a holy order of protectors (led by Dusk Captain Quana Kryn) 
+   Empress Leylas Krynn's queensguard of the Auroura Watch (led by Dusk Captain Quana Kryn) -- a holy order of protectors
 - Silent Roar --> anti-war, free the hostages
-- Ashen Heir --> political minority party  
+- Ashen Heir --> political minority party, followers of Lolth
    (They were the Ashen Hair, but the dad dies, so then the son takes over, became the Ashen Hair Heir, but that's too complicated)
 
 ## Pre-entry hook
 
-Message from 3-Earings Dad, Tybalt Rye: go to the ornamental dagger stall in Three Sun Square; use the phrase
-"Let the night guide the way" in conversation, in a Menagerie Coast accent.  Respond to their query in Thieves Cant.
+Message from 3-Earings Dad, Tybalt Rye: go to the ornamental dagger stall in Three Sun Square, in the center of the
+celebration in the Firmaments; use the phrase "Let the night guide the way" or "Let the night be our guide" in
+conversation, in a Menagerie Coast accent.  Respond to their follow-up query in Thieves Cant.
 
 ## Arrival at the city
 
@@ -32,10 +33,10 @@ beautiful and sleek.  Much of the architecture in Rosohna incorporates the Kryn 
 The extended wards of the city are more patchwork and scattered, progressively wider in shape and more diverse in
 population as one travels outward. Each district is surrounded by large 15-foot barriers.
 
-The architecture also extends below the ground level; the Dynasty has, over time,
-reclaimed the subterranean halls of Ghor Dranas. Some of the underground structures serve as residential areas, some
-are hubs of the tunnel network the drow use to travel throughout Wildemount, some are used for the farming of edible
-mushrooms, and some remain true to their original purpose as holding cells for dangerous prisoners."
+The architecture also extends below the ground level; the Dynasty has, over time, reclaimed the subterranean halls
+of Ghor Dranas. Some of the underground structures serve as residential areas, some are hubs of the tunnel network
+the drow use to travel throughout Wildemount, some are used for the farming of edible mushrooms, and some remain
+true to their original purpose as holding cells for dangerous prisoners."
 
 The city is sectioned as follows:
 
@@ -54,27 +55,31 @@ The city is sectioned as follows:
 
 "Hundreds of people flock to Three Sun Square in advance of the Brilliant Night, a Ruidius Apogee. The crowded plaza is named
  for the unique lighting, 3 particularly brilliant yellow arcane lanterns.  Currently is it alive, filled with
- colorful stalls and vendors hawking toys and keepsakes, Booths selling steaming rice and tangy stews.
- moon-shaped desserts fill the air with delectable fragrances. Nearby, members of the Nightguard -- Empress Leylas
- Krynn's queensguard of the Auroura Watch (led by Dusk Captain Quana Kryn) -- a holy order of protectors -— patrol
- the arched balconies of their headquarters, the Noble Jewel, and scan the crowd for trouble."
+ colorful stalls and vendors hawking toys and keepsakes, Booths selling steaming rice and tangy mushroom stews.
+ Moon-shaped desserts fill the air with delectable fragrances. 
+ Throughout, visible members of the AW patrol, and scan the crowd for trouble."
 
-you can shop or ask around. They ask you to meet later at an house address in the Gallimaufry to talk. 42069 Gall.
+- you can shop or ask around or both
+- yes, you do eventually see the ornamental weapon stall, with two occupants
+- after the verbal exchange, they motion you to the obscured rear area, ostensibly to look at pricier items at the back
+ --> the  Golden Vault ask you to join them later at an house address in the Gallimaufry to talk.
+     420-69 Gallifey Court.  in the meantime, feel free to enjoy the town, or, relax at Dim's Inn, not far from the house
 
-after they resolve the stall:
+- as they leave the square
 
 "An ear-splitting crash pierces the air. Five figures wearing snarling, crimson masks clamber atop stalls, each
  raising a cone-like device to their mouth. Along with an irritating buzzing noise, the masked figures' voices
  emanate from the contraptions, amplified over the cacophony of the crowd: 
  'Down with the followers of the faceless god, an object with no soul.  no eyes, no ears, no mouth, ....
   the source of our current war and countless deaths in foreign realms.  These tyrants distract from the true
-  god of the drow, the queen of the dark.  Come back to your mother!  oppressive tyrants masquerading as saints'
+  god of the drow, the queen of the dark.  Come back to your mother!'
 
 - The Ashen Heirs decry the AW as oppressive tyrants masquerading as saints
-- Your two contacts sigh, might be trouble -- Ashen Heirs
-- 5 AW head this way
-- DC 16 Wisdom (Perception): intensifying vibration beneath your feet. 
-- subsequent DC 14 Intelligence (Nature): something is burrowing under the square.
+  [ GoldenVault / locals near you sigh; might be trouble -- Ashen Heirs]
+- DC 16 Wisdom (Perception):
+  - 5 AW head toward the instigators
+  - intensifying vibration beneath your feet
+- DC 14 Intelligence (Nature): something is burrowing under the square
 
 "Stone cracks and people scream as a massive, spiked worm erupts from the center of the square, catapulting booths
  and handcarts into the air. The monstrosity roars, spraying the scattering crowd with fist-sized globs of spittle.
@@ -87,24 +92,27 @@ after a few rounds:
 - DC 14 Charisma (Intimidation or Persuasion) - drop their device (AC 13, hp 5)
 
 after 5 rounds:
-- Vaza (LG pari) appears + 10 AW (Nightguard)
+- Vaza (pari) appears + 10 AW (Nightguard)
 
-aftermath: Vaza approaches heal
+aftermath: Vaza approaches
 - A blue-skinned celestial with four scarlet wings lands before you, accompanied by a gentle breeze. 
-  wears a pointed, shimmering helmet and wields a flanged mace. "I am Vaza, harbinger of the Nightguard and Xhorhas's righteous hand."
-- Vaza offers to heal
-- offers 800gp job for a few days -- lead-up to RApogee / Brilliant Night, the AW has seen many disruptions. 
-  - Rebels and AW members are harmed during altercations. Vaza wants those who oppose BQ's rule to have the opportunity to 
-    learn the error of their ways peaceably.
+  wears a pointed, shimmering helmet and wields a flanged mace. 
+- if asked: "I am Vaza, harbinger of the Nightguard and Xhorhas's righteous hand."
+- "Do any of you need healing?"
+- "These lead-ups to Apogee, spikes disruptions."
+  "Rebels and AW members are harmed during these altercations."
+  "I'd really prefer those who oppose the BQ's rule to have the opportunity to learn the error of their ways... peaceably."
+- offers a job for a few days -- 400gp each
+
+  "The Queen worries for the safety of her people. Today's incident comes on the heels of an Ashen Heirs assault at
+   the Ruz Bazaar, which shows their threat is increasing. We've learned they're seeking magic they can use to disrupt
+   the RS/BN. If the Ashen Heirs are left unchecked, I fear the queen will cancel the celebrations and might even impose martial
+   law until the rebels' threat is ended. Will you help me prevent this?" (if not, take a look anyway)
+
 - motions over to 2 AW questioning someone [Bonnie]
-  "Two AW question a calm medium-skinned drow elf woman with dark hair, sharp green eyes, and a pink tunic over a red dress. 
+   Two AW question a calm medium-skinned half-drow half-elf woman with dark hair, sharp green eyes, and a pink tunic over a red dress. 
    One guard and the blue-skinned Vaza lock eyes, and the latter nods. The AW place manacles on the drow."
    he sighs -- "infamous agitator, that one.  worth questioning about her involvement in today's incident. she will be released.. if she's innocent."
-
-"The Queen worries for the safety of her people. Today's incident comes on the heels of an Ashen Heirs assault at
- the Ruz Bazaar, which shows their threat is increasing. We've learned they're seeking magic they can use to disrupt
- the RS/BN. If the Ashen Heirs are left unchecked, I fear the queen will cancel the celebrations and might even impose martial
- law until the rebels' threat is ended. Will you help me prevent this?" (if not, take a look anyway)
 
 
 ## Safehouse
@@ -123,7 +131,7 @@ aftermath: Vaza approaches heal
     - Conservatory at Marble Tomes: Professor Tuss Waccoh half-orc 
   - Ruz Bazaar (near Three Sun Sq)
     - Emad's Rug Shop: black market business, 
-  - the prisons: short term holding (he's not there), Shadowspire: Dungeon of Penance, and, the Pedestal of Judgement
+  - the prisons: short term holding (he's not there), or the Shadowspire: Dungeon of Penance, or, the Pedestal of Judgement
 4) Ashen Heir vs Silent Roar
 5) explain that they have an idea -- there is an item, the shard solitaire, that the court is interested in,
    and a unique opportuniy has arisen around it.  the husband of the owner is second-guessing his wife's relatonship with it.
