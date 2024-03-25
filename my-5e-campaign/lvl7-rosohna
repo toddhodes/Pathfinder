@@ -97,17 +97,17 @@ after 5 rounds:
 aftermath: Vaza approaches
 - A blue-skinned celestial with four scarlet wings lands before you, accompanied by a gentle breeze. 
   wears a pointed, shimmering helmet and wields a flanged mace. 
-- if asked: "I am Vaza, harbinger of the Nightguard and Xhorhas's righteous hand."
-- "Do any of you need healing?"
-- "These lead-ups to Apogee, spikes disruptions."
-  "Rebels and AW members are harmed during these altercations."
+- if asked: "I am amazed by your work." "Sam, you have saved dozens of lives" "robot, and polymorpher -- you too"
+  "I am Vaza, harbinger of the Nightguard and Xhorhas's righteous hand."
+  "Do any of you need healing?"
+  "Lead-ups to the Apogee spikes disruptions. Both Rebels and AW members are harmed during these altercations."
   "I'd really prefer those who oppose the BQ's rule to have the opportunity to learn the error of their ways... peaceably."
 - offers a job for a few days -- 400gp each
 
   "The Queen worries for the safety of her people. Today's incident comes on the heels of an Ashen Heirs assault at
-   the Ruz Bazaar, which shows their threat is increasing. We've learned they're seeking magic they can use to disrupt
-   the RS/BN. If the Ashen Heirs are left unchecked, I fear the queen will cancel the celebrations and might even impose martial
-   law until the rebels' threat is ended. Will you help me prevent this?" (if not, take a look anyway)
+   other districts, which shows their threat is increasing. They're seeking powerful magics they know are hidden and that
+   they can use to disrupt the Apogee. left unchecked, the queen will cancel the celebrations.. might even impose martial
+   law until the rebels' threat is ended. Will you help us?"
 
 - motions over to 2 AW questioning someone [Bonnie]
    Two AW question a calm medium-skinned half-drow half-elf woman with dark hair, sharp green eyes, and a pink tunic over a red dress. 
@@ -118,27 +118,30 @@ aftermath: Vaza approaches
 ## Safehouse
 
 1) we were told to expect you but wee given limited information by Tybalt Rye
-2) slides pice of paper -- read this, and explain the situation
-3) you're new in town? 
-  - pushes a map over, starts to describe the city 
-  - Gallimaufrey: safe houses
-    - Dim's Inn: Gaben, a well-groomed male dark elf with a pencil-thin white mustache, light yellow-orange eyes, 
-                 and short white hair parted on one side and pulled over
-    - Hammered Call: smithy owned by Wursh, a half-orc
-    - Turmin's Tinctures and Tonics; duergar man Besh Turmin
-    - Fadden's Gems: older dark elf
-  - Firmaments: Research on the building of war machines
-    - Conservatory at Marble Tomes: Professor Tuss Waccoh half-orc 
-  - Ruz Bazaar (near Two Moons Sq)
-    - Emad's Rug Shop: black market business, 
-  - the prisons: short term holding (he's not there), or the Shadowspire: Dungeon of Penance, or, the Pedestal of Judgement
-4) Ashen Heir vs Silent Roar
-5) explain that they have an idea -- there is an item, the shard solitaire, that the court is interested in,
-   and a unique opportuniy has arisen around it.  the husband of the owner is second-guessing his wife's relatonship with it.
-   we can get you an invite to a party at their fey mansion, where you can steal it.  
-   and then you can use the shard solitare as a negotiating device, get a meeting to trade it for your man.
+2) can you explain the situation
+3) ok, here's what we got
+   prison system: infiltrate the dungeon/pedestal --> read SP, to attempt access via shadowspire, "you'll need maps and intelligence"
+   talk to the silent roar re: fellow prisoner. --> explain roar, visit the Ghor'ani Bakery or playhouse
+   political route 1: deal w/ the ashen heir for Vasa.  --> explain ashen, Turmin's Tinctures and Tonics
+   political route 2: shard solitaire
 
-### Shadowspire: Dungeon of Penance, and, the Pedestal of Judgement
+   pushes a map over, starts to describe the city
+  - Gallimaufrey:
+    - Dim's Inn: [Gaben, a well-groomed male dark elf with a pencil-thin white mustache, light yellow-orange eyes, 
+                 and short white hair parted on one side and pulled over
+    - Hammered Call: smithy [owned by Wursh, a half-orc
+    - Turmin's Tinctures and Tonics: [duergar man Besh Turmin
+    - Fadden's Gems: [older dark elf
+  - Firmaments: Research on the building of war machines
+    - Conservatory at Marble Tomes: [Professor Tuss Waccoh half-orc 
+    - Whelsen's Rug Shop: black market business near the Two Moons square
+  - the prisons: short term holding (he's not there), or the Shadowspire: Dungeon of Penance, or, the Pedestal of Judgement
+  - route 2: there is an item, the shard solitaire, that the court is interested in,
+     and a unique opportuniy has arisen around it.  the husband of the owner is second-guessing his wife's relatonship with it.
+     we can get you an invite to a party at their fey mansion, where you can steal it.  
+     and then you can use the shard solitare as a negotiating device, get a meeting to trade it for your man.
+
+### Shadowspire
 
 Under the city is the Shadowshire, a grandiose, subterranean cavern about a quarter mile across in every direction,
 or greater when accounting for tributary caves.  
@@ -176,7 +179,7 @@ The pedestal is a holding and judgement area, courtroom, and visible symbol of t
 
 ## Hooks
 
-Emad's Rug Shop --> Turmin's Tinctures and Tonics
+Whelsen's Rug Shop --> Turmin's Tinctures and Tonics
 Approached by the Silent Roar
 
 
