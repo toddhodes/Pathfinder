@@ -81,20 +81,27 @@ spells
 3: Hypnotic Pattern: CONC 1min, WIS save
 3: fireball: 20'r 8d6
 3: fly: CONC 10min 60' (5th: 3 people)
+3: summon fey 
+3: Counterspell
+3: Dispel magic
 4: polymorph: CONC 1hr
 4: greater invis:
 5: animate objects: CONC 1min
+5: Wall of Force
 6: Tenser's Transformation: CONC, 50 tmp HP, ADV & +2d12 on weapon attacks
-7: simulacrum
+6: mass suggestion
+6: Contingency
+7: Forcecage
+7: Simulacrum
+7: Plane shift
 8: maze
-
-3rd level: Counterspell. Fly summon fey hypnotic pattern fireball Dispel magic
-4th level: Greater invisibility Polymorph
-5th level: Wall of Force
-6th level: Tenser's transformation, mass suggestion. Contingency
-7th level: Forcecage, Simulacrum, Plane shift
-8th level: Clone. Dominate Monster, Feeblemind
-9th level: Wish, Foresight True polymorph shapechange
+8: Clone
+8: Dominate Monster
+8: Feeblemind
+9: Wish
+9: Foresight
+9: True polymorph
+9: shapechange
 
 
 school
