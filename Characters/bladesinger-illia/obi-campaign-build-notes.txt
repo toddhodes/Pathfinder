@@ -1,0 +1,109 @@
+
+Wizard
+------
+
+https://docs.google.com/document/d/1O6vBhvie18hFDmnom5lMv3zTj1nYUkvC8UxH0ngZWXQ
+
+background: ?
+race: Eladrin elf
+
+school: Bladesinger
+
+
+equip
+-----
+500gp
+
+2 perm uncommon magic
+- cloak of prot: +1 AC & save
+- Headband of Intellect: INT 19
+
+- sword +1
+- Gauntlets of Ogre Power: STR 19
+- wand of the war mage (+1 sp att, no 1/2 cover)
+- adamantine armor (no crits)
+
+rare magic item
+- Bracers of Defense: +2 AC if no armor (mage armor: 13 + dex)
+
+- flame tongue / sun blade
+- wand of the war mage (+2 sp att, no 1/2 cover)
+- ring/prot: +1 AC & saves
+- ring/resist
+- ring spell storing - conc spell + familiar
+- Ring of Evasion: 3 charges, reaction, fail save -> succeed
+- Staff of Defense +1 AC.  10 charges. mage armor (1 charge) or shield (2 charges).
+
+6 of:
+0-3 permanent common items
+- clockwork amulet (10 on d20)
+- Hat of Wizardry (attunement): spell focus, DC10 cantrip
+- Enduring Spellbook: safe fire/water/age
+- horn of silent alarm
+
+0-6 common consumable items (scroll 0th/1st, pot heal)
+- pot heal
+
+0-3 uncommon consumable (scroll 2nd/3rd, pot gr heal)
+- pot gr heal
+
+(2x -> rare, 4th/5th lvl)
+- Elixir of Health: cures disease, blinded, deafened, paralyzed, poisoned 
+- Potion of Heroism: 10 tmp HP, bless (+d4 att/save), 1 hour
+- Potion of Invulnerability: 1 resistance all damage
+
+future:
+- Ring of Free Action: no diff terrain, no magic reduce speed/paralyzed/restrained
+sorc / metamagic adept:
+- (sorc) Bloodwell Vial (+5 sorc pts, +1 att/DC sorc spells)
+
+https://docs.google.com/spreadsheets/d/1cscj9c_eSElaxskotQoHCRfnh26J5PID4AQz09Qjw0E
+
+feats 
+-----
+warcaster
+
+Dual Wielder: +1 AC, can use non-light weapons
+Metamagic Adept: 2 metamagic, 2 sorc pts
+resiliant con: 
+Two-weapon fighting:
+Eldritch Adept: choose a warlock eldrich evoc
+
+spells
+------
+1: shield
+1: absorb elements
+2: web
+2: blur
+2: Hold Person
+2: Shadow Blade: CONC 1min, 2d8 psychic light finesse sword, ADV dim light (3rd: 3d8, 5th: 4d8)
+3: Haste
+3: Hypnotic Pattern: CONC 1min, WIS save
+3: fireball: 20'r 8d6
+3: fly: CONC 10min 60' (5th: 3 people)
+4: polymorph: CONC 1hr
+4: greater invis:
+5: animate objects: CONC 1min
+6: Tenser's Transformation: CONC, 50 tmp HP, ADV & +2d12 on weapon attacks
+7: simulacrum
+8: maze
+
+3rd level: Counterspell. Fly summon fey hypnotic pattern fireball Dispel magic
+4th level: Greater invisibility Polymorph
+5th level: Wall of Force
+6th level: Tenser's transformation, mass suggestion. Contingency
+7th level: Forcecage, Simulacrum, Plane shift
+8th level: Clone. Dominate Monster, Feeblemind
+9th level: Wish, Foresight True polymorph shapechange
+
+
+school
+-----
+- divination: cheap div spells, see invs
+- evocation: free save to friends in spell; +INT dmg
+
+Sorcerer stuff
+-------------
+
+Far Realm Shard (attunement sorcerer): use metamagic, strike creature 30'; CHA / spell DC or 3d6 psychic and frightened
+Shadowfell Shard (attunement sorcerer): use Metamagic, creature disadvantage on one ability checks/saves
