@@ -2,9 +2,10 @@
 Wizard
 ------
 
+https://rpgbot.net/dnd5/characters/classes/wizard/subclasses/bladesinging/
 https://docs.google.com/document/d/1O6vBhvie18hFDmnom5lMv3zTj1nYUkvC8UxH0ngZWXQ
 
-background: ?
+background: acrobatics + investigation
 race: Eladrin elf
 
 school: Bladesinger
@@ -62,6 +63,7 @@ https://docs.google.com/spreadsheets/d/1cscj9c_eSElaxskotQoHCRfnh26J5PID4AQz09Qj
 feats 
 -----
 warcaster
+Piercer: +1 DEX, reroll 1 dmg die, +1die on crit
 
 Dual Wielder: +1 AC, can use non-light weapons
 Metamagic Adept: 2 metamagic, 2 sorc pts
@@ -85,12 +87,16 @@ spells
 3: Counterspell
 3: Dispel magic
 4: polymorph: CONC 1hr
-4: greater invis:
+4: greater invis
+4: stone shape <--
+5: telepathic bond
 5: animate objects: CONC 1min
 5: Wall of Force
+5: Skill empowerment <--
+5: Creation
 6: Tenser's Transformation: CONC, 50 tmp HP, ADV & +2d12 on weapon attacks
 6: mass suggestion
-6: Contingency
+6: Disintegrate
 7: Forcecage
 7: Simulacrum
 7: Plane shift
@@ -103,6 +109,7 @@ spells
 9: True polymorph
 9: shapechange
 
+Arcane Eye, Stone Shape
 
 school
 -----
