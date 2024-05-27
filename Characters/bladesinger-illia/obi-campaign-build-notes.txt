@@ -51,7 +51,7 @@ rare magic item
 (2x -> rare, 4th/5th lvl)
 - Elixir of Health: cures disease, blinded, deafened, paralyzed, poisoned 
 - Potion of Heroism: 10 tmp HP, bless (+d4 att/save), 1 hour
-- Potion of Invulnerability: 1 resistance all damage
+- Potion of Invulnerability: 1min resistance all damage
 
 future:
 - Ring of Free Action: no diff terrain, no magic reduce speed/paralyzed/restrained
@@ -94,6 +94,7 @@ spells
 5: Wall of Force
 5: Skill empowerment <--
 5: Creation
+5: steel wind strike
 6: Tenser's Transformation: CONC, 50 tmp HP, ADV & +2d12 on weapon attacks
 6: mass suggestion
 6: Disintegrate
@@ -109,7 +110,10 @@ spells
 9: True polymorph
 9: shapechange
 
-Arcane Eye, Stone Shape
+slow
+6th) Tasha's Otherworldly Guise (2 immunities, flight, can use int for weapon attacks)
+7th) plane shift (esp 20th level), teleport, whirlwind
+8th) mind-blank
 
 school
 -----
