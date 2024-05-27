@@ -77,43 +77,41 @@ spells
 1: absorb elements
 2: web
 2: blur
-2: Hold Person
 2: Shadow Blade: CONC 1min, 2d8 psychic light finesse sword, ADV dim light (3rd: 3d8, 5th: 4d8)
 3: Haste
 3: Hypnotic Pattern: CONC 1min, WIS save
 3: fireball: 20'r 8d6
 3: fly: CONC 10min 60' (5th: 3 people)
-3: summon fey 
+3: summon fey
 3: Counterspell
 3: Dispel magic
-4: polymorph: CONC 1hr
+3: Slow
 4: greater invis
+4: polymorph: CONC 1hr
 4: stone shape <--
-5: telepathic bond
 5: animate objects: CONC 1min
 5: Wall of Force
 5: Skill empowerment <--
-5: Creation
 5: steel wind strike
+5: telepathic bond
 6: Tenser's Transformation: CONC, 50 tmp HP, ADV & +2d12 on weapon attacks
 6: mass suggestion
 6: Disintegrate
 7: Forcecage
 7: Simulacrum
-7: Plane shift
+7: Plane shift (esp 20th level)
+7: teleport
+7: whirlwind
 8: maze
 8: Clone
 8: Dominate Monster
 8: Feeblemind
+8: mind-blank
 9: Wish
 9: Foresight
 9: True polymorph
 9: shapechange
 
-slow
-6th) Tasha's Otherworldly Guise (2 immunities, flight, can use int for weapon attacks)
-7th) plane shift (esp 20th level), teleport, whirlwind
-8th) mind-blank
 
 school
 -----
