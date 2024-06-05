@@ -62,12 +62,12 @@ https://docs.google.com/spreadsheets/d/1cscj9c_eSElaxskotQoHCRfnh26J5PID4AQz09Qj
 
 feats 
 -----
-warcaster
-Piercer: +1 DEX, reroll 1 dmg die, +1die on crit
-
+Warcaster
+Elven Accuracy: +1 Dex/Int, advantage on attack, reroll one dice
+Resiliant con: +1 CON, con save prof
 Dual Wielder: +1 AC, can use non-light weapons
+Piercer: +1 DEX, reroll 1 dmg die, +1die on crit
 Metamagic Adept: 2 metamagic, 2 sorc pts
-resiliant con: 
 Two-weapon fighting:
 Eldritch Adept: choose a warlock eldrich evoc
 
@@ -132,18 +132,40 @@ background
 Reyleth was raised in Silverymoon in the Northwest of Faerun, east of Neverwinter and
 Waterdeep, and Northeast from the Sword Coast
 
-during the War of the Siler Marches under the Darkening / drow and orc invasion 1484-1485,
+During the War of the Siler Marches under the Darkening / drow and orc invasion 1484-1485,
 before the collapse of Luruar, Vecna was assisting the hordes.
 
-my parents reportedly sold food to them, and remained what I felt was a suspect neutrality.
+My parents, poor, reportedly sold food to both sides, and remained what I felt was a suspect neutrality.
 They have backtracked and claimed the put ground glass in the food they sold to evil forces,
 but I doubt this story.
 
 This led me to leave home and take up with the Knights in Silver of Silverymoon, training as
 part of the Argent Legion.  Including a visit in the Everlund with the Army of the Vale.
-And eventually, returning and moving to the Spellguard.
+And eventually, returning and moving on to the Spellguard.
 
-(Vecna also was attempting to intrude elsewhere in the multiverse, in a land
-called Exandria, in the continent of Tal'Dorei, but was struck down and pushed seemingly back.)
+After achieveing some success in battle spellcraft, I was educated in my later levels at the Lady's
+College, the open school for mages in Silverymoon. It was here I became a follower of the principles
+of High Lady Alustriel Silverhand, with the principles of democratic action in politics, and magic,
+and war. I believe in politics, tho I also know that's often naive given arcane & divine forces
+making human action seem ant-like.
+
+During a seemingly routine combat in our city's lacklustre efforts to help Sundabar during the dying
+days of the last wars, I recovered a fallen lieutenent's sword; unbeknownst to me, it was the
+legendary Sword of Kas, and it led me unerringly to a general; from cover of greater invisiblity I
+took a swipe from behind, landing a glancing blow. The general was shocked -- afronted as much as
+hurt -- and turned slowly.  At that moment, I woke, as if from a stupor, at what I had done.  I was
+staring straight into a completely absurd sight; I had challenged Vecna himself.  The sword had
+driven me to this insane act of bravery/stupidity. It's spell/curse/control momentarily broken, I
+hurled it away, and barely teleported away with my life.  I cannot imagine how I left that scene
+alive, in all honesty.  Maybe Kas or other god(s) had their eyes on me.  Maybe Vecna was amused.
+
+The year I spent with that sword has deeply scarred me, but, I avoid acknowledging it.  (I don't
+deny it, jut keep it close. It's embarassing.)  It has soured me to the Gods, and those the treat
+with them.  I am not a follower of religion, not a fan of the divine, or divine right, or the
+thoughtless unprincipled "unintelligent" following of ancient faiths with even more ancient rulers,
+holding themselves above humanity.
+
+And I don't pick up talking swords anymore.
+
 
 
