@@ -79,6 +79,7 @@ spells
 2: web
 2: blur
 2: Shadow Blade: CONC 1min, 2d8 psychic light finesse sword, ADV dim light (3rd: 3d8, 5th: 4d8)
+2: Rime's Binding Ice (FToD)
 3: Haste
 3: Hypnotic Pattern: CONC 1min, WIS save
 3: fireball: 20'r 8d6
@@ -87,7 +88,7 @@ spells
 3: Counterspell
 3: Dispel magic
 3: Slow
-3: Sleet storm
+3: Sleet Storm: 40'r
 4: greater invis
 4: polymorph: CONC 1hr
 4: stone shape <--
