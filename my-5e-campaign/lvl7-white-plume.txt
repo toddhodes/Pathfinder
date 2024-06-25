@@ -1,15 +1,38 @@
+White Plume Mountain
+--------------------
 
 
-5. Golems:  17, 19, 29, 41, 43, *47*, 59
+5. Golems
 {3, 5}, {5, 7}, {11, 13}, {17, 19}, {29, 31}, {41, 43} {59, 61}, {71, 73}
-17, 19, 29, 41, 43, 47, 59
+ --> 17, 19, 29, 41, 43, *47*, 59
 
-7.
+7. Geysers and Chains
+
+- give handout
+- explain rope rules
 
 ropes tied: need to choose STR + DEX or INT + WIS
 saves will be made on fall/strain/geyser
 
-jumping from circle to circle is DC10;
+jumping from circle to circle is DC8; 
+if you take your time, it is w/ advantage. if you go fast, disadvantage.
 on a miss, with a rope, roll 1d8; they fall off in that direction
 if the rope was on the other side, they hang from target; if same side,
 they either hang from previous or that comes off too
+
+at the end of each round, roll d20; 1-6 geyser erupts
+
+geyser: DC15 DEX for half
+        DC10-14 STR to fall
+
+Adjacent to geyser	        (5d10) damage	14
+One disk away	            (4d10) damage	13
+Two disks away	            (3d10) damage	12
+Three disks away	        (2d10) damage	11
+Four disks away	            (1d10) damage	10
+Anywhere else in the area	(1d6) damage	—
+
+mud is 8d10 damage
+
+
+
