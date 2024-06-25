@@ -1,0 +1,15 @@
+
+
+5. Golems:  17, 19, 29, 41, 43, *47*, 59
+{3, 5}, {5, 7}, {11, 13}, {17, 19}, {29, 31}, {41, 43} {59, 61}, {71, 73}
+17, 19, 29, 41, 43, 47, 59
+
+7.
+
+ropes tied: need to choose STR + DEX or INT + WIS
+saves will be made on fall/strain/geyser
+
+jumping from circle to circle is DC10;
+on a miss, with a rope, roll 1d8; they fall off in that direction
+if the rope was on the other side, they hang from target; if same side,
+they either hang from previous or that comes off too
