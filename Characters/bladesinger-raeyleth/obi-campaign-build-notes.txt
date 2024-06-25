@@ -1,14 +1,13 @@
 
 Wizard
 ------
+school: Bladesinger
 
 https://rpgbot.net/dnd5/characters/classes/wizard/subclasses/bladesinging/
 https://docs.google.com/document/d/1O6vBhvie18hFDmnom5lMv3zTj1nYUkvC8UxH0ngZWXQ
 
 background: acrobatics + investigation
 race: Eladrin elf
-
-school: Bladesinger
 
 
 equip
@@ -17,11 +16,11 @@ equip
 
 2 perm uncommon magic
 - cloak of prot: +1 AC & save
-- Headband of Intellect: INT 19
+- Gauntlets of Ogre Power: STR 19
 
 - sword +1
-- Gauntlets of Ogre Power: STR 19
 - wand of the war mage (+1 sp att, no 1/2 cover)
+- Headband of Intellect: INT 19
 - adamantine armor (no crits)
 
 rare magic item
@@ -38,9 +37,9 @@ rare magic item
 6 of:
 0-3 permanent common items
 - clockwork amulet (10 on d20)
-- Hat of Wizardry (attunement): spell focus, DC10 cantrip
 - Enduring Spellbook: safe fire/water/age
 - horn of silent alarm
+- Hat of Wizardry (attunement): spell focus, DC10 cantrip
 
 0-6 common consumable items (scroll 0th/1st, pot heal)
 - pot heal
@@ -65,6 +64,8 @@ feats
 Warcaster
 Elven Accuracy: +1 Dex/Int, advantage on attack, reroll one dice
 Resiliant con: +1 CON, con save prof
+warcaster
+Piercer: +1 DEX, reroll 1 dmg die, +1die on crit
 Dual Wielder: +1 AC, can use non-light weapons
 Piercer: +1 DEX, reroll 1 dmg die, +1die on crit
 Metamagic Adept: 2 metamagic, 2 sorc pts
@@ -86,6 +87,7 @@ spells
 3: Counterspell
 3: Dispel magic
 3: Slow
+3: Sleet storm
 4: greater invis
 4: polymorph: CONC 1hr
 4: stone shape <--
