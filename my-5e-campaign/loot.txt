@@ -106,13 +106,14 @@ DORMANT
 - spellcasting focus for your bard spells.
 - +1 spell attack rolls and save DC.
 - +1/day Bardic Inspiration.
+- Song of Rest - creatures roll an extra die when regaining hit points.  If no dice are used, gain 1 die.
 
 AWAKENED
 - +2 spell attack rolls and save DC.
 - +2/day Bardic Inspiration.
 - +d4 bonus to initiative rolls.
 - 1/week: Commune with the Beacon (as per the spell)
-- Song of Rest - creatures roll an extra die when regaining hit points.  If no dice are used, gain 1 die.
+- Song of Rest - creatures roll 2 extra dice when regaining hit points.  If no dice are used, gain 1 die.
 
 EXALTED
 - +3 spell attack rolls and save DC.
