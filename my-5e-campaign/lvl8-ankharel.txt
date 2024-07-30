@@ -1,7 +1,7 @@
 
 # Chapter 4 - The Jewel of Hope (Ank’Harel)
 
-  THIS IS A DUP OF LVL7.. TODO
+replaces lvl7, after White Plume Mountina
 
 # Sidequests
 
@@ -10,6 +10,7 @@
  Additional Locations:
  - A Guide to the Guided District & Temples in Ank’Harel
 
+the Scenes and Sidequests in Ank'Harel:
 https://www.gmbinder.com/share/-N05Ugpn7WfQVPA3oPgM
 
 see PDFs in https://drive.google.com/drive/u/0/folders/1QJR6obP80TEG5-BVw7mhx2eHz0Vb4ZXh
@@ -27,6 +28,8 @@ see PDFs in https://drive.google.com/drive/u/0/folders/1QJR6obP80TEG5-BVw7mhx2eH
 Ank'Harel Faction Objectives and NPCs
 https://www.reddit.com/r/CalloftheNetherdeep/comments/10fl5b4/ankharel_faction_objectives_and_npcs/
 
+Consortium beholder leader
+https://www.reddit.com/r/CalloftheNetherdeep/comments/17b1u17/this_is_how_i_made_the_consortium_a_memorable/
 
 ## Allegiance of Allsight
 
