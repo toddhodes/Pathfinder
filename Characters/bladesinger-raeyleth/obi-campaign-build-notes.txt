@@ -67,7 +67,6 @@ Resiliant con: +1 CON, con save prof
 warcaster
 Piercer: +1 DEX, reroll 1 dmg die, +1die on crit
 Dual Wielder: +1 AC, can use non-light weapons
-Piercer: +1 DEX, reroll 1 dmg die, +1die on crit
 Metamagic Adept: 2 metamagic, 2 sorc pts
 Two-weapon fighting:
 Eldritch Adept: choose a warlock eldrich evoc
