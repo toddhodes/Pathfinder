@@ -10,6 +10,23 @@ background: acrobatics + investigation
 race: Eladrin elf
 
 
+how to fight
+------------
+r0]
+9 foresight
+
+r1]
+BA bladesing
+7 forcecage (no CONC)
+
+r2]
+BA 5 shadowblade (4d8)
+X / 9 meteor(if not foresight)
+
+r3]
+4 faithful hound (if caged can't escape)
+
+
 equip
 -----
 500gp
@@ -31,7 +48,7 @@ rare magic item
 - ring/prot: +1 AC & saves
 - ring/resist
 - ring spell storing - conc spell + familiar
-- Ring of Evasion: 3 charges, reaction, fail save -> succeed
+- Ring of Evasion: 3 charges, reaction, fail DEX save -> succeed
 - Staff of Defense +1 AC.  10 charges. mage armor (1 charge) or shield (2 charges).
 
 6 of:

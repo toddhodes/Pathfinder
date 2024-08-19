@@ -1,7 +1,142 @@
 
-# Chapter 4 - The Jewel of Hope (Ank’Harel)
+Chapter 4 - The Jewel of Hope (Ank’Harel)
+-----------------------------------------
+ (replaces lvl7, after White Plume Mountain)
 
-replaces lvl7, after White Plume Mountina
+
+# Summarize up to lvl 8
+
+ - Stav: this is your questline. the jewel seems to be tied to variants of the crystals inside you, from your creator.
+ - Josh: you are avoiding your dad.  the people in phandalin are known to you from.
+ - Stephen: the spear is from a divine source if you choose to bond with it
+ - Sam: pending: Grimoire Infinitus
+
+ - James:
+    Jace Slumber was running high-level battlefield caliber arcane weaponry, rumored to be from Ruins of Molaesmyr in
+    the Savalirwood or the Aeor crash site. selling to the highest bidder.  We're talking 100k GP here.
+    This was a bidding between the highest levels of the dynasty and empire.  the Bright Queen and King Bertrand Dwendal
+    Roshana (Shadowspire) or Rexxentrum (Claykeep Prison).  or other secure place. [Vergesson Sanatorium]
+      [vast prison known as the Archevault was repurposed by the Cerberus Assembly as an imperial sanatorium and
+      hospital. Named after Lord Symon Vergesson, the late assembly member who founded it, the massive mansion is
+      surrounded by vast gardens and filled with beautiful artwork designed to please the primarily wealthy
+      patients.]
+
+    to break him out, you relied on the only organization who could help, the Golden Vault, meeting brokered via
+    the pirate network.  concerns aroudn the right accent of thieves kant.  there are rumors of a double agent in the ranks.
+
+ - Ryan:
+   The archmage Keraptis has the Lute of the Beacon at White Plume Mountain.  a person of the right lineage can
+   play the lute and re-discover the song of the lute of the beacon, whose lyrics could provide the first clues of
+   that lineage's generational goals.
+
+   In the Biting North, beyond the Greying Wildlands and into the islands of Eiselcross, lies a miniature companion to
+   Kravaarad: White Plume Mountain.
+   [Kravaarad: North of Uthodurn, in the heart of the Floktet Alps, where the snowy landscape is defiantly interrupted
+    by the black and ever-smoldering volcano]
+
+   It is rumored that Thirteen hundred years ago, the wizard Keraptis was searching for a suitable haven where
+   he could indulge his eccentricities without fear of interference. He visited White Plume Mountain, going
+   closer than most dared to, and took it over, privoding who knows what kind of alterations.  he disappeared
+   below White Plume Mountain and vanished from the stories of the surface world.
+
+   "so?" you ask? well...  The Lute of the Beacon might be disguised as one of these three items.
+
+   A person of the right lineage can play the lute and re-discover the song of the lute of the beacon, whose lyrics
+   could provide the first clues of that lineage's generational goals.
+
+   --> something about
+       Chapter 5: The rift to the Netherdeep in Cael Morrow emerges from a cracked Luxon beacon.
+       https://www.reddit.com/r/CalloftheNetherdeep/comments/vc8y8r/a_plot_twist_for_the_campaign/
+
+
+# Setup entry
+
+Remind players of Ank’harel main factions:
+
+   - the Library of the Cobalt Soul
+     researcher: Question (Library)
+     agenda: the Library wants it destroyed
+      believe that ruidium is dangerous and it must be either destroyed or sealed away so that it cannot harm the world.
+
+   — the Allegiance of Allsight
+     researcher: Prolix Yusaf (Allegiance)
+     agenda: The Allegiance wants to use it to become arms dealers
+      want to use the ruidium to create weapons, armor, and other artifacts that they can sell to the highest bidder.
+
+   - the Consortium of Vermilion Dreams
+     researcher: Aloysia Telfin (Consortium)
+     agenda: the Consortium wants to monopolize it for arcane research
+      want to secure a monopoly on ruidium so that they can study its deeper mysteries and have sole access to its power.
+
+
+Of your three contacts:
+- Question has probably gone back to report on the missing expedition party you resovled, and what happened in Betrayer’s Rise.
+  had made plans with Prolix Yusaf to return to Ank'Harel together if the Library of the Cobalt Soul's expedition was lost.
+- Prolix offered to introduce the characters to his peers in the Allegiance of Allsight
+- Aloysia offered similar with the Consortium of Vermilion Dreams
+- also, in you absense, another group has been hired by Taskhand Verin Thelyss
+  --> Ayo, Dermot, Irwin, Maggie
+
+  "Typically, a person is associated with only one faction at a time. But if you want to change allegiances or engage in espionage, you can try!"
+
+# Entry
+
+ "The gloom of Bazzoxan and cold of the Greying Wildlands gives way to the sunlight and warm winds of Marquet
+  as you arrive in the metropolis of Ank'Harel.
+  Located thousands of miles from Wildemount, Ank'Harel is vibrant and alive, a sharp contrast to the war-scarred lands or chaotic cold you have left behind.
+  You find yourself in a realm of sprawling roads and towering structures humming with life, all surrounded by the golden dunes of the Marquesian desert.
+  The spectacular desert metropolis of Ank'Harel is the most precious jewel on the continent of Marquet.
+
+  Ank'Harel translates to "Jewel of Hope" in the northern dialect of the Marquesian language.
+  The city was established as an oasis trading post. A rare source of underground fresh water made this one of the few habitable locations in the vast desert.
+
+   --> [share map and image]
+
+ If they try to find where to contact each:
+ - Consortium: Suncut Bazaar. tavern First Eclipse.
+ - Library: Guided District.
+ - Allegiance: Sigil District.
+     S2 Teleportation Atrium of the Crystal Chateau
+     Teres Schoolhouse, one of two universities run by the Allegiance of Allsight in Ank'Harel
+
+
+## Visiting the Cobalt Soul
+
+- Cobalt Soul Mission 1: The Cultist of Zehir
+    - Question greets the party the following morning and says her superior [Iwo Zalarre]() wants to speak with them.
+          - Disgraced member of the Cerburus Assembly (organization of spellcasters in the Dwendalian Empire in Wildemount)
+          - fled after stealing a *staff of the adder*, trying to locate other Zehir cultists
+    - She leads them to the Temple of Mentor (HQ for Cobalt Soul) and up to Iwo’s office.
+    - Iwo asks them to follow a suspected spy, [Laurin Ophidas](), and find out what he is doing.
+    - He leaves shortly after --> overhear him ask a carriage to take him back to his lodging in Scroll’s Alcove in the Sigil District - S5
+
+- Cobalt Soul Mission 2: Half-Baked Scheme
+    - Wants you to investigate a local baker named [Old Man Kruuk](), who appears as a kindly, elderly baker but..
+	   - a neutral, half-orc [bandit captain] is a mediocre baker; his pitas are tough and chewy, and
+	   the caramel of his baklava is bitter and burned. Kruuk’s talent lies in his true vocation as a
+	   fence for stolen goods. After an individual gains his trust, he drops his bumbling baker facade
+           - The scope of Old Man Kruuk’s operation far exceeds what anyone might suspect; rumormongers suggest that Kruuk is a high-ranking member of the Veil
+        - Obtain proof that Old Man Kruuk is selling magic items on the black market.
+        - Confiscate any magic items found at Kruuk’s bakery and bring them to Iwo.
+        - 250 gp up front, 250 gp for proof, 250 gp per magic item retrieved
+    - Old Man Kruuk’s Bakery ([River District Canal]() - Q1
+        - The place is closed but Kruuk is planning on selling a *ruidium shortsword* to [Ashann]()
+            - She can bid up to 2,500 gp; attack if someone bids more; Surrenders <10 HP
+    - can join the Library of the Cobalt Soul for more missions
+        - monastic robe; Free lodging; Can buy *scroll of detect magic* (10 gp), *scroll of divination* (125 gp),
+                                               *scroll of commune* (250 gp), and a pair of *sending stones* (250 gp)
+
+
+## Districts
+
+Sigil District Streets
+S1 - Crystal Chateau Entrance
+S2 - Teleportation Atrium
+S3 - The Frog and Kebob
+S4 - Emerald Ibis Relic Hall
+S5 - Scroll’s Alcove
+S6 - Lawbearer’s Librams
+S7 - Boughs of the Wild Mother
 
 # Sidequests
 
@@ -50,17 +185,17 @@ Insight Acuere (LG Tiefling) - Professor, leader of the Cael Morrow Expedition
 Galeokaerda (NE Elf) - Adjunct Professor, spy for the Consortium of the Vermilion Dream in Cael Morrow
 
 Faction Objectives
-- Recover a stolen figurine of wonderous power infused with ruidium. The figurine is currently at the Bone Garden, 
+- Recover a stolen figurine of wonderous power infused with ruidium. The figurine is currently at the Bone Garden,
   but the owner of the shop (Rerosha) has agreed to return it to the Allegiance of Allsight
 
-- Investigate a possible secondary entrance to Cael Morrow through the Life Dome (this is a false lead 
+- Investigate a possible secondary entrance to Cael Morrow through the Life Dome (this is a false lead
   planted by the Sentinels of Memory)
 
 - Obtain stone tablets from a crumbling, flooded building in Cael Morrow (area M10)
 
 - Enter the rift in Cael Morrow and confirm that ruidium can be found there
 
-- Explore and secure the Netherdeep, and convince the "sorrowful intelligence" found within (Alyxian) 
+- Explore and secure the Netherdeep, and convince the "sorrowful intelligence" found within (Alyxian)
   to allow the Allegiance of Allsight to extract ruidium
 
 ## Cobalt Soul
@@ -80,12 +215,12 @@ Question (CN Tielfing) - Operative
 Faction Objectives
 - Investigate a suspected Cultist of Zehir to determine his motives in Ank'Harel
 
-- Obtain proof that Old Man Kruuk is selling dangerous black market magic items, then sieze any magic items 
+- Obtain proof that Old Man Kruuk is selling dangerous black market magic items, then sieze any magic items
   he currently possesses
 
 - Inflitrate First Eclipse - the headquarters of the Consortium of the Vermilion Dream
 
-- Recover the "Key to the Netherdeep" that the Consortium seems to be after - revealed to be a Ruidium Greataxe 
+- Recover the "Key to the Netherdeep" that the Consortium seems to be after - revealed to be a Ruidium Greataxe
   found in the flooded Villa of Cael Morrow (area M13)
 
 - Subdue or defeat the Alyxian Aboleth
@@ -116,18 +251,18 @@ Ashann (CN Gnome) - Agent
 Faction Objectives
 - Purchase a ruidium shortsword from Old Man Kruuk
 
-- Steal the ruidium infused Figurine of Wonderous Power from the Allegiance of Allsight. After acquiring it 
+- Steal the ruidium infused Figurine of Wonderous Power from the Allegiance of Allsight. After acquiring it
   from the Bone Garden, the figurine is kept in the Relic Hall (area S4)
 
-- Experiment with the ruidium infused Figurine of Wonderous Power to create two crystaline elephants, 
+- Experiment with the ruidium infused Figurine of Wonderous Power to create two crystaline elephants,
   using First Eclipse as a base of operations for the test (after clearing out the secret basement)
 
-- Obtain the "Key to the Netherdeep" - as identified by Consortium divers to be 
+- Obtain the "Key to the Netherdeep" - as identified by Consortium divers to be
   a ruidium greataxe in a sunken Cael Morrow Villa (area M13)
 
 - Kill the Alyxian Aboleth so the path to the rift in Cael Morrow is clear
 
-- Enter the Netherdeep and find the source of ruidium. If it's a creature, convince or force 
+- Enter the Netherdeep and find the source of ruidium. If it's a creature, convince or force
   it to ally with the Consortium
 
 
@@ -151,7 +286,9 @@ Faction Objectives
 
 ## Other
 
-The Hands of Ord, the Scarbearers, and the Veil do not play a specific role 
+The Hands of Ord - do not play a specific role
+the Scarbearers  - do not play a specific role
+the Veil         - do not play a specific role
 
 There is a homeless teenage girl with innate magical abilities named Shira that is using the
 Boughs of the Wild Mother as a nighttime hideout and scaring off anyone who comes near by
