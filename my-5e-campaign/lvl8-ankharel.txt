@@ -87,32 +87,32 @@ Of your three contacts:
 
 ## Districts
 
-  The city is divided into eight Neighborhoods: 
+The city is divided into eight districts: 
 
-the Alluvium District, 
+- the Alluvium District, 
     Named for the rich clay mined in the cliffs that border it, a mixture of dense residential sections, sites of 
     clay strip mining, and spacious plazas used for oral performances and artisan markets.
-the Circlet Walk, 
+- the Circlet Walk, 
     primarily a residential district, plus taverns and other places of commerce as well. 
     so packed with buildings it's customary for people to travel by hopping from rooftop to rooftop rather than navigating the narrow roads.
-the Guided District, 
+- the Guided District, 
     contains most houses of worship, each Prime Deities represented. architecture is ornamental; 
     temples are adorned with intricate mosaics and crowned by minarets with gilded spires.
-the Ridge, 
+- the Ridge, 
     Sitting atop one of the city's three plateaus, the Ridge is Ank'Harel's industrial district. 
     crowded with smithies, foundries, shipyards, and warehouses.
-the River District, 
+- the River District, 
     permeated by the smell of wet earth, strips of irrigated cropland are intermingled with hydroponic farms, 
     in place of roads, canals connect the subdivisions of the district. traverse in skiffs and canoes.
-the Sand-Herald District, 
+- the Sand-Herald District, 
     seat of government, center of military and law enforcement, HQ of the Hands of Ord.  site of Ank'Harel's skyport.
     The HoO's stronghold is a major feature, dwarfed only by the *Cerulean Palace*'s purple and blue spires 
     residences are mostly wealthy: powerful merchants, decorated mercenaries, celebrities of song and stage. 
     [only other skyports: Port Damali in Wildemount, Vasselheim in Issylra, Emon and Whitestone in Tal'Dorei]
-the Sigil District, 
+- the Sigil District, 
     smaller but busy, people from across the city commute to study at the district's various centers of learning. 
     buildings representing cultures from across Exandria are a counterpoint to the grand, Marquesian-style domes of the Crystal Chateau. 
-the Suncut Bazaar.
+- the Suncut Bazaar,
     center of commerce in Ank'Harel.  the palatial Luck's Run casino.
     densely-packed stone buildings w/ stores, artisan goods, and magic shops, trinkets. 
     Crimson banners, hanging flags, cloth drapery provide shade.  Awnings stretch above open-air food stalls; fresh fruit, sweet semolina cakes, roasting spits. 
@@ -146,11 +146,13 @@ the Suncut Bazaar.
       - a temple of Ioun the Knowing in the Guided District.
       - Cobalt Soul founded the Temple of the Mentor in Ank'Harel nearly 150 years ago. 
     Leader: Jamil A'alithiya, a youthful human, is monastic high curator 
+
  - Allegiance: Sigil District.  S2 Teleportation Atrium of the Crystal Chateau
     Headquarters: The Crystal Chateau, a university in the Sigil District
                   + Teres Schoolhouse, one of two universities run by the Allegiance of Allsight in Ank'Harel
     Leaders: James Cryon (Elf) - Headmaster of the Crystal Chateau
              + Gryz Alakirtos (Goblin) - Headmaster of the Teres Schoolhouse
+
  - Consortium: Suncut Bazaar. tavern First Eclipse.
     Headquarters. First Eclipse tavern in the Suncut Bazaar
     Leader: the council of Five Masters: Aradrine the Owl (LN Goliath) Dendarron the Sun Bear (CN Halfling) 
