@@ -169,54 +169,6 @@ the Suncut Bazaar.
      Headquarters. unknown
      Leader. Ilena Hapayhari, human ruthless pirate from the western coast of Marquet
 
-## Map
-
-Alluvium District
-A1 - Alluvium Gardens 
-A2 - Opalite Forum 
-A3 - Sa'irah Mines 
-
-Cerulean Palace
-B1 - Chamber of Judgment 
-B2 - Tower of J'mon Sa Ord 
-
-The Circlet Walk
-C1 - Lyrean Linen 
-C2 - Step Aside 
-
-Guided District
-D1 - Blessing Well 
-D2 - Crossings of Eventide 
-D3 - Temple of the Mentor 
-D4 - Tower of Memory 
-
-The Ridge
-E1 - Alsfarin Union Shipyard 
-E2 - Sunfire Forge 
-
-River District
-F1 - Life Dome 
-F2 - Old Man Kruuk's 
-F3 - Steam Gardens 
-
-Sand-Herald District
-G1 - Bowl of Judgment 
-G2 - Indala Skyport 
-G3 - Ord Bastion 
-
-Sigil District
-H1 - Crystal Chateau 
-H2 - Teleportation Atrium, The Frog and Kebab, Emerald Ibis Relic Hall, and Scroll's Alcove 
-H3 - Lawbearer's Librams 
-H4 - Boughs of the Wild Mother 
-H5 - Maw of Cael Morrow 
-H6 - Omnival Library 
-H7 - Teres Schoolhouse 
-
-Suncut Bazaar
-I1 - Central street, market stalls, Bone Garden, Mystic Pursuits, First Eclipse and the courtyard 
-I2 - Luck's Run 
-
 
 ## Visiting the Cobalt Soul
 
@@ -247,22 +199,18 @@ I2 - Luck's Run
 
 # Sidequests
 
- Additional Encounters:
- - Treasure Hunt Expansion (Lair of Devo’ssa)
  Additional Locations:
- - A Guide to the Guided District & Temples in Ank’Harel
+ - Guide to the Guided District & Temples in Ank’Harel
+ - Scenes in Ank'Harel: https://www.gmbinder.com/share/-N05Ugpn7WfQVPA3oPgM
 
-the Scenes and Sidequests in Ank'Harel:
-https://www.gmbinder.com/share/-N05Ugpn7WfQVPA3oPgM
-
-see PDFs in https://drive.google.com/drive/u/0/folders/1QJR6obP80TEG5-BVw7mhx2eHz0Vb4ZXh
+ Additional Encounters:
 - cult
 - grand tournament
 - skyship attack
-- treasure hunt
+- treasure hunt (Lair of Devo’ssa)
 
-  https://www.reddit.com/r/CalloftheNetherdeep/comments/uwtf58/ankharel_sidequest_treasure_hunt/
-  Treasure Hunt: Lair of Devo'ssa: https://docs.google.com/document/d/1SIx2VCwCzK1PYFzprwpcEKCmuBSISatDfD4l7LR5HMM/edit#heading=h.bkpajb9d03c7
+  PDFs: https://drive.google.com/drive/u/0/folders/1QJR6obP80TEG5-BVw7mhx2eHz0Vb4ZXh
+  extension: Lair of Devo'ssa: https://www.reddit.com/r/CalloftheNetherdeep/comments/uwtf58/ankharel_sidequest_treasure_hunt/
 
 
 # Factions
@@ -412,4 +360,55 @@ pretending to be a ghost using her magical abilities
 
 Luck's Run Casino has received a report that three thieves will be trying to pull off a heist
 and need mercenaries to increase security
+
+
+## Map locations 
+
+- ankharel-labelled.png
+
+Alluvium District
+A1 - Alluvium Gardens 
+A2 - Opalite Forum 
+A3 - Sa'irah Mines 
+
+Cerulean Palace
+B1 - Chamber of Judgment 
+B2 - Tower of J'mon Sa Ord 
+
+The Circlet Walk
+C1 - Lyrean Linen 
+C2 - Step Aside 
+
+Guided District
+D1 - Blessing Well 
+D2 - Crossings of Eventide 
+D3 - Temple of the Mentor 
+D4 - Tower of Memory 
+
+The Ridge
+E1 - Alsfarin Union Shipyard 
+E2 - Sunfire Forge 
+
+River District
+F1 - Life Dome 
+F2 - Old Man Kruuk's 
+F3 - Steam Gardens 
+
+Sand-Herald District
+G1 - Bowl of Judgment 
+G2 - Indala Skyport 
+G3 - Ord Bastion 
+
+Sigil District
+H1 - Crystal Chateau 
+H2 - Teleportation Atrium, The Frog and Kebab, Emerald Ibis Relic Hall, and Scroll's Alcove 
+H3 - Lawbearer's Librams 
+H4 - Boughs of the Wild Mother 
+H5 - Maw of Cael Morrow 
+H6 - Omnival Library 
+H7 - Teres Schoolhouse 
+
+Suncut Bazaar
+I1 - Central street, market stalls, Bone Garden, Mystic Pursuits, First Eclipse and the courtyard 
+I2 - Luck's Run 
 
