@@ -5,7 +5,7 @@ Chapter 4 - The Jewel of Hope (Ank’Harel)
 # How we got here
 
  - Stav: the jewel seems to be tied to variants of the crystals inside you, from your creator.
- - Josh: you are avoiding your dad.  the people in phandalin are known to you from.
+ - Josh: you are among fellow ex-pats in phandalin, avoiding your past
  - Stephen: the spear is from a divine source if you choose to bond with it
  - Sam: pending: Grimoire Infinitus
  - James:
@@ -21,10 +21,11 @@ Chapter 4 - The Jewel of Hope (Ank’Harel)
    play the lute and re-discover the song of the lute of the beacon, whose lyrics could provide the first clues of
    that lineage's generational goals.
 
-   In the Biting North, beyond the Greying Wildlands and toward the islands of Eiselcross, North of Uthodurn, 
-   in the heart of the Floktet Alps. lies Kravaarad. a among these chilled mountains of chaos magice lies a 
-   miniature companion to Kravaarad: White Plume Mountain. a haven for the wizard Keraptis.
-   The Lute of the Beacon might be disguised as one of these three items rumored to be there.
+   In the Biting North, beyond the Greying Wildlands and toward the islands of Eiselcross, North of Uthodurn,
+   in the heart of the Floktet Alps lies Kravaarad. lies a miniature companion to Kravaarad: White Plume Mountain.
+   the haven of the wizard Keraptis.
+
+   The Lute of the Beacon was disguised as one of these three items rumored to be there.
 
    A person of the right lineage can play the lute and re-discover the song of the lute of the beacon, whose lyrics
    could provide the first clues of that lineage's generational goals.
@@ -57,10 +58,11 @@ Of your three contacts:
   had made plans with Prolix Yusaf to return to Ank'Harel together if the Library of the Cobalt Soul's expedition was lost.
 - Prolix offered to introduce the characters to his peers in the Allegiance of Allsight
 - Aloysia offered similar with the Consortium of Vermilion Dreams
-- also, in you absense, another group has been hired by Taskhand Verin Thelyss
-  --> Ayo, Dermot, Irwin, Maggie
+- also, in you absense, another group has been hired by Taskhand Verin Thelyss --> Ayo, Dermot, Irwin, Maggie
 
-  "Typically, a person is associated with only one faction at a time. But if you want to change allegiances or engage in espionage, you can try!"
+## Choosing a faction
+
+ Typically, a person is associated with only one faction at a time. But if you want to change allegiances or engage in espionage, you can try!
 
 # Entry
 
@@ -87,37 +89,37 @@ Of your three contacts:
 
 ## Districts
 
-The city is divided into eight districts: 
+The city is divided into eight districts:
 
-- the Alluvium District, 
-    Named for the rich clay mined in the cliffs that border it, a mixture of dense residential sections, sites of 
+- the Alluvium District,
+    Named for the rich clay mined in the cliffs that border it, a mixture of dense residential sections, sites of
     clay strip mining, and spacious plazas used for oral performances and artisan markets.
-- the Circlet Walk, 
-    primarily a residential district, plus taverns and other places of commerce as well. 
+- the Circlet Walk,
+    primarily a residential district, plus taverns and other places of commerce as well.
     so packed with buildings it's customary for people to travel by hopping from rooftop to rooftop rather than navigating the narrow roads.
-- the Guided District, 
-    contains most houses of worship, each Prime Deities represented. architecture is ornamental; 
+- the Guided District,
+    contains most houses of worship, each Prime Deities represented. architecture is ornamental;
     temples are adorned with intricate mosaics and crowned by minarets with gilded spires.
-- the Ridge, 
-    Sitting atop one of the city's three plateaus, the Ridge is Ank'Harel's industrial district. 
+- the Ridge,
+    Sitting atop one of the city's three plateaus, the Ridge is Ank'Harel's industrial district.
     crowded with smithies, foundries, shipyards, and warehouses.
-- the River District, 
-    permeated by the smell of wet earth, strips of irrigated cropland are intermingled with hydroponic farms, 
+- the River District,
+    permeated by the smell of wet earth, strips of irrigated cropland are intermingled with hydroponic farms,
     in place of roads, canals connect the subdivisions of the district. traverse in skiffs and canoes.
-- the Sand-Herald District, 
+- the Sand-Herald District,
     seat of government, center of military and law enforcement, HQ of the Hands of Ord.  site of Ank'Harel's skyport.
-    The HoO's stronghold is a major feature, dwarfed only by the *Cerulean Palace*'s purple and blue spires 
-    residences are mostly wealthy: powerful merchants, decorated mercenaries, celebrities of song and stage. 
+    The HoO's stronghold is a major feature, dwarfed only by the *Cerulean Palace*'s purple and blue spires
+    residences are mostly wealthy: powerful merchants, decorated mercenaries, celebrities of song and stage.
     [only other skyports: Port Damali in Wildemount, Vasselheim in Issylra, Emon and Whitestone in Tal'Dorei]
-- the Sigil District, 
-    smaller but busy, people from across the city commute to study at the district's various centers of learning. 
-    buildings representing cultures from across Exandria are a counterpoint to the grand, Marquesian-style domes of the Crystal Chateau. 
+- the Sigil District,
+    smaller but busy, people from across the city commute to study at the district's various centers of learning.
+    buildings representing cultures from across Exandria are a counterpoint to the grand, Marquesian-style domes of the Crystal Chateau.
 - the Suncut Bazaar,
     center of commerce in Ank'Harel.  the palatial Luck's Run casino.
-    densely-packed stone buildings w/ stores, artisan goods, and magic shops, trinkets. 
-    Crimson banners, hanging flags, cloth drapery provide shade.  Awnings stretch above open-air food stalls; fresh fruit, sweet semolina cakes, roasting spits. 
+    densely-packed stone buildings w/ stores, artisan goods, and magic shops, trinkets.
+    Crimson banners, hanging flags, cloth drapery provide shade.  Awnings stretch above open-air food stalls; fresh fruit, sweet semolina cakes, roasting spits.
 
- select lodging options: 
+ select lodging options:
     Ajir's Whetstone (in the Alluvium District)	    Hostel	
     Golden Chip (in the Suncut Bazaar)	            Casino	
     Harried Mongoose (in the River District)	    Tavern	
@@ -126,26 +128,27 @@ The city is divided into eight districts:
 
  as you walk, you see:
   see a flyer: annual Grand Tournament, held in front of thousands of screaming fans in the Bowl of Judgment in the Sand-Herald District.
-  see a flyer: Leila Bardet, excavator and visiting scholar to the Crvstal Chateau wishes to conduct an expedition 
+  see a flyer: Leila Bardet, excavator and visiting scholar to the Crvstal Chateau wishes to conduct an expedition
                into the desert north of Ank'Harel. When arriving by skyship, she spotted a unique heart-shaped rock formation.
   see a flyer: wanted: information on theft of brumestone (a blue crystal). contact the Alstarin Union shipyard on the ridge.
   see a flyer: try your luck at Luck's Run!
   see a flyer: visit Steam Gardens Arboretum and Bathhouse! magically fueled hot springs release massaging jets of water.
-  see a flyer: visit Sunfire Forge, premier blacksmith and weapons manufacturer in Ank'Harel.  our unique power source, liquid sunlight, 
+  see a flyer: visit Sunfire Forge, premier blacksmith and weapons manufacturer in Ank'Harel.  our unique power source, liquid sunlight,
                is harvested from the iridescent crystals lining our roof, and provides excellent beyond compare.
                our fine metalwork can incorporate fragile components such as arcane minerals and gem dust.
   ridge: skyship attack
   palace: cult of zehir escape
   murders sidequest: any guard / forge / ...
-  
+
+  once you get somewhere you can ask...
 
 ## Investigate the factions
 
  - Library CS: Guided District.
-    Headquarters: Marquesian branch of the Library of the Cobalt Soul is based at the Temple of the Mentor 
+    Headquarters: Marquesian branch of the Library of the Cobalt Soul is based at the Temple of the Mentor
       - a temple of Ioun the Knowing in the Guided District.
-      - Cobalt Soul founded the Temple of the Mentor in Ank'Harel nearly 150 years ago. 
-    Leader: Jamil A'alithiya, a youthful human, is monastic high curator 
+      - Cobalt Soul founded the Temple of the Mentor in Ank'Harel nearly 150 years ago.
+    Leader: Jamil A'alithiya, a youthful human, is monastic high curator
 
  - Allegiance: Sigil District.  S2 Teleportation Atrium of the Crystal Chateau
     Headquarters: The Crystal Chateau, a university in the Sigil District
@@ -155,17 +158,17 @@ The city is divided into eight districts:
 
  - Consortium: Suncut Bazaar. tavern First Eclipse.
     Headquarters. First Eclipse tavern in the Suncut Bazaar
-    Leader: the council of Five Masters: Aradrine the Owl (LN Goliath) Dendarron the Sun Bear (CN Halfling) 
+    Leader: the council of Five Masters: Aradrine the Owl (LN Goliath) Dendarron the Sun Bear (CN Halfling)
                   Larthul the Wolf (CE Human) Khelkur the Gull (NE Dwarf) Vrill the Moth (LE Elf)
 
- - Sentinels of Memory: political group focused on historical conservation 
+ - Sentinels of Memory: political group focused on historical conservation
      Headquarters. The Tower of Memory in the Guided District
      Leader. Watcher Trast, a elf priest and a former cleric of Ioun
  - The Hands of Ord: city guard
      Headquarters. The city guard is based in Ord Bastion in the Sand-Herald District.
      Leader. Ironhand Sem, minotaur, oversees all military operations in Ank'Harel.
  - the Scarbearers: mercs
-     Headquarters. The Bowl of Judgment, an arena in the Sand-Herald District 
+     Headquarters. The Bowl of Judgment, an arena in the Sand-Herald District
      Leader. Quartermaster Croog Lynn, goliath gladiator
  - the Veil: crime
      Headquarters. unknown
@@ -343,14 +346,14 @@ Faction Objectives
 
 ## Other
 
-Sentinels of Memory: political group focused on historical conservation 
+Sentinels of Memory: political group focused on historical conservation
   Headquarters. The Tower of Memory in the Guided District
   Leader. Watcher Trast, a elf priest and a former cleric of Ioun
 The Hands of Ord: city guard
   Headquarters. The city guard is based in Ord Bastion in the Sand-Herald District.
   Leader. Ironhand Sem, minotaur, oversees all military operations in Ank'Harel.
 the Scarbearers: mercs
-  Headquarters. The Bowl of Judgment, an arena in the Sand-Herald District 
+  Headquarters. The Bowl of Judgment, an arena in the Sand-Herald District
   Leader. Quartermaster Croog Lynn, goliath gladiator
 the Veil: crime
   Headquarters. unknown
@@ -364,53 +367,53 @@ Luck's Run Casino has received a report that three thieves will be trying to pul
 and need mercenaries to increase security
 
 
-## Map locations 
+## Map locations
 
 - ankharel-labelled.png
 
 Alluvium District
-A1 - Alluvium Gardens 
-A2 - Opalite Forum 
-A3 - Sa'irah Mines 
+A1 - Alluvium Gardens
+A2 - Opalite Forum
+A3 - Sa'irah Mines
 
 Cerulean Palace
-B1 - Chamber of Judgment 
-B2 - Tower of J'mon Sa Ord 
+B1 - Chamber of Judgment
+B2 - Tower of J'mon Sa Ord
 
 The Circlet Walk
-C1 - Lyrean Linen 
-C2 - Step Aside 
+C1 - Lyrean Linen
+C2 - Step Aside
 
 Guided District
-D1 - Blessing Well 
-D2 - Crossings of Eventide 
-D3 - Temple of the Mentor 
-D4 - Tower of Memory 
+D1 - Blessing Well
+D2 - Crossings of Eventide
+D3 - Temple of the Mentor
+D4 - Tower of Memory
 
 The Ridge
-E1 - Alsfarin Union Shipyard 
-E2 - Sunfire Forge 
+E1 - Alsfarin Union Shipyard
+E2 - Sunfire Forge
 
 River District
-F1 - Life Dome 
-F2 - Old Man Kruuk's 
-F3 - Steam Gardens 
+F1 - Life Dome
+F2 - Old Man Kruuk's
+F3 - Steam Gardens
 
 Sand-Herald District
-G1 - Bowl of Judgment 
-G2 - Indala Skyport 
-G3 - Ord Bastion 
+G1 - Bowl of Judgment
+G2 - Indala Skyport
+G3 - Ord Bastion
 
 Sigil District
-H1 - Crystal Chateau 
-H2 - Teleportation Atrium, The Frog and Kebab, Emerald Ibis Relic Hall, and Scroll's Alcove 
-H3 - Lawbearer's Librams 
-H4 - Boughs of the Wild Mother 
-H5 - Maw of Cael Morrow 
-H6 - Omnival Library 
-H7 - Teres Schoolhouse 
+H1 - Crystal Chateau
+H2 - Teleportation Atrium, The Frog and Kebab, Emerald Ibis Relic Hall, and Scroll's Alcove
+H3 - Lawbearer's Librams
+H4 - Boughs of the Wild Mother
+H5 - Maw of Cael Morrow
+H6 - Omnival Library
+H7 - Teres Schoolhouse
 
 Suncut Bazaar
-I1 - Central street, market stalls, Bone Garden, Mystic Pursuits, First Eclipse and the courtyard 
-I2 - Luck's Run 
+I1 - Central street, market stalls, Bone Garden, Mystic Pursuits, First Eclipse and the courtyard
+I2 - Luck's Run
 
