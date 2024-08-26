@@ -178,12 +178,36 @@ The city is divided into eight districts:
 ## Visiting the Cobalt Soul
 
 - Cobalt Soul Mission 1: The Cultist of Zehir
-    - Question greets the party the following morning and says her superior [Iwo Zalarre]() wants to speak with them.
-          - Disgraced member of the Cerburus Assembly (organization of spellcasters in the Dwendalian Empire in Wildemount)
-          - fled after stealing a *staff of the adder*, trying to locate other Zehir cultists
-    - She leads them to the Temple of Mentor (HQ for Cobalt Soul) and up to Iwo’s office.
+  - party meets Question and [Iwo Zalarre]() @ the Temple of Mentor (HQ for Cobalt Soul) up in Iwo’s office.
     - Iwo asks them to follow a suspected spy, [Laurin Ophidas](), and find out what he is doing.
-    - He leaves shortly after --> overhear him ask a carriage to take him back to his lodging in Scroll’s Alcove in the Sigil District - S5
+          thinks he might be a Disgraced member of the Cerburus Assembly, organization of spellcasters in the Dwendalian Empire in Wildemount
+          [fled after stealing a *staff of the adder*, trying to locate other Zehir cultists]
+    - Laurin leaves shortly after --> overhear him ask a carriage to take him back to his lodging in Scroll’s Alcove in the Sigil District - S5
+
+  - if follow:, ask how? ask for Stealth check
+  - arrive at Sigil District; show map
+  - he starts walking to the SW -- follow?  
+  - enters house, can see him through window in orange bed room, then, in red bed room.  has a Yuan Ti visitor. worrds are exchanged.
+  - if can listen:
+    - a lot of guards were petrified in the Scarlet Oubliette prison break; that was very messy; you need to get to Eskasien or Lady Najash
+    - there were other left behind in the break who might not be happy
+    - i need to get you out of here ASAP
+    - they have your Lash of the Shadows, and they are very driven to get it to you; how about tonight under cover of dark?
+
+  --> investigate petrified guards
+      - turned into snake, went into sewers, 4 yuan ti purebloods defended to the death; scimitars were coated with Poison of Petrification
+  --> investiagte prison break (cells/prisoners) --> find guy, knows Vorsk, about the Lash, and Adeline's Najash manor location, and of a spirit naga
+      flying snake came and remains captive
+  --> kll both people now
+  --> follow tonight
+  ...
+  --> report back: "i was worried about these very possibilities" suggests the above.  or visit the HoO w/ me, and we'll get their blessing
+
+  - [details of Cult of Zehir sidequest:
+    - Eskasien, a spirit naga, has located Zehir's Arm of the Betrayer Lash of Shadows. 
+    - cult of Zehir's founder in Ank'Harel: a noble and medusa named Lady Adeline Najash, believe this is a sign from Zehir
+    - Eskasien has devised a plan to free a yuan-ti abomination named Vorsk ]
+
 
 - Cobalt Soul Mission 2: Half-Baked Scheme
     - Wants you to investigate a local baker named [Old Man Kruuk](), who appears as a kindly, elderly baker but..
