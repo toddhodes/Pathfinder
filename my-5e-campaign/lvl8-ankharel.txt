@@ -208,6 +208,15 @@ The city is divided into eight districts:
     - cult of Zehir's founder in Ank'Harel: a noble and medusa named Lady Adeline Najash, believe this is a sign from Zehir
     - Eskasien has devised a plan to free a yuan-ti abomination named Vorsk ]
 
+  skyship
+    - instructions to house & do not look Lady Adeline in the eyes
+  najesh manor
+    - search house. find antidote and more vials
+    - papers showing v large payments to Old Man Kruuk
+  conclusion: 
+    - look into OMK
+    - asked to return lash, which was stolen from J'Mon Sa'Ord
+    - reward
 
 - Cobalt Soul Mission 2: Half-Baked Scheme
     - Wants you to investigate a local baker named [Old Man Kruuk](), who appears as a kindly, elderly baker but..
