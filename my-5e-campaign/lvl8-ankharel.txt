@@ -223,7 +223,7 @@ The city is divided into eight districts:
 
 ### Cobalt Soul Mission 2: Half-Baked Scheme
 
-     "Many of long suspected Kruuk of being involved in the illegal sale of dangerous magic items, 
+     "Many of long suspected Kruuk of being involved in the illegal sale of dangerous "special" magic items, 
       but rumors suggest that he's a high-ranking member of the Veil, and no one dares cross him.
       We need proof before involving the Hands of Ord.  The circle on the map
       shows where the bakery is located. We assume that Kruuk does all his black-market business
@@ -238,14 +238,66 @@ The city is divided into eight districts:
     - Kruuk is planning on selling a *ruidium shortsword* to [Ashann]()
       - She can bid up to 2,500 gp; attack if someone bids more; Surrenders <10 HP
 
-    conclusion:
+    conclusion:  High Curator Jamil A'alithiya requests you
     - gain Renown
-    - can join the Library of the Cobalt Soul
+    - can join the Library of the Cobalt Soul, or, just leverage renown
         - monastic robe; Free lodging; Can buy *scroll of detect magic* (10 gp), *scroll of divination* (125 gp),
                                                *scroll of commune* (250 gp), and a pair of *sending stones* (250 gp)
-    - that leads to
+    - JA: 
+    "Seated at the wide table is a young man no older than thirty, with brown skin and hazel
+    eyes. His white robes are adorned with blue designs.  He smiles warmly as you enter.
+    "Please, shut the door behind you," he says, closing the book in front of him.
+
+    "You have proven yourself accomplished and valuable adventurers, and you have gained my trust.  
+     And we hope, we're starting to gain yours.  It's time for us to open up to you about the current situation.
+
+     We've observed strange happenings in the Suncut Bazaar; it indicates that the Consortium of the Vermilion Dream
+     must be making progress researching the crimson substance known as ruidium. 
+     Rumor has it the substance comes from the ruins of Cael Morrow, the underwater city beneath Ank'Harel."
+
+    "I'm worried that the Consortium is tampering with powers beyond its control. That is why I
+     would like you to infiltrate the Consortium's headquarters -— a tavern called First
+     Eclipse -— and find out anything you can about its research on ruidium. If you happen to come
+     across any ruidium items in the Consortium's possession, please confiscate them and bring
+     them back here to our temple for examination and safekeeping. We'll gladly provide a reward of 1000GP,
+     and more importantly, we all together can then take our findings to our allies at the Allegiance of Allsight 
+     and all current findings will be revealed.."
+
 
 ### Cobalt Soul Mission 3: Elephant Uproar
+
+- fight elephants
+
+- conclusion:
+
+  "As you enter his study, the high curator spreads his arms wide and softly says, "Welcome. I am glad to see you again.
+
+  "the Consortium is keen to secure more ruidium, which is accessible only through a rift in
+  Cael Morrow.  Due to you heroic acts, combined with your exposure of the facts of ruidium,
+  The Allegiance of Allsight has granted you access to Cael Morrow. The Allegiance's control of
+  the excavation site is threatened by the Consortium of the Vermilion Dream, so it's important
+  that we act quickly.
+
+  "Ruidium is a magical substance that corrupts everything it touches. It comes from a place
+  called the Netherdeep, which can be reached by passing through a rift in the heart of Cael
+  Morrow. I've been told that passage through the rift requires some sort of key, but I don't
+  know what form the key takes.
+
+  the Allegiance of Allsight and the Consortium of the Vermilion Dream are acting selfishly by
+  taking advantage of their access to the Netherdeep
+
+  "I fear further unrest in Ank'Harel so long as the rift exists. The Netherdeep must be sealed
+  off or destroyed, lest ruidium continue to find its way into Ank'Harel, and from there, to the war. 
+  But first thing's first. We need that key."
+
+
+### Cobalt Soul Mission 4: Allegiance Alliance
+
+accomplish the following tasks and report back before seven days have elapsed:
+- Enter Cael Morrow and rendezvous with Professor Insight Acuere at the Allegiance of Allsight base camp.
+- Earn Insight's trust and learn how to access the Netherdeep.
+- Acquire the "key" to the Netherdeep.
+
 
 
 # Sidequests
@@ -255,7 +307,7 @@ The city is divided into eight districts:
  - Scenes in Ank'Harel: https://www.gmbinder.com/share/-N05Ugpn7WfQVPA3oPgM
 
  Additional Encounters:
-- cult
+- cult of zehir -- incorporated into mission 1
 - grand tournament
 - skyship attack
 - treasure hunt (Lair of Devo’ssa)
