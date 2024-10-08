@@ -123,6 +123,46 @@ EXALTED
 - jack of all trades uses full proficiency bonus
 - Learn any spell of your choosing; does not count against the number of spells you can know.
 
+
+Lash of Shadows
+---------------
+
+DORMANT
+- One random minor beneficial property and one random minor detrimental property
+  Minor Beneficial Properties: 9 [9] While attuned to the artifact, you gain proficiency in one skill of the DM's choice.
+  Minor Detrimental Properties: 60 [60] While attuned to the artifact, your weight drops by 10lbs
+- The wielder knows Abyssal and Draconic.
+- The wielder has a +1 bonus to attack and damage rolls made with this weapon.
+- The wielder can attempt to poison a target on a successful attack, with one of the following poisons:
+  - Serpent Venom: On a failed Constitution saving throw (DC 13), the target takes 3d6 poison damage, half as much on a success.
+  - Dead Eyes: On a failed Constitution saving throw (DC 13), the target is poisoned for an hour. While poisoned, they are blinded. 
+    This poison cannot be used again until the next dawn.
+
+AWAKENED
+- One additional random minor beneficial property and one additional random minor detrimental property
+  Minor Beneficial Properties: 25 [25] While attuned to the artifact, you are immune to disease.
+  Minor Detrimental Properties: 82 [82] While attuned to the artifact, you deal 1d6 necrotic damage to any plant you touch that isn't a creature.
+- The bonus to attack and damage rolls increases to +2.
+- All poisons' DC become 15.
+- A new poison becomes available to the wielder:
+  - Ghoul's Blood: On a failed Constitution saving throw (DC 15), the target is poisoned for a minute. While poisoned, they are paralyzed. 
+    The target may repeat the saving throw at the end of each of their turns, on a success the paralysis ends. 
+    This poison cannot be used again until the next dawn.
+
+EXALTED
+- One random major beneficial property.
+  While attuned to the artifact, you can use an action to cast one 7th-level spell (chosen by the DM) from it. 
+  After you cast the spell, roll a d6. On a roll of 1-5, you can't cast it again until the next dawn.
+- The bonus to attack and damage rolls increases to +3.
+- The DC for the poisons becomes 17.
+- A new poison becomes available to the wielder:
+  - Cockatrice Tears: On a failed Constitution saving throw (DC 17), the target begins to turn
+    to stone and is considered restrained. They repeat the save at the end of their next turn.
+    On a successful save, the effect ends, but on a failure they are petrified for the next 24
+    hours. This poison cannot be used again until the next dawn.
+
+
+
 Other possible properties
 -------------------------
 - choose a skill or tool proficiency -- your proficiency bonus is double for ability checks made using these skills or tools

@@ -177,7 +177,8 @@ The city is divided into eight districts:
 
 ## Visiting the Cobalt Soul
 
-- Cobalt Soul Mission 1: The Cultist of Zehir
+### Cobalt Soul Mission 1: The Cultist of Zehir
+
   - party meets Question and [Iwo Zalarre]() @ the Temple of Mentor (HQ for Cobalt Soul) up in Iwo’s office.
     - Iwo asks them to follow a suspected spy, [Laurin Ophidas](), and find out what he is doing.
           thinks he might be a Disgraced member of the Cerburus Assembly, organization of spellcasters in the Dwendalian Empire in Wildemount
@@ -214,25 +215,37 @@ The city is divided into eight districts:
     - search house. find antidote and more vials
     - papers showing v large payments to Old Man Kruuk
   conclusion: 
-    - look into OMK
-    - asked to return lash, which was stolen from J'Mon Sa'Ord
-    - reward
+    - asked to keep lash safe, or give to J'Mon Sa'Ord
+    - reward: 200GP from CS
+    - reward: visit JSO for 200GP/each if antidote
+    - re: notes - investigate local baker [Old Man Kruuk] @ [River District Canal] Bakery - Q1
+        - **read blurb**
 
-- Cobalt Soul Mission 2: Half-Baked Scheme
-    - Wants you to investigate a local baker named [Old Man Kruuk](), who appears as a kindly, elderly baker but..
-	   - a neutral, half-orc [bandit captain] is a mediocre baker; his pitas are tough and chewy, and
-	   the caramel of his baklava is bitter and burned. Kruuk’s talent lies in his true vocation as a
-	   fence for stolen goods. After an individual gains his trust, he drops his bumbling baker facade
-           - The scope of Old Man Kruuk’s operation far exceeds what anyone might suspect; rumormongers suggest that Kruuk is a high-ranking member of the Veil
+### Cobalt Soul Mission 2: Half-Baked Scheme
+
+     "Many of long suspected Kruuk of being involved in the illegal sale of dangerous magic items, 
+      but rumors suggest that he's a high-ranking member of the Veil, and no one dares cross him.
+      We need proof before involving the Hands of Ord.  The circle on the map
+      shows where the bakery is located. We assume that Kruuk does all his black-market business
+      after sundown, when the bakery closes. I suggest you wait until then to approach the place.
+      If you can
         - Obtain proof that Old Man Kruuk is selling magic items on the black market.
         - Confiscate any magic items found at Kruuk’s bakery and bring them to Iwo.
-        - 250 gp up front, 250 gp for proof, 250 gp per magic item retrieved
-    - Old Man Kruuk’s Bakery ([River District Canal]() - Q1
-        - The place is closed but Kruuk is planning on selling a *ruidium shortsword* to [Ashann]()
-            - She can bid up to 2,500 gp; attack if someone bids more; Surrenders <10 HP
-    - can join the Library of the Cobalt Soul for more missions
+      we believe you'll bust open a key element of the ruidium question
+      Here's 250 gp up front; happily provide 250 gp for proof, and ~250 gp per magic item retrieved
+
+    - The place is closed; Thieves cant on outside DC10
+    - Kruuk is planning on selling a *ruidium shortsword* to [Ashann]()
+      - She can bid up to 2,500 gp; attack if someone bids more; Surrenders <10 HP
+
+    conclusion:
+    - gain Renown
+    - can join the Library of the Cobalt Soul
         - monastic robe; Free lodging; Can buy *scroll of detect magic* (10 gp), *scroll of divination* (125 gp),
                                                *scroll of commune* (250 gp), and a pair of *sending stones* (250 gp)
+    - that leads to
+
+### Cobalt Soul Mission 3: Elephant Uproar
 
 
 # Sidequests
