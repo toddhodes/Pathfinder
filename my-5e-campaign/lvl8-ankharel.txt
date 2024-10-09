@@ -137,7 +137,6 @@ The city is divided into eight districts:
                is harvested from the iridescent crystals lining our roof, and provides excellent beyond compare.
                our fine metalwork can incorporate fragile components such as arcane minerals and gem dust.
   ridge: skyship attack
-  palace: cult of zehir escape
   murders sidequest: any guard / forge / ...
 
   once you get somewhere you can ask...
@@ -187,7 +186,7 @@ The city is divided into eight districts:
 
   - if follow:, ask how? ask for Stealth check
   - arrive at Sigil District; show map
-  - he starts walking to the SW -- follow?  
+  - he starts walking to the SW -- follow?
   - enters house, can see him through window in orange bed room, then, in red bed room.  has a Yuan Ti visitor. worrds are exchanged.
   - if can listen:
     - a lot of guards were petrified in the Scarlet Oubliette prison break; that was very messy; you need to get to Eskasien or Lady Najash
@@ -205,7 +204,7 @@ The city is divided into eight districts:
   --> report back: "i was worried about these very possibilities" suggests the above.  or visit the HoO w/ me, and we'll get their blessing
 
   - [details of Cult of Zehir sidequest:
-    - Eskasien, a spirit naga, has located Zehir's Arm of the Betrayer Lash of Shadows. 
+    - Eskasien, a spirit naga, has located Zehir's Arm of the Betrayer Lash of Shadows.
     - cult of Zehir's founder in Ank'Harel: a noble and medusa named Lady Adeline Najash, believe this is a sign from Zehir
     - Eskasien has devised a plan to free a yuan-ti abomination named Vorsk ]
 
@@ -214,7 +213,7 @@ The city is divided into eight districts:
   najesh manor
     - search house. find antidote and more vials
     - papers showing v large payments to Old Man Kruuk
-  conclusion: 
+  conclusion:
     - asked to keep lash safe, or give to J'Mon Sa'Ord
     - reward: 200GP from CS
     - reward: visit JSO for 200GP/each if antidote
@@ -223,7 +222,7 @@ The city is divided into eight districts:
 
 ### Cobalt Soul Mission 2: Half-Baked Scheme
 
-     "Many of long suspected Kruuk of being involved in the illegal sale of dangerous "special" magic items, 
+     "Many of long suspected Kruuk of being involved in the illegal sale of dangerous "special" magic items,
       but rumors suggest that he's a high-ranking member of the Veil, and no one dares cross him.
       We need proof before involving the Hands of Ord.  The circle on the map
       shows where the bakery is located. We assume that Kruuk does all his black-market business
@@ -234,7 +233,31 @@ The city is divided into eight districts:
       we believe you'll bust open a key element of the ruidium question
       Here's 250 gp up front; happily provide 250 gp for proof, and ~250 gp per magic item retrieved
 
-    - The place is closed; Thieves cant on outside DC10
+    Approach: 'The soft sound of water lapping against canal banks is audible as you approach the building.
+      Scents of honey and rose mingle with the smell of freshly cut grass. "Old Man Kruuk's" is painted in large
+	  letters above the door, and a sign hanging from the door's handle reads,
+      "Sorry, we're closed! See you in the morning!"'
+
+      - DC 16 Wisdom (Perception): notice that the sign hanging from the door's handle is surrounded by a
+        field of colored dots. Bob recognizes it as a thieves' cant pattern as part of a code,
+        identifying this place as a repository of stolen goods.
+
+     Enter: "The front door is unlocked, and a small silver bell on the door jingles as it's opened.
+             Unsold items are still sitting in their display cases. A man who might be Old Man Kruuk
+             sits behind the counter, counting the day's proceeds.  he draws his eyes to you..
+             'the bakery is closed but, can sell some leftover tarts or rolls before ya go!'
+      - thieves' cant or DC 15 Charisma (Persuasion) check:
+         "oh. i see. i don't have much right now, been busy lately, but, you're in luck. a *special magic shortsword*
+          has recently come into my possession, and that I plans to sell it later tonight.  wait until my buyer arrives,
+          and i'll sell the blade to the highest bidder."
+
+     Back room: DC 15 Intelligence (Investigation) locates a metal lockbox stowed underneath an upside-down crate in corner
+       - DC 21 Dexterity to open using thieves' tools / DC 16 (Athletics)
+       - forced open: poison gas sprays outward, DC 15 Constitution or (4d10) poison and poisoned 1 hour.
+       The lockbox holds the ruidium shortsword
+     OR, he shows the sword
+
+    Meeting:
     - Kruuk is planning on selling a *ruidium shortsword* to [Ashann]()
       - She can bid up to 2,500 gp; attack if someone bids more; Surrenders <10 HP
 
@@ -243,16 +266,16 @@ The city is divided into eight districts:
     - can join the Library of the Cobalt Soul, or, just leverage renown
         - monastic robe; Free lodging; Can buy *scroll of detect magic* (10 gp), *scroll of divination* (125 gp),
                                                *scroll of commune* (250 gp), and a pair of *sending stones* (250 gp)
-    - JA: 
+    - JA:
     "Seated at the wide table is a young man no older than thirty, with brown skin and hazel
     eyes. His white robes are adorned with blue designs.  He smiles warmly as you enter.
     "Please, shut the door behind you," he says, closing the book in front of him.
 
-    "You have proven yourself accomplished and valuable adventurers, and you have gained my trust.  
+    "You have proven yourself accomplished and valuable adventurers, and you have gained my trust.
      And we hope, we're starting to gain yours.  It's time for us to open up to you about the current situation.
 
      We've observed strange happenings in the Suncut Bazaar; it indicates that the Consortium of the Vermilion Dream
-     must be making progress researching the crimson substance known as ruidium. 
+     must be making progress researching the crimson substance known as ruidium.
      Rumor has it the substance comes from the ruins of Cael Morrow, the underwater city beneath Ank'Harel."
 
     "I'm worried that the Consortium is tampering with powers beyond its control. That is why I
@@ -260,7 +283,7 @@ The city is divided into eight districts:
      Eclipse -— and find out anything you can about its research on ruidium. If you happen to come
      across any ruidium items in the Consortium's possession, please confiscate them and bring
      them back here to our temple for examination and safekeeping. We'll gladly provide a reward of 1000GP,
-     and more importantly, we all together can then take our findings to our allies at the Allegiance of Allsight 
+     and more importantly, we all together can then take our findings to our allies at the Allegiance of Allsight
      and all current findings will be revealed.."
 
 
@@ -287,7 +310,7 @@ The city is divided into eight districts:
   taking advantage of their access to the Netherdeep
 
   "I fear further unrest in Ank'Harel so long as the rift exists. The Netherdeep must be sealed
-  off or destroyed, lest ruidium continue to find its way into Ank'Harel, and from there, to the war. 
+  off or destroyed, lest ruidium continue to find its way into Ank'Harel, and from there, to the war.
   But first thing's first. We need that key."
 
 
