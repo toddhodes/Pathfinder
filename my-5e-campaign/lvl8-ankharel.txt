@@ -508,8 +508,8 @@ C2 - Step Aside
 Guided District
 D1 - Blessing Well
 D2 - Crossings of Eventide
-D3 - Temple of the Mentor
-D4 - Tower of Memory
+D3 - Temple of the Mentor -- CS HQ
+D4 - Tower of Memory -- Headquarters of the Sentinels of Memory
 
 The Ridge
 E1 - Alsfarin Union Shipyard
@@ -526,7 +526,7 @@ G2 - Indala Skyport
 G3 - Ord Bastion
 
 Sigil District
-H1 - Crystal Chateau
+H1 - Crystal Chateau -- Elite University and Headquarters of the Allegiance of Allsight
 H2 - Teleportation Atrium, The Frog and Kebab, Emerald Ibis Relic Hall, and Scroll's Alcove
 H3 - Lawbearer's Librams
 H4 - Boughs of the Wild Mother

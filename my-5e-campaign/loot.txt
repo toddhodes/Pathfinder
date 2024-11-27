@@ -23,12 +23,16 @@ AWAKENED
 - The saving throw DC for the weapon’s abilities increases to 15
 
 EXALTED
+- The weapon’s bonus to attack and damage rolls increases to +3.
+- When touching water, dmg dice becomes 1d8
 - At all times, +2 AC and +2 saving throws
 - When touching water, +3 AC and +3 saving throws
-- The weapon’s bonus to attack and damage rolls increases to +3.
-- When thrown, it returns to your hand.
+- Gains the thrown property, and, when thrown, it returns to your hand.  range is 30/90'
+- Each of your allies within 30 feet of you gains the ability to breathe water and gains a swimming speed equal to its walking speed
 - The saving throw DC for the weapon’s abilities increases to 17.
 - Retribution damage becomes 4d10
+- twice per day, when below 30' depth, can cast Otiluke's Freezing Sphere as 11th level caster
+
 
 
 Moonweaver's Spear
@@ -51,11 +55,13 @@ AWAKENED
 - +2 hit & dmg
 - returns to thrower after a ranged attack
 - sentience access: 1/day, can ask it a Y/N question.  10% chance of divine insight answer 
+- increases to 5 charges/day
 
 EXALTED
 - +3 hit & dmg
-- saving throw DC increases to 17.
-
+- damage increases to 1d10
+- saving throw DC increases to 17
+- Moonweaver's Touch charges increase to 7/day
 
 Hide of the Feral Guardian
 --------------------------
