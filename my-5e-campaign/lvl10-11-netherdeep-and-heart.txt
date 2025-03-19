@@ -11,6 +11,28 @@ share this number with the players. This number indicates how many times the cha
 Charisma (Persuasion) checks to improve Alyxian's emotional state.
 
 - yea, that means that is an action you can perform; it will have verious effects at various times
+  Form 1: DC 15 -20HP
+  Form 2: DC 17 -25HP;
+  Form 3: DC 19 3x,  achieves catharsis and transforms into Alyxian the Absolved
+
+---- lair:
+
+H2: Avandra   the Change Bringer (area H2):
+- 20'r fog, heavily obsc
+- next attack or save, critical
+- move, no AoA, 2d6 force those walkd by
+
+H3: Corellon  the Arch Heart     (area H3):
+- DC 15 WIS or charmed until next lair action
+- invisible until start of next turn
+- DC 15 DEX or restrained
+
+H4: Sehanine  the Moon Weaver    (area H4):
+- +10 hit, 1d8+5 dmg
+- invoke Ruidis light, DC 15 WIS or fridhtened until next lair action
+- invoke Catha light, DC 15 CON or blinded until next lair action
+
+DC 15 Religion on site to cancel site
 
 ---
 FORM 1: ALYXIAN THE TORMENTED
@@ -52,22 +74,11 @@ melee:
 FORM 3: ALYXIAN THE DISPOSSESSED
 AC 16 HP 187
 
-----
-lair:
+check each player round:
+- legendary resist: 2 [ ] [ ] 
+- 3 leg acations: attack, move, shard @ 120' 10'r DC 20 CHA or 4d8 psychic + exhaust
+- reaction: parry +5AC
 
-H2: Avandra   the Change Bringer (area H2):
-- 20'r fog, heavily obsc
-- next attack or save, critical
-- move, no AoA, 2d6 force those walkd by
-
-H3: Corellon  the Arch Heart     (area H3):
-- DC 15 WIS or charmed until next lair action
-- invisible until start of next turn
-- DC 15 DEX or restrained
-
-H4: Sehanine  the Moon Weaver    (area H4):
-- +10 hit, 1d8+5 dmg
-- invoke Ruidis light, DC 15 WIS or fridhtened until next lair action
-- invoke Catha light, DC 15 CON or blinded until next lair action
-
-DC 15 Religion on site to cancel site
+attack:
+- spear
+- dagger
