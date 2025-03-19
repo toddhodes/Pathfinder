@@ -1,10 +1,21 @@
 
+---
+players actions
+
+song:
+- parents
+- hunters
+- soldiers
+- battle BR
+- banishment, creeping
+
+---
 - re-read into
 - let players respond
 - start fight, change shape, initiate
 - inform about placate
 
-  "you placated the Apotheon 3 times -- the party can share 3 advantages on Persuasion to improve Alyxian's emotional state"
+  "you placated the Apotheon 4 times -- the party can share 4 advantages on Persuasion to improve Alyxian's emotional state"
 
 Placating the Apotheon. Count the number of times the characters' actions in chapter 6 placated the Apotheon. Then
 share this number with the players. This number indicates how many times the characters can gain advantage on their
@@ -35,8 +46,8 @@ H4: Sehanine  the Moon Weaver    (area H4):
 DC 15 Religion on site to cancel site
 
 ---
-FORM 1: ALYXIAN THE TORMENTED
-AC 17 HP 312 40'
+* FORM 1: ALYXIAN THE TORMENTED
+  AC 17 HP 312 40'
 
 check each player round:
 - legendary resist: 2 [ ] [ ] 
@@ -50,9 +61,11 @@ melee:
 - or 2x + 40' DC 17 DEX, 4d6 B
 - or 120' 2 chars, DC 17 CON, 8d6 necrotic (recharge 5-6)
 
+ --> Placates: 5
+
 ---
-FORM 2: ALYXIAN THE CALLOUS
-AC 18, HP 252 90'
+* FORM 2: ALYXIAN THE CALLOUS
+  AC 18, HP 252 90'
 
 check each player round:
 - legendary resist: 2 [ ] [ ] 
@@ -71,8 +84,8 @@ melee:
   - or 2x + teleport, arrival 5' blind DC 17 CON
 
 ---
-FORM 3: ALYXIAN THE DISPOSSESSED
-AC 16 HP 187
+* FORM 3: ALYXIAN THE DISPOSSESSED
+  AC 16 HP 187
 
 check each player round:
 - legendary resist: 2 [ ] [ ] 
