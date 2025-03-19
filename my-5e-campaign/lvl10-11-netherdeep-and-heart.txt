@@ -1,0 +1,73 @@
+
+- re-read into
+- let players respond
+- start fight, change shape, initiate
+- inform about placate
+
+  "you placated the Apotheon 3 times -- the party can share 3 advantages on Persuasion to improve Alyxian's emotional state"
+
+Placating the Apotheon. Count the number of times the characters' actions in chapter 6 placated the Apotheon. Then
+share this number with the players. This number indicates how many times the characters can gain advantage on their
+Charisma (Persuasion) checks to improve Alyxian's emotional state.
+
+- yea, that means that is an action you can perform; it will have verious effects at various times
+
+---
+FORM 1: ALYXIAN THE TORMENTED
+AC 17 HP 312 40'
+
+check each player round:
+- legendary resist: 2 [ ] [ ] 
+- whilewind of weapons at 10'r - DC 17 DEX or 3d6 S
+- 3 leg actions
+  - (1) attack
+  - (2) 15'r sphere @ 60': mark area; 4d8 S enter or start turn
+
+melee:
+- 4x +12 2d6+5
+- or 2x + 40' DC 17 DEX, 4d6 B
+- or 120' 2 chars, DC 17 CON, 8d6 necrotic (recharge 5-6)
+
+---
+FORM 2: ALYXIAN THE CALLOUS
+AC 18, HP 252 90'
+
+check each player round:
+- legendary resist: 2 [ ] [ ] 
+- 3 leg acations
+  - attack
+  - 120' char, DC 17 STR restrained 1min; repeat end of turn
+  - (2) 20' char, 5d6 radiant, 1/2 @ 10'
+  - (3) create 3 20' rings; start of his turn, DC 17 CON or 10d8
+- reaction: stop single heal, 5d8 regen
+
+melee:
+  - check rings
+  - check 1/day 90' cone, DC 17 CON, 7d8 radiant, prone
+  - 3x +12, 2d8+6
+  - or 2x + 10'r DC 17 DEX 3d8+6, prone
+  - or 2x + teleport, arrival 5' blind DC 17 CON
+
+---
+FORM 3: ALYXIAN THE DISPOSSESSED
+AC 16 HP 187
+
+----
+lair:
+
+H2: Avandra   the Change Bringer (area H2):
+- 20'r fog, heavily obsc
+- next attack or save, critical
+- move, no AoA, 2d6 force those walkd by
+
+H3: Corellon  the Arch Heart     (area H3):
+- DC 15 WIS or charmed until next lair action
+- invisible until start of next turn
+- DC 15 DEX or restrained
+
+H4: Sehanine  the Moon Weaver    (area H4):
+- +10 hit, 1d8+5 dmg
+- invoke Ruidis light, DC 15 WIS or fridhtened until next lair action
+- invoke Catha light, DC 15 CON or blinded until next lair action
+
+DC 15 Religion on site to cancel site
