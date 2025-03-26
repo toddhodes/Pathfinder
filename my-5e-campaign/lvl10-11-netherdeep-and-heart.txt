@@ -95,3 +95,59 @@ check each player round:
 attack:
 - spear
 - dagger
+
+
+---
+ENDINGS
+
+victory:
+- The Apotheon looks toward the sky. He takes in a long breath, then releases it, shuddering as tears run down his
+   face. A smile of relief comes over his countenance.
+   “My soul feels so light,” he whispers. He locks eyes with each of you, one by one, and says, “Please. Let us
+   leave this cursed place. I... have finally forgiven myself. You helped me remember who I was, and the people I
+   was fighting for. Thank you.” Around you, the shards of Ruidium that encase the lake begin shattering, pieces
+   falling and splashing through the surface of the lake, sending ripples out from a thousand thousand places, the
+   memory of this place now disrupted and wavering. A breeze picks up in this once stagnant place, and it seems to
+   bouy you up into the light.  You all find yourselves once more in the central chamber of the Netherdeep. The
+   enormous, pulsing mass that was once the heart, is still. The ruidium crumbles away to glittering dust, as does
+   the corruption and effects upon you.  The chambers seem to flicker and shake, as if nothing is holding the
+   Netherdeep together anymore.
+
+- ruidium immediately starts receeding and changing color
+  - Creatures suffering from ruidium corruption are instantly rid of it. Magic items that contain ruidium transform
+- the netherdeep starts to collapse
+
+escape:
+- bless and consecrate cover the area, seemingly the whole city
+- "No longer hampered by his fury, his memories, and the empty silence of the Netherdeep, Alyxian gapes in wonderment
+   at Ank'Harel. The busy city that stretches out before him is filled with pleasant chatter, birdsong, and sunlight.
+   He flinches, overwhelmed, in this new world. you figure, in time, he finds peace and makes new friends."
+
+topside:
+-   Alyxian gapes in wonderment at Ank’Harel. The busy city that stretches out before him is filled with pleasant
+    chatter, birdsong, and sunlight. He flinches, overwhelmed, and feels out of place in this new world.  "What a
+    world. So much has to have happened in the last thousand years. I believe I have finally peace.  
+    I have to believe... It was all worth it."
+
+- the visages of the 3 gods appear
+ Avandra   the Change Bringer:
+   Avandra reaches out to paladins, druids, clerics, wizards, the adventurous, and the bold. She encourages her
+   faithful to grasp their fate, embrace change for the better, and rise against the threat posed by Alyxian.
+
+ Corellon  the Arch Heart:
+   Corellon reaches out to elves, spellcasters, the artistic, and the clever. He is known to coax adventurers into searching for forgotten secrets and spells, empowering yourself through the fruits of discovery and inspiration. 
+
+ Sehanine  the Moon Weaver; beside her Perigree, all traces of corruption of the previous form gone. 
+                             she appears at ease at the Moon Weaver's side
+   Sehanine reaches out to bards, rogues, druids, clerics, and the mischievous. She is know to appear to her followers in dreams.
+
+- they offer you their blessing:
+  - accept?  +2 WIS
+
+- as for the factions: all ruidium is destroyed —- an outcome that delights the Cobalt Soul,
+  vexes the Allegiance of Allsight, and infuriates the Consortium of the Vermilion Dream.
+
+in time, reputation will travel to faraway lands. eager folk will have questions about what lies below Ank'Harel, and
+about the corruption, in time, you may even becomes known as "The Redeemers" or .. but that's part of a story to come.
+
+

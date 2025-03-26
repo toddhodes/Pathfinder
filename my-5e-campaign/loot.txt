@@ -31,7 +31,7 @@ EXALTED
 - Each of your allies within 30 feet of you gains the ability to breathe water and gains a swimming speed equal to its walking speed
 - The saving throw DC for the weapon’s abilities increases to 17.
 - Retribution damage becomes 4d10
-- twice per day, when below 30' depth, can cast Otiluke's Freezing Sphere as 11th level caster
+- once per day, when below 30' depth, can cast Otiluke's Freezing Sphere as 11th level caster
 
 
 
