@@ -184,4 +184,24 @@ fight
 
 ### Sealed Door
 
+  "Netherese magic seals the double door that blocks passage west"
+
+  --> golem!  give them DC20 if they can't figure it out
+
+  "The golem's chest opens to reveal its sapphire heart. Blue light bursts from the gem and hits the double door.
+   The symbols on the doors glow with blue fire, accompanied by a perceptible shudder and a crackle of magical
+   energy. With a groan and the grinding of stone on stone, the doors open for the first time in ages.
+
+
+### Hall
+
+read stuff
+
+  "The final painting is of the characters standing before the prince's tomb. It shows them in exactly the
+   positions they're all holding, rendered in perfect detail.
+
+### Vault
+
+read
+
 
