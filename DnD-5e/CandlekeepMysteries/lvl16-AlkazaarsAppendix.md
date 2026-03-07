@@ -50,26 +50,29 @@ Your first task is activating the portal
 
 ## Arriving in Anauroch
 
- (ancient desert of Anauroch hides ruined cities under its sands. 
-  most famous include the lost cities of Netheril, an empire of wizards)
+ "The ancient desert of Anauroch hides ruined cities under its sands.
+  most famous include the lost cities of Netheril, an empire of wizards.
 
-The desert sun blinds your eyes, and you feel the heat trying to pull every bit of moisture from your body. The
-bone-dry air makes each breath burn hot and taste of the baked earth.
+ "The desert sun blinds your eyes, and you feel the heat trying to pull every bit of moisture from your body. The
+  bone-dry air makes each breath burn hot and taste of the baked earth.
 
-Below you, about fifty feet away, a camel watches two desert nomads unearth a hulking stone golem half-buried in the
-sand. Intent on their investigation of the golem, they don't notice your arrival.
+ "Below you, about fifty feet away, a camel watches two desert nomads unearth a hulking stone golem half-buried in the
+  sand. Intent on their investigation of the golem, they don't notice your arrival.
 
 DC 12 CHA
 
-- the twp are surprised
+Pesh, Shamir + camel
+
+- the two are surprised
 - offer water and food
 - if not prompted, says:
 
-The blue circle painted on the golem's chest and the symbols on its body...
-my grandmother used to tell a strange story about a foreigner named Alkazaar and a lost golem with
-a sapphire heart that once guarded a powerful treasure.  I believe in this stranger's path to the caves of Haruun, a
-unusually intense sandstorm drove him back.  A cavern inside Haruun called the Hall of Rainbows holds colorful
-paintings, some of which depict a golem.
+
+ "The blue circle painted on the golem's chest and the symbols on its body...
+  my grandmother used to tell a strange story about a foreigner named Alkazaar and a lost golem with
+  a sapphire heart that once guarded a powerful treasure.  I believe in this stranger's path to the caves of Haruun, a
+  unusually intense sandstorm drove him back.  A cavern inside Haruun called the Hall of Rainbows holds colorful
+  paintings, some of which depict a golem.
 
 
 ### trigger golem
@@ -104,7 +107,7 @@ show map
 
  "As you approach the entrance, you feel a subtle rumbling arise, then is seems to move away from you.
   the pair of NPCs grip their weapons and remark grimly, "Worm sign. Move carefully."
- 
+
  "the walls are sculpted and chiseled, empty sconces dot the walls, and chunks of stucco—once brightly painted with
   scenes and writing—lie crumbled on the floor.
 
@@ -162,7 +165,7 @@ change map
   mausoleum on top of it. A ruined stone wall surrounds the mastaba, which is the only structure still standing in
   the area.
 
-try to ender -> fight 
+try to ender -> fight
 
 ### Open doors
 
