@@ -15,9 +15,10 @@ but no one has ever heard of it, thinks he's a bit off his meds somemtimes.
 - nimble climber
 - not afraid of melee: pounce in, withdrawl or disengage, hide, repeat
 
-requires a team to provide fly, silence, invisibility, invisibility detection;
-Broom, Carpet, Helm, Lantern of Revealing, spellslots, etc.  Otherwise aims to re-tool.
-simiarly, if Bag of holding or extra-dimensional safe spots required, needs to re-tool.
+requires a team to provide
+  illusion, silence, fly, invisibility, invisibility detection;
+spelslots, Broom, Carpet, Helm, Lantern of Revealing, etc.  Otherwise aims to re-tool.
+if Bag of holding or extra-dimensional safe spots required, needs to re-tool.
 
 
 ## Heist approach
@@ -26,7 +27,7 @@ Infiltration:
   - disguise + stealthed/hidden scouting
   - pick off isolated sentries (silence?),
   - map entry/exit routes (fly?)
-  = predict/find traps
+  - predict/find traps
 
 Vault room:
   - illusions to redirect patrols
