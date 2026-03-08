@@ -10,10 +10,12 @@ but no one has ever heard of it, thinks he's a bit off his meds somemtimes.
 
 ## Heist skills
 
-- initial and in-mission scrying
+- initial and in-mission Scrying
+- all-group telepathy
 - broad skill proficiency -> +1d8 on important checks
-- nimble climber
+- climber
 - not afraid of melee: pounce in, withdrawl or disengage, hide, repeat
+- can operate no-weapons-allowed
 
 requires a team to provide
   illusion, silence, fly, invisibility, invisibility detection;
