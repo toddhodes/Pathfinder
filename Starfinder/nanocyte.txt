@@ -1,0 +1,18 @@
+
+faculties:
+regeneration - 
+1st - 1+lvl/4 stamina fast heal + 1+2*lvl/4 temp HP
+5th - heal deadly in combat
+9th - stamina transfer
+
+knacks:
+heavy weapon edge: proficiency and specialization
+
+spellthrower pistol: load mystic cure 1, transfer H
+
+feats:
+connection inkling (cast mystic lvl 1 spell lvl/3 /day)
++ Defrex Hardiness: Mystic 1 DR/dmg on melee
+
+gear:
+minor array: breakaway aegis
